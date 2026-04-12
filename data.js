@@ -1,21 +1,13 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 17:25",
+    "lastUpdate": "2026-04-12 17:36",
     "data": [
-        {
-            "type": "출발",
-            "time": "04/12 17:35",
-            "timestamp": 1775990100,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "예정"
-        },
         {
             "type": "도착",
             "time": "04/12 18:05",
             "timestamp": 1775991900,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 17:49"
+            "status": "도착예정 17:42"
         },
         {
             "type": "도착",
@@ -23,7 +15,7 @@ const flightInfo = {
             "timestamp": 1775993700,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 18:03"
+            "status": "도착예정 18:07"
         },
         {
             "type": "출발",
@@ -71,7 +63,7 @@ const flightInfo = {
             "timestamp": 1776006900,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 22:02"
+            "status": "도착예정 22:00"
         },
         {
             "type": "도착",
@@ -79,7 +71,7 @@ const flightInfo = {
             "timestamp": 1776007200,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 21:58"
         },
         {
             "type": "도착",
@@ -87,7 +79,7 @@ const flightInfo = {
             "timestamp": 1776007800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 22:02"
+            "status": "도착예정 22:00"
         },
         {
             "type": "도착",
