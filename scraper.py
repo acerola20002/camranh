@@ -1,5 +1,5 @@
 import json
-from flightradar24 import FlightRadar24API
+from FlightRadar24 import FlightRadar24API
 import datetime
 
 fr_api = FlightRadar24API()
