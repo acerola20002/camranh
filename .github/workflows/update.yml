@@ -22,8 +22,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install FlightRadarAPI
+         python -m pip install --upgrade pip
+         pip install FlightRadarAPI beautifulsoup4
 
       - name: Run Scraper
         # 여기서도 python -m으로 패키지를 인식하도록 시도하거나 직접 실행
