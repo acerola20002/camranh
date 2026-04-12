@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 17:16",
+    "lastUpdate": "2026-04-12 17:24",
     "data": [
         {
             "type": "출발",
@@ -46,7 +46,7 @@ const flightInfo = {
             "time": "04/12 20:40",
             "timestamp": 1776001200,
             "flight": "BX787",
-            "city": "서울",
+            "city": "인천",
             "status": "도착예정 20:11"
         },
         {
@@ -54,7 +54,7 @@ const flightInfo = {
             "time": "04/12 21:35",
             "timestamp": 1776004500,
             "flight": "VN440",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -62,7 +62,7 @@ const flightInfo = {
             "time": "04/12 21:50",
             "timestamp": 1776005400,
             "flight": "BX788",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -70,8 +70,8 @@ const flightInfo = {
             "time": "04/12 22:15",
             "timestamp": 1776006900,
             "flight": "WE205",
-            "city": "서울",
-            "status": "도착예정 22:00"
+            "city": "인천",
+            "status": "도착예정 22:02"
         },
         {
             "type": "도착",
@@ -86,8 +86,8 @@ const flightInfo = {
             "time": "04/12 22:30",
             "timestamp": 1776007800,
             "flight": "TW33",
-            "city": "서울",
-            "status": "도착예정 21:47"
+            "city": "인천",
+            "status": "도착예정 22:00"
         },
         {
             "type": "도착",
@@ -102,7 +102,7 @@ const flightInfo = {
             "time": "04/12 22:55",
             "timestamp": 1776009300,
             "flight": "RS527",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -110,7 +110,7 @@ const flightInfo = {
             "time": "04/12 22:55",
             "timestamp": 1776009300,
             "flight": "VJ834",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -118,7 +118,7 @@ const flightInfo = {
             "time": "04/12 23:05",
             "timestamp": 1776009900,
             "flight": "KE467",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -134,7 +134,7 @@ const flightInfo = {
             "time": "04/12 23:15",
             "timestamp": 1776010500,
             "flight": "WE206",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -150,7 +150,7 @@ const flightInfo = {
             "time": "04/12 23:30",
             "timestamp": 1776011400,
             "flight": "TW34",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -158,7 +158,7 @@ const flightInfo = {
             "time": "04/12 23:45",
             "timestamp": 1776012300,
             "flight": "LJ87",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -166,7 +166,7 @@ const flightInfo = {
             "time": "04/12 23:55",
             "timestamp": 1776012900,
             "flight": "ZE561",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -174,7 +174,7 @@ const flightInfo = {
             "time": "04/13 00:05",
             "timestamp": 1776013500,
             "flight": "RS528",
-            "city": "서울",
+            "city": "인천",
             "status": "출발예정 dep 00:05"
         },
         {
@@ -190,7 +190,7 @@ const flightInfo = {
             "time": "04/13 00:20",
             "timestamp": 1776014400,
             "flight": "KE468",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -198,7 +198,7 @@ const flightInfo = {
             "time": "04/13 00:35",
             "timestamp": 1776015300,
             "flight": "7C2303",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -214,7 +214,7 @@ const flightInfo = {
             "time": "04/13 00:55",
             "timestamp": 1776016500,
             "flight": "LJ88",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -222,7 +222,7 @@ const flightInfo = {
             "time": "04/13 01:00",
             "timestamp": 1776016800,
             "flight": "ZE562",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -230,7 +230,7 @@ const flightInfo = {
             "time": "04/13 01:35",
             "timestamp": 1776018900,
             "flight": "7C2304",
-            "city": "서울",
+            "city": "인천",
             "status": "출발예정 dep 01:35"
         },
         {
@@ -270,7 +270,7 @@ const flightInfo = {
             "time": "04/13 09:35",
             "timestamp": 1776047700,
             "flight": "VJ835",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -286,7 +286,7 @@ const flightInfo = {
             "time": "04/13 09:45",
             "timestamp": 1776048300,
             "flight": "VN441",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -470,7 +470,7 @@ const flightInfo = {
             "time": "04/13 20:40",
             "timestamp": 1776087600,
             "flight": "BX787",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -478,7 +478,7 @@ const flightInfo = {
             "time": "04/13 21:35",
             "timestamp": 1776090900,
             "flight": "VN440",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -486,7 +486,7 @@ const flightInfo = {
             "time": "04/13 21:50",
             "timestamp": 1776091800,
             "flight": "BX788",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -502,7 +502,7 @@ const flightInfo = {
             "time": "04/13 22:30",
             "timestamp": 1776094200,
             "flight": "TW33",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -510,7 +510,7 @@ const flightInfo = {
             "time": "04/13 22:55",
             "timestamp": 1776095700,
             "flight": "RS527",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -518,7 +518,7 @@ const flightInfo = {
             "time": "04/13 23:05",
             "timestamp": 1776096300,
             "flight": "KE467",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -534,7 +534,7 @@ const flightInfo = {
             "time": "04/13 23:30",
             "timestamp": 1776097800,
             "flight": "TW34",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -542,7 +542,7 @@ const flightInfo = {
             "time": "04/13 23:45",
             "timestamp": 1776098700,
             "flight": "LJ87",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -558,7 +558,7 @@ const flightInfo = {
             "time": "04/13 23:55",
             "timestamp": 1776099300,
             "flight": "ZE561",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -566,7 +566,7 @@ const flightInfo = {
             "time": "04/14 00:05",
             "timestamp": 1776099900,
             "flight": "RS528",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -574,7 +574,7 @@ const flightInfo = {
             "time": "04/14 00:20",
             "timestamp": 1776100800,
             "flight": "KE468",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -582,7 +582,7 @@ const flightInfo = {
             "time": "04/14 00:55",
             "timestamp": 1776102900,
             "flight": "LJ88",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
@@ -590,7 +590,7 @@ const flightInfo = {
             "time": "04/14 01:00",
             "timestamp": 1776103200,
             "flight": "ZE562",
-            "city": "서울",
+            "city": "인천",
             "status": "예정"
         },
         {
