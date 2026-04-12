@@ -1,22 +1,27 @@
 name: Update Flight Data
 on:
   schedule:
-    - cron: '0 * * * *' # 매 정각(UTC 기준)마다 실행
-  workflow_dispatch: # 수동으로 실행해볼 수 있는 버튼 생성
+    - cron: '0 * * * *' # 매 정각마다 실행
+  workflow_dispatch: # 수동 실행 버튼 활성화
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # v3에서 v4로 업데이트
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # v4에서 v5로 업데이트
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install FlightRadarAPI beautifulsoup4
+
       - name: Run Scraper
         run: python scraper.py
+
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
