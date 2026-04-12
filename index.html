@@ -25,7 +25,7 @@ td { padding: 12px; border-bottom: 1px solid #222; text-align: center; }
 <div class="header">
     <h1>✈️ CAM RANH (CXR) INTERNATIONAL</h1>
 
-    <div id="update-notice" class="update-tag"></div>
+    <div id="update-notice" class="update-tag">데이터 로딩 중...</div>
 
     <div style="margin-top:10px; color:#aaa; font-size:0.85em;">
         본 정보는 FlightRadar24 데이터를 기반으로 매시 정각 자동 업데이트됩니다.<br>
@@ -48,50 +48,71 @@ td { padding: 12px; border-bottom: 1px solid #222; text-align: center; }
 </table>
 
 <script>
-const script = document.createElement("script");
-script.src = `data.js?v=${Date.now()}`;
-document.head.appendChild(script);
-</script>
+    /**
+     * 1. 캐시 방지를 위해 현재 시간(Timestamp)을 붙여 data.js 로드
+     */
+    const script = document.createElement("script");
+    script.src = `data.js?v=${Date.now()}`;
+    document.head.appendChild(script);
 
-<script>
-document.getElementById('update-notice').innerText =
-`※ 모든 시간은 베트남 현지 시간 기준 / 마지막 업데이트: ${flightInfo.lastUpdate}`;
+    /**
+     * 2. 데이터(data.js) 로드가 완료된 후 실행될 로직
+     */
+    script.onload = function() {
+        if (typeof flightInfo !== 'undefined') {
+            // 업데이트 시간 텍스트 삽입
+            document.getElementById('update-notice').innerText =
+                `※ 모든 시간은 베트남 현지 시간 기준 / 마지막 업데이트: ${flightInfo.lastUpdate}`;
+            
+            // 초기 화면(도착 탭) 그리기
+            showTab('도착');
+        } else {
+            document.getElementById('update-notice').innerText = "데이터를 불러오지 못했습니다.";
+        }
+    };
 
-function showTab(type) {
-    document.getElementById('btn-arr').classList.toggle('active', type === '도착');
-    document.getElementById('btn-dep').classList.toggle('active', type === '출발');
+    /**
+     * 3. 탭 전환 및 데이터 출력 함수
+     */
+    function showTab(type) {
+        // 버튼 활성화 상태 변경
+        document.getElementById('btn-arr').classList.toggle('active', type === '도착');
+        document.getElementById('btn-dep').classList.toggle('active', type === '출발');
 
-    const tbody = document.getElementById('table-body');
-    tbody.innerHTML = '';
+        const tbody = document.getElementById('table-body');
+        tbody.innerHTML = '';
 
-    const filtered = flightInfo.data.filter(f => f.type === type);
+        // 필터링된 데이터 가져오기
+        const filtered = flightInfo.data.filter(f => f.type === type);
 
-    filtered.forEach(f => {
-        let color = "#fff";
+        filtered.forEach(f => {
+            let color = "#fff";
 
-        if (f.status.includes("지연")) color = "#ff4444";
-        if (f.status.includes("탑승중")) color = "#00ffcc";
-        if (f.status.includes("출발완료") || f.status.includes("도착완료")) color = "#00ff00";
+            // 상태별 텍스트 색상 지정
+            if (f.status.includes("지연")) color = "#ff4444";
+            if (f.status.includes("탑승중")) color = "#00ffcc";
+            if (f.status.includes("출발완료") || f.status.includes("도착완료")) color = "#00ff00";
 
-        const row = `<tr>
-            <td style="color:#aaa">${f.time}</td>
-            <td>${f.flight}</td>
-            <td>${f.city}</td>
-            <td style="color:${color}; font-weight:bold;">${f.status}</td>
-        </tr>`;
+            const row = `<tr>
+                <td style="color:#aaa">${f.time}</td>
+                <td>${f.flight}</td>
+                <td>${f.city}</td>
+                <td style="color:${color}; font-weight:bold;">${f.status}</td>
+            </tr>`;
 
-        tbody.innerHTML += row;
-    });
+            tbody.innerHTML += row;
+        });
 
-    document.getElementById('main-table').classList.add('active');
-}
+        // 테이블 보이기
+        document.getElementById('main-table').classList.add('active');
+    }
 
-showTab('도착');
-
-// 5분 자동 새로고침
-setInterval(() => {
-    location.reload();
-}, 300000);
+    /**
+     * 4. 5분 자동 새로고침 (새로고침 시 Date.now() 값이 바뀌어 새 데이터를 가져옴)
+     */
+    setInterval(() => {
+        location.reload();
+    }, 300000);
 </script>
 
 </body>
