@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 17:24",
+    "lastUpdate": "2026-04-12 17:25",
     "data": [
         {
             "type": "출발",
@@ -15,7 +15,7 @@ const flightInfo = {
             "timestamp": 1775991900,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 17:42"
+            "status": "도착예정 17:49"
         },
         {
             "type": "도착",
@@ -87,7 +87,7 @@ const flightInfo = {
             "timestamp": 1776007800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 22:00"
+            "status": "도착예정 22:02"
         },
         {
             "type": "도착",
