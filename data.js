@@ -1,5 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 20:33",
+    "lastUpdate": "2026-04-12 20:40",
+    "version": 1776026402,
     "data": [
         {
             "type": "도착",
@@ -63,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776009300,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:02)"
+            "status": "도착예정 (23:06)"
         },
         {
             "type": "출발",
@@ -79,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776009900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -119,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776012300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:53)"
+            "status": "도착예정 (23:49)"
         },
         {
             "type": "도착",
@@ -127,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776012900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:01)"
+            "status": "도착예정 (00:04)"
         },
         {
             "type": "출발",
