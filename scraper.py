@@ -1,6 +1,6 @@
 import json
 import time
-from FlightRadar24 import FlightRadar24API
+from FlightRadar24API import FlightRadar24API
 import datetime
 
 fr_api = FlightRadar24API()
