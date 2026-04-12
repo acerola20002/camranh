@@ -5,7 +5,7 @@ import datetime
 
 fr_api = FlightRadar24API()
 
-# 도시 매핑 리스트 (IATA 공항 코드로 매핑하면 더 정확합니다)
+# 도시 한글 매핑
 CITY_MAP = {
     "Incheon": "인천", "Busan": "부산", "Daegu": "대구", "Cheongju": "청주",
     "Muan": "무안", "Seoul": "서울", "Ho Chi Minh City": "호치민", "Hanoi": "하노이",
@@ -14,7 +14,7 @@ CITY_MAP = {
     "Shanghai": "상하이", "Taipei": "타이베이", "Bangkok": "방콕"
 }
 
-# 공항 코드별 한글 이름 (도시 이름이 Unknown으로 뜰 때를 대비)
+# 공항 코드별 매핑 (도시 이름이 안 뜰 때 대비)
 IATA_MAP = {
     "MFM": "마카오",
     "HKG": "홍콩",
@@ -50,16 +50,15 @@ def update_data():
                 flight_info = f.get('flight', {})
                 if not flight_info: continue
 
-                # 공항 코드 및 도시 정보 추출
                 port_type = 'origin' if mode == 'arrivals' else 'destination'
                 airport_data = flight_info.get('airport', {}).get(port_type, {})
                 
-                iata_code = airport_data.get('code', {}).get('iata', '') # 공항 코드 (예: MFM)
+                iata_code = airport_data.get('code', {}).get('iata', '')
                 city_raw = airport_data.get('position', {}).get('region', {}).get('city', 'Unknown')
                 
                 if city_raw in DOMESTIC_CITIES: continue
 
-                # [핵심] 도시 이름 변환 로직 (공항 코드가 MFM이면 무조건 마카오)
+                # 마카오 및 주요 도시 판정 로직
                 display_city = CITY_MAP.get(city_raw, city_raw)
                 if iata_code == "MFM" or "Macau" in city_raw:
                     display_city = "마카오"
@@ -75,7 +74,7 @@ def update_data():
                     f_time_vn = datetime.datetime.fromtimestamp(t_val, datetime.timezone.utc) + datetime.timedelta(hours=7)
                     f_time_vn_naive = f_time_vn.replace(tzinfo=None)
 
-                    # 1시간 이상 지난 데이터는 제외
+                    # 1시간 이상 지난 비행기는 제외
                     if f_time_vn_naive < (now_vn_naive - datetime.timedelta(hours=1)): continue
 
                     date_str = f_time_vn_naive.strftime('%m/%d %H:%M')
@@ -98,10 +97,10 @@ def update_data():
             with open('data.js', 'w', encoding='utf-8') as f:
                 f.write(f"const flightInfo = {json.dumps(update_info, ensure_ascii=False, indent=4)};")
             
-            print(f"✅ 업데이트 완료: {now_vn.strftime('%Y-%m-%d %H:%M')}")
+            print(f"✅ 업데이트 성공: {now_vn.strftime('%Y-%m-%d %H:%M')}")
 
     except Exception as e:
-        print(f"❌ 오류: {e}")
+        print(f"❌ 오류 발생: {e}")
 
 if __name__ == "__main__":
     update_data()
