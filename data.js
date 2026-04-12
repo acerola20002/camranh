@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 20:31",
+    "lastUpdate": "2026-04-12 20:33",
     "data": [
         {
             "type": "도착",
@@ -63,7 +63,7 @@ const flightInfo = {
             "timestamp": 1776009300,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:04)"
+            "status": "도착예정 (23:02)"
         },
         {
             "type": "출발",
@@ -119,7 +119,7 @@ const flightInfo = {
             "timestamp": 1776012300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:51)"
+            "status": "도착예정 (23:53)"
         },
         {
             "type": "도착",
@@ -159,7 +159,7 @@ const flightInfo = {
             "timestamp": 1776015300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:31)"
+            "status": "도착예정 (00:27)"
         },
         {
             "type": "도착",
