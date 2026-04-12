@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 20:40",
-    "version": 1776026402,
+    "lastUpdate": "2026-04-12 21:10",
+    "version": 1776028235,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/12 20:40",
-            "timestamp": 1776001200,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:00)"
-        },
         {
             "type": "출발",
             "time": "04/12 21:35",
             "timestamp": 1776004500,
             "flight": "VN440",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776007800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776009300,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:06)"
+            "status": "도착예정 (23:02)"
         },
         {
             "type": "출발",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776009900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:55)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776012300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:49)"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "도착",
@@ -128,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776012900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:04)"
+            "status": "도착예정 (23:59)"
         },
         {
             "type": "출발",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776015900,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:36)"
+            "status": "도착예정 (00:31)"
         },
         {
             "type": "출발",
