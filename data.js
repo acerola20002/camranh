@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 16:47",
+    "lastUpdate": "2026-04-12 17:15",
     "data": [
         {
             "type": "출발",
@@ -15,7 +15,7 @@ const flightInfo = {
             "timestamp": 1775991900,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 17:40"
+            "status": "도착예정 17:42"
         },
         {
             "type": "도착",
@@ -47,7 +47,7 @@ const flightInfo = {
             "timestamp": 1776001200,
             "flight": "BX787",
             "city": "서울",
-            "status": "도착예정 20:17"
+            "status": "도착예정 20:11"
         },
         {
             "type": "출발",
@@ -71,7 +71,7 @@ const flightInfo = {
             "timestamp": 1776006900,
             "flight": "WE205",
             "city": "서울",
-            "status": "예정"
+            "status": "도착예정 22:02"
         },
         {
             "type": "도착",
@@ -87,7 +87,7 @@ const flightInfo = {
             "timestamp": 1776007800,
             "flight": "TW33",
             "city": "서울",
-            "status": "예정"
+            "status": "도착예정 21:47"
         },
         {
             "type": "도착",
@@ -294,7 +294,7 @@ const flightInfo = {
             "time": "04/13 10:00",
             "timestamp": 1776049200,
             "flight": "FD646",
-            "city": "Bangkok",
+            "city": "방콕",
             "status": "예정"
         },
         {
@@ -318,7 +318,7 @@ const flightInfo = {
             "time": "04/13 10:30",
             "timestamp": 1776051000,
             "flight": "FD647",
-            "city": "Bangkok",
+            "city": "방콕",
             "status": "예정"
         },
         {
@@ -398,7 +398,7 @@ const flightInfo = {
             "time": "04/13 13:30",
             "timestamp": 1776061800,
             "flight": "VZ968",
-            "city": "Bangkok",
+            "city": "방콕",
             "status": "예정"
         },
         {
@@ -422,7 +422,7 @@ const flightInfo = {
             "time": "04/13 14:20",
             "timestamp": 1776064800,
             "flight": "VZ969",
-            "city": "Bangkok",
+            "city": "방콕",
             "status": "예정"
         },
         {
