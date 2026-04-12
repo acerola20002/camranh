@@ -111,7 +111,17 @@ def update_data():
                 date_str = f_time_vn_naive.strftime('%m/%d %H:%M')
 
                 raw_status = flight_info.get('status', {}).get('text', '')
-                kor_status = translate_status(raw_status, mode)
+                if mode == 'departures':
+                    diff_min = (f_time_vn_naive - now_vn_naive).total_seconds() / 60
+
+                    if diff_min <= 0:
+                        kor_status = "출발완료"
+                    elif diff_min <= 30:
+                        kor_status = "곧 출발"
+                    else:
+                        kor_status = "출발예정"
+                else:
+                    kor_status = translate_status(raw_status, mode)
 
                 storage.append({
                     "type": "도착" if mode == 'arrivals' else "출발",
