@@ -2,8 +2,8 @@ name: Update Flight Data
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # 매시 정각 실행 (UTC 기준)
+  workflow_dispatch:      # 수동 실행 버튼 활성화
 
 jobs:
   build:
@@ -23,8 +23,8 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install FlightRadar24API  # 이 이름을 직접 사용
-          pip install FlightRadar24               # 혹시 몰라 기존 이름도 유지
+          # 라이브러리 설치 이름을 가장 확실한 것으로 고정합니다.
+          python -m pip install FlightRadar24
 
       - name: Run Scraper
         run: python scraper.py
