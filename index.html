@@ -25,8 +25,11 @@ td { padding: 12px; border-bottom: 1px solid #222; text-align: center; }
 
 <div class="header">
     <h1>✈️ CAM RANH (CXR) INTERNATIONAL</h1>
+
+    <!-- ✅ 시간 안내 -->
     <div id="update-notice" class="update-tag"></div>
 
+    <!-- ✅ 안내 문구 -->
     <div class="disclaimer" style="margin-top: 10px; color: #aaa; font-size: 0.85em; line-height: 1.5;">
         본 정보는 FlightRadar24 데이터를 기반으로 매시 정각 자동 업데이트됩니다.<br>
         전세기 및 일부 특별편은 표시되지 않을 수 있으므로, 정확한 정보는 공항 또는 항공사 공식 홈페이지를 이용해 주세요.
@@ -34,24 +37,26 @@ td { padding: 12px; border-bottom: 1px solid #222; text-align: center; }
 </div>
 
 <div class="tab-container">
-<div id="btn-arr" class="tab-btn active" onclick="showTab('도착')">▼ 도착</div>
-<div id="btn-dep" class="tab-btn" onclick="showTab('출발')">▲ 출발</div>
+    <div id="btn-arr" class="tab-btn active" onclick="showTab('도착')">▼ 도착</div>
+    <div id="btn-dep" class="tab-btn" onclick="showTab('출발')">▲ 출발</div>
 </div>
 
 <table id="main-table">
 <thead>
 <tr>
-<th>일시</th><th>편명</th><th>도시</th><th>상태</th>
+    <th>일시</th><th>편명</th><th>도시</th><th>상태</th>
 </tr>
 </thead>
 <tbody id="table-body"></tbody>
 </table>
 
+<!-- 데이터 -->
 <script src="data.js?v=1"></script>
 
 <script>
+// ✅ 시간 표시 (여기 핵심 수정 부분)
 document.getElementById('update-notice').innerText =
-`베트남 기준 마지막 업데이트: ${flightInfo.lastUpdate}`;
+`※ 모든 시간은 베트남 현지 시간 기준입니다 / 마지막 업데이트: ${flightInfo.lastUpdate}`;
 
 function showTab(type) {
     document.getElementById('btn-arr').classList.toggle('active', type === '도착');
@@ -63,12 +68,20 @@ function showTab(type) {
     const filtered = flightInfo.data.filter(f => f.type === type);
 
     filtered.forEach(f => {
+
+        // ✅ 지연 빨간색 표시 (보너스 추가)
+        let statusColor = "#fff";
+        if (f.status.includes("지연")) {
+            statusColor = "#ff4444";
+        }
+
         const row = `<tr>
-            <td>${f.time}</td>
-            <td>${f.flight}</td>
+            <td style="color:#aaa">${f.time}</td>
+            <td style="font-size:1.1em; color:#fff">${f.flight}</td>
             <td>${f.city}</td>
-            <td class="status-box">${f.status}</td>
+            <td class="status-box" style="color:${statusColor}">${f.status}</td>
         </tr>`;
+
         tbody.innerHTML += row;
     });
 
@@ -76,6 +89,11 @@ function showTab(type) {
 }
 
 showTab('도착');
+
+// ✅ 5분마다 자동 새로고침 (추천)
+setInterval(() => {
+    location.reload();
+}, 300000);
 </script>
 
 </body>
