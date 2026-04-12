@@ -135,8 +135,10 @@ def update_data():
         if storage:
             final_list = sorted(storage, key=lambda x: x['timestamp'])
 
+            # ⭐ 이 부분이 수정되었습니다.
             update_info = {
                 "lastUpdate": now_vn.strftime('%Y-%m-%d %H:%M'),
+                "version": int(now_vn.timestamp()),  # 타임스탬프 기반 버전 번호 추가
                 "data": final_list
             }
 
