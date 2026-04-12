@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 17:36",
+    "lastUpdate": "2026-04-12 17:39",
     "data": [
         {
             "type": "도착",
@@ -15,7 +15,7 @@ const flightInfo = {
             "timestamp": 1775993700,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 18:07"
+            "status": "도착예정 18:05"
         },
         {
             "type": "출발",
@@ -71,7 +71,7 @@ const flightInfo = {
             "timestamp": 1776007200,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 21:58"
+            "status": "도착예정 22:06"
         },
         {
             "type": "도착",
