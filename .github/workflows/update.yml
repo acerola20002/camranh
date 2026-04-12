@@ -2,13 +2,13 @@ name: Update Flight Data
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매시 정각 실행 (UTC 기준)
-  workflow_dispatch:      # 수동 실행 버튼 활성화
+    - cron: '0 * * * *'  # 매시 정각 (UTC 기준)
+  workflow_dispatch:      # 수동 실행 버튼
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:          # 권한 명시 (중요)
+    permissions:
       contents: write
     
     steps:
@@ -20,9 +20,11 @@ jobs:
         with:
           python-version: '3.11'
 
+      # 라이브러리 설치 부분 보강
       - name: Install Dependencies
         run: |
-          pip install FlightRadar24
+          python -m pip install --upgrade pip
+          python -m pip install pyflightradar24 FlightRadar24
 
       - name: Run Scraper
         run: python scraper.py
