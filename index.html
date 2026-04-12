@@ -4,11 +4,19 @@
     <meta charset="UTF-8">
     <title>CXR 국제선 전광판</title>
     <style>
-        body { background: #000; color: #ffcc00; font-family: sans-serif; padding: 10px; }
-        .header { text-align: center; margin-bottom: 20px; }
-        .update-tag { color: #888; font-size: 0.9em; margin-bottom: 10px; }
+        body { background: #000; color: #ffcc00; font-family: sans-serif; padding: 10px; margin: 0; }
+        .header { text-align: center; margin-bottom: 20px; padding: 20px 10px; border-bottom: 1px solid #222; }
+        .update-tag { color: #888; font-size: 0.9em; margin-bottom: 8px; }
         
-        /* 탭 버튼 스타일 */
+        /* 상단 안내 문구 스타일 */
+        .disclaimer { 
+            color: #ff4400; /* 주의를 위해 약간 붉은 계열의 색상 사용 */
+            font-size: 0.85em; 
+            margin-bottom: 15px; 
+            line-height: 1.5;
+            word-break: keep-all;
+        }
+
         .tab-container { display: flex; justify-content: center; gap: 10px; margin-bottom: 20px; }
         .tab-btn { 
             padding: 15px 40px; font-size: 1.2em; cursor: pointer;
@@ -28,8 +36,13 @@
 <body>
 
 <div class="header">
-    <h1>CAM RANH (CXR) INTERNATIONAL</h1>
+    <h1>✈️ CAM RANH (CXR) INTERNATIONAL</h1>
     <div id="update-notice" class="update-tag">매시 정각 자동 업데이트 됩니다. (마지막 수집: -)</div>
+    
+    <div class="disclaimer">
+        본 정보는 FlightRadar24 데이터를 기반으로 매시 정각 자동 업데이트되는 참고용 전광판입니다.<br>
+        실제 운항 상황은 항공사 공식 정보를 꼭 확인하세요!
+    </div>
 </div>
 
 <div class="tab-container">
@@ -48,18 +61,15 @@
 
 <script src="data.js"></script>
 <script>
-    // 전역 변수 설정
     document.getElementById('update-notice').innerText = `매시 정각 자동 업데이트 됩니다. (베트남 기준: ${flightInfo.lastUpdate})`;
 
     function showTab(type) {
-        // 버튼 불 들어오게 하기
         document.getElementById('btn-arr').classList.toggle('active', type === '도착');
         document.getElementById('btn-dep').classList.toggle('active', type === '출발');
 
         const tbody = document.getElementById('table-body');
-        tbody.innerHTML = ''; // 기존 내용 삭제
+        tbody.innerHTML = '';
 
-        // 해당 타입만 필터링해서 그리기
         const filtered = flightInfo.data.filter(f => f.type === type);
         filtered.forEach(f => {
             const row = `<tr>
@@ -74,7 +84,6 @@
         document.getElementById('main-table').classList.add('active');
     }
 
-    // 초기 화면은 도착 탭 실행
     showTab('도착');
 </script>
 
