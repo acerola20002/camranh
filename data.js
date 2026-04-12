@@ -15,7 +15,7 @@ const flightInfo = {
             "timestamp": 1775991900,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 17:37"
+            "status": "도착예정 17:40"
         },
         {
             "type": "도착",
