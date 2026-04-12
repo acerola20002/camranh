@@ -23,9 +23,11 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install FlightRadar24
+          # 설치와 실행 환경을 완벽하게 일치시키기 위해 python -m 사용
+          python -m pip install FlightRadar24API
 
       - name: Run Scraper
+        # 여기서도 python -m으로 패키지를 인식하도록 시도하거나 직접 실행
         run: python scraper.py
 
       - name: Commit and Push Changes
