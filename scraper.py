@@ -9,7 +9,7 @@ CITY_MAP = {
     "Incheon": "인천", "Busan": "부산", "Daegu": "대구", "Cheongju": "청주",
     "Muan": "무안", "Seoul": "서울", "Ho Chi Minh City": "호치민", "Hanoi": "하노이",
     "Nha Trang": "나트랑", "Da Nang": "다낭", "Kaohsiung": "가오슝", "Changi": "싱가포르",
-    "Chengdu": "청두", "Macau": "마카오", "Hong Kong": "홍콩", 
+    "Chengdu": "청두", "Macau": "마카오", "Hong Kong": "홍콩",
     "Shanghai": "상하이", "Taipei": "타이베이", "Bangkok": "방콕"
 }
 
@@ -26,32 +26,32 @@ DOMESTIC_CITIES = [
     "Can Tho", "Phu Quoc", "Vinh", "Hue", "Tuy Hoa"
 ]
 
-def translate_status(raw_text, mode):
+def translate_status(raw_text):
     if not raw_text:
         return "정보없음"
 
-    # dep 00:05 / arr 23:10 제거
     raw_text = re.sub(r'(dep|arr)\s*\d{2}:\d{2}', '', raw_text, flags=re.IGNORECASE).strip()
 
-    status = raw_text
+    time_match = re.search(r'\d{2}:\d{2}', raw_text)
+    time_part = time_match.group() if time_match else ""
 
-    if mode == 'arrivals':
-        status = status.replace("Estimated", "도착예정").replace("Landed", "도착완료")
-    else:
-        status = status.replace("Estimated", "출발예정").replace("Landed", "이륙완료")
+    if "Delayed" in raw_text:
+        return f"지연 ({time_part})" if time_part else "지연"
+    if "Estimated" in raw_text:
+        return f"도착예정 ({time_part})" if time_part else "도착예정"
+    if "Landed" in raw_text:
+        return "도착완료"
+    if "Scheduled" in raw_text:
+        return "예정"
 
-    status = status.replace("Scheduled", "예정").replace("Delayed", "지연")
-
-    return status if status else "정보없음"
+    return raw_text
 
 
 def get_time_value(flight_info, mode):
-    """scheduled → estimated fallback"""
     t_key = 'arrival' if mode == 'arrivals' else 'departure'
     time_data = flight_info.get('time', {})
 
     t_val = time_data.get('scheduled', {}).get(t_key)
-
     if not t_val:
         t_val = time_data.get('estimated', {}).get(t_key)
 
@@ -82,11 +82,9 @@ def update_data():
                 iata_code = airport_data.get('code', {}).get('iata', '')
                 city_raw = airport_data.get('position', {}).get('region', {}).get('city', 'Unknown')
 
-                # 국내선 제외
                 if city_raw in DOMESTIC_CITIES:
                     continue
 
-                # 도시 변환
                 display_city = CITY_MAP.get(city_raw, city_raw)
 
                 if iata_code == "MFM" or "Macau" in city_raw:
@@ -96,7 +94,6 @@ def update_data():
                 elif iata_code in IATA_MAP:
                     display_city = IATA_MAP[iata_code]
 
-                # 시간 가져오기 (fallback 포함)
                 t_val = get_time_value(flight_info, mode)
                 if not t_val:
                     continue
@@ -104,24 +101,27 @@ def update_data():
                 f_time_vn = datetime.datetime.fromtimestamp(t_val, datetime.timezone.utc) + datetime.timedelta(hours=7)
                 f_time_vn_naive = f_time_vn.replace(tzinfo=None)
 
-                # 1시간 지난 항공편 제거
                 if f_time_vn_naive < (now_vn_naive - datetime.timedelta(hours=1)):
                     continue
 
                 date_str = f_time_vn_naive.strftime('%m/%d %H:%M')
 
                 raw_status = flight_info.get('status', {}).get('text', '')
+
+                # ✅ 출발 = 시간 기준
                 if mode == 'departures':
                     diff_min = (f_time_vn_naive - now_vn_naive).total_seconds() / 60
 
                     if diff_min <= 0:
                         kor_status = "출발완료"
+                    elif diff_min <= 10:
+                        kor_status = "탑승중"
                     elif diff_min <= 30:
                         kor_status = "곧 출발"
                     else:
                         kor_status = "출발예정"
                 else:
-                    kor_status = translate_status(raw_status, mode)
+                    kor_status = translate_status(raw_status)
 
                 storage.append({
                     "type": "도착" if mode == 'arrivals' else "출발",
@@ -145,9 +145,6 @@ def update_data():
 
             print(f"✅ 업데이트 성공: {now_vn.strftime('%Y-%m-%d %H:%M')}")
             print(f"총 {len(final_list)}개 항공편 저장")
-
-        else:
-            print("⚠️ 데이터 없음")
 
     except Exception as e:
         print(f"❌ 오류 발생: {e}")
