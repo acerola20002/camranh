@@ -1,93 +1,76 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <title>CXR 국제선 전광판</title>
-    <style>
-        body { background: #000; color: #ffcc00; font-family: sans-serif; padding: 10px; margin: 0; }
-        .header { text-align: center; margin-bottom: 20px; padding: 20px 10px; border-bottom: 1px solid #222; }
-        .update-tag { color: #888; font-size: 0.9em; margin-bottom: 8px; }
-        
-        /* 상단 안내 문구 스타일 */
-        .disclaimer { 
-            color: #ff4400; /* 주의를 위해 약간 붉은 계열의 색상 사용 */
-            font-size: 0.85em; 
-            margin-bottom: 15px; 
-            line-height: 1.5;
-            word-break: keep-all;
-        }
+<meta charset="UTF-8">
+<title>CXR 국제선 전광판</title>
 
-        .tab-container { display: flex; justify-content: center; gap: 10px; margin-bottom: 20px; }
-        .tab-btn { 
-            padding: 15px 40px; font-size: 1.2em; cursor: pointer;
-            background: #222; border: 2px solid #444; color: #888; border-radius: 5px;
-        }
-        .tab-btn.active { 
-            background: #ffcc00; color: #000; border-color: #ffcc00; font-weight: bold;
-        }
+<style>
+body { background: #000; color: #ffcc00; font-family: sans-serif; padding: 10px; margin: 0; }
+.header { text-align: center; margin-bottom: 20px; padding: 20px 10px; border-bottom: 1px solid #222; }
+.update-tag { color: #888; font-size: 0.9em; margin-bottom: 8px; }
 
-        table { width: 100%; border-collapse: collapse; display: none; }
-        table.active { display: table; }
-        th { background: #333; color: #fff; padding: 12px; }
-        td { padding: 12px; border-bottom: 1px solid #222; text-align: center; }
-        .status-box { font-weight: bold; color: #fff; }
-    </style>
+.tab-container { display: flex; justify-content: center; gap: 10px; margin-bottom: 20px; }
+.tab-btn { padding: 15px 40px; font-size: 1.2em; cursor: pointer; background: #222; border: 2px solid #444; color: #888; border-radius: 5px; }
+.tab-btn.active { background: #ffcc00; color: #000; border-color: #ffcc00; font-weight: bold; }
+
+table { width: 100%; border-collapse: collapse; display: none; }
+table.active { display: table; }
+th { background: #333; color: #fff; padding: 12px; }
+td { padding: 12px; border-bottom: 1px solid #222; text-align: center; }
+.status-box { font-weight: bold; color: #fff; }
+</style>
 </head>
+
 <body>
 
 <div class="header">
-    <h1>✈️ CAM RANH (CXR) INTERNATIONAL</h1>
-    
-    <div id="update-notice" class="update-tag">매시 정각 자동 업데이트 (마지막 수집: -)</div>
-    
-    <div class="disclaimer" style="margin-top: 15px; padding: 12px; background-color: #f0f2f5; border-radius: 6px; font-size: 0.85rem; color: #555; line-height: 1.5; text-align: left;">
-        <strong>💡 이용 안내</strong><br>
-        • 본 정보는 <b>FlightRadar24</b> 데이터를 기반으로 자동 업데이트되는 참고용 전광판입니다.<br>
-        • 전세기 및 일부 특별편은 데이터 소스 사정에 따라 누락될 수 있습니다.<br>
-        • 정확한 확정 시간은 반드시 <b>항공사 및 공항 공식 홈페이지</b>를 확인해 주세요.
-    </div>
+<h1>✈️ CAM RANH (CXR) INTERNATIONAL</h1>
+<div id="update-notice" class="update-tag"></div>
 </div>
 
 <div class="tab-container">
-    <div id="btn-arr" class="tab-btn active" onclick="showTab('도착')">▼ ARRIVALS (도착)</div>
-    <div id="btn-dep" class="tab-btn" onclick="showTab('출발')">▲ DEPARTURES (출발)</div>
+<div id="btn-arr" class="tab-btn active" onclick="showTab('도착')">▼ ARRIVALS</div>
+<div id="btn-dep" class="tab-btn" onclick="showTab('출발')">▲ DEPARTURES</div>
 </div>
 
 <table id="main-table">
-    <thead>
-        <tr>
-            <th>DATE/TIME</th><th>FLIGHT</th><th>CITY</th><th>STATUS</th>
-        </tr>
-    </thead>
-    <tbody id="table-body"></tbody>
+<thead>
+<tr>
+<th>DATE/TIME</th><th>FLIGHT</th><th>CITY</th><th>STATUS</th>
+</tr>
+</thead>
+<tbody id="table-body"></tbody>
 </table>
 
-<script src="data.js"></script>
+<script src="data.js?v=1"></script>
+
 <script>
-    document.getElementById('update-notice').innerText = `매시 정각 자동 업데이트 됩니다. (베트남 기준: ${flightInfo.lastUpdate})`;
+document.getElementById('update-notice').innerText =
+`베트남 기준 마지막 업데이트: ${flightInfo.lastUpdate}`;
 
-    function showTab(type) {
-        document.getElementById('btn-arr').classList.toggle('active', type === '도착');
-        document.getElementById('btn-dep').classList.toggle('active', type === '출발');
+function showTab(type) {
+    document.getElementById('btn-arr').classList.toggle('active', type === '도착');
+    document.getElementById('btn-dep').classList.toggle('active', type === '출발');
 
-        const tbody = document.getElementById('table-body');
-        tbody.innerHTML = '';
+    const tbody = document.getElementById('table-body');
+    tbody.innerHTML = '';
 
-        const filtered = flightInfo.data.filter(f => f.type === type);
-        filtered.forEach(f => {
-            const row = `<tr>
-                <td style="color:#aaa">${f.time}</td>
-                <td style="font-size:1.1em; color:#fff">${f.flight}</td>
-                <td>${f.city}</td>
-                <td class="status-box">${f.status}</td>
-            </tr>`;
-            tbody.innerHTML += row;
-        });
+    const filtered = flightInfo.data.filter(f => f.type === type);
 
-        document.getElementById('main-table').classList.add('active');
-    }
+    filtered.forEach(f => {
+        const row = `<tr>
+            <td>${f.time}</td>
+            <td>${f.flight}</td>
+            <td>${f.city}</td>
+            <td class="status-box">${f.status}</td>
+        </tr>`;
+        tbody.innerHTML += row;
+    });
 
-    showTab('도착');
+    document.getElementById('main-table').classList.add('active');
+}
+
+showTab('도착');
 </script>
 
 </body>
