@@ -48,19 +48,9 @@ td { padding: 12px; border-bottom: 1px solid #222; text-align: center; }
 </table>
 
 <script>
-    // 캐시 방지를 위해 현재 시간을 밀리초 단위로 붙입니다.
-    const script = document.createElement('script');
-    script.src = 'data.js?t=' + new Date().getTime(); 
-    document.head.appendChild(script);
-
-    // 데이터가 로드된 후 실행되도록 약간의 지연을 줍니다.
-    script.onload = function() {
-        if (typeof flightInfo !== 'undefined') {
-            document.getElementById('update-notice').innerText =
-                `※ 모든 시간은 베트남 현지 시간 기준 / 마지막 업데이트: ${flightInfo.lastUpdate}`;
-            showTab('도착');
-        }
-    };
+const script = document.createElement("script");
+script.src = `data.js?v=${Date.now()}`;
+document.head.appendChild(script);
 </script>
 
 <script>
