@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 20:08",
+    "lastUpdate": "2026-04-12 20:09",
     "data": [
         {
             "type": "도착",
@@ -31,7 +31,7 @@ const flightInfo = {
             "timestamp": 1776006900,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 21:47"
+            "status": "도착예정 21:49"
         },
         {
             "type": "도착",
@@ -47,7 +47,7 @@ const flightInfo = {
             "timestamp": 1776007800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 21:51"
+            "status": "도착예정 21:53"
         },
         {
             "type": "도착",
@@ -55,7 +55,7 @@ const flightInfo = {
             "timestamp": 1776009000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 22:34"
+            "status": "도착예정 22:32"
         },
         {
             "type": "도착",
@@ -79,7 +79,7 @@ const flightInfo = {
             "timestamp": 1776009900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 22:55"
+            "status": "도착예정 23:02"
         },
         {
             "type": "출발",
@@ -127,7 +127,7 @@ const flightInfo = {
             "timestamp": 1776012900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 00:01"
+            "status": "도착예정 00:04"
         },
         {
             "type": "출발",
