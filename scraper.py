@@ -1,6 +1,7 @@
 import json
-from FlightRadar24 import FlightRadar24API
 import datetime
+import re
+from flightradar24 import FlightRadar24API
 
 fr_api = FlightRadar24API()
 
@@ -20,29 +21,56 @@ IATA_MAP = {
     "CXR": "나트랑/깜라인"
 }
 
-DOMESTIC_CITIES = ["Ho Chi Minh City", "Hanoi", "Da Nang", "Dalat", "Hai Phong", "Can Tho", "Phu Quoc", "Vinh", "Hue", "Tuy Hoa"]
+DOMESTIC_CITIES = [
+    "Ho Chi Minh City", "Hanoi", "Da Nang", "Dalat", "Hai Phong",
+    "Can Tho", "Phu Quoc", "Vinh", "Hue", "Tuy Hoa"
+]
 
 def translate_status(raw_text, mode):
+    if not raw_text:
+        return "정보없음"
+
+    # dep 00:05 / arr 23:10 제거
+    raw_text = re.sub(r'(dep|arr)\s*\d{2}:\d{2}', '', raw_text, flags=re.IGNORECASE).strip()
+
     status = raw_text
+
     if mode == 'arrivals':
         status = status.replace("Estimated", "도착예정").replace("Landed", "도착완료")
     else:
         status = status.replace("Estimated", "출발예정").replace("Landed", "이륙완료")
+
     status = status.replace("Scheduled", "예정").replace("Delayed", "지연")
-    return status
+
+    return status if status else "정보없음"
+
+
+def get_time_value(flight_info, mode):
+    """scheduled → estimated fallback"""
+    t_key = 'arrival' if mode == 'arrivals' else 'departure'
+    time_data = flight_info.get('time', {})
+
+    t_val = time_data.get('scheduled', {}).get(t_key)
+
+    if not t_val:
+        t_val = time_data.get('estimated', {}).get(t_key)
+
+    return t_val
+
 
 def update_data():
     try:
         now_vn = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=7)
         now_vn_naive = now_vn.replace(tzinfo=None)
-        
+
         raw_data = fr_api.get_airport_details("CXR") or {}
         schedule = raw_data.get('airport', {}).get('pluginData', {}).get('schedule', {})
-        
+
         storage = []
 
         for mode in ['arrivals', 'departures']:
             data_list = schedule.get(mode, {}).get('data', [])
+
             for f in data_list:
                 flight_info = f.get('flight', {})
                 if not flight_info:
@@ -50,14 +78,17 @@ def update_data():
 
                 port_type = 'origin' if mode == 'arrivals' else 'destination'
                 airport_data = flight_info.get('airport', {}).get(port_type, {})
-                
+
                 iata_code = airport_data.get('code', {}).get('iata', '')
                 city_raw = airport_data.get('position', {}).get('region', {}).get('city', 'Unknown')
-                
+
+                # 국내선 제외
                 if city_raw in DOMESTIC_CITIES:
                     continue
 
+                # 도시 변환
                 display_city = CITY_MAP.get(city_raw, city_raw)
+
                 if iata_code == "MFM" or "Macau" in city_raw:
                     display_city = "마카오"
                 elif iata_code == "HKG" or "Hong Kong" in city_raw:
@@ -65,44 +96,52 @@ def update_data():
                 elif iata_code in IATA_MAP:
                     display_city = IATA_MAP[iata_code]
 
-                t_key = 'arrival' if mode == 'arrivals' else 'departure'
-                t_val = flight_info.get('time', {}).get('scheduled', {}).get(t_key)
-                
-                if t_val:
-                    f_time_vn = datetime.datetime.fromtimestamp(t_val, datetime.timezone.utc) + datetime.timedelta(hours=7)
-                    f_time_vn_naive = f_time_vn.replace(tzinfo=None)
+                # 시간 가져오기 (fallback 포함)
+                t_val = get_time_value(flight_info, mode)
+                if not t_val:
+                    continue
 
-                    if f_time_vn_naive < (now_vn_naive - datetime.timedelta(hours=1)):
-                        continue
+                f_time_vn = datetime.datetime.fromtimestamp(t_val, datetime.timezone.utc) + datetime.timedelta(hours=7)
+                f_time_vn_naive = f_time_vn.replace(tzinfo=None)
 
-                    date_str = f_time_vn_naive.strftime('%m/%d %H:%M')
-                    raw_status = flight_info.get('status', {}).get('text', '-')
-                    kor_status = translate_status(raw_status, mode)
-                    
-                    storage.append({
-                        "type": "도착" if mode == 'arrivals' else "출발",
-                        "time": date_str,
-                        "timestamp": t_val,
-                        "flight": flight_info.get('identification', {}).get('number', {}).get('default', 'N/A'),
-                        "city": display_city,
-                        "status": kor_status
-                    })
+                # 1시간 지난 항공편 제거
+                if f_time_vn_naive < (now_vn_naive - datetime.timedelta(hours=1)):
+                    continue
+
+                date_str = f_time_vn_naive.strftime('%m/%d %H:%M')
+
+                raw_status = flight_info.get('status', {}).get('text', '')
+                kor_status = translate_status(raw_status, mode)
+
+                storage.append({
+                    "type": "도착" if mode == 'arrivals' else "출발",
+                    "time": date_str,
+                    "timestamp": t_val,
+                    "flight": flight_info.get('identification', {}).get('number', {}).get('default', 'N/A'),
+                    "city": display_city,
+                    "status": kor_status
+                })
 
         if storage:
             final_list = sorted(storage, key=lambda x: x['timestamp'])
+
             update_info = {
                 "lastUpdate": now_vn.strftime('%Y-%m-%d %H:%M'),
                 "data": final_list
             }
-            
+
             with open('data.js', 'w', encoding='utf-8') as f:
                 f.write(f"const flightInfo = {json.dumps(update_info, ensure_ascii=False, indent=4)};")
-            
+
             print(f"✅ 업데이트 성공: {now_vn.strftime('%Y-%m-%d %H:%M')}")
             print(f"총 {len(final_list)}개 항공편 저장")
 
+        else:
+            print("⚠️ 데이터 없음")
+
     except Exception as e:
         print(f"❌ 오류 발생: {e}")
+
 
 if __name__ == "__main__":
     update_data()
