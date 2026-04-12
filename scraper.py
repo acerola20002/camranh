@@ -5,17 +5,25 @@ import datetime
 
 fr_api = FlightRadar24API()
 
-# 도시 매핑 리스트 (더 많은 도시와 오타 방지용 보강)
+# 도시 매핑 리스트 (IATA 공항 코드로 매핑하면 더 정확합니다)
 CITY_MAP = {
     "Incheon": "인천", "Busan": "부산", "Daegu": "대구", "Cheongju": "청주",
     "Muan": "무안", "Seoul": "서울", "Ho Chi Minh City": "호치민", "Hanoi": "하노이",
     "Nha Trang": "나트랑", "Da Nang": "다낭", "Kaohsiung": "가오슝", "Changi": "싱가포르",
-    "Chengdu": "청두", "Macau": "마카오", "Macau SAR": "마카오", "Hong Kong": "홍콩", 
+    "Chengdu": "청두", "Macau": "마카오", "Hong Kong": "홍콩", 
     "Shanghai": "상하이", "Taipei": "타이베이", "Bangkok": "방콕"
 }
 
-# 베트남 국내선 목록 (국제선 전광판이므로 제외 대상)
-DOMESTIC_CITIES = ["Ho Chi Minh City", "Hanoi", "Da Nang", "Dalit", "Hai Phong", "Can Tho", "Phu Quoc", "Vinh", "Hue", "Tuy Hoa"]
+# 공항 코드별 한글 이름 (도시 이름이 Unknown으로 뜰 때를 대비)
+IATA_MAP = {
+    "MFM": "마카오",
+    "HKG": "홍콩",
+    "ICN": "인천",
+    "PUS": "부산",
+    "CXR": "나트랑/깜라인"
+}
+
+DOMESTIC_CITIES = ["Ho Chi Minh City", "Hanoi", "Da Nang", "Dalat", "Hai Phong", "Can Tho", "Phu Quoc", "Vinh", "Hue", "Tuy Hoa"]
 
 def translate_status(raw_text, mode):
     status = raw_text
@@ -24,16 +32,13 @@ def translate_status(raw_text, mode):
     else:
         status = status.replace("Estimated", "출발예정").replace("Landed", "이륙완료")
     status = status.replace("Scheduled", "예정").replace("Delayed", "지연")
-    status = status.replace("departure", "출발").replace("arrival", "도착")
     return status
 
 def update_data():
     try:
-        # 1. 시간 설정: GitHub 서버(UTC) 기준 베트남 시간(UTC+7) 계산
         now_vn = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=7)
         now_vn_naive = now_vn.replace(tzinfo=None)
         
-        # 2. 깜라인 공항(CXR) 데이터 가져오기
         raw_data = fr_api.get_airport_details("CXR")
         schedule = raw_data.get('airport', {}).get('pluginData', {}).get('schedule', {})
         
@@ -45,33 +50,35 @@ def update_data():
                 flight_info = f.get('flight', {})
                 if not flight_info: continue
 
-                # 도착지는 origin, 출발지는 destination 정보를 가져옴
+                # 공항 코드 및 도시 정보 추출
                 port_type = 'origin' if mode == 'arrivals' else 'destination'
-                city_raw = flight_info.get('airport', {}).get(port_type, {}).get('position', {}).get('region', {}).get('city', 'Unknown')
+                airport_data = flight_info.get('airport', {}).get(port_type, {})
                 
-                # [보강] 국내선 제외 및 도시 이름 한글 변환
+                iata_code = airport_data.get('code', {}).get('iata', '') # 공항 코드 (예: MFM)
+                city_raw = airport_data.get('position', {}).get('region', {}).get('city', 'Unknown')
+                
                 if city_raw in DOMESTIC_CITIES: continue
 
-                # [보강] 마카오, 홍콩 등 특수 명칭 예외 처리
+                # [핵심] 도시 이름 변환 로직 (공항 코드가 MFM이면 무조건 마카오)
                 display_city = CITY_MAP.get(city_raw, city_raw)
-                if "Macau" in city_raw:
+                if iata_code == "MFM" or "Macau" in city_raw:
                     display_city = "마카오"
-                elif "Hong Kong" in city_raw:
+                elif iata_code == "HKG" or "Hong Kong" in city_raw:
                     display_city = "홍콩"
+                elif iata_code in IATA_MAP:
+                    display_city = IATA_MAP[iata_code]
 
                 t_key = 'arrival' if mode == 'arrivals' else 'departure'
                 t_val = flight_info.get('time', {}).get('scheduled', {}).get(t_key)
                 
                 if t_val:
-                    # 항공편 시간을 베트남 현지 시간으로 변환
                     f_time_vn = datetime.datetime.fromtimestamp(t_val, datetime.timezone.utc) + datetime.timedelta(hours=7)
                     f_time_vn_naive = f_time_vn.replace(tzinfo=None)
 
-                    # 현재 베트남 시간보다 1시간 이상 지난 데이터는 목록에서 제외
+                    # 1시간 이상 지난 데이터는 제외
                     if f_time_vn_naive < (now_vn_naive - datetime.timedelta(hours=1)): continue
 
                     date_str = f_time_vn_naive.strftime('%m/%d %H:%M')
-                    
                     raw_status = flight_info.get('status', {}).get('text', '-')
                     kor_status = translate_status(raw_status, mode)
                     
@@ -85,23 +92,16 @@ def update_data():
                     })
 
         if storage:
-            # 시간순 정렬
             final_list = sorted(storage, key=lambda x: x['timestamp'])
+            update_info = {"lastUpdate": now_vn.strftime('%Y-%m-%d %H:%M'), "data": final_list}
             
-            # 최종 JSON 데이터 생성
-            update_info = {
-                "lastUpdate": now_vn.strftime('%Y-%m-%d %H:%M'), 
-                "data": final_list
-            }
-            
-            # data.js 파일로 저장
             with open('data.js', 'w', encoding='utf-8') as f:
                 f.write(f"const flightInfo = {json.dumps(update_info, ensure_ascii=False, indent=4)};")
             
-            print(f"✅ 업데이트 완료: 베트남 현지 시각 {now_vn.strftime('%Y-%m-%d %H:%M')}")
+            print(f"✅ 업데이트 완료: {now_vn.strftime('%Y-%m-%d %H:%M')}")
 
     except Exception as e:
-        print(f"❌ 데이터 업데이트 중 오류 발생: {e}")
+        print(f"❌ 오류: {e}")
 
 if __name__ == "__main__":
     update_data()
