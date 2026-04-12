@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 17:15",
+    "lastUpdate": "2026-04-12 17:16",
     "data": [
         {
             "type": "출발",
@@ -71,7 +71,7 @@ const flightInfo = {
             "timestamp": 1776006900,
             "flight": "WE205",
             "city": "서울",
-            "status": "도착예정 22:02"
+            "status": "도착예정 22:00"
         },
         {
             "type": "도착",
