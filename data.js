@@ -1,5 +1,5 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-12 20:23",
+    "lastUpdate": "2026-04-12 20:31",
     "data": [
         {
             "type": "도착",
@@ -55,7 +55,7 @@ const flightInfo = {
             "timestamp": 1776009000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:34)"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "도착",
@@ -119,7 +119,7 @@ const flightInfo = {
             "timestamp": 1776012300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:53)"
+            "status": "도착예정 (23:51)"
         },
         {
             "type": "도착",
@@ -159,7 +159,7 @@ const flightInfo = {
             "timestamp": 1776015300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:29)"
+            "status": "도착예정 (00:31)"
         },
         {
             "type": "도착",
@@ -576,6 +576,14 @@ const flightInfo = {
             "flight": "ZF2502",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 08:25",
+            "timestamp": 1776129900,
+            "flight": "SU836",
+            "city": "Yekaterinburg",
+            "status": "예정"
         }
     ]
 };
