@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 02:55",
-    "version": 1776048918,
+    "lastUpdate": "2026-04-13 04:51",
+    "version": 1776055885,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776045600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:40)"
+            "status": "도착예정 (08:23)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776047400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:03)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776048000,
             "flight": "ZF2547",
             "city": "Novosibirsk",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1776064200,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "출발",
@@ -529,6 +529,46 @@ const flightInfo = {
             "flight": "WZ3201",
             "city": "Moscow",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 15:10",
+            "timestamp": 1776154200,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 15:30",
+            "timestamp": 1776155400,
+            "flight": "B2795",
+            "city": "Minsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/14 16:00",
+            "timestamp": 1776157200,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/14 16:10",
+            "timestamp": 1776157800,
+            "flight": "SU599",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/14 16:25",
+            "timestamp": 1776158700,
+            "flight": "WZ3206",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
         }
     ]
 };
