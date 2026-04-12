@@ -1,86 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 00:02",
-    "version": 1776038573,
+    "lastUpdate": "2026-04-13 02:55",
+    "version": 1776048918,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/13 00:05",
-            "timestamp": 1776013500,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "04/13 00:05",
-            "timestamp": 1776013500,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "04/13 00:20",
-            "timestamp": 1776014400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "04/13 00:35",
-            "timestamp": 1776015300,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:24)"
-        },
-        {
-            "type": "도착",
-            "time": "04/13 00:45",
-            "timestamp": 1776015900,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:27)"
-        },
-        {
-            "type": "출발",
-            "time": "04/13 00:55",
-            "timestamp": 1776016500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/13 01:00",
-            "timestamp": 1776016800,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/13 01:35",
-            "timestamp": 1776018900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/13 01:45",
-            "timestamp": 1776019500,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "04/13 09:00",
             "timestamp": 1776045600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (08:40)"
         },
         {
             "type": "출발",
@@ -96,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776047400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -112,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776048000,
             "flight": "ZF2547",
             "city": "Novosibirsk",
-            "status": "예정"
+            "status": "도착예정 (09:37)"
         },
         {
             "type": "도착",
@@ -553,6 +481,54 @@ const flightInfo = {
             "flight": "AK205",
             "city": "Kuala Lumpur",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/14 12:50",
+            "timestamp": 1776145800,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 13:30",
+            "timestamp": 1776148200,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 13:35",
+            "timestamp": 1776148500,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 14:10",
+            "timestamp": 1776150600,
+            "flight": "SU598",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/14 14:20",
+            "timestamp": 1776151200,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 14:55",
+            "timestamp": 1776153300,
+            "flight": "WZ3201",
+            "city": "Moscow",
+            "status": "예정"
         }
     ]
 };
