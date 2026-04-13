@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 22:30:25",
-    "version": 1776119425,
+    "lastUpdate": "2026-04-13 22:40:19",
+    "version": 1776120019,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/13 22:30",
-            "timestamp": 1776094200,
-            "flight": "TW33",
-            "city": "인천",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/13 22:55",
             "timestamp": 1776095700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (22:54)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776096300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:55)"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
@@ -600,6 +592,14 @@ const flightInfo = {
             "timestamp": 1776223800,
             "flight": "FD647",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 10:35",
+            "timestamp": 1776224100,
+            "flight": "VJ730",
+            "city": "Haiphong",
             "status": "출발예정"
         }
     ]
