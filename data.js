@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 21:50:20",
-    "version": 1776117020,
+    "lastUpdate": "2026-04-13 22:00:30",
+    "version": 1776117630,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/13 21:50",
-            "timestamp": 1776091800,
-            "flight": "BX788",
-            "city": "인천",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/13 22:20",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776094200,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:52)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:55)"
+            "status": "도착예정 (23:53)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:14)"
+            "status": "도착예정 (00:12)"
         },
         {
             "type": "출발",
@@ -577,6 +569,22 @@ const flightInfo = {
             "flight": "VN441",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 10:00",
+            "timestamp": 1776222000,
+            "flight": "FD646",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 10:00",
+            "timestamp": 1776222000,
+            "flight": "HH2240",
+            "city": "Tashkent",
+            "status": "출발예정"
         }
     ]
 };
