@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 23:00:32",
-    "version": 1776121232,
+    "lastUpdate": "2026-04-13 23:10:18",
+    "version": 1776121818,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/13 23:05",
-            "timestamp": 1776096300,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착예정 (22:49)"
-        },
         {
             "type": "출발",
             "time": "04/13 23:20",
             "timestamp": 1776097200,
             "flight": "BX782",
             "city": "부산",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "예정"
+            "status": "지연 (06:27)"
         },
         {
             "type": "출발",
@@ -601,6 +593,14 @@ const flightInfo = {
             "flight": "VN435",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 11:05",
+            "timestamp": 1776225900,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
