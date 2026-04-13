@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 04:30:24",
-    "version": 1776141024,
+    "lastUpdate": "2026-04-14 04:40:17",
+    "version": 1776141617,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:32)"
+            "status": "도착예정 (07:36)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:53)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
