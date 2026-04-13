@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 03:13:56",
-    "version": 1776136436,
+    "lastUpdate": "2026-04-14 03:20:17",
+    "version": 1776136817,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "지연 (06:30)"
+            "status": "지연 (06:28)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:29)"
+            "status": "도착예정 (07:32)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
