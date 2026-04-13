@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 22:40:19",
-    "version": 1776120019,
+    "lastUpdate": "2026-04-13 22:50:18",
+    "version": 1776120618,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776096300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:47)"
+            "status": "도착예정 (22:49)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776097200,
             "flight": "BX782",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -601,6 +601,14 @@ const flightInfo = {
             "flight": "VJ730",
             "city": "Haiphong",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 10:45",
+            "timestamp": 1776224700,
+            "flight": "VN435",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
