@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 21:20:19",
-    "version": 1776115219,
+    "lastUpdate": "2026-04-13 21:40:21",
+    "version": 1776116421,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/13 21:35",
-            "timestamp": 1776090900,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "04/13 21:50",
             "timestamp": 1776091800,
             "flight": "BX788",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776093600,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:26)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -560,6 +552,22 @@ const flightInfo = {
             "timestamp": 1776216600,
             "flight": "HH2239",
             "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 09:30",
+            "timestamp": 1776220200,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 09:35",
+            "timestamp": 1776220500,
+            "flight": "VJ835",
+            "city": "인천",
             "status": "예정"
         }
     ]
