@@ -35,4 +35,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git add data.js
           git commit -m "Update flight data $(date)" || echo "no changes"
+          git pull --rebase origin main  # <--- 이 줄을 추가해주세요!
           git push origin HEAD:main
