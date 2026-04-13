@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 04:00:33",
-    "version": 1776139233,
+    "lastUpdate": "2026-04-14 04:10:20",
+    "version": 1776139820,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:36)"
+            "status": "도착예정 (07:34)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776140400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (11:46)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "출발",
@@ -592,6 +592,14 @@ const flightInfo = {
             "timestamp": 1776243600,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 16:10",
+            "timestamp": 1776244200,
+            "flight": "SU599",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
