@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 05:40:19",
-    "version": 1776145219,
+    "lastUpdate": "2026-04-14 05:50:17",
+    "version": 1776145817,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:25)"
+            "status": "도착예정 (07:27)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776134700,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "출발",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (14:00)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "출발",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:21)"
+            "status": "도착예정 (15:23)"
         },
         {
             "type": "출발",
