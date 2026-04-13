@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 01:30:29",
-    "version": 1776130229,
+    "lastUpdate": "2026-04-14 01:40:20",
+    "version": 1776130820,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 01:35",
-            "timestamp": 1776105300,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/14 03:10",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:27)"
+            "status": "도착예정 (07:25)"
         },
         {
             "type": "도착",
