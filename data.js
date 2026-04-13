@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 23:44:48",
-    "version": 1776123888,
+    "lastUpdate": "2026-04-13 23:50:18",
+    "version": 1776124218,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/13 23:45",
-            "timestamp": 1776098700,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "04/13 23:45",
-            "timestamp": 1776098700,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/13 23:55",
             "timestamp": 1776099300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:07)"
+            "status": "도착예정 (00:04)"
         },
         {
             "type": "출발",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776100800,
             "flight": "KE468",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:12)"
+            "status": "도착예정 (00:17)"
         },
         {
             "type": "출발",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "지연 (06:32)"
+            "status": "지연 (06:30)"
         },
         {
             "type": "출발",
@@ -112,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:49)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
