@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 22:50:18",
-    "version": 1776120618,
+    "lastUpdate": "2026-04-13 23:00:32",
+    "version": 1776121232,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/13 22:55",
-            "timestamp": 1776095700,
-            "flight": "RS527",
-            "city": "인천",
-            "status": "도착예정 (22:54)"
-        },
         {
             "type": "도착",
             "time": "04/13 23:05",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776097800,
             "flight": "TW34",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:51)"
+            "status": "도착예정 (23:46)"
         },
         {
             "type": "출발",
