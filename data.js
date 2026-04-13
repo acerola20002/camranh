@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 22:10:19",
-    "version": 1776118219,
+    "lastUpdate": "2026-04-13 22:20:24",
+    "version": 1776118824,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776095700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:55)"
+            "status": "도착예정 (22:53)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776096300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:47)"
+            "status": "도착예정 (22:49)"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776099300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:08)"
+            "status": "도착예정 (00:06)"
         },
         {
             "type": "출발",
@@ -137,6 +137,14 @@ const flightInfo = {
             "flight": "ZF2583",
             "city": "Omsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/14 06:40",
+            "timestamp": 1776123600,
+            "flight": "ZF2502",
+            "city": "Moscow",
+            "status": "출발예정"
         },
         {
             "type": "도착",
