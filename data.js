@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 00:00:37",
-    "version": 1776124837,
+    "lastUpdate": "2026-04-14 00:20:19",
+    "version": 1776126019,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 00:05",
-            "timestamp": 1776099900,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/14 00:20",
             "timestamp": 1776100800,
             "flight": "KE468",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "지연 (06:30)"
+            "status": "지연 (06:23)"
         },
         {
             "type": "출발",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:36)"
+            "status": "도착예정 (07:34)"
         },
         {
             "type": "도착",
@@ -569,6 +561,14 @@ const flightInfo = {
             "flight": "SU295",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 12:10",
+            "timestamp": 1776229800,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
         }
     ]
 };
