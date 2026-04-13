@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 19:34:47",
-    "version": 1776108887,
+    "lastUpdate": "2026-04-13 20:34:36",
+    "version": 1776112476,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/13 19:35",
-            "timestamp": 1776083700,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/13 20:40",
             "timestamp": 1776087600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:02)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776095700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:06)"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776096300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:02)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "지연 (00:06)"
+            "status": "지연 (00:01)"
         },
         {
             "type": "출발",
@@ -128,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:12)"
+            "status": "도착예정 (00:21)"
         },
         {
             "type": "출발",
@@ -569,6 +561,14 @@ const flightInfo = {
             "flight": "SU833",
             "city": "Vladivostok",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 08:30",
+            "timestamp": 1776216600,
+            "flight": "HH2239",
+            "city": "Tashkent",
+            "status": "예정"
         }
     ]
 };
