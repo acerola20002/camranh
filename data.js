@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 01:10:19",
-    "version": 1776129019,
+    "lastUpdate": "2026-04-14 01:20:23",
+    "version": 1776129623,
     "data": [
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:27)"
+            "status": "도착예정 (07:29)"
         },
         {
             "type": "도착",
@@ -537,6 +537,14 @@ const flightInfo = {
             "flight": "SU840",
             "city": "Irkutsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 13:15",
+            "timestamp": 1776233700,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
         }
     ]
 };
