@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 23:50:18",
-    "version": 1776124218,
+    "lastUpdate": "2026-04-14 00:00:37",
+    "version": 1776124837,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/13 23:55",
-            "timestamp": 1776099300,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (00:04)"
-        },
         {
             "type": "출발",
             "time": "04/14 00:05",
             "timestamp": 1776099900,
             "flight": "RS528",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:17)"
+            "status": "도착예정 (00:11)"
         },
         {
             "type": "출발",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:40)"
+            "status": "도착예정 (07:36)"
         },
         {
             "type": "도착",
