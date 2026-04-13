@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 05:50:17",
-    "version": 1776145817,
+    "lastUpdate": "2026-04-14 06:00:27",
+    "version": 1776146427,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:27)"
+            "status": "도착예정 (07:29)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:53)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:45)"
+            "status": "도착예정 (14:47)"
         },
         {
             "type": "도착",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:23)"
+            "status": "도착예정 (15:21)"
         },
         {
             "type": "출발",
