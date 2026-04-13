@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 21:10:27",
-    "version": 1776114627,
+    "lastUpdate": "2026-04-13 21:20:19",
+    "version": 1776115219,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776091800,
             "flight": "BX788",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776093600,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:28)"
+            "status": "도착예정 (21:26)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776094200,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776095700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:00)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776096300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:53)"
+            "status": "도착예정 (22:51)"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (23:55)"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776099300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "지연 (00:12)"
+            "status": "도착예정 (00:08)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:18)"
+            "status": "도착예정 (00:14)"
         },
         {
             "type": "출발",
