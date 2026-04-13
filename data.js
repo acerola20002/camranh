@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 03:10:19",
-    "version": 1776136219,
+    "lastUpdate": "2026-04-14 03:13:56",
+    "version": 1776136436,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 03:10",
-            "timestamp": 1776111000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/14 03:55",
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "지연 (06:28)"
+            "status": "지연 (06:30)"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:23)"
+            "status": "도착예정 (07:29)"
         },
         {
             "type": "도착",
