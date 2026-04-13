@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 23:20:19",
-    "version": 1776122419,
+    "lastUpdate": "2026-04-13 23:30:25",
+    "version": 1776123025,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/13 23:20",
-            "timestamp": 1776097200,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/13 23:30",
             "timestamp": 1776097800,
             "flight": "TW34",
             "city": "인천",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:44)"
+            "status": "도착예정 (23:40)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:08)"
+            "status": "도착예정 (00:10)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "지연 (06:34)"
+            "status": "지연 (06:32)"
         },
         {
             "type": "출발",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (07:42)"
         },
         {
             "type": "도착",
@@ -600,6 +592,14 @@ const flightInfo = {
             "timestamp": 1776225900,
             "flight": "CZ8476",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 11:30",
+            "timestamp": 1776227400,
+            "flight": "SU295",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
