@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 21:00:30",
-    "version": 1776114030,
+    "lastUpdate": "2026-04-13 21:10:27",
+    "version": 1776114627,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776090900,
             "flight": "VN440",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776099300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "지연 (00:14)"
+            "status": "지연 (00:12)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:16)"
+            "status": "도착예정 (00:18)"
         },
         {
             "type": "출발",
