@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 00:50:16",
-    "version": 1776127816,
+    "lastUpdate": "2026-04-14 01:00:43",
+    "version": 1776128443,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 00:55",
-            "timestamp": 1776102900,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/14 01:00",
             "timestamp": 1776103200,
             "flight": "ZE562",
             "city": "인천",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
