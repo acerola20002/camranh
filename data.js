@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 22:00:30",
-    "version": 1776117630,
+    "lastUpdate": "2026-04-13 22:10:19",
+    "version": 1776118219,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776095700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776096300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:51)"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:53)"
+            "status": "도착예정 (23:51)"
         },
         {
             "type": "출발",
@@ -585,6 +585,14 @@ const flightInfo = {
             "flight": "HH2240",
             "city": "Tashkent",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 10:05",
+            "timestamp": 1776222300,
+            "flight": "CZ8475",
+            "city": "Guangzhou",
+            "status": "예정"
         }
     ]
 };
