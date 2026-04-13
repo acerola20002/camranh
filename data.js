@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 02:00:32",
-    "version": 1776132032,
+    "lastUpdate": "2026-04-14 02:10:18",
+    "version": 1776132618,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "지연 (06:19)"
+            "status": "지연 (06:28)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:27)"
+            "status": "도착예정 (07:25)"
         },
         {
             "type": "도착",
@@ -217,6 +217,14 @@ const flightInfo = {
             "flight": "WZ3206",
             "city": "Yekaterinburg",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/14 16:40",
+            "timestamp": 1776159600,
+            "flight": "KA7777",
+            "city": "Kolkata",
+            "status": "예정"
         },
         {
             "type": "출발",
@@ -552,6 +560,14 @@ const flightInfo = {
             "timestamp": 1776234600,
             "flight": "VZ968",
             "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 14:10",
+            "timestamp": 1776237000,
+            "flight": "SU598",
+            "city": "Moscow",
             "status": "예정"
         }
     ]
