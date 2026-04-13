@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 02:10:18",
-    "version": 1776132618,
+    "lastUpdate": "2026-04-14 02:20:19",
+    "version": 1776133219,
     "data": [
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "도착",
@@ -569,6 +569,14 @@ const flightInfo = {
             "flight": "SU598",
             "city": "Moscow",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 14:20",
+            "timestamp": 1776237600,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
