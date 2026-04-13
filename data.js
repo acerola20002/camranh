@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 21:40:21",
-    "version": 1776116421,
+    "lastUpdate": "2026-04-13 21:50:20",
+    "version": 1776117020,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776091800,
             "flight": "BX788",
             "city": "인천",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776094200,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:52)"
         },
         {
             "type": "도착",
@@ -567,6 +567,14 @@ const flightInfo = {
             "time": "04/15 09:35",
             "timestamp": 1776220500,
             "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 09:45",
+            "timestamp": 1776221100,
+            "flight": "VN441",
             "city": "인천",
             "status": "예정"
         }
