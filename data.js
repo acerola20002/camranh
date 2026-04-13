@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 22:20:24",
-    "version": 1776118824,
+    "lastUpdate": "2026-04-13 22:30:25",
+    "version": 1776119425,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/13 22:20",
-            "timestamp": 1776093600,
-            "flight": "BX781",
-            "city": "부산",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/13 22:30",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776095700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:53)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776096300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:49)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -601,6 +593,14 @@ const flightInfo = {
             "flight": "CZ8475",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 10:30",
+            "timestamp": 1776223800,
+            "flight": "FD647",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
