@@ -137,7 +137,7 @@ def update_data():
 
             # ⭐ 이 부분이 수정되었습니다.
             update_info = {
-                "lastUpdate": now_vn.strftime('%Y-%m-%d %H:%M')
+                "lastUpdate": now_vn.strftime('%Y-%m-%d %H:%M:%S'),
                 "version": int(now_vn.timestamp()),  # 타임스탬프 기반 버전 번호 추가
                 "data": final_list
             }
