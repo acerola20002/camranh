@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 23:30:25",
-    "version": 1776123025,
+    "lastUpdate": "2026-04-13 23:40:20",
+    "version": 1776123620,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/13 23:30",
-            "timestamp": 1776097800,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/13 23:45",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "VN434",
             "city": "부산",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776099300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:06)"
+            "status": "도착예정 (00:08)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776099900,
             "flight": "RS528",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:10)"
+            "status": "도착예정 (00:12)"
         },
         {
             "type": "출발",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776129900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:42)"
+            "status": "도착예정 (07:40)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (10:47)"
         },
         {
             "type": "도착",
