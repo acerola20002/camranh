@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 23:10:18",
-    "version": 1776121818,
+    "lastUpdate": "2026-04-13 23:20:19",
+    "version": 1776122419,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776097200,
             "flight": "BX782",
             "city": "부산",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776097800,
             "flight": "TW34",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:46)"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "VN434",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776101700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:12)"
+            "status": "도착예정 (00:08)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776113700,
             "flight": "ZF2583",
             "city": "Omsk",
-            "status": "지연 (06:27)"
+            "status": "지연 (06:34)"
         },
         {
             "type": "출발",
