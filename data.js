@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 18:57",
-    "version": 1776106650,
+    "lastUpdate": "2026-04-13 19:30:38",
+    "version": 1776108638,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776083700,
             "flight": "3U3940",
             "city": "청두",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776093600,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:32)"
+            "status": "도착예정 (21:34)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776094200,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:02)"
+            "status": "도착예정 (22:00)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776095700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:08)"
+            "status": "도착예정 (23:06)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (00:06)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776099300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:10)"
         },
         {
             "type": "출발",
