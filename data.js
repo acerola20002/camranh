@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-13 23:40:20",
-    "version": 1776123620,
+    "lastUpdate": "2026-04-13 23:44:48",
+    "version": 1776123888,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776098700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776099300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:08)"
+            "status": "도착예정 (00:07)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:47)"
+            "status": "지연 (10:49)"
         },
         {
             "type": "도착",
