@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 17:10:18",
-    "version": 1776186618,
+    "lastUpdate": "2026-04-14 17:20:18",
+    "version": 1776187218,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776162600,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776164700,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:07)"
+            "status": "도착예정 (18:09)"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:47)"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
