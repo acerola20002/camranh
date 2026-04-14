@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 22:30:26",
-    "version": 1776205826,
+    "lastUpdate": "2026-04-14 22:40:21",
+    "version": 1776206421,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 22:30",
-            "timestamp": 1776180600,
-            "flight": "RF557",
-            "city": "청주",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/14 22:30",
-            "timestamp": 1776180600,
-            "flight": "TW33",
-            "city": "인천",
-            "status": "도착예정 (21:41)"
-        },
         {
             "type": "도착",
             "time": "04/14 22:55",
             "timestamp": 1776182100,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (22:56)"
         },
         {
             "type": "출발",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776182700,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:47)"
+            "status": "도착예정 (22:44)"
         },
         {
             "type": "출발",
@@ -120,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776188100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:25)"
+            "status": "도착예정 (00:23)"
         },
         {
             "type": "출발",
