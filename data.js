@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 01:00:28",
-    "version": 1776214828,
+    "lastUpdate": "2026-04-15 01:10:19",
+    "version": 1776215419,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 01:00",
-            "timestamp": 1776189600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/15 01:35",
             "timestamp": 1776191700,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776220200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
