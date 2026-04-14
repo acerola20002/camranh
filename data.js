@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 07:30:22",
-    "version": 1776151822,
+    "lastUpdate": "2026-04-14 07:40:16",
+    "version": 1776152416,
     "data": [
         {
             "type": "도착",
@@ -617,6 +617,14 @@ const flightInfo = {
             "flight": "3U3939",
             "city": "청두",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 19:35",
+            "timestamp": 1776256500,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
         }
     ]
 };
