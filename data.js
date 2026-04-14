@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 00:10:21",
-    "version": 1776211821,
+    "lastUpdate": "2026-04-15 00:20:21",
+    "version": 1776212421,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776187200,
             "flight": "KE468",
             "city": "인천",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
