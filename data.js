@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 23:30:25",
-    "version": 1776209425,
+    "lastUpdate": "2026-04-14 23:40:23",
+    "version": 1776210023,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 23:30",
-            "timestamp": 1776184200,
-            "flight": "RF558",
-            "city": "청주",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "04/14 23:30",
-            "timestamp": 1776184200,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/14 23:45",
             "timestamp": 1776185100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776185100,
             "flight": "VN434",
             "city": "부산",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:54)"
+            "status": "도착예정 (23:52)"
         },
         {
             "type": "출발",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776186300,
             "flight": "RS528",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
