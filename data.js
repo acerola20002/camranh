@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 21:50:20",
-    "version": 1776203420,
+    "lastUpdate": "2026-04-14 22:00:29",
+    "version": 1776204029,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 21:50",
-            "timestamp": 1776178200,
-            "flight": "BX788",
-            "city": "인천",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/14 22:20",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:05)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776185100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:42)"
+            "status": "도착예정 (23:40)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:08)"
+            "status": "도착예정 (23:06)"
         },
         {
             "type": "도착",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776188100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:23)"
+            "status": "도착예정 (00:25)"
         },
         {
             "type": "출발",
@@ -640,6 +632,14 @@ const flightInfo = {
             "timestamp": 1776307500,
             "flight": "VN441",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 10:00",
+            "timestamp": 1776308400,
+            "flight": "FD646",
+            "city": "방콕",
             "status": "예정"
         }
     ]
