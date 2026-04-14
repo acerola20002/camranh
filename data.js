@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 09:00:29",
-    "version": 1776157229,
+    "lastUpdate": "2026-04-14 09:10:16",
+    "version": 1776157816,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776134700,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:37)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776135600,
             "flight": "FD646",
             "city": "방콕",
-            "status": "도착예정 (09:35)"
+            "status": "도착예정 (09:37)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776140400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:56)"
+            "status": "도착예정 (10:54)"
         },
         {
             "type": "도착",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776148500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:24)"
+            "status": "도착예정 (13:26)"
         },
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:17)"
+            "status": "도착예정 (15:14)"
         },
         {
             "type": "출발",
