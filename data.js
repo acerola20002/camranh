@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 16:10:19",
-    "version": 1776183019,
+    "lastUpdate": "2026-04-14 16:20:20",
+    "version": 1776183620,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 16:10",
-            "timestamp": 1776157800,
-            "flight": "SU599",
-            "city": "Moscow",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/14 16:25",
             "timestamp": 1776158700,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776159600,
             "flight": "KA7777",
             "city": "Kolkata",
-            "status": "도착예정 (16:25)"
+            "status": "도착예정 (16:23)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776164700,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (18:11)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776174000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:17)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "출발",
