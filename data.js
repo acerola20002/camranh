@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 13:08:04",
-    "version": 1776172084,
+    "lastUpdate": "2026-04-14 13:10:18",
+    "version": 1776172218,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776148200,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "지연 (14:02)"
+            "status": "지연 (14:04)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:47)"
+            "status": "도착예정 (13:51)"
         },
         {
             "type": "출발",
