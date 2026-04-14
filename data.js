@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 21:20:20",
-    "version": 1776201620,
+    "lastUpdate": "2026-04-14 21:30:23",
+    "version": 1776202223,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776177300,
             "flight": "VN440",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776180000,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:53)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:47)"
+            "status": "도착예정 (21:45)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776182100,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:00)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776185100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:44)"
+            "status": "도착예정 (23:42)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:06)"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "도착",
@@ -625,6 +625,14 @@ const flightInfo = {
             "flight": "C65538",
             "city": "Tashkent",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 09:30",
+            "timestamp": 1776306600,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
         }
     ]
 };
