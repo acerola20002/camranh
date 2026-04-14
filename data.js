@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 18:40:19",
-    "version": 1776192019,
+    "lastUpdate": "2026-04-14 18:50:18",
+    "version": 1776192618,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 18:40",
-            "timestamp": 1776166800,
-            "flight": "TR543",
-            "city": "Singapore",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/14 20:40",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776180000,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:02)"
+            "status": "도착예정 (22:04)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:10)"
+            "status": "도착예정 (22:13)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776182100,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:02)"
+            "status": "도착예정 (23:00)"
         },
         {
             "type": "출발",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776182700,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:00)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -128,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:10)"
+            "status": "도착예정 (23:14)"
         },
         {
             "type": "도착",
