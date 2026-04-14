@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 12:30:24",
-    "version": 1776169824,
+    "lastUpdate": "2026-04-14 12:40:16",
+    "version": 1776170416,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776145800,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776148200,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "지연 (14:02)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:58)"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "출발",
