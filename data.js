@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 17:00:28",
-    "version": 1776186028,
+    "lastUpdate": "2026-04-14 17:10:18",
+    "version": 1776186618,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776164700,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:07)"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:47)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:21)"
+            "status": "도착예정 (23:19)"
         },
         {
             "type": "도착",
