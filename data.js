@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 12:00:28",
-    "version": 1776168028,
+    "lastUpdate": "2026-04-14 12:10:16",
+    "version": 1776168616,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 12:00",
-            "timestamp": 1776142800,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/14 12:50",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:04)"
+            "status": "도착예정 (15:06)"
         },
         {
             "type": "출발",
@@ -681,6 +673,22 @@ const flightInfo = {
             "flight": "ZE561",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 00:05",
+            "timestamp": 1776272700,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 00:05",
+            "timestamp": 1776272700,
+            "flight": "TW38",
+            "city": "대구",
+            "status": "출발예정"
         }
     ]
 };
