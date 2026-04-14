@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 11:40:29",
-    "version": 1776166829,
+    "lastUpdate": "2026-04-14 11:50:18",
+    "version": 1776167418,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776142800,
             "flight": "AK205",
             "city": "Kuala Lumpur",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:30)"
+            "status": "도착예정 (14:34)"
         },
         {
             "type": "도착",
@@ -656,6 +656,22 @@ const flightInfo = {
             "timestamp": 1776270600,
             "flight": "TW34",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 23:45",
+            "timestamp": 1776271500,
+            "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 23:45",
+            "timestamp": 1776271500,
+            "flight": "VN434",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
