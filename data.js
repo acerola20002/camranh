@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 02:00:32",
-    "version": 1776218432,
+    "lastUpdate": "2026-04-15 02:10:17",
+    "version": 1776219017,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776216600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:16)"
+            "status": "도착예정 (08:14)"
         },
         {
             "type": "도착",
@@ -592,6 +592,14 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 14:10",
+            "timestamp": 1776323400,
+            "flight": "SU598",
+            "city": "Moscow",
             "status": "예정"
         }
     ]
