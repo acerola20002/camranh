@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 12:50:20",
-    "version": 1776171020,
+    "lastUpdate": "2026-04-14 13:00:27",
+    "version": 1776171627,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 12:50",
-            "timestamp": 1776145800,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/14 13:30",
             "timestamp": 1776148200,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "지연 (14:04)"
+            "status": "지연 (14:00)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776148500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:51)"
+            "status": "도착예정 (15:12)"
         },
         {
             "type": "출발",
@@ -705,6 +697,22 @@ const flightInfo = {
             "flight": "TW45",
             "city": "청주",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 00:55",
+            "timestamp": 1776275700,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 01:00",
+            "timestamp": 1776276000,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
