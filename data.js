@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 23:50:21",
-    "version": 1776210621,
+    "lastUpdate": "2026-04-15 00:00:29",
+    "version": 1776211229,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 23:55",
-            "timestamp": 1776185700,
-            "flight": "SU830",
-            "city": "Novosibirsk",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/14 23:55",
-            "timestamp": 1776185700,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (23:51)"
-        },
         {
             "type": "출발",
             "time": "04/15 00:05",
             "timestamp": 1776186300,
             "flight": "RS528",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776220200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (11:07)"
         },
         {
             "type": "도착",
@@ -624,6 +608,14 @@ const flightInfo = {
             "timestamp": 1776315000,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 12:00",
+            "timestamp": 1776315600,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
             "status": "출발예정"
         }
     ]
