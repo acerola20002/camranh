@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 16:40:17",
-    "version": 1776184817,
+    "lastUpdate": "2026-04-14 16:50:21",
+    "version": 1776185421,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 16:40",
-            "timestamp": 1776159600,
-            "flight": "KA7777",
-            "city": "Kolkata",
-            "status": "도착예정 (16:27)"
-        },
         {
             "type": "출발",
             "time": "04/14 17:30",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776164700,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:09)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776174000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:15)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "출발",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:25)"
+            "status": "도착예정 (23:23)"
         },
         {
             "type": "도착",
