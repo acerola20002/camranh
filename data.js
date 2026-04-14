@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 08:00:29",
-    "version": 1776153629,
+    "lastUpdate": "2026-04-14 08:10:17",
+    "version": 1776154217,
     "data": [
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776135900,
             "flight": "CZ8475",
             "city": "Guangzhou",
-            "status": "도착예정 (09:52)"
+            "status": "도착예정 (09:50)"
         },
         {
             "type": "도착",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (14:00)"
+            "status": "도착예정 (14:08)"
         },
         {
             "type": "출발",
@@ -152,7 +152,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:53)"
+            "status": "도착예정 (14:51)"
         },
         {
             "type": "도착",
