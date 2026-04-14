@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 22:10:18",
-    "version": 1776204618,
+    "lastUpdate": "2026-04-14 22:20:18",
+    "version": 1776205218,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:08)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:04)"
+            "status": "도착예정 (23:06)"
         },
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:55)"
+            "status": "도착예정 (23:53)"
         },
         {
             "type": "출발",
@@ -648,6 +648,14 @@ const flightInfo = {
             "timestamp": 1776308700,
             "flight": "CZ8475",
             "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 10:20",
+            "timestamp": 1776309600,
+            "flight": "HH2231",
+            "city": "Tashkent",
             "status": "예정"
         }
     ]
