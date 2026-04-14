@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 11:50:18",
-    "version": 1776167418,
+    "lastUpdate": "2026-04-14 12:00:28",
+    "version": 1776168028,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776142800,
             "flight": "AK205",
             "city": "Kuala Lumpur",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:51)"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "출발",
@@ -673,6 +673,14 @@ const flightInfo = {
             "flight": "VN434",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 23:55",
+            "timestamp": 1776272100,
+            "flight": "ZE561",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
