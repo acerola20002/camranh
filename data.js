@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 03:50:19",
-    "version": 1776225019,
+    "lastUpdate": "2026-04-15 04:00:27",
+    "version": 1776225627,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776220200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776227100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (11:41)"
+            "status": "지연 (11:45)"
         },
         {
             "type": "출발",
@@ -617,6 +617,14 @@ const flightInfo = {
             "flight": "B2795",
             "city": "Minsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 16:00",
+            "timestamp": 1776330000,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
