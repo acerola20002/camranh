@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 22:50:22",
-    "version": 1776207022,
+    "lastUpdate": "2026-04-14 23:00:35",
+    "version": 1776207635,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 22:55",
-            "timestamp": 1776182100,
-            "flight": "RS527",
-            "city": "인천",
-            "status": "도착예정 (22:53)"
-        },
-        {
-            "type": "출발",
-            "time": "04/14 22:55",
-            "timestamp": 1776182100,
-            "flight": "VJ834",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/14 23:05",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776184200,
             "flight": "RF558",
             "city": "청주",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776184200,
             "flight": "TW34",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:15)"
+            "status": "도착예정 (23:09)"
         },
         {
             "type": "도착",
