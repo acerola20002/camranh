@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 10:30:21",
-    "version": 1776162621,
+    "lastUpdate": "2026-04-14 10:40:16",
+    "version": 1776163216,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 10:30",
-            "timestamp": 1776137400,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "지연 (10:52)"
-        },
-        {
-            "type": "출발",
-            "time": "04/14 10:30",
-            "timestamp": 1776137400,
-            "flight": "FD647",
-            "city": "방콕",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/14 11:05",
             "timestamp": 1776139500,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776140400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:52)"
+            "status": "도착예정 (10:50)"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:05)"
+            "status": "도착예정 (11:07)"
         },
         {
             "type": "출발",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776148500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:24)"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:32)"
+            "status": "도착예정 (14:30)"
         },
         {
             "type": "도착",
@@ -120,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:04)"
+            "status": "도착예정 (15:08)"
         },
         {
             "type": "출발",
