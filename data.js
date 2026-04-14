@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 02:30:24",
-    "version": 1776220224,
+    "lastUpdate": "2026-04-15 02:40:24",
+    "version": 1776220824,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776196200,
             "flight": "SU833",
             "city": "Vladivostok",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776227100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "도착예정 (11:37)"
+            "status": "도착예정 (11:33)"
         },
         {
             "type": "출발",
