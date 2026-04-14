@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 20:30:24",
-    "version": 1776198624,
+    "lastUpdate": "2026-04-14 20:40:21",
+    "version": 1776199221,
     "data": [
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776182100,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (23:00)"
         },
         {
             "type": "출발",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:10)"
+            "status": "도착예정 (23:19)"
         },
         {
             "type": "도착",
@@ -152,7 +152,7 @@ const flightInfo = {
             "timestamp": 1776188100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:27)"
+            "status": "도착예정 (00:29)"
         },
         {
             "type": "출발",
