@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 01:20:21",
-    "version": 1776216021,
+    "lastUpdate": "2026-04-15 01:30:26",
+    "version": 1776216626,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776191700,
             "flight": "7C2304",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776216600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (08:16)"
         },
         {
             "type": "도착",
@@ -585,6 +585,14 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 13:30",
+            "timestamp": 1776321000,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
