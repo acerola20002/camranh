@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 21:40:21",
-    "version": 1776202821,
+    "lastUpdate": "2026-04-14 21:50:20",
+    "version": 1776203420,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776178200,
             "flight": "BX788",
             "city": "인천",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776180000,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:49)"
+            "status": "도착예정 (21:50)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:06)"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776185100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착예정 (23:42)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:57)"
+            "status": "도착예정 (23:53)"
         },
         {
             "type": "출발",
@@ -631,6 +631,14 @@ const flightInfo = {
             "time": "04/16 09:35",
             "timestamp": 1776306900,
             "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 09:45",
+            "timestamp": 1776307500,
+            "flight": "VN441",
             "city": "인천",
             "status": "예정"
         }
