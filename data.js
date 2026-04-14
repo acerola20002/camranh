@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 14:20:22",
-    "version": 1776176422,
+    "lastUpdate": "2026-04-14 14:30:25",
+    "version": 1776177025,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 14:20",
-            "timestamp": 1776151200,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/14 14:55",
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:44)"
+            "status": "도착예정 (14:50)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776154200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:40)"
+            "status": "도착예정 (14:46)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776159600,
             "flight": "KA7777",
             "city": "Kolkata",
-            "status": "도착예정 (16:14)"
+            "status": "도착예정 (16:16)"
         },
         {
             "type": "출발",
