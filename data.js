@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 11:00:27",
-    "version": 1776164427,
+    "lastUpdate": "2026-04-14 11:10:16",
+    "version": 1776165016,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 11:05",
-            "timestamp": 1776139500,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/14 11:20",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:05)"
+            "status": "도착예정 (11:09)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (14:06)"
+            "status": "도착예정 (14:02)"
         },
         {
             "type": "출발",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:30)"
+            "status": "도착예정 (14:25)"
         },
         {
             "type": "도착",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:04)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "출발",
@@ -649,6 +641,14 @@ const flightInfo = {
             "flight": "VJ834",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 23:05",
+            "timestamp": 1776269100,
+            "flight": "KE467",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
