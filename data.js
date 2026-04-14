@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 23:20:18",
-    "version": 1776208818,
+    "lastUpdate": "2026-04-14 23:30:25",
+    "version": 1776209425,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 23:20",
-            "timestamp": 1776183600,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/14 23:30",
             "timestamp": 1776184200,
             "flight": "RF558",
             "city": "청주",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776184200,
             "flight": "TW34",
             "city": "인천",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:51)"
+            "status": "도착예정 (23:54)"
         },
         {
             "type": "출발",
@@ -632,6 +624,30 @@ const flightInfo = {
             "timestamp": 1776312300,
             "flight": "CZ8476",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 11:30",
+            "timestamp": 1776313800,
+            "flight": "TR548",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 11:30",
+            "timestamp": 1776313800,
+            "flight": "AK204",
+            "city": "Kuala Lumpur",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 11:30",
+            "timestamp": 1776313800,
+            "flight": "SU295",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
