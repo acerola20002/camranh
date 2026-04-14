@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 08:20:21",
-    "version": 1776154821,
+    "lastUpdate": "2026-04-14 08:30:25",
+    "version": 1776155425,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 08:25",
-            "timestamp": 1776129900,
-            "flight": "SU836",
-            "city": "Yekaterinburg",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/14 09:30",
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:57)"
+            "status": "도착예정 (09:04)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776135600,
             "flight": "FD646",
             "city": "방콕",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "도착",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:49)"
+            "status": "도착예정 (14:51)"
         },
         {
             "type": "도착",
