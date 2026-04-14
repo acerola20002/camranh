@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 16:20:20",
-    "version": 1776183620,
+    "lastUpdate": "2026-04-14 16:30:22",
+    "version": 1776184222,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/14 16:25",
-            "timestamp": 1776158700,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/14 16:40",
             "timestamp": 1776159600,
             "flight": "KA7777",
             "city": "Kolkata",
-            "status": "도착예정 (16:23)"
+            "status": "도착예정 (16:27)"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776164700,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:11)"
+            "status": "도착예정 (18:14)"
         },
         {
             "type": "출발",
