@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 14:10:17",
-    "version": 1776175817,
+    "lastUpdate": "2026-04-14 14:20:22",
+    "version": 1776176422,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 14:10",
-            "timestamp": 1776150600,
-            "flight": "SU598",
-            "city": "Moscow",
-            "status": "도착예정 (14:00)"
-        },
         {
             "type": "출발",
             "time": "04/14 14:20",
             "timestamp": 1776151200,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:38)"
+            "status": "도착예정 (14:44)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776154200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:38)"
+            "status": "도착예정 (14:40)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:12)"
+            "status": "도착예정 (15:10)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776159600,
             "flight": "KA7777",
             "city": "Kolkata",
-            "status": "지연 (16:58)"
+            "status": "도착예정 (16:14)"
         },
         {
             "type": "출발",
