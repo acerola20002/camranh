@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 23:00:35",
-    "version": 1776207635,
+    "lastUpdate": "2026-04-14 23:10:22",
+    "version": 1776208222,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 23:05",
-            "timestamp": 1776182700,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "04/14 23:20",
             "timestamp": 1776183600,
             "flight": "BX782",
             "city": "부산",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776185100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착예정 (23:38)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:09)"
+            "status": "도착예정 (23:11)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:53)"
+            "status": "도착예정 (23:51)"
         },
         {
             "type": "출발",
@@ -632,6 +624,14 @@ const flightInfo = {
             "timestamp": 1776310200,
             "flight": "FD647",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 11:05",
+            "timestamp": 1776312300,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
             "status": "출발예정"
         }
     ]
