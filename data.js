@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 10:50:20",
-    "version": 1776163820,
+    "lastUpdate": "2026-04-14 11:00:27",
+    "version": 1776164427,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776139500,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:06)"
+            "status": "도착예정 (11:05)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:49)"
+            "status": "도착예정 (14:06)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:00)"
+            "status": "도착예정 (15:04)"
         },
         {
             "type": "출발",
@@ -633,6 +633,22 @@ const flightInfo = {
             "flight": "TW37",
             "city": "대구",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 22:55",
+            "timestamp": 1776268500,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 22:55",
+            "timestamp": 1776268500,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
