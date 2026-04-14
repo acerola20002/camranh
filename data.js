@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 08:30:25",
-    "version": 1776155425,
+    "lastUpdate": "2026-04-14 08:40:20",
+    "version": 1776156020,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:04)"
+            "status": "도착예정 (09:02)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776140400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:54)"
+            "status": "도착예정 (10:56)"
         },
         {
             "type": "도착",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:58)"
+            "status": "지연 (14:28)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:25)"
+            "status": "도착예정 (15:19)"
         },
         {
             "type": "출발",
@@ -625,6 +625,14 @@ const flightInfo = {
             "flight": "SU831",
             "city": "Novosibirsk",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 20:40",
+            "timestamp": 1776260400,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
