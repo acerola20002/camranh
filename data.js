@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 01:40:21",
-    "version": 1776217221,
+    "lastUpdate": "2026-04-15 01:50:17",
+    "version": 1776217817,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776216600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:16)"
+            "status": "도착예정 (08:14)"
         },
         {
             "type": "도착",
