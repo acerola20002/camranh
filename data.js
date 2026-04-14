@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 07:10:19",
-    "version": 1776150619,
+    "lastUpdate": "2026-04-14 07:20:17",
+    "version": 1776151217,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776133800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:57)"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776134700,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:35)"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776137400,
             "flight": "VN435",
             "city": "부산",
-            "status": "지연 (10:58)"
+            "status": "지연 (10:56)"
         },
         {
             "type": "출발",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (14:04)"
+            "status": "도착예정 (14:00)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:34)"
+            "status": "도착예정 (15:32)"
         },
         {
             "type": "출발",
@@ -497,6 +497,14 @@ const flightInfo = {
             "flight": "CZ8476",
             "city": "Guangzhou",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 11:25",
+            "timestamp": 1776227100,
+            "flight": "ZF2501",
+            "city": "Moscow",
+            "status": "예정"
         },
         {
             "type": "출발",
