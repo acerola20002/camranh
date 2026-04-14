@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 02:50:19",
-    "version": 1776221419,
+    "lastUpdate": "2026-04-15 02:51:11",
+    "version": 1776221471,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 02:50",
-            "timestamp": 1776196200,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/15 08:30",
