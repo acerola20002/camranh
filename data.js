@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 10:40:16",
-    "version": 1776163216,
+    "lastUpdate": "2026-04-14 10:50:20",
+    "version": 1776163820,
     "data": [
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:07)"
+            "status": "도착예정 (11:06)"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776148500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:49)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:08)"
+            "status": "도착예정 (15:00)"
         },
         {
             "type": "출발",
@@ -624,6 +624,14 @@ const flightInfo = {
             "timestamp": 1776267000,
             "flight": "TW33",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/15 22:50",
+            "timestamp": 1776268200,
+            "flight": "TW37",
+            "city": "대구",
             "status": "예정"
         }
     ]
