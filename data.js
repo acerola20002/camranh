@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 01:30:26",
-    "version": 1776216626,
+    "lastUpdate": "2026-04-15 01:40:21",
+    "version": 1776217221,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 01:35",
-            "timestamp": 1776191700,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/15 02:50",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776227100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (11:30)"
         },
         {
             "type": "출발",
@@ -592,6 +584,14 @@ const flightInfo = {
             "timestamp": 1776321000,
             "flight": "VZ968",
             "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 13:35",
+            "timestamp": 1776321300,
+            "flight": "VJ919",
+            "city": "부산",
             "status": "예정"
         }
     ]
