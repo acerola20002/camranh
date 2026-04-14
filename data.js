@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 12:20:20",
-    "version": 1776169220,
+    "lastUpdate": "2026-04-14 12:30:24",
+    "version": 1776169824,
     "data": [
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:30)"
+            "status": "도착예정 (14:32)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:08)"
+            "status": "도착예정 (15:10)"
         },
         {
             "type": "출발",
