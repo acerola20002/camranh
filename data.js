@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 00:30:24",
-    "version": 1776213024,
+    "lastUpdate": "2026-04-15 00:40:16",
+    "version": 1776213616,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 00:35",
-            "timestamp": 1776188100,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "04/15 00:55",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776220200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
