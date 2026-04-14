@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 04:10:16",
-    "version": 1776226216,
+    "lastUpdate": "2026-04-15 04:20:16",
+    "version": 1776226816,
     "data": [
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (15:26)"
         },
         {
             "type": "출발",
