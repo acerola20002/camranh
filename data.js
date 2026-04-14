@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 11:30:23",
-    "version": 1776166223,
+    "lastUpdate": "2026-04-14 11:40:29",
+    "version": 1776166829,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 11:30",
-            "timestamp": 1776141000,
-            "flight": "AK204",
-            "city": "Kuala Lumpur",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "04/14 11:30",
-            "timestamp": 1776141000,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/14 12:00",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:02)"
+            "status": "도착예정 (15:04)"
         },
         {
             "type": "출발",
