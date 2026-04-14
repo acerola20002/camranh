@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 22:00:29",
-    "version": 1776204029,
+    "lastUpdate": "2026-04-14 22:10:18",
+    "version": 1776204618,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:05)"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776182700,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:49)"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:06)"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:53)"
+            "status": "도착예정 (23:55)"
         },
         {
             "type": "출발",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776188100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:25)"
+            "status": "도착예정 (00:27)"
         },
         {
             "type": "출발",
@@ -640,6 +640,14 @@ const flightInfo = {
             "timestamp": 1776308400,
             "flight": "FD646",
             "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 10:05",
+            "timestamp": 1776308700,
+            "flight": "CZ8475",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
