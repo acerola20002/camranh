@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 11:10:16",
-    "version": 1776165016,
+    "lastUpdate": "2026-04-14 11:20:18",
+    "version": 1776165618,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:09)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776150600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (14:02)"
+            "status": "도착예정 (13:51)"
         },
         {
             "type": "출발",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:25)"
+            "status": "도착예정 (14:30)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:02)"
+            "status": "도착예정 (15:04)"
         },
         {
             "type": "출발",
@@ -649,6 +649,22 @@ const flightInfo = {
             "flight": "KE467",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 23:15",
+            "timestamp": 1776269700,
+            "flight": "WE206",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 23:20",
+            "timestamp": 1776270000,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
