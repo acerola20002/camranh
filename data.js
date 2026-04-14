@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 15:10:21",
-    "version": 1776179421,
+    "lastUpdate": "2026-04-14 15:20:22",
+    "version": 1776180022,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 15:10",
-            "timestamp": 1776154200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/14 15:30",
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:16)"
+            "status": "도착예정 (15:18)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776159600,
             "flight": "KA7777",
             "city": "Kolkata",
-            "status": "도착예정 (16:16)"
+            "status": "도착예정 (16:17)"
         },
         {
             "type": "출발",
