@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 20:10:21",
-    "version": 1776197421,
+    "lastUpdate": "2026-04-14 20:20:18",
+    "version": 1776198018,
     "data": [
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:10)"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776180600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:21)"
+            "status": "도착예정 (21:45)"
         },
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776185100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:44)"
+            "status": "도착예정 (23:46)"
         },
         {
             "type": "출발",
