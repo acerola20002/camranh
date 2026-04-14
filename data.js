@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 23:40:23",
-    "version": 1776210023,
+    "lastUpdate": "2026-04-14 23:50:21",
+    "version": 1776210621,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 23:45",
-            "timestamp": 1776185100,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "04/14 23:45",
-            "timestamp": 1776185100,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/14 23:55",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:52)"
+            "status": "도착예정 (23:51)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776187200,
             "flight": "KE468",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -632,6 +616,14 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 11:50",
+            "timestamp": 1776315000,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
