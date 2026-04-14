@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 15:00:28",
-    "version": 1776178828,
+    "lastUpdate": "2026-04-14 15:10:21",
+    "version": 1776179421,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:19)"
+            "status": "도착예정 (15:16)"
         },
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776159600,
             "flight": "KA7777",
             "city": "Kolkata",
-            "status": "도착예정 (16:15)"
+            "status": "도착예정 (16:16)"
         },
         {
             "type": "출발",
@@ -680,6 +680,14 @@ const flightInfo = {
             "timestamp": 1776278700,
             "flight": "TW46",
             "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 03:10",
+            "timestamp": 1776283800,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
