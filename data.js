@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 11:20:18",
-    "version": 1776165618,
+    "lastUpdate": "2026-04-14 11:30:23",
+    "version": 1776166223,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 11:20",
-            "timestamp": 1776140400,
-            "flight": "HH2231",
-            "city": "Tashkent",
-            "status": "도착예정 (10:50)"
-        },
         {
             "type": "도착",
             "time": "04/14 11:30",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776141000,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776142800,
             "flight": "AK205",
             "city": "Kuala Lumpur",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:04)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "출발",
@@ -664,6 +656,22 @@ const flightInfo = {
             "timestamp": 1776270000,
             "flight": "BX782",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 23:30",
+            "timestamp": 1776270600,
+            "flight": "RF558",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/15 23:30",
+            "timestamp": 1776270600,
+            "flight": "TW34",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
