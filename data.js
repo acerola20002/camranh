@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 12:40:16",
-    "version": 1776170416,
+    "lastUpdate": "2026-04-14 12:50:20",
+    "version": 1776171020,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776145800,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776148200,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "지연 (14:02)"
+            "status": "지연 (14:04)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776153300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:32)"
+            "status": "도착예정 (14:34)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776154200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (14:36)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776155400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:10)"
+            "status": "도착예정 (14:51)"
         },
         {
             "type": "출발",
@@ -697,6 +697,14 @@ const flightInfo = {
             "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 00:45",
+            "timestamp": 1776275100,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
         }
     ]
 };
