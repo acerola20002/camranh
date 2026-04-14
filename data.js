@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 22:20:18",
-    "version": 1776205218,
+    "lastUpdate": "2026-04-14 22:22:42",
+    "version": 1776205362,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 22:20",
-            "timestamp": 1776180000,
-            "flight": "BX781",
-            "city": "부산",
-            "status": "도착예정 (21:50)"
-        },
         {
             "type": "도착",
             "time": "04/14 22:30",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776182100,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:55)"
+            "status": "도착예정 (22:53)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776182700,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:47)"
+            "status": "도착예정 (22:53)"
         },
         {
             "type": "출발",
