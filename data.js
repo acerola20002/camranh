@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-14 20:40:21",
-    "version": 1776199221,
+    "lastUpdate": "2026-04-14 20:50:19",
+    "version": 1776199819,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/14 20:40",
-            "timestamp": 1776174000,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:09)"
-        },
         {
             "type": "출발",
             "time": "04/14 21:35",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776185100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:44)"
+            "status": "도착예정 (23:42)"
         },
         {
             "type": "출발",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776185700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:19)"
+            "status": "도착예정 (23:14)"
         },
         {
             "type": "도착",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776188100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:29)"
+            "status": "도착예정 (00:23)"
         },
         {
             "type": "출발",
