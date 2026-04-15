@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 14:50:18",
-    "version": 1776264618,
+    "lastUpdate": "2026-04-15 15:00:27",
+    "version": 1776265227,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 14:55",
-            "timestamp": 1776239700,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/15 15:10",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:18)"
         },
         {
             "type": "도착",
