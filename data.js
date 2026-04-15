@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 13:20:16",
-    "version": 1776259216,
+    "lastUpdate": "2026-04-15 13:30:23",
+    "version": 1776259823,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 13:25",
-            "timestamp": 1776234300,
-            "flight": "WZ3205",
-            "city": "Yekaterinburg",
-            "status": "지연 (13:43)"
-        },
         {
             "type": "도착",
             "time": "04/15 13:30",
             "timestamp": 1776234600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:18)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:41)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776239100,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "도착예정 (14:32)"
+            "status": "도착예정 (14:30)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776240600,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:51)"
+            "status": "도착예정 (14:49)"
         },
         {
             "type": "출발",
