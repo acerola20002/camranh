@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 03:40:22",
-    "version": 1776310822,
+    "lastUpdate": "2026-04-16 03:50:19",
+    "version": 1776311419,
     "data": [
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776309600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:20)"
+            "status": "지연 (11:56)"
         },
         {
             "type": "도착",
@@ -585,6 +585,14 @@ const flightInfo = {
             "flight": "CZ6049",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 15:45",
+            "timestamp": 1776415500,
+            "flight": "WZ3206",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
         }
     ]
 };
