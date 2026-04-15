@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 20:20:18",
-    "version": 1776284418,
+    "lastUpdate": "2026-04-15 20:30:23",
+    "version": 1776285023,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776260400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:16)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776268200,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:17)"
+            "status": "도착예정 (22:19)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776268500,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:04)"
+            "status": "도착예정 (23:00)"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:00)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776271500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:44)"
+            "status": "도착예정 (23:42)"
         },
         {
             "type": "출발",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1776274500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:23)"
+            "status": "도착예정 (00:27)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1776275100,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:40)"
+            "status": "도착예정 (00:42)"
         },
         {
             "type": "출발",
