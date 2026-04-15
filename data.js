@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 12:00:30",
-    "version": 1776254430,
+    "lastUpdate": "2026-04-15 12:10:18",
+    "version": 1776255018,
     "data": [
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776234600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:19)"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "예정"
+            "status": "도착예정 (17:24)"
         },
         {
             "type": "도착",
@@ -673,6 +673,22 @@ const flightInfo = {
             "flight": "ZE561",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 00:05",
+            "timestamp": 1776359100,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 00:05",
+            "timestamp": 1776359100,
+            "flight": "TW38",
+            "city": "대구",
+            "status": "출발예정"
         }
     ]
 };
