@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 15:10:21",
-    "version": 1776265821,
+    "lastUpdate": "2026-04-15 15:20:18",
+    "version": 1776266418,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 15:10",
-            "timestamp": 1776240600,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "04/15 16:00",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:16)"
+            "status": "도착예정 (18:14)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776252900,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:14)"
+            "status": "도착예정 (18:12)"
         },
         {
             "type": "출발",
