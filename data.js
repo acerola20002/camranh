@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 01:10:19",
-    "version": 1776301819,
+    "lastUpdate": "2026-04-16 01:20:33",
+    "version": 1776302433,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776278700,
             "flight": "TW46",
             "city": "청주",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -544,6 +544,14 @@ const flightInfo = {
             "timestamp": 1776402600,
             "flight": "TR549",
             "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 13:15",
+            "timestamp": 1776406500,
+            "flight": "SU841",
+            "city": "Irkutsk",
             "status": "출발예정"
         }
     ]
