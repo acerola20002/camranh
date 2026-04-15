@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 23:50:19",
-    "version": 1776297019,
+    "lastUpdate": "2026-04-16 00:00:28",
+    "version": 1776297628,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 23:55",
-            "timestamp": 1776272100,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "지연 (00:12)"
-        },
         {
             "type": "출발",
             "time": "04/16 00:05",
             "timestamp": 1776272700,
             "flight": "RS528",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776272700,
             "flight": "TW38",
             "city": "대구",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776274500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:18)"
+            "status": "도착예정 (00:24)"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776306600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:01)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
