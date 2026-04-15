@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 23:10:21",
-    "version": 1776294621,
+    "lastUpdate": "2026-04-15 23:20:26",
+    "version": 1776295226,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 23:15",
-            "timestamp": 1776269700,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/15 23:20",
             "timestamp": 1776270000,
             "flight": "BX782",
             "city": "부산",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776270600,
             "flight": "RF558",
             "city": "청주",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776270600,
             "flight": "TW34",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776271500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:36)"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776271500,
             "flight": "VN434",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
