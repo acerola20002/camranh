@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 22:50:17",
-    "version": 1776293417,
+    "lastUpdate": "2026-04-15 23:00:31",
+    "version": 1776294031,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 22:50",
-            "timestamp": 1776268200,
-            "flight": "TW37",
-            "city": "대구",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/15 22:55",
-            "timestamp": 1776268500,
-            "flight": "RS527",
-            "city": "인천",
-            "status": "도착예정 (23:00)"
-        },
-        {
-            "type": "출발",
-            "time": "04/15 22:55",
-            "timestamp": 1776268500,
-            "flight": "VJ834",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/15 23:05",
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:53)"
+            "status": "도착예정 (22:54)"
         },
         {
             "type": "출발",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776270600,
             "flight": "RF558",
             "city": "청주",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776270600,
             "flight": "TW34",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
