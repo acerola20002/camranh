@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 13:50:19",
-    "version": 1776261019,
+    "lastUpdate": "2026-04-15 14:00:28",
+    "version": 1776261628,
     "data": [
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:24)"
+            "status": "도착예정 (18:22)"
         },
         {
             "type": "도착",
