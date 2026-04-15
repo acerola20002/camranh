@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 21:57:06",
-    "version": 1776290226,
+    "lastUpdate": "2026-04-15 22:00:28",
+    "version": 1776290428,
     "data": [
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776271500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:38)"
+            "status": "도착예정 (23:40)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776275100,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:42)"
+            "status": "도착예정 (00:38)"
         },
         {
             "type": "출발",
@@ -616,6 +616,14 @@ const flightInfo = {
             "timestamp": 1776393900,
             "flight": "VN441",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 10:00",
+            "timestamp": 1776394800,
+            "flight": "FD646",
+            "city": "방콕",
             "status": "예정"
         }
     ]
