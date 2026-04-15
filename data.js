@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 12:10:18",
-    "version": 1776255018,
+    "lastUpdate": "2026-04-15 12:20:16",
+    "version": 1776255616,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 12:10",
-            "timestamp": 1776229800,
-            "flight": "SU840",
-            "city": "Irkutsk",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "04/15 13:15",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (13:36)"
+            "status": "지연 (13:45)"
         },
         {
             "type": "도착",
@@ -688,6 +680,14 @@ const flightInfo = {
             "timestamp": 1776359100,
             "flight": "TW38",
             "city": "대구",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 00:20",
+            "timestamp": 1776360000,
+            "flight": "KE468",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
