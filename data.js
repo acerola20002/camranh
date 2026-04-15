@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 21:10:19",
-    "version": 1776287419,
+    "lastUpdate": "2026-04-15 21:20:18",
+    "version": 1776288018,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776264600,
             "flight": "BX788",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776266100,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776266400,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:06)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776267000,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:49)"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:04)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1776272100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:10)"
+            "status": "지연 (00:12)"
         },
         {
             "type": "출발",
