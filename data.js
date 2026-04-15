@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 11:30:22",
-    "version": 1776252622,
+    "lastUpdate": "2026-04-15 11:40:18",
+    "version": 1776253218,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 11:30",
-            "timestamp": 1776227400,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/15 12:10",
             "timestamp": 1776229800,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (11:41)"
+            "status": "도착예정 (11:47)"
         },
         {
             "type": "출발",
