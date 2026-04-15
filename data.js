@@ -1,31 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 10:00:28",
-    "version": 1776247228,
+    "lastUpdate": "2026-04-15 10:10:15",
+    "version": 1776247815,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 10:00",
-            "timestamp": 1776222000,
-            "flight": "FD646",
-            "city": "방콕",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "04/15 10:00",
-            "timestamp": 1776222000,
-            "flight": "HH2240",
-            "city": "Tashkent",
-            "status": "출발완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/15 10:05",
-            "timestamp": 1776222300,
-            "flight": "CZ8475",
-            "city": "Guangzhou",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "04/15 10:30",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776224100,
             "flight": "VJ730",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776227100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "도착예정 (11:33)"
+            "status": "도착예정 (11:30)"
         },
         {
             "type": "출발",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776229800,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (11:35)"
+            "status": "도착예정 (11:41)"
         },
         {
             "type": "출발",
@@ -96,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (13:36)"
+            "status": "지연 (13:41)"
         },
         {
             "type": "도착",
@@ -112,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:36)"
+            "status": "도착예정 (13:34)"
         },
         {
             "type": "출발",
