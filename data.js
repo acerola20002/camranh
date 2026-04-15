@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 01:20:33",
-    "version": 1776302433,
+    "lastUpdate": "2026-04-16 01:30:42",
+    "version": 1776303042,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776278100,
             "flight": "7C2304",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -553,6 +553,14 @@ const flightInfo = {
             "flight": "SU841",
             "city": "Irkutsk",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 13:30",
+            "timestamp": 1776407400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
