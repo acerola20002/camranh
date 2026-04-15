@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 23:00:31",
-    "version": 1776294031,
+    "lastUpdate": "2026-04-15 23:10:21",
+    "version": 1776294621,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 23:05",
-            "timestamp": 1776269100,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착예정 (22:54)"
-        },
         {
             "type": "출발",
             "time": "04/15 23:15",
             "timestamp": 1776269700,
             "flight": "WE206",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776270000,
             "flight": "BX782",
             "city": "부산",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776275100,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:38)"
+            "status": "도착예정 (00:36)"
         },
         {
             "type": "출발",
@@ -616,6 +608,14 @@ const flightInfo = {
             "timestamp": 1776396900,
             "flight": "VJ730",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 11:05",
+            "timestamp": 1776398700,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
             "status": "출발예정"
         }
     ]
