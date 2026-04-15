@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 13:40:17",
-    "version": 1776260417,
+    "lastUpdate": "2026-04-15 13:50:19",
+    "version": 1776261019,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:40)"
+            "status": "도착예정 (13:42)"
         },
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776237600,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:22)"
+            "status": "도착예정 (18:24)"
         },
         {
             "type": "도착",
@@ -696,6 +696,14 @@ const flightInfo = {
             "timestamp": 1776362400,
             "flight": "ZE562",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 01:45",
+            "timestamp": 1776365100,
+            "flight": "TW46",
+            "city": "청주",
             "status": "출발예정"
         }
     ]
