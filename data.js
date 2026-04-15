@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 22:20:17",
-    "version": 1776291617,
+    "lastUpdate": "2026-04-15 22:30:23",
+    "version": 1776292223,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 22:20",
-            "timestamp": 1776266400,
-            "flight": "BX781",
-            "city": "부산",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/15 22:30",
             "timestamp": 1776267000,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:18)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776268200,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:21)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776268500,
             "flight": "VJ834",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776272100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:08)"
+            "status": "도착예정 (00:04)"
         },
         {
             "type": "출발",
@@ -641,6 +633,22 @@ const flightInfo = {
             "flight": "EO3545",
             "city": "Moscow",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 10:30",
+            "timestamp": 1776396600,
+            "flight": "VN435",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 10:30",
+            "timestamp": 1776396600,
+            "flight": "FD647",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
