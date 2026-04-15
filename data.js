@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 00:20:18",
-    "version": 1776298818,
+    "lastUpdate": "2026-04-16 00:30:23",
+    "version": 1776299423,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 00:20",
-            "timestamp": 1776273600,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/16 00:35",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776275100,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:44)"
+            "status": "도착예정 (00:38)"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776275700,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776276000,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
