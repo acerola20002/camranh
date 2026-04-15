@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 12:20:16",
-    "version": 1776255616,
+    "lastUpdate": "2026-04-15 12:30:21",
+    "version": 1776256221,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (13:45)"
+            "status": "지연 (13:43)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:41)"
+            "status": "도착예정 (13:38)"
         },
         {
             "type": "출발",
