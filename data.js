@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 10:10:15",
-    "version": 1776247815,
+    "lastUpdate": "2026-04-15 10:20:17",
+    "version": 1776248417,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776223800,
             "flight": "FD647",
             "city": "방콕",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (13:41)"
+            "status": "도착예정 (13:36)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:34)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "출발",
@@ -617,6 +617,22 @@ const flightInfo = {
             "flight": "BX788",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 22:15",
+            "timestamp": 1776352500,
+            "flight": "WE205",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 22:20",
+            "timestamp": 1776352800,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
