@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 20:10:20",
-    "version": 1776283820,
+    "lastUpdate": "2026-04-15 20:20:18",
+    "version": 1776284418,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776260400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:16)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776266400,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776268500,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:00)"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:04)"
+            "status": "도착예정 (23:00)"
         },
         {
             "type": "출발",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776272100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:10)"
+            "status": "지연 (00:12)"
         },
         {
             "type": "출발",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1776274500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:25)"
+            "status": "도착예정 (00:23)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1776275100,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:42)"
+            "status": "도착예정 (00:40)"
         },
         {
             "type": "출발",
