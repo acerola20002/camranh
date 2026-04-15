@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 23:40:21",
-    "version": 1776296421,
+    "lastUpdate": "2026-04-15 23:50:19",
+    "version": 1776297019,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 23:45",
-            "timestamp": 1776271500,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "도착예정 (23:38)"
-        },
-        {
-            "type": "출발",
-            "time": "04/15 23:45",
-            "timestamp": 1776271500,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/15 23:55",
             "timestamp": 1776272100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:08)"
+            "status": "지연 (00:12)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776273600,
             "flight": "KE468",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776274500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:16)"
+            "status": "도착예정 (00:18)"
         },
         {
             "type": "도착",
@@ -128,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776306600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -600,6 +584,14 @@ const flightInfo = {
             "timestamp": 1776400200,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 11:50",
+            "timestamp": 1776401400,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
