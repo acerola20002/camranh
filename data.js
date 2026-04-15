@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 22:30:23",
-    "version": 1776292223,
+    "lastUpdate": "2026-04-15 22:40:24",
+    "version": 1776292824,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 22:30",
-            "timestamp": 1776267000,
-            "flight": "RF557",
-            "city": "청주",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/15 22:30",
-            "timestamp": 1776267000,
-            "flight": "TW33",
-            "city": "인천",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/15 22:50",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:55)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -136,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776274500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:21)"
+            "status": "도착예정 (00:16)"
         },
         {
             "type": "도착",
@@ -648,6 +632,14 @@ const flightInfo = {
             "timestamp": 1776396600,
             "flight": "FD647",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 10:35",
+            "timestamp": 1776396900,
+            "flight": "VJ730",
+            "city": "Haiphong",
             "status": "출발예정"
         }
     ]
