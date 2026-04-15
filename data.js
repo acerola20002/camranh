@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 22:00:28",
-    "version": 1776290428,
+    "lastUpdate": "2026-04-15 22:10:18",
+    "version": 1776291018,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776266400,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:04)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776267000,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:19)"
+            "status": "도착예정 (22:16)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -624,6 +624,14 @@ const flightInfo = {
             "timestamp": 1776394800,
             "flight": "FD646",
             "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 10:05",
+            "timestamp": 1776395100,
+            "flight": "CZ8475",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
