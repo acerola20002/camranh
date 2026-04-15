@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 01:30:42",
-    "version": 1776303042,
+    "lastUpdate": "2026-04-16 01:40:22",
+    "version": 1776303622,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 01:35",
-            "timestamp": 1776278100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/16 01:45",
             "timestamp": 1776278700,
             "flight": "TW46",
             "city": "청주",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
