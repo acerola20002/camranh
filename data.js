@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 07:10:19",
-    "version": 1776237019,
+    "lastUpdate": "2026-04-15 07:20:18",
+    "version": 1776237618,
     "data": [
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776224700,
             "flight": "VN435",
             "city": "부산",
-            "status": "지연 (11:18)"
+            "status": "지연 (11:16)"
         },
         {
             "type": "출발",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:09)"
+            "status": "도착예정 (14:06)"
         },
         {
             "type": "출발",
