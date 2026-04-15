@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 15:20:18",
-    "version": 1776266418,
+    "lastUpdate": "2026-04-15 15:30:22",
+    "version": 1776267022,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776243600,
             "flight": "CZ6050",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776252900,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:14)"
         },
         {
             "type": "출발",
