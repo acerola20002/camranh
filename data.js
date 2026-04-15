@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 03:00:24",
-    "version": 1776308424,
+    "lastUpdate": "2026-04-16 03:10:48",
+    "version": 1776309048,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776283800,
             "flight": "VJ918",
             "city": "부산",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -584,6 +584,14 @@ const flightInfo = {
             "timestamp": 1776411900,
             "flight": "VJ731",
             "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 15:10",
+            "timestamp": 1776413400,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
