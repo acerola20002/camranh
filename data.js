@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 14:40:19",
-    "version": 1776264019,
+    "lastUpdate": "2026-04-15 14:50:18",
+    "version": 1776264618,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 14:45",
-            "timestamp": 1776239100,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:40)"
-        },
         {
             "type": "출발",
             "time": "04/15 14:55",
             "timestamp": 1776239700,
             "flight": "WZ3202",
             "city": "Moscow",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776240600,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (15:01)"
+            "status": "도착예정 (14:56)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:14)"
+            "status": "도착예정 (18:12)"
         },
         {
             "type": "도착",
