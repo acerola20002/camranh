@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 22:10:18",
-    "version": 1776291018,
+    "lastUpdate": "2026-04-15 22:20:17",
+    "version": 1776291617,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 22:15",
-            "timestamp": 1776266100,
-            "flight": "WE205",
-            "city": "인천",
-            "status": "도착예정 (21:55)"
-        },
         {
             "type": "도착",
             "time": "04/15 22:20",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776267000,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:16)"
+            "status": "도착예정 (22:18)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776268200,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:22)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776269100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:55)"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -632,6 +624,22 @@ const flightInfo = {
             "timestamp": 1776395100,
             "flight": "CZ8475",
             "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 10:20",
+            "timestamp": 1776396000,
+            "flight": "HH2231",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 10:20",
+            "timestamp": 1776396000,
+            "flight": "EO3545",
+            "city": "Moscow",
             "status": "예정"
         }
     ]
