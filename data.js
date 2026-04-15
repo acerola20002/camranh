@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 11:20:16",
-    "version": 1776252016,
+    "lastUpdate": "2026-04-15 11:30:22",
+    "version": 1776252622,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 11:25",
-            "timestamp": 1776227100,
-            "flight": "ZF2501",
-            "city": "Moscow",
-            "status": "도착예정 (11:37)"
-        },
         {
             "type": "출발",
             "time": "04/15 11:30",
             "timestamp": 1776227400,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (13:51)"
+            "status": "지연 (13:47)"
         },
         {
             "type": "도착",
@@ -656,6 +648,14 @@ const flightInfo = {
             "timestamp": 1776356400,
             "flight": "BX782",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 23:30",
+            "timestamp": 1776357000,
+            "flight": "TW34",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
