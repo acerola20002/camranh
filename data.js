@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 11:10:16",
-    "version": 1776251416,
+    "lastUpdate": "2026-04-15 11:20:16",
+    "version": 1776252016,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776227400,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (13:45)"
+            "status": "지연 (13:51)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:36)"
+            "status": "도착예정 (13:38)"
         },
         {
             "type": "출발",
@@ -641,6 +641,22 @@ const flightInfo = {
             "flight": "KE467",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 23:15",
+            "timestamp": 1776356100,
+            "flight": "WE206",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 23:20",
+            "timestamp": 1776356400,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
