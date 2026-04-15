@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 16:50:20",
-    "version": 1776271820,
+    "lastUpdate": "2026-04-15 17:00:27",
+    "version": 1776272427,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:20)"
+            "status": "도착예정 (18:18)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776252900,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:14)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776260400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:26)"
+            "status": "도착예정 (20:28)"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776266100,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:04)"
         },
         {
             "type": "도착",
