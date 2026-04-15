@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 07:00:28",
-    "version": 1776236428,
+    "lastUpdate": "2026-04-15 07:10:19",
+    "version": 1776237019,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776216600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:08)"
+            "status": "도착예정 (08:10)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776220200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:48)"
+            "status": "도착예정 (09:44)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776220500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776227100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "도착예정 (11:24)"
+            "status": "도착예정 (11:26)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776229800,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (11:35)"
+            "status": "도착예정 (11:39)"
         },
         {
             "type": "출발",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (14:15)"
+            "status": "도착예정 (13:09)"
         },
         {
             "type": "출발",
@@ -393,6 +393,14 @@ const flightInfo = {
             "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 00:35",
+            "timestamp": 1776274500,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
         },
         {
             "type": "도착",
