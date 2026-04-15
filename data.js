@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 00:40:19",
-    "version": 1776300019,
+    "lastUpdate": "2026-04-16 00:50:20",
+    "version": 1776300620,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 00:45",
-            "timestamp": 1776275100,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:38)"
-        },
         {
             "type": "출발",
             "time": "04/16 00:55",
             "timestamp": 1776275700,
             "flight": "LJ88",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776276000,
             "flight": "ZE562",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
