@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 13:10:20",
-    "version": 1776258620,
+    "lastUpdate": "2026-04-15 13:20:16",
+    "version": 1776259216,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 13:15",
-            "timestamp": 1776233700,
-            "flight": "SU841",
-            "city": "Irkutsk",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/15 13:25",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776234600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:18)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:45)"
+            "status": "도착예정 (13:43)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776240600,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:49)"
+            "status": "도착예정 (14:51)"
         },
         {
             "type": "출발",
@@ -311,6 +303,14 @@ const flightInfo = {
             "time": "04/16 01:00",
             "timestamp": 1776276000,
             "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 01:35",
+            "timestamp": 1776278100,
+            "flight": "7C2304",
             "city": "인천",
             "status": "출발예정"
         },
