@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 10:50:18",
-    "version": 1776250218,
+    "lastUpdate": "2026-04-15 11:00:29",
+    "version": 1776250829,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776225900,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776227100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "도착예정 (11:33)"
+            "status": "도착예정 (11:30)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776227400,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:34)"
         },
         {
             "type": "출발",
@@ -625,6 +625,22 @@ const flightInfo = {
             "flight": "TW37",
             "city": "대구",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 22:55",
+            "timestamp": 1776354900,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 22:55",
+            "timestamp": 1776354900,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
