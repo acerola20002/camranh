@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 18:20:21",
-    "version": 1776277221,
+    "lastUpdate": "2026-04-15 18:30:22",
+    "version": 1776277822,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 18:20",
-            "timestamp": 1776252000,
-            "flight": "SU832",
-            "city": "Vladivostok",
-            "status": "도착예정 (18:19)"
-        },
         {
             "type": "도착",
             "time": "04/15 18:35",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776260400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:20)"
+            "status": "도착예정 (20:22)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776266100,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:00)"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776267000,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:10)"
+            "status": "도착예정 (22:18)"
         },
         {
             "type": "도착",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776268200,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:31)"
+            "status": "도착예정 (22:34)"
         },
         {
             "type": "도착",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776268500,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
