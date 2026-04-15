@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 01:50:21",
-    "version": 1776304221,
+    "lastUpdate": "2026-04-16 02:00:48",
+    "version": 1776304848,
     "data": [
         {
             "type": "출발",
