@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 02:10:33",
-    "version": 1776305433,
+    "lastUpdate": "2026-04-16 02:20:36",
+    "version": 1776306036,
     "data": [
         {
             "type": "출발",
@@ -144,6 +144,14 @@ const flightInfo = {
             "timestamp": 1776316200,
             "flight": "TR549",
             "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/16 12:50",
+            "timestamp": 1776318600,
+            "flight": "ZF2538",
+            "city": "Yekaterinburg",
             "status": "출발예정"
         },
         {
@@ -553,6 +561,22 @@ const flightInfo = {
             "flight": "SU598",
             "city": "Moscow",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 14:15",
+            "timestamp": 1776410100,
+            "flight": "WZ3201",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 14:20",
+            "timestamp": 1776410400,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
