@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 01:40:22",
-    "version": 1776303622,
+    "lastUpdate": "2026-04-16 01:49:14",
+    "version": 1776304154,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 01:45",
-            "timestamp": 1776278700,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/16 03:10",
