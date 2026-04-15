@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 18:10:16",
-    "version": 1776276616,
+    "lastUpdate": "2026-04-15 18:20:21",
+    "version": 1776277221,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:17)"
+            "status": "도착예정 (18:19)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776252900,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:15)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776260400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:22)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "출발",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776267000,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:04)"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776267000,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:58)"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776268200,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:17)"
+            "status": "도착예정 (22:31)"
         },
         {
             "type": "도착",
