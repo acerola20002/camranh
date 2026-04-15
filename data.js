@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 10:40:16",
-    "version": 1776249616,
+    "lastUpdate": "2026-04-15 10:50:18",
+    "version": 1776250218,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/15 10:45",
-            "timestamp": 1776224700,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "지연 (11:07)"
-        },
         {
             "type": "출발",
             "time": "04/15 11:05",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (13:34)"
+            "status": "도착예정 (13:36)"
         },
         {
             "type": "도착",
@@ -624,6 +616,14 @@ const flightInfo = {
             "timestamp": 1776353400,
             "flight": "TW33",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/16 22:50",
+            "timestamp": 1776354600,
+            "flight": "TW37",
+            "city": "대구",
             "status": "예정"
         }
     ]
