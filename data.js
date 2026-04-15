@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 14:30:28",
-    "version": 1776263428,
+    "lastUpdate": "2026-04-15 14:40:19",
+    "version": 1776264019,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776239100,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "도착예정 (14:36)"
+            "status": "도착예정 (14:40)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776240600,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:53)"
+            "status": "도착예정 (15:01)"
         },
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:18)"
+            "status": "도착예정 (18:14)"
         },
         {
             "type": "도착",
