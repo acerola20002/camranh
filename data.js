@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 14:00:28",
-    "version": 1776261628,
+    "lastUpdate": "2026-04-15 14:10:19",
+    "version": 1776262219,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776237600,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776252000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (18:22)"
+            "status": "도착예정 (18:18)"
         },
         {
             "type": "도착",
