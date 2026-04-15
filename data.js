@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 10:30:21",
-    "version": 1776249021,
+    "lastUpdate": "2026-04-15 10:40:16",
+    "version": 1776249616,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/15 10:30",
-            "timestamp": 1776223800,
-            "flight": "FD647",
-            "city": "방콕",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "04/15 10:35",
-            "timestamp": 1776224100,
-            "flight": "VJ730",
-            "city": "Haiphong",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/15 10:45",
             "timestamp": 1776224700,
             "flight": "VN435",
             "city": "부산",
-            "status": "지연 (11:09)"
+            "status": "지연 (11:07)"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776225900,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776227100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "도착예정 (11:28)"
+            "status": "도착예정 (11:33)"
         },
         {
             "type": "출발",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776234300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:34)"
         },
         {
             "type": "도착",
