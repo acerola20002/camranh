@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-15 12:40:17",
-    "version": 1776256817,
+    "lastUpdate": "2026-04-15 12:50:17",
+    "version": 1776257417,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776233700,
             "flight": "SU841",
             "city": "Irkutsk",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776234600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776237000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:41)"
+            "status": "도착예정 (13:43)"
         },
         {
             "type": "출발",
@@ -689,6 +689,14 @@ const flightInfo = {
             "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 00:45",
+            "timestamp": 1776361500,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
         }
     ]
 };
