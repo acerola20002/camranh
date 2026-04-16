@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 21:40:23",
-    "version": 1776375623,
+    "lastUpdate": "2026-04-16 21:50:20",
+    "version": 1776376220,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776351000,
             "flight": "BX788",
             "city": "인천",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776352500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:52)"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776354600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:23)"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:36)"
+            "status": "도착예정 (00:33)"
         },
         {
             "type": "도착",
@@ -632,6 +632,14 @@ const flightInfo = {
             "timestamp": 1776480000,
             "flight": "ZF2577",
             "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 09:45",
+            "timestamp": 1776480300,
+            "flight": "VN441",
+            "city": "인천",
             "status": "예정"
         }
     ]
