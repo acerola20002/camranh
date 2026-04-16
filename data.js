@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 21:10:51",
-    "version": 1776373851,
+    "lastUpdate": "2026-04-16 21:20:22",
+    "version": 1776374422,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776351000,
             "flight": "BX788",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776352500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:53)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776354900,
             "flight": "RS527",
             "city": "인천",
-            "status": "지연 (23:44)"
+            "status": "지연 (23:46)"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776355500,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:49)"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776357900,
             "flight": "LJ87",
             "city": "인천",
-            "status": "지연 (00:06)"
+            "status": "지연 (00:01)"
         },
         {
             "type": "출발",
@@ -152,7 +152,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:36)"
+            "status": "도착예정 (00:33)"
         },
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776361500,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:55)"
+            "status": "도착예정 (00:53)"
         },
         {
             "type": "출발",
