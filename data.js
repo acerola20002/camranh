@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 12:50:16",
-    "version": 1776343816,
+    "lastUpdate": "2026-04-16 13:00:26",
+    "version": 1776344426,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 12:50",
-            "timestamp": 1776318600,
-            "flight": "ZF2538",
-            "city": "Yekaterinburg",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/16 13:30",
             "timestamp": 1776321000,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:30)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:15)"
+            "status": "도착예정 (13:10)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776327000,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (14:51)"
         },
         {
             "type": "도착",
@@ -655,6 +647,22 @@ const flightInfo = {
             "time": "04/18 00:20",
             "timestamp": 1776446400,
             "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 00:55",
+            "timestamp": 1776448500,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 01:00",
+            "timestamp": 1776448800,
+            "flight": "ZE562",
             "city": "인천",
             "status": "출발예정"
         }
