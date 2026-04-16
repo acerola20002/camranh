@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 07:30:20",
-    "version": 1776324620,
+    "lastUpdate": "2026-04-16 07:40:16",
+    "version": 1776325216,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776306600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:08)"
+            "status": "도착예정 (09:10)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776307500,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776309600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:05)"
+            "status": "도착예정 (10:07)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776310200,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:31)"
+            "status": "도착예정 (10:26)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:47)"
+            "status": "도착예정 (13:45)"
         },
         {
             "type": "출발",
@@ -192,7 +192,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:17)"
+            "status": "도착예정 (15:14)"
         },
         {
             "type": "출발",
@@ -633,6 +633,14 @@ const flightInfo = {
             "flight": "3U3939",
             "city": "청두",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 19:35",
+            "timestamp": 1776429300,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
         }
     ]
 };
