@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 20:40:22",
-    "version": 1776372022,
+    "lastUpdate": "2026-04-16 20:50:21",
+    "version": 1776372621,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 20:40",
-            "timestamp": 1776346800,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "04/16 21:35",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776354600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:32)"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776354900,
             "flight": "RS527",
             "city": "인천",
-            "status": "지연 (23:49)"
+            "status": "지연 (23:46)"
         },
         {
             "type": "출발",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776357900,
             "flight": "LJ87",
             "city": "인천",
-            "status": "지연 (00:04)"
+            "status": "지연 (00:06)"
         },
         {
             "type": "출발",
@@ -128,7 +120,7 @@ const flightInfo = {
             "timestamp": 1776358500,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:57)"
+            "status": "도착예정 (23:55)"
         },
         {
             "type": "출발",
@@ -160,7 +152,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:36)"
+            "status": "도착예정 (00:33)"
         },
         {
             "type": "도착",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776361500,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:53)"
+            "status": "도착예정 (00:55)"
         },
         {
             "type": "출발",
