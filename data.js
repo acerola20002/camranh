@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 20:20:21",
-    "version": 1776370821,
+    "lastUpdate": "2026-04-16 20:30:28",
+    "version": 1776371428,
     "data": [
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776354900,
             "flight": "RS527",
             "city": "인천",
-            "status": "지연 (23:49)"
+            "status": "지연 (23:44)"
         },
         {
             "type": "출발",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776355500,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:51)"
+            "status": "도착예정 (22:49)"
         },
         {
             "type": "출발",
@@ -617,6 +617,14 @@ const flightInfo = {
             "flight": "SU833",
             "city": "Vladivostok",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 08:25",
+            "timestamp": 1776475500,
+            "flight": "SU836",
+            "city": "Yekaterinburg",
+            "status": "예정"
         }
     ]
 };
