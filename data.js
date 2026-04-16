@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 18:10:19",
-    "version": 1776363019,
+    "lastUpdate": "2026-04-16 18:20:17",
+    "version": 1776363617,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776346800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:11)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776352500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:15)"
+            "status": "도착예정 (22:13)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:00)"
+            "status": "도착예정 (22:02)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776354600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:45)"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776355500,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:49)"
         },
         {
             "type": "출발",
