@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 14:50:20",
-    "version": 1776351020,
+    "lastUpdate": "2026-04-16 15:00:26",
+    "version": 1776351626,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776327000,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:58)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:06)"
+            "status": "도착예정 (15:05)"
         },
         {
             "type": "출발",
