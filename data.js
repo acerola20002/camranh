@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 15:10:21",
-    "version": 1776352221,
+    "lastUpdate": "2026-04-16 15:20:21",
+    "version": 1776352821,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 15:10",
-            "timestamp": 1776327000,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/16 15:30",
