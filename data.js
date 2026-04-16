@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 07:10:17",
-    "version": 1776323417,
+    "lastUpdate": "2026-04-16 07:20:16",
+    "version": 1776324016,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776306600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:08)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776310200,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:31)"
+            "status": "도착예정 (10:29)"
         },
         {
             "type": "출발",
@@ -369,6 +369,14 @@ const flightInfo = {
             "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 00:35",
+            "timestamp": 1776360900,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
         },
         {
             "type": "도착",
