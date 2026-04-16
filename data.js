@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 11:20:18",
-    "version": 1776338418,
+    "lastUpdate": "2026-04-16 11:30:20",
+    "version": 1776339020,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:25)"
+            "status": "도착예정 (11:27)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776315600,
             "flight": "AK205",
             "city": "Kuala Lumpur",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:13)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:00)"
+            "status": "도착예정 (14:57)"
         },
         {
             "type": "출발",
@@ -640,6 +640,30 @@ const flightInfo = {
             "timestamp": 1776442800,
             "flight": "BX782",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 23:30",
+            "timestamp": 1776443400,
+            "flight": "RF558",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 23:30",
+            "timestamp": 1776443400,
+            "flight": "TW34",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 23:30",
+            "timestamp": 1776443400,
+            "flight": "EO3548",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
