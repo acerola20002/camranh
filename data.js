@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 17:30:23",
-    "version": 1776360623,
+    "lastUpdate": "2026-04-16 17:40:18",
+    "version": 1776361218,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 17:30",
-            "timestamp": 1776335400,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/16 20:40",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:00)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776353400,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
