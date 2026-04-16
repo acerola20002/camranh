@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 12:00:23",
-    "version": 1776340823,
+    "lastUpdate": "2026-04-16 12:10:19",
+    "version": 1776341419,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 12:00",
-            "timestamp": 1776315600,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/16 12:10",
             "timestamp": 1776316200,
             "flight": "TR549",
             "city": "Singapore",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776321000,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:30)"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "출발",
@@ -657,6 +649,14 @@ const flightInfo = {
             "flight": "ZE561",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 00:05",
+            "timestamp": 1776445500,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
