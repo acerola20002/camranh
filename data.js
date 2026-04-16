@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 20:30:28",
-    "version": 1776371428,
+    "lastUpdate": "2026-04-16 20:40:22",
+    "version": 1776372022,
     "data": [
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776354900,
             "flight": "RS527",
             "city": "인천",
-            "status": "지연 (23:44)"
+            "status": "지연 (23:49)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776357900,
             "flight": "LJ87",
             "city": "인천",
-            "status": "지연 (00:06)"
+            "status": "지연 (00:04)"
         },
         {
             "type": "출발",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776358500,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (23:57)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:31)"
+            "status": "도착예정 (00:36)"
         },
         {
             "type": "도착",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1776361500,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:57)"
+            "status": "도착예정 (00:53)"
         },
         {
             "type": "출발",
