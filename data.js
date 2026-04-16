@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 09:30:24",
-    "version": 1776331824,
+    "lastUpdate": "2026-04-16 09:40:16",
+    "version": 1776332416,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 09:30",
-            "timestamp": 1776306600,
-            "flight": "SU294",
-            "city": "Moscow",
-            "status": "도착예정 (09:25)"
-        },
-        {
-            "type": "도착",
-            "time": "04/16 09:35",
-            "timestamp": 1776306900,
-            "flight": "VJ835",
-            "city": "인천",
-            "status": "도착예정 (09:32)"
-        },
         {
             "type": "도착",
             "time": "04/16 09:45",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776308400,
             "flight": "FD646",
             "city": "방콕",
-            "status": "도착예정 (09:46)"
+            "status": "도착예정 (09:45)"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776308700,
             "flight": "CZ8475",
             "city": "Guangzhou",
-            "status": "도착예정 (09:52)"
+            "status": "도착예정 (09:48)"
         },
         {
             "type": "도착",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "예정"
+            "status": "도착예정 (11:28)"
         },
         {
             "type": "출발",
@@ -144,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:15)"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "도착",
@@ -176,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:21)"
+            "status": "도착예정 (15:38)"
         },
         {
             "type": "출발",
@@ -641,6 +625,14 @@ const flightInfo = {
             "flight": "BX787",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 21:35",
+            "timestamp": 1776436500,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
