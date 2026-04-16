@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 19:50:17",
-    "version": 1776369017,
+    "lastUpdate": "2026-04-16 20:00:31",
+    "version": 1776369631,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776346800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:06)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (21:53)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776354600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:36)"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "도착",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776357900,
             "flight": "LJ87",
             "city": "인천",
-            "status": "지연 (00:04)"
+            "status": "지연 (00:06)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:33)"
         },
         {
             "type": "도착",
