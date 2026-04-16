@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 16:00:26",
-    "version": 1776355226,
+    "lastUpdate": "2026-04-16 16:10:18",
+    "version": 1776355818,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 16:00",
-            "timestamp": 1776330000,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/16 16:10",
             "timestamp": 1776330600,
             "flight": "SU599",
             "city": "Moscow",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
