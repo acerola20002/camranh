@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 20:00:31",
-    "version": 1776369631,
+    "lastUpdate": "2026-04-16 20:10:21",
+    "version": 1776370221,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776346800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:06)"
+            "status": "도착예정 (20:08)"
         },
         {
             "type": "출발",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776358500,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (23:57)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:33)"
+            "status": "도착예정 (00:36)"
         },
         {
             "type": "도착",
