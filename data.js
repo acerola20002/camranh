@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 16:10:18",
-    "version": 1776355818,
+    "lastUpdate": "2026-04-16 16:20:20",
+    "version": 1776356420,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 16:10",
-            "timestamp": 1776330600,
-            "flight": "SU599",
-            "city": "Moscow",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/16 17:30",
