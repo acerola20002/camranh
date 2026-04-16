@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 11:50:17",
-    "version": 1776340217,
+    "lastUpdate": "2026-04-16 12:00:23",
+    "version": 1776340823,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 11:50",
-            "timestamp": 1776315000,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/16 12:00",
             "timestamp": 1776315600,
             "flight": "AK205",
             "city": "Kuala Lumpur",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776316200,
             "flight": "TR549",
             "city": "Singapore",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:24)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "출발",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:00)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "출발",
@@ -657,6 +649,14 @@ const flightInfo = {
             "flight": "VN434",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 23:55",
+            "timestamp": 1776444900,
+            "flight": "ZE561",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
