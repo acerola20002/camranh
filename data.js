@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 09:00:25",
-    "version": 1776330025,
+    "lastUpdate": "2026-04-16 09:10:20",
+    "version": 1776330620,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 09:00",
-            "timestamp": 1776304800,
-            "flight": "C65538",
-            "city": "Tashkent",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/16 09:30",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776307500,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:29)"
+            "status": "도착예정 (09:34)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776309600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:05)"
+            "status": "도착예정 (10:07)"
         },
         {
             "type": "도착",
@@ -160,7 +152,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:24)"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "출발",
