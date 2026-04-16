@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 10:50:17",
-    "version": 1776336617,
+    "lastUpdate": "2026-04-16 11:00:27",
+    "version": 1776337227,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776312300,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "TR548",
             "city": "Singapore",
-            "status": "도착예정 (11:13)"
+            "status": "도착예정 (11:15)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:02)"
+            "status": "도착예정 (15:00)"
         },
         {
             "type": "출발",
@@ -617,6 +617,22 @@ const flightInfo = {
             "flight": "TW33",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 22:55",
+            "timestamp": 1776441300,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 22:55",
+            "timestamp": 1776441300,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
