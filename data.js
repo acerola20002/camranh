@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 22:00:32",
-    "version": 1776376832,
+    "lastUpdate": "2026-04-16 22:10:23",
+    "version": 1776377423,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776352500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:21)"
+            "status": "도착예정 (22:15)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776353400,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:21)"
+            "status": "도착예정 (22:19)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776354600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:28)"
+            "status": "도착예정 (22:26)"
         },
         {
             "type": "도착",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:31)"
+            "status": "도착예정 (00:36)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776361500,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:53)"
+            "status": "도착예정 (00:48)"
         },
         {
             "type": "출발",
@@ -648,6 +648,14 @@ const flightInfo = {
             "timestamp": 1776481200,
             "flight": "FD646",
             "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 10:05",
+            "timestamp": 1776481500,
+            "flight": "CZ8475",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
