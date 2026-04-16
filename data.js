@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 14:20:17",
-    "version": 1776349217,
+    "lastUpdate": "2026-04-16 14:30:20",
+    "version": 1776349820,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 14:20",
-            "timestamp": 1776324000,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/16 15:10",
             "timestamp": 1776327000,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:51)"
+            "status": "도착예정 (14:57)"
         },
         {
             "type": "도착",
