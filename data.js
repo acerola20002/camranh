@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 08:30:23",
-    "version": 1776328223,
+    "lastUpdate": "2026-04-16 08:40:17",
+    "version": 1776328817,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776306600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:10)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:34)"
+            "status": "도착예정 (13:24)"
         },
         {
             "type": "출발",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:10)"
+            "status": "도착예정 (15:12)"
         },
         {
             "type": "출발",
@@ -641,6 +641,14 @@ const flightInfo = {
             "flight": "3U3940",
             "city": "청두",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 20:40",
+            "timestamp": 1776433200,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
