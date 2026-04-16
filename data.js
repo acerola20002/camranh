@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 21:20:22",
-    "version": 1776374422,
+    "lastUpdate": "2026-04-16 21:30:26",
+    "version": 1776375026,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776350100,
             "flight": "VN440",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776352500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:10)"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:53)"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776354900,
             "flight": "RS527",
             "city": "인천",
-            "status": "지연 (23:46)"
+            "status": "지연 (23:44)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776357900,
             "flight": "LJ87",
             "city": "인천",
-            "status": "지연 (00:01)"
+            "status": "도착예정 (23:59)"
         },
         {
             "type": "출발",
@@ -152,7 +152,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:33)"
+            "status": "도착예정 (00:40)"
         },
         {
             "type": "도착",
@@ -616,6 +616,14 @@ const flightInfo = {
             "timestamp": 1776475500,
             "flight": "SU836",
             "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 09:30",
+            "timestamp": 1776479400,
+            "flight": "SU294",
+            "city": "Moscow",
             "status": "예정"
         }
     ]
