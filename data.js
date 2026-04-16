@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 12:20:20",
-    "version": 1776342020,
+    "lastUpdate": "2026-04-16 12:30:20",
+    "version": 1776342620,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776321000,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:15)"
+            "status": "도착예정 (13:13)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:00)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "출발",
