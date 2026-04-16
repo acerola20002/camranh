@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 10:00:24",
-    "version": 1776333624,
+    "lastUpdate": "2026-04-16 10:10:15",
+    "version": 1776334215,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 10:00",
-            "timestamp": 1776308400,
-            "flight": "FD646",
-            "city": "방콕",
-            "status": "도착예정 (09:47)"
-        },
-        {
-            "type": "도착",
-            "time": "04/16 10:05",
-            "timestamp": 1776308700,
-            "flight": "CZ8475",
-            "city": "Guangzhou",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/16 10:20",
             "timestamp": 1776309600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:06)"
+            "status": "도착예정 (10:07)"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776310200,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:18)"
+            "status": "도착예정 (10:15)"
         },
         {
             "type": "출발",
@@ -128,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:19)"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "출발",
@@ -152,7 +136,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:10)"
+            "status": "도착예정 (15:12)"
         },
         {
             "type": "출발",
