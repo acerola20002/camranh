@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 10:10:15",
-    "version": 1776334215,
+    "lastUpdate": "2026-04-16 10:20:19",
+    "version": 1776334819,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776309600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:07)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776310200,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:15)"
+            "status": "도착예정 (10:17)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776310200,
             "flight": "FD647",
             "city": "방콕",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:28)"
+            "status": "도착예정 (11:30)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "출발",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:12)"
+            "status": "도착예정 (15:00)"
         },
         {
             "type": "출발",
@@ -617,6 +617,14 @@ const flightInfo = {
             "flight": "BX788",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 22:20",
+            "timestamp": 1776439200,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
