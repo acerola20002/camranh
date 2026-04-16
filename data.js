@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 21:50:20",
-    "version": 1776376220,
+    "lastUpdate": "2026-04-16 22:00:32",
+    "version": 1776376832,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 21:50",
-            "timestamp": 1776351000,
-            "flight": "BX788",
-            "city": "인천",
-            "status": "출발완료"
-        },
         {
             "type": "도착",
             "time": "04/16 22:15",
             "timestamp": 1776352500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:10)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:51)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776358500,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:53)"
+            "status": "도착예정 (23:49)"
         },
         {
             "type": "출발",
@@ -144,7 +136,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:33)"
+            "status": "도착예정 (00:31)"
         },
         {
             "type": "도착",
@@ -640,6 +632,22 @@ const flightInfo = {
             "timestamp": 1776480300,
             "flight": "VN441",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 09:55",
+            "timestamp": 1776480900,
+            "flight": "SU837",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 10:00",
+            "timestamp": 1776481200,
+            "flight": "FD646",
+            "city": "방콕",
             "status": "예정"
         }
     ]
