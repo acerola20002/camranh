@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 12:40:21",
-    "version": 1776343221,
+    "lastUpdate": "2026-04-16 12:50:16",
+    "version": 1776343816,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776318600,
             "flight": "ZF2538",
             "city": "Yekaterinburg",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:13)"
+            "status": "도착예정 (13:15)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:19)"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:02)"
+            "status": "도착예정 (15:04)"
         },
         {
             "type": "출발",
