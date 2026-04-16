@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 17:20:20",
-    "version": 1776360020,
+    "lastUpdate": "2026-04-16 17:30:23",
+    "version": 1776360623,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776335400,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776346800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776352500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:00)"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -617,6 +617,14 @@ const flightInfo = {
             "flight": "SU830",
             "city": "Novosibirsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 05:30",
+            "timestamp": 1776465000,
+            "flight": "SU833",
+            "city": "Vladivostok",
+            "status": "출발예정"
         }
     ]
 };
