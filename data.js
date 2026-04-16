@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 12:30:20",
-    "version": 1776342620,
+    "lastUpdate": "2026-04-16 12:40:21",
+    "version": 1776343221,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776318600,
             "flight": "ZF2538",
             "city": "Yekaterinburg",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
