@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 13:00:26",
-    "version": 1776344426,
+    "lastUpdate": "2026-04-16 13:10:20",
+    "version": 1776345020,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:10)"
+            "status": "도착예정 (13:13)"
         },
         {
             "type": "도착",
