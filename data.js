@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 11:30:20",
-    "version": 1776339020,
+    "lastUpdate": "2026-04-16 11:40:18",
+    "version": 1776339618,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 11:30",
-            "timestamp": 1776313800,
-            "flight": "TR548",
-            "city": "Singapore",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/16 11:30",
-            "timestamp": 1776313800,
-            "flight": "AK204",
-            "city": "Kuala Lumpur",
-            "status": "도착예정 (11:27)"
-        },
-        {
-            "type": "출발",
-            "time": "04/16 11:30",
-            "timestamp": 1776313800,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/16 11:50",
             "timestamp": 1776315000,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776316200,
             "flight": "TR549",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776321300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:13)"
+            "status": "도착예정 (13:15)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:19)"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "출발",
@@ -104,7 +80,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:57)"
+            "status": "도착예정 (15:00)"
         },
         {
             "type": "출발",
