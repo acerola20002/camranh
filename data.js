@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 10:20:19",
-    "version": 1776334819,
+    "lastUpdate": "2026-04-16 10:30:21",
+    "version": 1776335421,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 10:20",
-            "timestamp": 1776309600,
-            "flight": "HH2231",
-            "city": "Tashkent",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "04/16 10:30",
             "timestamp": 1776310200,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:17)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776310200,
             "flight": "FD647",
             "city": "방콕",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:30)"
+            "status": "도착예정 (11:28)"
         },
         {
             "type": "출발",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:00)"
+            "status": "도착예정 (14:57)"
         },
         {
             "type": "출발",
@@ -624,6 +616,22 @@ const flightInfo = {
             "timestamp": 1776439200,
             "flight": "BX781",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 22:30",
+            "timestamp": 1776439800,
+            "flight": "RF557",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 22:30",
+            "timestamp": 1776439800,
+            "flight": "TW33",
+            "city": "인천",
             "status": "예정"
         }
     ]
