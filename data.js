@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 10:30:21",
-    "version": 1776335421,
+    "lastUpdate": "2026-04-16 10:40:19",
+    "version": 1776336019,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 10:30",
-            "timestamp": 1776310200,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "04/16 10:30",
-            "timestamp": 1776310200,
-            "flight": "FD647",
-            "city": "방콕",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "04/16 11:05",
             "timestamp": 1776312300,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "출발",
@@ -128,7 +112,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:57)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "출발",
