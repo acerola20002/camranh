@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 11:40:18",
-    "version": 1776339618,
+    "lastUpdate": "2026-04-16 11:50:17",
+    "version": 1776340217,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776315000,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "탑승중"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776315600,
             "flight": "AK205",
             "city": "Kuala Lumpur",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776323400,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:24)"
         },
         {
             "type": "출발",
@@ -640,6 +640,22 @@ const flightInfo = {
             "timestamp": 1776443400,
             "flight": "EO3548",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 23:45",
+            "timestamp": 1776444300,
+            "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/17 23:45",
+            "timestamp": 1776444300,
+            "flight": "VN434",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
