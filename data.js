@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 16:50:19",
-    "version": 1776358219,
+    "lastUpdate": "2026-04-16 17:00:38",
+    "version": 1776358838,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776335400,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
