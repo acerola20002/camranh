@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 15:40:28",
-    "version": 1776354028,
+    "lastUpdate": "2026-04-16 15:50:17",
+    "version": 1776354617,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776330000,
             "flight": "CZ6050",
             "city": "Guangzhou",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776346800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:22)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "출발",
