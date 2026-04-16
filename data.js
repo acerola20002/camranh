@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 21:30:26",
-    "version": 1776375026,
+    "lastUpdate": "2026-04-16 21:40:23",
+    "version": 1776375623,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 21:35",
-            "timestamp": 1776350100,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "04/16 21:50",
             "timestamp": 1776351000,
             "flight": "BX788",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776352800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (21:52)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776353400,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:23)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776354600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:30)"
+            "status": "도착예정 (22:23)"
         },
         {
             "type": "도착",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1776357900,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:59)"
+            "status": "지연 (00:01)"
         },
         {
             "type": "출발",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1776360900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:40)"
+            "status": "도착예정 (00:36)"
         },
         {
             "type": "도착",
@@ -624,6 +616,22 @@ const flightInfo = {
             "timestamp": 1776479400,
             "flight": "SU294",
             "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 09:35",
+            "timestamp": 1776479700,
+            "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 09:40",
+            "timestamp": 1776480000,
+            "flight": "ZF2577",
+            "city": "Irkutsk",
             "status": "예정"
         }
     ]
