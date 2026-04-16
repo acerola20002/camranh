@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 15:30:23",
-    "version": 1776353423,
+    "lastUpdate": "2026-04-16 15:40:28",
+    "version": 1776354028,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/16 15:30",
-            "timestamp": 1776328200,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:09)"
-        },
         {
             "type": "출발",
             "time": "04/16 16:00",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776330600,
             "flight": "SU599",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776346800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:22)"
         },
         {
             "type": "출발",
