@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 18:50:17",
-    "version": 1776365417,
+    "lastUpdate": "2026-04-16 19:00:29",
+    "version": 1776366029,
     "data": [
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776353400,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:23)"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776354600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:40)"
+            "status": "도착예정 (22:38)"
         },
         {
             "type": "도착",
