@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-16 11:00:27",
-    "version": 1776337227,
+    "lastUpdate": "2026-04-16 11:10:16",
+    "version": 1776337816,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/16 11:05",
-            "timestamp": 1776312300,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "04/16 11:30",
             "timestamp": 1776313800,
             "flight": "TR548",
             "city": "Singapore",
-            "status": "도착예정 (11:15)"
+            "status": "도착예정 (11:14)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776313800,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "도착예정 (11:26)"
+            "status": "도착예정 (11:33)"
         },
         {
             "type": "출발",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776328200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:00)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "출발",
@@ -633,6 +625,14 @@ const flightInfo = {
             "flight": "VJ834",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/17 23:05",
+            "timestamp": 1776441900,
+            "flight": "KE467",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
