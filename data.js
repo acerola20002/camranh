@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-17 05:06:00",
-    "version": 1776402360,
+    "lastUpdate": "2026-04-17 07:07:56",
+    "version": 1776409676,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1776391500,
             "flight": "ZF2537",
             "city": "Yekaterinburg",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776393000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:35)"
+            "status": "도착예정 (09:37)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776393900,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:46)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776396000,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "지연 (11:20)"
+            "status": "지연 (11:16)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776396000,
             "flight": "EO3545",
             "city": "Moscow",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1776396600,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:44)"
         },
         {
             "type": "출발",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776402600,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "예정"
+            "status": "도착예정 (11:22)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776409800,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "도착",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1776410100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:23)"
+            "status": "도착예정 (14:19)"
         },
         {
             "type": "출발",
@@ -379,6 +379,14 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "04/18 00:35",
+            "timestamp": 1776447300,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "04/18 00:55",
             "timestamp": 1776448500,
@@ -472,6 +480,14 @@ const flightInfo = {
             "timestamp": 1776481200,
             "flight": "FD646",
             "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 10:00",
+            "timestamp": 1776481200,
+            "flight": "ZF2503",
+            "city": "Moscow",
             "status": "예정"
         },
         {
@@ -641,6 +657,38 @@ const flightInfo = {
             "flight": "IO895",
             "city": "Guilin",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 17:30",
+            "timestamp": 1776508200,
+            "flight": "B2796",
+            "city": "Minsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 18:05",
+            "timestamp": 1776510300,
+            "flight": "IO896",
+            "city": "Guilin",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/18 18:20",
+            "timestamp": 1776511200,
+            "flight": "K6832",
+            "city": "Phnom Penh",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/18 18:50",
+            "timestamp": 1776513000,
+            "flight": "K6833",
+            "city": "Phnom Penh",
+            "status": "출발예정"
         }
     ]
 };
