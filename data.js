@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-19 00:56:35",
-    "version": 1776560195,
+    "lastUpdate": "2026-04-19 02:55:47",
+    "version": 1776567347,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/19 01:00",
-            "timestamp": 1776535200,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "04/19 01:35",
-            "timestamp": 1776537300,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/19 01:45",
-            "timestamp": 1776537900,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "04/19 03:10",
             "timestamp": 1776543000,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1776562800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (08:38)"
         },
         {
             "type": "도착",
@@ -65,6 +41,14 @@ const flightInfo = {
             "flight": "VJ835",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/19 09:40",
+            "timestamp": 1776566400,
+            "flight": "ZF2502",
+            "city": "Moscow",
+            "status": "출발예정"
         },
         {
             "type": "도착",
@@ -609,6 +593,38 @@ const flightInfo = {
             "flight": "SU840",
             "city": "Irkutsk",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/20 13:30",
+            "timestamp": 1776666600,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/20 14:10",
+            "timestamp": 1776669000,
+            "flight": "SU598",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/20 14:10",
+            "timestamp": 1776669000,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/20 14:20",
+            "timestamp": 1776669600,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
