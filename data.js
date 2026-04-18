@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-19 02:55:47",
-    "version": 1776567347,
+    "lastUpdate": "2026-04-19 04:51:44",
+    "version": 1776574304,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/19 03:10",
-            "timestamp": 1776543000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "04/19 07:50",
             "timestamp": 1776559800,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "도착예정 (07:29)"
+            "status": "도착예정 (07:23)"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1776571200,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:44)"
         },
         {
             "type": "출발",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1776582600,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "출발",
@@ -625,6 +617,38 @@ const flightInfo = {
             "flight": "VZ969",
             "city": "방콕",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/20 15:10",
+            "timestamp": 1776672600,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/20 16:00",
+            "timestamp": 1776675600,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/20 16:10",
+            "timestamp": 1776676200,
+            "flight": "SU599",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/20 16:20",
+            "timestamp": 1776676800,
+            "flight": "ZF2501",
+            "city": "Moscow",
+            "status": "예정"
         }
     ]
 };
