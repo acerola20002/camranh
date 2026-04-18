@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-18 18:59:04",
-    "version": 1776538744,
+    "lastUpdate": "2026-04-18 21:25:53",
+    "version": 1776547553,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/18 19:45",
-            "timestamp": 1776516300,
-            "flight": "N43601",
-            "city": "Perm",
-            "status": "도착예정 (19:15)"
-        },
-        {
-            "type": "도착",
-            "time": "04/18 20:40",
-            "timestamp": 1776519600,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (19:58)"
-        },
-        {
-            "type": "도착",
-            "time": "04/18 21:10",
-            "timestamp": 1776521400,
-            "flight": "SU832",
-            "city": "Vladivostok",
-            "status": "도착예정 (20:39)"
-        },
         {
             "type": "출발",
             "time": "04/18 21:35",
             "timestamp": 1776522900,
             "flight": "VN440",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1776523800,
             "flight": "BX788",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776525600,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:02)"
+            "status": "도착예정 (22:04)"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776526200,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:17)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776526200,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:49)"
+            "status": "도착예정 (21:53)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776527400,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:42)"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "도착",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1776527700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:00)"
+            "status": "도착예정 (23:06)"
         },
         {
             "type": "출발",
@@ -152,7 +128,7 @@ const flightInfo = {
             "timestamp": 1776530700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:53)"
         },
         {
             "type": "출발",
@@ -176,7 +152,7 @@ const flightInfo = {
             "timestamp": 1776531300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:06)"
         },
         {
             "type": "출발",
@@ -208,7 +184,7 @@ const flightInfo = {
             "timestamp": 1776533700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:27)"
         },
         {
             "type": "도착",
@@ -216,7 +192,7 @@ const flightInfo = {
             "timestamp": 1776534300,
             "flight": "TW45",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (00:36)"
         },
         {
             "type": "출발",
@@ -720,6 +696,14 @@ const flightInfo = {
             "timestamp": 1776638700,
             "flight": "KC193",
             "city": "Almaty",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/20 09:00",
+            "timestamp": 1776650400,
+            "flight": "HH2239",
+            "city": "Tashkent",
             "status": "예정"
         }
     ]
