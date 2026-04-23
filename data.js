@@ -1,94 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-23 13:29:09",
-    "version": 1776950949,
+    "lastUpdate": "2026-04-23 17:56:50",
+    "version": 1776967010,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/23 13:30",
-            "timestamp": 1776925800,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:24)"
-        },
-        {
-            "type": "도착",
-            "time": "04/23 13:35",
-            "timestamp": 1776926100,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/23 14:10",
-            "timestamp": 1776928200,
-            "flight": "SU598",
-            "city": "Moscow",
-            "status": "도착예정 (13:33)"
-        },
-        {
-            "type": "출발",
-            "time": "04/23 14:20",
-            "timestamp": 1776928800,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "04/23 14:35",
-            "timestamp": 1776929700,
-            "flight": "ZF2577",
-            "city": "Irkutsk",
-            "status": "도착예정 (14:19)"
-        },
-        {
-            "type": "도착",
-            "time": "04/23 15:10",
-            "timestamp": 1776931800,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "04/23 15:30",
-            "timestamp": 1776933000,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:02)"
-        },
-        {
-            "type": "출발",
-            "time": "04/23 16:00",
-            "timestamp": 1776934800,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/23 16:10",
-            "timestamp": 1776935400,
-            "flight": "SU599",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/23 17:30",
-            "timestamp": 1776940200,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "04/23 20:40",
             "timestamp": 1776951600,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:00)"
         },
         {
             "type": "출발",
@@ -112,7 +32,7 @@ const flightInfo = {
             "timestamp": 1776957300,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -120,7 +40,7 @@ const flightInfo = {
             "timestamp": 1776957600,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -128,7 +48,7 @@ const flightInfo = {
             "timestamp": 1776958200,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:53)"
         },
         {
             "type": "도착",
@@ -136,7 +56,7 @@ const flightInfo = {
             "timestamp": 1776959400,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
@@ -705,6 +625,46 @@ const flightInfo = {
             "flight": "ZE562",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/25 01:35",
+            "timestamp": 1777055700,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/25 03:10",
+            "timestamp": 1777061400,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/25 04:00",
+            "timestamp": 1777064400,
+            "flight": "SU830",
+            "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/25 05:30",
+            "timestamp": 1777069800,
+            "flight": "SU833",
+            "city": "Vladivostok",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/25 05:45",
+            "timestamp": 1777070700,
+            "flight": "KC193",
+            "city": "Almaty",
+            "status": "예정"
         }
     ]
 };
