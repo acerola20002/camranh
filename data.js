@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-25 00:56:56",
-    "version": 1777078616,
+    "lastUpdate": "2026-04-25 03:07:41",
+    "version": 1777086461,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/25 01:00",
-            "timestamp": 1777053600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "04/25 01:35",
-            "timestamp": 1777055700,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "04/25 03:10",
             "timestamp": 1777061400,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1777064400,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:03)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1777070700,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "지연 (06:08)"
+            "status": "도착예정 (05:49)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1777080300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:12)"
+            "status": "도착예정 (07:59)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1777084200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:29)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -680,6 +664,86 @@ const flightInfo = {
             "timestamp": 1777181400,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/26 13:10",
+            "timestamp": 1777183800,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/26 13:10",
+            "timestamp": 1777183800,
+            "flight": "EO3537",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/26 13:10",
+            "timestamp": 1777183800,
+            "flight": "N43545",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/26 13:30",
+            "timestamp": 1777185000,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/26 13:35",
+            "timestamp": 1777185300,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/26 14:10",
+            "timestamp": 1777187400,
+            "flight": "SU598",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/26 14:20",
+            "timestamp": 1777188000,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/26 14:45",
+            "timestamp": 1777189500,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/26 15:00",
+            "timestamp": 1777190400,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/26 15:00",
+            "timestamp": 1777190400,
+            "flight": "EO3542",
+            "city": "St. Petersburg",
             "status": "출발예정"
         }
     ]
