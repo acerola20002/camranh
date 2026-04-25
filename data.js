@@ -1,78 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-25 15:35:29",
-    "version": 1777131329,
+    "lastUpdate": "2026-04-25 18:08:22",
+    "version": 1777140502,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/25 15:45",
-            "timestamp": 1777106700,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "04/25 16:00",
-            "timestamp": 1777107600,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "04/25 16:10",
-            "timestamp": 1777108200,
-            "flight": "SU599",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "04/25 16:40",
-            "timestamp": 1777110000,
-            "flight": "KA7777",
-            "city": "Kolkata",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "04/25 16:55",
-            "timestamp": 1777110900,
-            "flight": "IO895",
-            "city": "Guilin",
-            "status": "도착예정 (16:06)"
-        },
-        {
-            "type": "출발",
-            "time": "04/25 17:20",
-            "timestamp": 1777112400,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/25 17:30",
-            "timestamp": 1777113000,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/25 18:05",
-            "timestamp": 1777115100,
-            "flight": "IO896",
-            "city": "Guilin",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "04/25 20:40",
             "timestamp": 1777124400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:50)"
+            "status": "도착예정 (20:26)"
         },
         {
             "type": "도착",
@@ -80,7 +16,7 @@ const flightInfo = {
             "timestamp": 1777126200,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:42)"
+            "status": "도착예정 (20:17)"
         },
         {
             "type": "도착",
@@ -112,7 +48,7 @@ const flightInfo = {
             "timestamp": 1777128720,
             "flight": "N49902",
             "city": "Antalya",
-            "status": "도착예정 (21:49)"
+            "status": "도착예정 (21:55)"
         },
         {
             "type": "도착",
@@ -120,7 +56,7 @@ const flightInfo = {
             "timestamp": 1777130100,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -128,7 +64,7 @@ const flightInfo = {
             "timestamp": 1777130400,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:13)"
         },
         {
             "type": "도착",
@@ -136,7 +72,7 @@ const flightInfo = {
             "timestamp": 1777131000,
             "flight": "RF557",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -144,7 +80,7 @@ const flightInfo = {
             "timestamp": 1777131000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:02)"
         },
         {
             "type": "도착",
@@ -152,7 +88,7 @@ const flightInfo = {
             "timestamp": 1777132200,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
