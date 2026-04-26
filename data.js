@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-27 04:55:47",
-    "version": 1777265747,
+    "lastUpdate": "2026-04-27 06:59:24",
+    "version": 1777273164,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1777255200,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:50)"
+            "status": "도착예정 (08:48)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1777257000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (08:57)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1777260600,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:33)"
         },
         {
             "type": "출발",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1777269000,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "예정"
+            "status": "도착예정 (12:05)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1777273800,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "도착예정 (13:38)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1777275000,
             "flight": "EO3541",
             "city": "St. Petersburg",
-            "status": "예정"
+            "status": "지연 (14:57)"
         },
         {
             "type": "도착",
@@ -192,7 +192,7 @@ const flightInfo = {
             "timestamp": 1777277700,
             "flight": "ZF2551",
             "city": "Chelyabinsk",
-            "status": "예정"
+            "status": "도착예정 (14:15)"
         },
         {
             "type": "출발",
@@ -579,14 +579,6 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
-            "type": "도착",
-            "time": "04/28 12:55",
-            "timestamp": 1777355700,
-            "flight": "ZF2577",
-            "city": "Irkutsk",
-            "status": "예정"
-        },
-        {
             "type": "출발",
             "time": "04/28 13:20",
             "timestamp": 1777357200,
@@ -643,14 +635,6 @@ const flightInfo = {
             "status": "예정"
         },
         {
-            "type": "출발",
-            "time": "04/28 15:00",
-            "timestamp": 1777363200,
-            "flight": "ZF2538",
-            "city": "Yekaterinburg",
-            "status": "출발예정"
-        },
-        {
             "type": "도착",
             "time": "04/28 15:10",
             "timestamp": 1777363800,
@@ -688,6 +672,30 @@ const flightInfo = {
             "timestamp": 1777368300,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/28 17:30",
+            "timestamp": 1777372200,
+            "flight": "B2796",
+            "city": "Minsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/28 18:05",
+            "timestamp": 1777374300,
+            "flight": "TR542",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/28 18:40",
+            "timestamp": 1777376400,
+            "flight": "TR543",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
