@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-29 03:25:13",
-    "version": 1777433113,
+    "lastUpdate": "2026-04-29 04:35:39",
+    "version": 1777437339,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1777422600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "지연 (07:53)"
+            "status": "지연 (07:55)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1777426200,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:10)"
+            "status": "도착예정 (08:21)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1777429800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:03)"
+            "status": "지연 (09:57)"
         },
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1777434900,
             "flight": "ZF2537",
             "city": "Yekaterinburg",
-            "status": "도착예정 (10:56)"
+            "status": "도착예정 (10:54)"
         },
         {
             "type": "출발",
@@ -745,6 +745,30 @@ const flightInfo = {
             "flight": "N43601",
             "city": "Perm",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 15:30",
+            "timestamp": 1777537800,
+            "flight": "B2795",
+            "city": "Minsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/30 16:00",
+            "timestamp": 1777539600,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/30 16:10",
+            "timestamp": 1777540200,
+            "flight": "SU599",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
