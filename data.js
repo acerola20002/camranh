@@ -1,55 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-28 20:19:19",
-    "version": 1777407559,
+    "lastUpdate": "2026-04-28 22:41:30",
+    "version": 1777416090,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/28 20:40",
-            "timestamp": 1777383600,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:17)"
-        },
-        {
-            "type": "출발",
-            "time": "04/28 21:35",
-            "timestamp": 1777386900,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/28 21:50",
-            "timestamp": 1777387800,
-            "flight": "BX788",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "04/28 22:20",
-            "timestamp": 1777389600,
-            "flight": "BX781",
-            "city": "부산",
-            "status": "도착예정 (22:02)"
-        },
-        {
-            "type": "도착",
-            "time": "04/28 22:30",
-            "timestamp": 1777390200,
-            "flight": "RF557",
-            "city": "청주",
-            "status": "도착예정 (22:13)"
-        },
-        {
-            "type": "도착",
-            "time": "04/28 22:30",
-            "timestamp": 1777390200,
-            "flight": "TW33",
-            "city": "인천",
-            "status": "도착예정 (21:49)"
-        },
         {
             "type": "도착",
             "time": "04/28 22:55",
@@ -64,7 +16,7 @@ const flightInfo = {
             "timestamp": 1777391700,
             "flight": "VJ834",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -72,7 +24,7 @@ const flightInfo = {
             "timestamp": 1777392300,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:02)"
+            "status": "도착예정 (23:10)"
         },
         {
             "type": "출발",
@@ -112,7 +64,7 @@ const flightInfo = {
             "timestamp": 1777394700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:36)"
+            "status": "도착예정 (23:40)"
         },
         {
             "type": "도착",
@@ -120,7 +72,7 @@ const flightInfo = {
             "timestamp": 1777395300,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:17)"
+            "status": "도착예정 (23:21)"
         },
         {
             "type": "도착",
@@ -128,7 +80,7 @@ const flightInfo = {
             "timestamp": 1777395300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:46)"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "출발",
@@ -144,7 +96,7 @@ const flightInfo = {
             "timestamp": 1777396200,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (00:16)"
+            "status": "도착예정 (00:18)"
         },
         {
             "type": "출발",
@@ -160,7 +112,7 @@ const flightInfo = {
             "timestamp": 1777397700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:36)"
+            "status": "도착예정 (00:31)"
         },
         {
             "type": "출발",
@@ -729,6 +681,102 @@ const flightInfo = {
             "flight": "EO3657",
             "city": "Novosibirsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/30 09:00",
+            "timestamp": 1777514400,
+            "flight": "C65538",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 09:20",
+            "timestamp": 1777515600,
+            "flight": "KC157",
+            "city": "Astana",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 09:30",
+            "timestamp": 1777516200,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 09:35",
+            "timestamp": 1777516500,
+            "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 09:45",
+            "timestamp": 1777517100,
+            "flight": "VN441",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 10:00",
+            "timestamp": 1777518000,
+            "flight": "FD646",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 10:05",
+            "timestamp": 1777518300,
+            "flight": "CZ8475",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 10:20",
+            "timestamp": 1777519200,
+            "flight": "HH2231",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "04/30 10:30",
+            "timestamp": 1777519800,
+            "flight": "VN435",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/30 10:30",
+            "timestamp": 1777519800,
+            "flight": "FD647",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/30 10:35",
+            "timestamp": 1777520100,
+            "flight": "VJ730",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "04/30 10:40",
+            "timestamp": 1777520400,
+            "flight": "EO3542",
+            "city": "St. Petersburg",
+            "status": "출발예정"
         }
     ]
 };
