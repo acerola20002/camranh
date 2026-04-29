@@ -1,126 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-29 22:09:20",
-    "version": 1777500560,
+    "lastUpdate": "2026-04-29 23:52:22",
+    "version": 1777506742,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/29 22:15",
-            "timestamp": 1777475700,
-            "flight": "WE205",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 22:20",
-            "timestamp": 1777476000,
-            "flight": "BX781",
-            "city": "부산",
-            "status": "도착예정 (22:12)"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 22:30",
-            "timestamp": 1777476600,
-            "flight": "RF557",
-            "city": "청주",
-            "status": "도착예정 (22:34)"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 22:30",
-            "timestamp": 1777476600,
-            "flight": "TW33",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 22:50",
-            "timestamp": 1777477800,
-            "flight": "TW37",
-            "city": "대구",
-            "status": "도착예정 (22:21)"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 22:55",
-            "timestamp": 1777478100,
-            "flight": "LJ115",
-            "city": "부산",
-            "status": "도착예정 (23:08)"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 22:55",
-            "timestamp": 1777478100,
-            "flight": "RS527",
-            "city": "인천",
-            "status": "도착예정 (23:08)"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 22:55",
-            "timestamp": 1777478100,
-            "flight": "VJ834",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 23:05",
-            "timestamp": 1777478700,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착예정 (23:00)"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 23:15",
-            "timestamp": 1777479300,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 23:15",
-            "timestamp": 1777479300,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 23:20",
-            "timestamp": 1777479600,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 23:30",
-            "timestamp": 1777480200,
-            "flight": "RF558",
-            "city": "청주",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 23:30",
-            "timestamp": 1777480200,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "04/29 23:55",
             "timestamp": 1777481700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:08)"
+            "status": "지연 (00:20)"
         },
         {
             "type": "출발",
@@ -128,7 +16,7 @@ const flightInfo = {
             "timestamp": 1777481700,
             "flight": "LJ116",
             "city": "부산",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -136,7 +24,7 @@ const flightInfo = {
             "timestamp": 1777482300,
             "flight": "TW38",
             "city": "대구",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -144,7 +32,7 @@ const flightInfo = {
             "timestamp": 1777482300,
             "flight": "RS528",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -152,7 +40,7 @@ const flightInfo = {
             "timestamp": 1777482600,
             "flight": "TW41",
             "city": "부산",
-            "status": "지연 (00:38)"
+            "status": "지연 (00:42)"
         },
         {
             "type": "출발",
@@ -160,7 +48,7 @@ const flightInfo = {
             "timestamp": 1777483200,
             "flight": "KE468",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -168,7 +56,7 @@ const flightInfo = {
             "timestamp": 1777484100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:36)"
+            "status": "도착예정 (00:42)"
         },
         {
             "type": "도착",
@@ -176,7 +64,7 @@ const flightInfo = {
             "timestamp": 1777484700,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:38)"
+            "status": "도착예정 (00:42)"
         },
         {
             "type": "출발",
@@ -777,6 +665,86 @@ const flightInfo = {
             "flight": "CZ8475",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 10:20",
+            "timestamp": 1777605600,
+            "flight": "HH2231",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 10:30",
+            "timestamp": 1777606200,
+            "flight": "VN435",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 10:30",
+            "timestamp": 1777606200,
+            "flight": "FD647",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 10:35",
+            "timestamp": 1777606500,
+            "flight": "VJ730",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 10:40",
+            "timestamp": 1777606800,
+            "flight": "N43539",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 11:05",
+            "timestamp": 1777608300,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 11:30",
+            "timestamp": 1777609800,
+            "flight": "TR548",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 11:30",
+            "timestamp": 1777609800,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 11:45",
+            "timestamp": 1777610700,
+            "flight": "N43657",
+            "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 11:50",
+            "timestamp": 1777611000,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
         }
     ]
 };
