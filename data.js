@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-29 14:12:55",
-    "version": 1777471975,
+    "lastUpdate": "2026-04-29 16:26:38",
+    "version": 1777479998,
     "data": [
-        {
-            "type": "출발",
-            "time": "04/29 14:20",
-            "timestamp": 1777447200,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "04/29 15:10",
-            "timestamp": 1777450200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 15:30",
-            "timestamp": 1777451400,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 16:00",
-            "timestamp": 1777453200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 16:10",
-            "timestamp": 1777453800,
-            "flight": "SU599",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "04/29 16:45",
             "timestamp": 1777455900,
             "flight": "N43529",
             "city": "Kazan",
-            "status": "도착예정 (16:38)"
+            "status": "도착예정 (16:33)"
         },
         {
             "type": "출발",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1777461600,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (17:48)"
+            "status": "도착예정 (17:52)"
         },
         {
             "type": "출발",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1777462500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:14)"
         },
         {
             "type": "출발",
@@ -104,7 +64,7 @@ const flightInfo = {
             "timestamp": 1777470000,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:11)"
         },
         {
             "type": "도착",
@@ -848,6 +808,14 @@ const flightInfo = {
             "timestamp": 1777574700,
             "flight": "TW46",
             "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 03:10",
+            "timestamp": 1777579800,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
