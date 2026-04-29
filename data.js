@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-30 03:57:44",
-    "version": 1777521464,
+    "lastUpdate": "2026-04-30 04:59:35",
+    "version": 1777525175,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1777509600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (07:53)"
+            "status": "지연 (08:10)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1777509600,
             "flight": "EO3657",
             "city": "Novosibirsk",
-            "status": "도착예정 (07:04)"
+            "status": "도착예정 (07:14)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1777516200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:03)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1777519200,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:09)"
+            "status": "도착예정 (10:05)"
         },
         {
             "type": "도착",
@@ -208,7 +208,7 @@ const flightInfo = {
             "timestamp": 1777533000,
             "flight": "SU598",
             "city": "Moscow",
-            "status": "지연 (15:05)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "도착",
@@ -256,7 +256,7 @@ const flightInfo = {
             "timestamp": 1777537800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "예정"
+            "status": "도착예정 (15:14)"
         },
         {
             "type": "출발",
@@ -776,6 +776,30 @@ const flightInfo = {
             "timestamp": 1777625100,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 16:00",
+            "timestamp": 1777626000,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 16:10",
+            "timestamp": 1777626600,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 16:50",
+            "timestamp": 1777629000,
+            "flight": "N43658",
+            "city": "Novosibirsk",
             "status": "출발예정"
         }
     ]
