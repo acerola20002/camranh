@@ -1,86 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-04-29 23:52:22",
-    "version": 1777506742,
+    "lastUpdate": "2026-04-30 01:09:02",
+    "version": 1777511342,
     "data": [
-        {
-            "type": "도착",
-            "time": "04/29 23:55",
-            "timestamp": 1777481700,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "지연 (00:20)"
-        },
-        {
-            "type": "출발",
-            "time": "04/29 23:55",
-            "timestamp": 1777481700,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "04/30 00:05",
-            "timestamp": 1777482300,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "04/30 00:05",
-            "timestamp": 1777482300,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "04/30 00:10",
-            "timestamp": 1777482600,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "지연 (00:42)"
-        },
-        {
-            "type": "출발",
-            "time": "04/30 00:20",
-            "timestamp": 1777483200,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "04/30 00:35",
-            "timestamp": 1777484100,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:42)"
-        },
-        {
-            "type": "도착",
-            "time": "04/30 00:45",
-            "timestamp": 1777484700,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:42)"
-        },
-        {
-            "type": "출발",
-            "time": "04/30 01:00",
-            "timestamp": 1777485600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "04/30 01:10",
             "timestamp": 1777486200,
             "flight": "TW42",
             "city": "부산",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -88,7 +16,7 @@ const flightInfo = {
             "timestamp": 1777487700,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -112,7 +40,7 @@ const flightInfo = {
             "timestamp": 1777509600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (08:23)"
         },
         {
             "type": "도착",
@@ -120,7 +48,7 @@ const flightInfo = {
             "timestamp": 1777509600,
             "flight": "EO3657",
             "city": "Novosibirsk",
-            "status": "예정"
+            "status": "도착예정 (07:23)"
         },
         {
             "type": "출발",
@@ -144,7 +72,7 @@ const flightInfo = {
             "timestamp": 1777516200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -745,6 +673,38 @@ const flightInfo = {
             "flight": "HH2232",
             "city": "Tashkent",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 12:10",
+            "timestamp": 1777612200,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/01 12:10",
+            "timestamp": 1777612200,
+            "flight": "TR549",
+            "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 12:30",
+            "timestamp": 1777613400,
+            "flight": "EO3541",
+            "city": "St. Petersburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/01 12:50",
+            "timestamp": 1777614600,
+            "flight": "N43687",
+            "city": "Omsk",
+            "status": "예정"
         }
     ]
 };
