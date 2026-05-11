@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-12 02:12:41",
-    "version": 1778551961,
+    "lastUpdate": "2026-05-12 03:55:01",
+    "version": 1778558101,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1778549100,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:57)"
+            "status": "도착예정 (07:53)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1778552400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1778553000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778556000,
             "flight": "ZF2563",
             "city": "Perm",
-            "status": "도착예정 (10:20)"
+            "status": "도착예정 (10:31)"
         },
         {
             "type": "도착",
@@ -488,6 +488,38 @@ const flightInfo = {
             "timestamp": 1778656200,
             "flight": "SU298",
             "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/13 14:20",
+            "timestamp": 1778656800,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/13 14:45",
+            "timestamp": 1778658300,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/13 14:55",
+            "timestamp": 1778658900,
+            "flight": "WZ3202",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/13 15:10",
+            "timestamp": 1778659800,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
