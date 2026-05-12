@@ -1,94 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-12 22:58:33",
-    "version": 1778626713,
+    "lastUpdate": "2026-05-13 01:01:47",
+    "version": 1778634107,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/12 23:05",
-            "timestamp": 1778601900,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착예정 (23:00)"
-        },
-        {
-            "type": "출발",
-            "time": "05/12 23:15",
-            "timestamp": 1778602500,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "05/12 23:20",
-            "timestamp": 1778602800,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "05/12 23:30",
-            "timestamp": 1778603400,
-            "flight": "RF558",
-            "city": "청주",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/12 23:30",
-            "timestamp": 1778603400,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/12 23:45",
-            "timestamp": 1778604300,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "지연 (01:35)"
-        },
-        {
-            "type": "도착",
-            "time": "05/12 23:55",
-            "timestamp": 1778604900,
-            "flight": "SU830",
-            "city": "Novosibirsk",
-            "status": "도착예정 (23:27)"
-        },
-        {
-            "type": "도착",
-            "time": "05/12 23:55",
-            "timestamp": 1778604900,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (00:10)"
-        },
-        {
-            "type": "출발",
-            "time": "05/13 00:20",
-            "timestamp": 1778606400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/13 00:55",
-            "timestamp": 1778608500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/13 01:10",
             "timestamp": 1778609400,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -600,6 +520,54 @@ const flightInfo = {
             "timestamp": 1778729400,
             "flight": "FD647",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/14 11:30",
+            "timestamp": 1778733000,
+            "flight": "AK204",
+            "city": "Kuala Lumpur",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/14 11:30",
+            "timestamp": 1778733000,
+            "flight": "TR548",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/14 11:30",
+            "timestamp": 1778733000,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/14 11:50",
+            "timestamp": 1778734200,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/14 12:00",
+            "timestamp": 1778734800,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/14 12:10",
+            "timestamp": 1778735400,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
