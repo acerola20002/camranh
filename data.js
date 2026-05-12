@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-13 01:01:47",
-    "version": 1778634107,
+    "lastUpdate": "2026-05-13 03:05:17",
+    "version": 1778641517,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/13 01:10",
-            "timestamp": 1778609400,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "05/13 02:50",
-            "timestamp": 1778615400,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/13 03:10",
             "timestamp": 1778616600,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -569,6 +553,46 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/14 13:15",
+            "timestamp": 1778739300,
+            "flight": "ZF2503",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/14 13:20",
+            "timestamp": 1778739600,
+            "flight": "KC158",
+            "city": "Astana",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/14 14:10",
+            "timestamp": 1778742600,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/14 14:15",
+            "timestamp": 1778742900,
+            "flight": "VN441",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/14 14:15",
+            "timestamp": 1778742900,
+            "flight": "VN441",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
