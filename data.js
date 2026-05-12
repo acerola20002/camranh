@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-13 05:43:18",
-    "version": 1778650998,
+    "lastUpdate": "2026-05-13 06:43:48",
+    "version": 1778654628,
     "data": [
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778639400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (13:34)"
+            "status": "지연 (13:28)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778640300,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "예정"
+            "status": "지연 (14:28)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1778653500,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "지연 (14:15)"
         },
         {
             "type": "도착",
