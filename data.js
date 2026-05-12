@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-12 16:25:12",
-    "version": 1778603112,
+    "lastUpdate": "2026-05-12 18:29:10",
+    "version": 1778610550,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/12 16:25",
-            "timestamp": 1778577900,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "05/12 17:30",
-            "timestamp": 1778581800,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/12 20:40",
             "timestamp": 1778593200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:09)"
+            "status": "도착예정 (20:07)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778599200,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778599800,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:42)"
         },
         {
             "type": "출발",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778601900,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -128,7 +112,7 @@ const flightInfo = {
             "timestamp": 1778604900,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "예정"
+            "status": "도착예정 (23:21)"
         },
         {
             "type": "도착",
