@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-12 18:29:10",
-    "version": 1778610550,
+    "lastUpdate": "2026-05-12 20:20:45",
+    "version": 1778617245,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1778593200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:07)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778599200,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:28)"
+            "status": "도착예정 (22:23)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778599800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:42)"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778601900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:57)"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1778604900,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:21)"
+            "status": "도착예정 (23:17)"
         },
         {
             "type": "도착",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1778604900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:04)"
         },
         {
             "type": "출발",
@@ -601,6 +601,14 @@ const flightInfo = {
             "flight": "TW46",
             "city": "청주",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/14 07:40",
+            "timestamp": 1778719200,
+            "flight": "C65537",
+            "city": "Tashkent",
+            "status": "예정"
         }
     ]
 };
