@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-14 05:22:20",
-    "version": 1778736140,
+    "lastUpdate": "2026-05-14 06:36:00",
+    "version": 1778740560,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1778725200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "지연 (14:02)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778725800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:57)"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778728800,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (09:57)"
+            "status": "도착예정 (09:52)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1778739300,
             "flight": "ZF2503",
             "city": "Moscow",
-            "status": "지연 (14:32)"
+            "status": "지연 (14:34)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1778747400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:14)"
+            "status": "도착예정 (15:27)"
         },
         {
             "type": "출발",
@@ -609,6 +609,14 @@ const flightInfo = {
             "flight": "SU299",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/15 18:35",
+            "timestamp": 1778844900,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
         }
     ]
 };
