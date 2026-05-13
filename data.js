@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-13 06:43:48",
-    "version": 1778654628,
+    "lastUpdate": "2026-05-13 08:30:20",
+    "version": 1778661020,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/13 07:30",
-            "timestamp": 1778632200,
-            "flight": "KC193",
-            "city": "Almaty",
-            "status": "예정"
-        },
         {
             "type": "도착",
             "time": "05/13 08:30",
             "timestamp": 1778635800,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (14:34)"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1778637600,
             "flight": "KC194",
             "city": "Almaty",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1778639400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (13:28)"
+            "status": "지연 (13:21)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1778640300,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "지연 (14:28)"
+            "status": "지연 (14:25)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1778653500,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (14:15)"
+            "status": "지연 (14:04)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1778656200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:28)"
+            "status": "도착예정 (13:06)"
         },
         {
             "type": "도착",
