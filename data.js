@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-14 04:05:33",
-    "version": 1778731533,
+    "lastUpdate": "2026-05-14 05:22:20",
+    "version": 1778736140,
     "data": [
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778728800,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:01)"
+            "status": "도착예정 (09:57)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1778739300,
             "flight": "ZF2503",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (14:32)"
         },
         {
             "type": "출발",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1778742600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "지연 (15:10)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "도착",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1778747400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "예정"
+            "status": "도착예정 (15:14)"
         },
         {
             "type": "출발",
@@ -600,6 +600,14 @@ const flightInfo = {
             "timestamp": 1778835600,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/15 16:10",
+            "timestamp": 1778836200,
+            "flight": "SU299",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
