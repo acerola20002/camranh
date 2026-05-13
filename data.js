@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-13 15:19:42",
-    "version": 1778685582,
+    "lastUpdate": "2026-05-13 17:46:45",
+    "version": 1778694405,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/13 16:00",
-            "timestamp": 1778662800,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/13 16:10",
-            "timestamp": 1778663400,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/13 18:20",
             "timestamp": 1778671200,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (17:48)"
+            "status": "도착예정 (17:45)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1778679600,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (19:56)"
         },
         {
             "type": "출발",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778685300,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:41)"
         },
         {
             "type": "도착",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1778685600,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:13)"
         },
         {
             "type": "도착",
@@ -96,7 +80,7 @@ const flightInfo = {
             "timestamp": 1778686200,
             "flight": "RF557",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (22:19)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1778686200,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
