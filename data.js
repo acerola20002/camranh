@@ -1,86 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-14 23:34:20",
-    "version": 1778801660,
+    "lastUpdate": "2026-05-15 01:20:44",
+    "version": 1778808044,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/14 23:55",
-            "timestamp": 1778777700,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (23:44)"
-        },
-        {
-            "type": "출발",
-            "time": "05/15 00:05",
-            "timestamp": 1778778300,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/15 00:05",
-            "timestamp": 1778778300,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/15 00:10",
-            "timestamp": 1778778600,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착예정 (23:55)"
-        },
-        {
-            "type": "출발",
-            "time": "05/15 00:20",
-            "timestamp": 1778779200,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/15 00:35",
-            "timestamp": 1778780100,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:10)"
-        },
-        {
-            "type": "도착",
-            "time": "05/15 00:45",
-            "timestamp": 1778780700,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:14)"
-        },
-        {
-            "type": "출발",
-            "time": "05/15 01:10",
-            "timestamp": 1778782200,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/15 01:10",
-            "timestamp": 1778782200,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/15 01:35",
             "timestamp": 1778783700,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -88,7 +16,7 @@ const flightInfo = {
             "timestamp": 1778784300,
             "flight": "TW46",
             "city": "청주",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778805000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "지연 (08:01)"
         },
         {
             "type": "출발",
@@ -120,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778812200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -160,7 +88,7 @@ const flightInfo = {
             "timestamp": 1778815200,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (10:20)"
         },
         {
             "type": "도착",
@@ -568,6 +496,30 @@ const flightInfo = {
             "timestamp": 1778905800,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/16 11:45",
+            "timestamp": 1778906700,
+            "flight": "ZF2502",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/16 12:00",
+            "timestamp": 1778907600,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/16 12:20",
+            "timestamp": 1778908800,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
