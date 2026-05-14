@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-14 15:04:08",
-    "version": 1778771048,
+    "lastUpdate": "2026-05-14 17:29:55",
+    "version": 1778779795,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/14 15:10",
-            "timestamp": 1778746200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "지연 (15:51)"
-        },
-        {
-            "type": "출발",
-            "time": "05/14 15:15",
-            "timestamp": 1778746500,
-            "flight": "ZF2504",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "05/14 15:30",
-            "timestamp": 1778747400,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:12)"
-        },
-        {
-            "type": "출발",
-            "time": "05/14 16:00",
-            "timestamp": 1778749200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/14 16:10",
-            "timestamp": 1778749800,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/14 17:30",
             "timestamp": 1778754600,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1778766000,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (19:54)"
         },
         {
             "type": "출발",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1778771700,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:02)"
         },
         {
             "type": "도착",
@@ -88,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778772000,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
@@ -625,6 +585,14 @@ const flightInfo = {
             "flight": "ZE562",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/16 04:00",
+            "timestamp": 1778878800,
+            "flight": "SU830",
+            "city": "Novosibirsk",
+            "status": "예정"
         }
     ]
 };
