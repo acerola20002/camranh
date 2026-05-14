@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-14 12:11:28",
-    "version": 1778760688,
+    "lastUpdate": "2026-05-14 15:04:08",
+    "version": 1778771048,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/14 13:15",
-            "timestamp": 1778739300,
-            "flight": "ZF2503",
-            "city": "Moscow",
-            "status": "지연 (14:32)"
-        },
-        {
-            "type": "출발",
-            "time": "05/14 13:20",
-            "timestamp": 1778739600,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/14 14:10",
-            "timestamp": 1778742600,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:28)"
-        },
-        {
-            "type": "도착",
-            "time": "05/14 14:15",
-            "timestamp": 1778742900,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/14 14:15",
-            "timestamp": 1778742900,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "도착예정 (14:17)"
-        },
         {
             "type": "도착",
             "time": "05/14 15:10",
             "timestamp": 1778746200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "지연 (15:51)"
         },
         {
             "type": "출발",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1778746500,
             "flight": "ZF2504",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1778747400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:06)"
+            "status": "도착예정 (15:12)"
         },
         {
             "type": "출발",
@@ -640,6 +600,30 @@ const flightInfo = {
             "timestamp": 1778864100,
             "flight": "LJ116",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/16 00:20",
+            "timestamp": 1778865600,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/16 00:55",
+            "timestamp": 1778867700,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/16 01:10",
+            "timestamp": 1778868600,
+            "flight": "ZE562",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
