@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-16 01:18:08",
-    "version": 1778894288,
+    "lastUpdate": "2026-05-16 02:56:30",
+    "version": 1778900190,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1778878800,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:41)"
+            "status": "도착예정 (03:37)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778894700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:21)"
+            "status": "도착예정 (08:27)"
         },
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778898600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:59)"
+            "status": "도착예정 (08:48)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778899500,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "출발",
@@ -633,6 +633,46 @@ const flightInfo = {
             "flight": "ZF2502",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/17 13:20",
+            "timestamp": 1778998800,
+            "flight": "KC158",
+            "city": "Astana",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/17 13:35",
+            "timestamp": 1778999700,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/17 14:10",
+            "timestamp": 1779001800,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/17 14:20",
+            "timestamp": 1779002400,
+            "flight": "N43540",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/17 14:45",
+            "timestamp": 1779003900,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
         }
     ]
 };
