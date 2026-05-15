@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-16 02:56:30",
-    "version": 1778900190,
+    "lastUpdate": "2026-05-16 03:58:12",
+    "version": 1778903892,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1778878800,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:37)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1778891400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "지연 (07:53)"
+            "status": "도착예정 (07:40)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778894700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:27)"
+            "status": "도착예정 (08:16)"
         },
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778898600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:48)"
+            "status": "도착예정 (08:46)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778899500,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "출발",
@@ -672,6 +672,14 @@ const flightInfo = {
             "timestamp": 1779003900,
             "flight": "VJ731",
             "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/17 15:10",
+            "timestamp": 1779005400,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
