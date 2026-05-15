@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-15 15:17:54",
-    "version": 1778858274,
+    "lastUpdate": "2026-05-15 17:39:57",
+    "version": 1778866797,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/15 16:00",
-            "timestamp": 1778835600,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/15 16:10",
-            "timestamp": 1778836200,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/15 18:35",
             "timestamp": 1778844900,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:04)"
         },
         {
             "type": "출발",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1778852400,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:09)"
         },
         {
             "type": "출발",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778859000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
