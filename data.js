@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-16 13:19:26",
-    "version": 1778937566,
+    "lastUpdate": "2026-05-16 15:20:35",
+    "version": 1778944835,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/16 13:30",
-            "timestamp": 1778913000,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "05/16 14:10",
-            "timestamp": 1778915400,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:30)"
-        },
-        {
-            "type": "출발",
-            "time": "05/16 14:20",
-            "timestamp": 1778916000,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/16 15:10",
-            "timestamp": 1778919000,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
         {
             "type": "도착",
             "time": "05/16 15:30",
             "timestamp": 1778920200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:29)"
+            "status": "도착예정 (15:42)"
         },
         {
             "type": "출발",
@@ -96,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778940600,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "예정"
+            "status": "도착예정 (20:19)"
         },
         {
             "type": "출발",
@@ -800,6 +768,22 @@ const flightInfo = {
             "timestamp": 1779041400,
             "flight": "ZE562",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/18 01:35",
+            "timestamp": 1779042900,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/18 01:45",
+            "timestamp": 1779043500,
+            "flight": "TW46",
+            "city": "청주",
             "status": "출발예정"
         }
     ]
