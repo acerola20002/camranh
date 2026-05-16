@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-16 17:57:48",
-    "version": 1778954268,
+    "lastUpdate": "2026-05-16 18:52:11",
+    "version": 1778957531,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/16 18:05",
-            "timestamp": 1778929500,
-            "flight": "IO896",
-            "city": "Guilin",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "05/16 20:40",
             "timestamp": 1778938800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:52)"
+            "status": "도착예정 (19:50)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1778940600,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:06)"
+            "status": "도착예정 (20:22)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1778944500,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:36)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1778945400,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:28)"
+            "status": "도착예정 (22:19)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1778945400,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:41)"
+            "status": "도착예정 (21:36)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1778946900,
             "flight": "BX7517",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:05)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1778946900,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:45)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1778946900,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1778947500,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
