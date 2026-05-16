@@ -1,31 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-16 15:20:35",
-    "version": 1778944835,
+    "lastUpdate": "2026-05-16 16:54:27",
+    "version": 1778950467,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/16 15:30",
-            "timestamp": 1778920200,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:42)"
-        },
-        {
-            "type": "출발",
-            "time": "05/16 16:00",
-            "timestamp": 1778922000,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/16 16:10",
-            "timestamp": 1778922600,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/16 16:55",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778938800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (19:54)"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1778940600,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:19)"
+            "status": "도착예정 (20:31)"
         },
         {
             "type": "출발",
