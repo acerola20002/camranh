@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-17 02:43:38",
-    "version": 1778985818,
+    "lastUpdate": "2026-05-17 03:31:04",
+    "version": 1778988664,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/17 03:10",
-            "timestamp": 1778962200,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "05/17 08:40",
             "timestamp": 1778982000,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (10:04)"
+            "status": "지연 (09:14)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1778984400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:08)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1778984700,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:03)"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1778985000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -680,6 +672,22 @@ const flightInfo = {
             "timestamp": 1779088800,
             "flight": "VZ969",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/18 14:45",
+            "timestamp": 1779090300,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/18 14:45",
+            "timestamp": 1779090300,
+            "flight": "ZF2560",
+            "city": "Tyumen",
             "status": "출발예정"
         }
     ]
