@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-18 00:17:02",
-    "version": 1779063422,
+    "lastUpdate": "2026-05-18 01:12:19",
+    "version": 1779066739,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/18 00:20",
-            "timestamp": 1779038400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "05/18 00:35",
-            "timestamp": 1779039300,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "05/18 00:45",
-            "timestamp": 1779039900,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:16)"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 01:10",
-            "timestamp": 1779041400,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 01:10",
-            "timestamp": 1779041400,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/18 01:35",
             "timestamp": 1779042900,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779064200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "지연 (08:16)"
         },
         {
             "type": "도착",
@@ -88,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779071400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -512,6 +472,14 @@ const flightInfo = {
             "timestamp": 1779165000,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/19 12:50",
+            "timestamp": 1779169800,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
