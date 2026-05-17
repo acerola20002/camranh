@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-18 04:27:38",
-    "version": 1779078458,
+    "lastUpdate": "2026-05-18 05:25:29",
+    "version": 1779081929,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779064200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:34)"
+            "status": "도착예정 (07:36)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779069600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:31)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779071400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779071700,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779072300,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -152,7 +152,7 @@ const flightInfo = {
             "timestamp": 1779083100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (13:28)"
+            "status": "지연 (13:26)"
         },
         {
             "type": "도착",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1779088200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:59)"
         },
         {
             "type": "출발",
