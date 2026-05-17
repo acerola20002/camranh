@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-18 01:12:19",
-    "version": 1779066739,
+    "lastUpdate": "2026-05-18 02:38:34",
+    "version": 1779071914,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/18 01:35",
-            "timestamp": 1779042900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 01:45",
-            "timestamp": 1779043500,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/18 07:30",
             "timestamp": 1779064200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "지연 (08:16)"
+            "status": "도착예정 (07:32)"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779069600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (08:42)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779071400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
@@ -480,6 +464,22 @@ const flightInfo = {
             "timestamp": 1779169800,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/19 13:15",
+            "timestamp": 1779171300,
+            "flight": "N43656",
+            "city": "Krasnoyarsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/19 13:20",
+            "timestamp": 1779171600,
+            "flight": "KC158",
+            "city": "Astana",
             "status": "출발예정"
         }
     ]
