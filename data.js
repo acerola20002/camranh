@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-17 18:46:13",
-    "version": 1779043573,
+    "lastUpdate": "2026-05-17 19:41:38",
+    "version": 1779046898,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/17 19:35",
-            "timestamp": 1779021300,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/17 20:40",
             "timestamp": 1779025200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:00)"
+            "status": "도착예정 (19:53)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779030900,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:26)"
+            "status": "도착예정 (21:28)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779031200,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:53)"
+            "status": "도착예정 (21:47)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1779033000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:32)"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1779033300,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:47)"
+            "status": "도착예정 (22:38)"
         },
         {
             "type": "출발",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1779033900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:55)"
+            "status": "도착예정 (22:42)"
         },
         {
             "type": "출발",
@@ -128,7 +120,7 @@ const flightInfo = {
             "timestamp": 1779036900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:49)"
         },
         {
             "type": "출발",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1779037800,
             "flight": "TW41",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (23:59)"
         },
         {
             "type": "출발",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1779039300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:16)"
         },
         {
             "type": "도착",
