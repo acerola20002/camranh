@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-18 02:38:34",
-    "version": 1779071914,
+    "lastUpdate": "2026-05-18 03:28:37",
+    "version": 1779074917,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779064200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:32)"
+            "status": "도착예정 (07:27)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779069600,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (08:42)"
+            "status": "도착예정 (08:36)"
         },
         {
             "type": "출발",
@@ -481,6 +481,22 @@ const flightInfo = {
             "flight": "KC158",
             "city": "Astana",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/19 14:45",
+            "timestamp": 1779176700,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/19 15:10",
+            "timestamp": 1779178200,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
         }
     ]
 };
