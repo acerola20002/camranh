@@ -1,78 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-17 23:15:30",
-    "version": 1779059730,
+    "lastUpdate": "2026-05-18 00:17:02",
+    "version": 1779063422,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/17 23:15",
-            "timestamp": 1779034500,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "05/17 23:15",
-            "timestamp": 1779034500,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "05/17 23:20",
-            "timestamp": 1779034800,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "05/17 23:30",
-            "timestamp": 1779035400,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "05/17 23:55",
-            "timestamp": 1779036900,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (23:31)"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 00:05",
-            "timestamp": 1779037500,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 00:05",
-            "timestamp": 1779037500,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/18 00:10",
-            "timestamp": 1779037800,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착예정 (23:42)"
-        },
         {
             "type": "출발",
             "time": "05/18 00:20",
             "timestamp": 1779038400,
             "flight": "KE468",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -80,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779039300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (23:55)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -88,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779039900,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:21)"
+            "status": "도착예정 (00:16)"
         },
         {
             "type": "출발",
@@ -152,7 +88,7 @@ const flightInfo = {
             "timestamp": 1779071400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -560,6 +496,22 @@ const flightInfo = {
             "timestamp": 1779161700,
             "flight": "VJ730",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/19 11:20",
+            "timestamp": 1779164400,
+            "flight": "HH2231",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/19 11:30",
+            "timestamp": 1779165000,
+            "flight": "SU295",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
