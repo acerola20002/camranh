@@ -1,47 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-17 14:21:00",
-    "version": 1779027660,
+    "lastUpdate": "2026-05-17 16:18:01",
+    "version": 1779034681,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/17 14:45",
-            "timestamp": 1779003900,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "지연 (15:27)"
-        },
-        {
-            "type": "도착",
-            "time": "05/17 15:10",
-            "timestamp": 1779005400,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착예정 (14:49)"
-        },
-        {
-            "type": "출발",
-            "time": "05/17 16:00",
-            "timestamp": 1779008400,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/17 16:05",
-            "timestamp": 1779008700,
-            "flight": "WZ3201",
-            "city": "Moscow",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/17 16:10",
-            "timestamp": 1779009000,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/17 17:35",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779015900,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (18:03)"
         },
         {
             "type": "도착",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779017700,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:14)"
         },
         {
             "type": "출발",
@@ -88,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779025200,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:11)"
         },
         {
             "type": "출발",
