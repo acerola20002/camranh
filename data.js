@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-19 03:02:56",
-    "version": 1779159776,
+    "lastUpdate": "2026-05-19 04:22:22",
+    "version": 1779164542,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779153900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:33)"
+            "status": "도착예정 (08:21)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779157200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779157800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:35)"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779158100,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "예정"
+            "status": "지연 (09:55)"
         },
         {
             "type": "도착",
@@ -496,6 +496,30 @@ const flightInfo = {
             "timestamp": 1779261600,
             "flight": "VZ969",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/20 15:10",
+            "timestamp": 1779264600,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/20 16:00",
+            "timestamp": 1779267600,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/20 16:10",
+            "timestamp": 1779268200,
+            "flight": "SU299",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
