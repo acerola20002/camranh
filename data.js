@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-18 16:00:12",
-    "version": 1779120012,
+    "lastUpdate": "2026-05-18 19:40:57",
+    "version": 1779133257,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/18 16:10",
-            "timestamp": 1779095400,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 16:55",
-            "timestamp": 1779098100,
-            "flight": "N43662",
-            "city": "Khabarovsk",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/18 18:35",
-            "timestamp": 1779104100,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:03)"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 19:35",
-            "timestamp": 1779107700,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/18 20:40",
             "timestamp": 1779111600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:58)"
+            "status": "도착예정 (19:42)"
         },
         {
             "type": "출발",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779117600,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (21:36)"
         },
         {
             "type": "도착",
@@ -72,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779118200,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:32)"
         },
         {
             "type": "도착",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779119700,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "출발",
@@ -96,7 +64,7 @@ const flightInfo = {
             "timestamp": 1779120300,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "출발",
@@ -120,7 +88,7 @@ const flightInfo = {
             "timestamp": 1779123300,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "출발",
@@ -497,6 +465,14 @@ const flightInfo = {
             "flight": "VJ918",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/20 07:30",
+            "timestamp": 1779237000,
+            "flight": "KC193",
+            "city": "Almaty",
+            "status": "예정"
         }
     ]
 };
