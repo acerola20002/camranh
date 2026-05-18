@@ -1,62 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-18 23:14:25",
-    "version": 1779146065,
+    "lastUpdate": "2026-05-19 01:12:44",
+    "version": 1779153164,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/18 23:20",
-            "timestamp": 1779121200,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 23:30",
-            "timestamp": 1779121800,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "05/18 23:55",
-            "timestamp": 1779123300,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (23:34)"
-        },
-        {
-            "type": "출발",
-            "time": "05/18 23:55",
-            "timestamp": 1779123300,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/19 00:20",
-            "timestamp": 1779124800,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/19 01:10",
-            "timestamp": 1779127800,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/19 08:25",
             "timestamp": 1779153900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (08:29)"
         },
         {
             "type": "도착",
@@ -72,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779157800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -481,6 +433,22 @@ const flightInfo = {
             "flight": "CZ8476",
             "city": "Guangzhou",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/20 11:30",
+            "timestamp": 1779251400,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/20 12:15",
+            "timestamp": 1779254100,
+            "flight": "N43655",
+            "city": "Krasnoyarsk",
+            "status": "예정"
         }
     ]
 };
