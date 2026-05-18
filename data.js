@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-19 01:12:44",
-    "version": 1779153164,
+    "lastUpdate": "2026-05-19 03:02:56",
+    "version": 1779159776,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779153900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:29)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779157200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779157800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1779160500,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "예정"
+            "status": "지연 (10:33)"
         },
         {
             "type": "출발",
@@ -449,6 +449,54 @@ const flightInfo = {
             "flight": "N43655",
             "city": "Krasnoyarsk",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/20 13:30",
+            "timestamp": 1779258600,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/20 13:30",
+            "timestamp": 1779258600,
+            "flight": "ZF2583",
+            "city": "Omsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/20 13:35",
+            "timestamp": 1779258900,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/20 14:10",
+            "timestamp": 1779261000,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/20 14:10",
+            "timestamp": 1779261000,
+            "flight": "N43546",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/20 14:20",
+            "timestamp": 1779261600,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
