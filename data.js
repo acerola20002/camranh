@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-20 03:01:56",
-    "version": 1779246116,
+    "lastUpdate": "2026-05-20 04:41:27",
+    "version": 1779252087,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/20 03:10",
-            "timestamp": 1779221400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "05/20 07:30",
             "timestamp": 1779237000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:06)"
+            "status": "도착예정 (07:10)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779244200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1779261000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:43)"
         },
         {
             "type": "출발",
@@ -641,6 +633,46 @@ const flightInfo = {
             "flight": "ZF2551",
             "city": "Chelyabinsk",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/21 15:10",
+            "timestamp": 1779351000,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/21 15:15",
+            "timestamp": 1779351300,
+            "flight": "N43534",
+            "city": "Ufa",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/21 15:30",
+            "timestamp": 1779352200,
+            "flight": "B2795",
+            "city": "Minsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/21 16:00",
+            "timestamp": 1779354000,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/21 16:10",
+            "timestamp": 1779354600,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
