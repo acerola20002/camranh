@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-20 16:52:19",
-    "version": 1779295939,
+    "lastUpdate": "2026-05-20 19:18:16",
+    "version": 1779304696,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/20 17:00",
-            "timestamp": 1779271200,
-            "flight": "ZF2552",
-            "city": "Chelyabinsk",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "05/20 18:20",
-            "timestamp": 1779276000,
-            "flight": "SU832",
-            "city": "Vladivostok",
-            "status": "도착예정 (18:12)"
-        },
-        {
-            "type": "출발",
-            "time": "05/20 18:20",
-            "timestamp": 1779276000,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/20 18:35",
-            "timestamp": 1779276900,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:12)"
-        },
         {
             "type": "출발",
             "time": "05/20 19:35",
             "timestamp": 1779280500,
             "flight": "3U3940",
             "city": "청두",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779284400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:15)"
+            "status": "도착예정 (20:05)"
         },
         {
             "type": "출발",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779290100,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:53)"
         },
         {
             "type": "도착",
@@ -88,7 +56,7 @@ const flightInfo = {
             "timestamp": 1779291000,
             "flight": "RF557",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (22:45)"
         },
         {
             "type": "도착",
@@ -96,7 +64,7 @@ const flightInfo = {
             "timestamp": 1779291000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
@@ -104,7 +72,7 @@ const flightInfo = {
             "timestamp": 1779292500,
             "flight": "BX7517",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -112,7 +80,7 @@ const flightInfo = {
             "timestamp": 1779292500,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "도착",
@@ -120,7 +88,7 @@ const flightInfo = {
             "timestamp": 1779292500,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:36)"
         },
         {
             "type": "도착",
@@ -128,7 +96,7 @@ const flightInfo = {
             "timestamp": 1779293100,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:08)"
         },
         {
             "type": "출발",
@@ -168,7 +136,7 @@ const flightInfo = {
             "timestamp": 1779295500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:34)"
         },
         {
             "type": "도착",
