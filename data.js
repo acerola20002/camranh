@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-22 01:04:54",
-    "version": 1779411894,
+    "lastUpdate": "2026-05-22 03:06:57",
+    "version": 1779419217,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/22 01:10",
-            "timestamp": 1779387000,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "05/22 01:10",
-            "timestamp": 1779387000,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "05/22 01:35",
-            "timestamp": 1779388500,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/22 01:45",
-            "timestamp": 1779389100,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/22 03:10",
             "timestamp": 1779394200,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779409800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:27)"
+            "status": "도착예정 (07:06)"
         },
         {
             "type": "도착",
@@ -72,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779417000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:46)"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
@@ -104,7 +72,7 @@ const flightInfo = {
             "timestamp": 1779420000,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (10:46)"
         },
         {
             "type": "도착",
@@ -600,6 +568,54 @@ const flightInfo = {
             "timestamp": 1779513600,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/23 13:20",
+            "timestamp": 1779517200,
+            "flight": "N43602",
+            "city": "Perm",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/23 13:30",
+            "timestamp": 1779517800,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/23 13:35",
+            "timestamp": 1779518100,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/23 14:10",
+            "timestamp": 1779520200,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/23 14:15",
+            "timestamp": 1779520500,
+            "flight": "WZ3205",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/23 14:20",
+            "timestamp": 1779520800,
+            "flight": "VZ969",
+            "city": "방콕",
             "status": "출발예정"
         }
     ]
