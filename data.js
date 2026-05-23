@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-23 15:53:55",
-    "version": 1779551635,
+    "lastUpdate": "2026-05-23 17:23:36",
+    "version": 1779557016,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/23 16:00",
-            "timestamp": 1779526800,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "05/23 16:10",
-            "timestamp": 1779527400,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "05/23 16:55",
-            "timestamp": 1779530100,
-            "flight": "IO995",
-            "city": "Hefei",
-            "status": "도착예정 (16:34)"
-        },
         {
             "type": "출발",
             "time": "05/23 17:30",
             "timestamp": 1779532200,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779543600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:02)"
+            "status": "도착예정 (20:00)"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779545400,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (21:04)"
+            "status": "도착예정 (20:56)"
         },
         {
             "type": "출발",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1779549300,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -96,7 +72,7 @@ const flightInfo = {
             "timestamp": 1779550200,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:41)"
         },
         {
             "type": "도착",
