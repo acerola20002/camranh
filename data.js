@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-23 05:52:25",
-    "version": 1779515545,
+    "lastUpdate": "2026-05-23 07:00:48",
+    "version": 1779519648,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779496200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:08)"
+            "status": "도착예정 (07:16)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779497400,
             "flight": "ZF2563",
             "city": "Perm",
-            "status": "지연 (14:34)"
+            "status": "지연 (14:23)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779503400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:54)"
+            "status": "지연 (09:57)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1779507900,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:50)"
         },
         {
             "type": "도착",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1779510900,
             "flight": "N43529",
             "city": "Kazan",
-            "status": "도착예정 (10:51)"
+            "status": "도착예정 (11:07)"
         },
         {
             "type": "출발",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1779520500,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (14:15)"
         },
         {
             "type": "출발",
@@ -208,7 +208,7 @@ const flightInfo = {
             "timestamp": 1779525000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:34)"
+            "status": "도착예정 (15:44)"
         },
         {
             "type": "출발",
@@ -744,6 +744,30 @@ const flightInfo = {
             "timestamp": 1779618900,
             "flight": "WZ3202",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/24 18:05",
+            "timestamp": 1779620700,
+            "flight": "TR542",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/24 18:35",
+            "timestamp": 1779622500,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/24 18:40",
+            "timestamp": 1779622800,
+            "flight": "TR543",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
