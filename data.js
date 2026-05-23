@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-24 02:53:05",
-    "version": 1779591185,
+    "lastUpdate": "2026-05-24 03:41:41",
+    "version": 1779594101,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/24 03:10",
-            "timestamp": 1779567000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "05/24 08:40",
             "timestamp": 1779586800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (08:31)"
+            "status": "도착예정 (08:27)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779587100,
             "flight": "ZF2555",
             "city": "Mineralnye Vody",
-            "status": "예정"
+            "status": "지연 (10:52)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779589200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779589500,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (08:38)"
+            "status": "도착예정 (08:36)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779589800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1779591900,
             "flight": "N43601",
             "city": "Perm",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -729,6 +721,22 @@ const flightInfo = {
             "flight": "VJ731",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/25 15:10",
+            "timestamp": 1779696600,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/25 15:15",
+            "timestamp": 1779696900,
+            "flight": "N43540",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
         }
     ]
 };
