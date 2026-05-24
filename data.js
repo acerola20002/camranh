@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-25 02:53:21",
-    "version": 1779677601,
+    "lastUpdate": "2026-05-25 03:47:48",
+    "version": 1779680868,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/25 03:10",
-            "timestamp": 1779653400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "05/25 07:30",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779676200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:55)"
+            "status": "도착예정 (08:44)"
         },
         {
             "type": "도착",
@@ -560,6 +552,30 @@ const flightInfo = {
             "timestamp": 1779777300,
             "flight": "VJ919",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/26 14:55",
+            "timestamp": 1779782100,
+            "flight": "N43430",
+            "city": "Samara",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/26 15:10",
+            "timestamp": 1779783000,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/26 15:30",
+            "timestamp": 1779784200,
+            "flight": "B2795",
+            "city": "Minsk",
             "status": "예정"
         }
     ]
