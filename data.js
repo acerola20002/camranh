@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-25 05:41:41",
-    "version": 1779687701,
+    "lastUpdate": "2026-05-25 06:44:31",
+    "version": 1779691471,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779676200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:53)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779676500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "지연 (10:01)"
+            "status": "지연 (10:09)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779677100,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779677100,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "지연 (10:22)"
+            "status": "지연 (10:26)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1779679800,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:22)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1779689700,
             "flight": "N43687",
             "city": "Omsk",
-            "status": "예정"
+            "status": "도착예정 (12:41)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1779693000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:51)"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "출발",
