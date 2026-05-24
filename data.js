@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-25 01:45:34",
-    "version": 1779673534,
+    "lastUpdate": "2026-05-25 02:53:21",
+    "version": 1779677601,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/25 01:45",
-            "timestamp": 1779648300,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발완료"
-        },
         {
             "type": "출발",
             "time": "05/25 03:10",
             "timestamp": 1779653400,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779669000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:05)"
+            "status": "도착예정 (07:29)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779676200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:12)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1779677100,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "예정"
+            "status": "지연 (10:37)"
         },
         {
             "type": "도착",
