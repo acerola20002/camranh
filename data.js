@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-25 03:47:48",
-    "version": 1779680868,
+    "lastUpdate": "2026-05-25 04:41:10",
+    "version": 1779684070,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779669000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:29)"
+            "status": "도착예정 (07:34)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779676200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:44)"
+            "status": "도착예정 (08:46)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779677100,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "지연 (10:37)"
+            "status": "지연 (10:46)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1779693000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:47)"
         },
         {
             "type": "출발",
@@ -577,6 +577,14 @@ const flightInfo = {
             "flight": "B2795",
             "city": "Minsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/26 16:00",
+            "timestamp": 1779786000,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
