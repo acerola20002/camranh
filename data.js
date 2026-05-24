@@ -1,86 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-24 22:35:20",
-    "version": 1779662120,
+    "lastUpdate": "2026-05-24 23:38:39",
+    "version": 1779665919,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/24 22:45",
-            "timestamp": 1779637500,
-            "flight": "ZF2502",
-            "city": "Moscow",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "05/24 22:50",
-            "timestamp": 1779637800,
-            "flight": "TW37",
-            "city": "대구",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "05/24 22:55",
-            "timestamp": 1779638100,
-            "flight": "RS527",
-            "city": "인천",
-            "status": "도착예정 (23:02)"
-        },
-        {
-            "type": "출발",
-            "time": "05/24 22:55",
-            "timestamp": 1779638100,
-            "flight": "VJ834",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "05/24 23:05",
-            "timestamp": 1779638700,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착예정 (22:40)"
-        },
-        {
-            "type": "출발",
-            "time": "05/24 23:15",
-            "timestamp": 1779639300,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/24 23:15",
-            "timestamp": 1779639300,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/24 23:20",
-            "timestamp": 1779639600,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/24 23:30",
-            "timestamp": 1779640200,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "05/24 23:45",
             "timestamp": 1779641100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착예정 (23:38)"
         },
         {
             "type": "도착",
@@ -96,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779642300,
             "flight": "RS528",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779642300,
             "flight": "TW38",
             "city": "대구",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -112,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779642600,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (23:44)"
+            "status": "도착예정 (23:47)"
         },
         {
             "type": "출발",
@@ -128,7 +56,7 @@ const flightInfo = {
             "timestamp": 1779644100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:10)"
+            "status": "도착예정 (00:08)"
         },
         {
             "type": "도착",
@@ -208,7 +136,7 @@ const flightInfo = {
             "timestamp": 1779676200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -664,6 +592,38 @@ const flightInfo = {
             "timestamp": 1779766200,
             "flight": "FD647",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/26 11:00",
+            "timestamp": 1779768000,
+            "flight": "N43539",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/26 11:20",
+            "timestamp": 1779769200,
+            "flight": "HH2231",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/26 11:30",
+            "timestamp": 1779769800,
+            "flight": "AK204",
+            "city": "Kuala Lumpur",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/26 11:30",
+            "timestamp": 1779769800,
+            "flight": "SU295",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
