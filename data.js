@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-24 12:43:56",
-    "version": 1779626636,
+    "lastUpdate": "2026-05-24 15:08:11",
+    "version": 1779635291,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/24 13:20",
-            "timestamp": 1779603600,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/24 13:35",
-            "timestamp": 1779604500,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착예정 (12:54)"
-        },
-        {
-            "type": "도착",
-            "time": "05/24 14:10",
-            "timestamp": 1779606600,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:38)"
-        },
-        {
-            "type": "도착",
-            "time": "05/24 14:45",
-            "timestamp": 1779608700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
         {
             "type": "도착",
             "time": "05/24 15:10",
             "timestamp": 1779610200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779613200,
             "flight": "ZF2537",
             "city": "Yekaterinburg",
-            "status": "도착예정 (15:40)"
+            "status": "도착예정 (15:46)"
         },
         {
             "type": "출발",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779613500,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:46)"
+            "status": "도착예정 (15:53)"
         },
         {
             "type": "출발",
@@ -735,6 +703,14 @@ const flightInfo = {
             "time": "05/26 00:20",
             "timestamp": 1779729600,
             "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/26 01:10",
+            "timestamp": 1779732600,
+            "flight": "ZE562",
             "city": "인천",
             "status": "출발예정"
         }
