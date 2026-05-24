@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-25 04:41:10",
-    "version": 1779684070,
+    "lastUpdate": "2026-05-25 05:41:41",
+    "version": 1779687701,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779669000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:34)"
+            "status": "도착예정 (07:40)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779676200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:46)"
+            "status": "도착예정 (08:53)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779676500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (10:01)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779677100,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779677100,
             "flight": "ZF2527",
             "city": "Ufa",
-            "status": "지연 (10:46)"
+            "status": "지연 (10:22)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1779693000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:47)"
+            "status": "도착예정 (13:51)"
         },
         {
             "type": "출발",
@@ -584,6 +584,14 @@ const flightInfo = {
             "timestamp": 1779786000,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/26 17:30",
+            "timestamp": 1779791400,
+            "flight": "B2796",
+            "city": "Minsk",
             "status": "출발예정"
         }
     ]
