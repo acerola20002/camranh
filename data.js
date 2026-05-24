@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-25 00:38:36",
-    "version": 1779669516,
+    "lastUpdate": "2026-05-25 01:45:34",
+    "version": 1779673534,
     "data": [
-        {
-            "type": "도착",
-            "time": "05/25 00:45",
-            "timestamp": 1779644700,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "05/25 00:55",
-            "timestamp": 1779645300,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "05/25 01:10",
-            "timestamp": 1779646200,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/25 01:10",
-            "timestamp": 1779646200,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/25 01:35",
-            "timestamp": 1779647700,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/25 01:45",
             "timestamp": 1779648300,
             "flight": "TW46",
             "city": "청주",
-            "status": "출발예정"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779669000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "지연 (08:06)"
+            "status": "도착예정 (07:05)"
         },
         {
             "type": "출발",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779676200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:08)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
@@ -585,6 +545,30 @@ const flightInfo = {
             "flight": "AK205",
             "city": "Kuala Lumpur",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/26 12:50",
+            "timestamp": 1779774600,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/26 13:20",
+            "timestamp": 1779776400,
+            "flight": "KC158",
+            "city": "Astana",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/26 13:35",
+            "timestamp": 1779777300,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
