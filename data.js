@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-25 23:21:19",
-    "version": 1779751279,
+    "lastUpdate": "2026-05-26 01:06:59",
+    "version": 1779757619,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/25 23:30",
-            "timestamp": 1779726600,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "05/25 23:55",
-            "timestamp": 1779728100,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (23:45)"
-        },
-        {
-            "type": "출발",
-            "time": "05/25 23:55",
-            "timestamp": 1779728100,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/26 00:05",
-            "timestamp": 1779728700,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/26 00:20",
-            "timestamp": 1779729600,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/26 01:10",
             "timestamp": 1779732600,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779756300,
             "flight": "N43657",
             "city": "Novosibirsk",
-            "status": "예정"
+            "status": "도착예정 (07:32)"
         },
         {
             "type": "도착",
@@ -72,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779758700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (08:40)"
         },
         {
             "type": "도착",
@@ -88,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779762600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -513,6 +473,22 @@ const flightInfo = {
             "flight": "CZ8476",
             "city": "Guangzhou",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/27 11:30",
+            "timestamp": 1779856200,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/27 12:15",
+            "timestamp": 1779858900,
+            "flight": "N43429",
+            "city": "Samara",
+            "status": "예정"
         }
     ]
 };
