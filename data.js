@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-26 02:55:56",
-    "version": 1779764156,
+    "lastUpdate": "2026-05-26 04:02:15",
+    "version": 1779768135,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/26 03:10",
-            "timestamp": 1779739800,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "05/26 07:45",
             "timestamp": 1779756300,
             "flight": "N43657",
             "city": "Novosibirsk",
-            "status": "도착예정 (07:23)"
+            "status": "도착예정 (07:25)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779758700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:27)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779762000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779762600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:10)"
+            "status": "도착예정 (08:57)"
         },
         {
             "type": "도착",
@@ -521,6 +513,30 @@ const flightInfo = {
             "flight": "VJ731",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/27 15:10",
+            "timestamp": 1779869400,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/27 15:40",
+            "timestamp": 1779871200,
+            "flight": "N43658",
+            "city": "Novosibirsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/27 16:00",
+            "timestamp": 1779872400,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
