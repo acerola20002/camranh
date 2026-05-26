@@ -1,62 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-26 12:39:06",
-    "version": 1779799146,
+    "lastUpdate": "2026-05-26 15:53:25",
+    "version": 1779810805,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/26 12:50",
-            "timestamp": 1779774600,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "05/26 13:20",
-            "timestamp": 1779776400,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/26 13:35",
-            "timestamp": 1779777300,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착예정 (12:56)"
-        },
-        {
-            "type": "출발",
-            "time": "05/26 14:55",
-            "timestamp": 1779782100,
-            "flight": "N43430",
-            "city": "Samara",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/26 15:10",
-            "timestamp": 1779783000,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/26 15:30",
-            "timestamp": 1779784200,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (14:55)"
-        },
         {
             "type": "출발",
             "time": "05/26 16:00",
             "timestamp": 1779786000,
             "flight": "CZ6050",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -72,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779802800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:13)"
         },
         {
             "type": "출발",
@@ -617,6 +569,38 @@ const flightInfo = {
             "flight": "7C2303",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/28 00:55",
+            "timestamp": 1779904500,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/28 01:10",
+            "timestamp": 1779905400,
+            "flight": "TW42",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/28 01:10",
+            "timestamp": 1779905400,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/28 01:35",
+            "timestamp": 1779906900,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
