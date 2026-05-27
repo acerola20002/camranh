@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-28 05:27:52",
-    "version": 1779946072,
+    "lastUpdate": "2026-05-28 06:44:41",
+    "version": 1779950681,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1779926700,
             "flight": "ZF2560",
             "city": "Tyumen",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779928800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (07:36)"
+            "status": "도착예정 (07:27)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1779932700,
             "flight": "N43657",
             "city": "Novosibirsk",
-            "status": "도착예정 (08:06)"
+            "status": "도착예정 (07:59)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779934800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779935400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:44)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1779952200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:26)"
+            "status": "도착예정 (13:15)"
         },
         {
             "type": "도착",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1779957000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:12)"
+            "status": "도착예정 (15:25)"
         },
         {
             "type": "출발",
@@ -609,6 +609,14 @@ const flightInfo = {
             "flight": "CZ6050",
             "city": "Guangzhou",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/29 18:35",
+            "timestamp": 1780054500,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
         }
     ]
 };
