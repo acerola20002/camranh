@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-28 06:44:41",
-    "version": 1779950681,
+    "lastUpdate": "2026-05-28 08:26:02",
+    "version": 1779956762,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/28 07:05",
-            "timestamp": 1779926700,
-            "flight": "ZF2560",
-            "city": "Tyumen",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "05/28 07:40",
-            "timestamp": 1779928800,
-            "flight": "C65537",
-            "city": "Tashkent",
-            "status": "도착예정 (07:27)"
-        },
         {
             "type": "도착",
             "time": "05/28 08:45",
             "timestamp": 1779932700,
             "flight": "N43657",
             "city": "Novosibirsk",
-            "status": "도착예정 (07:59)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1779935400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:44)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1779936300,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1779937200,
             "flight": "FD646",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (09:47)"
         },
         {
             "type": "출발",
@@ -144,7 +128,7 @@ const flightInfo = {
             "timestamp": 1779952200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:15)"
+            "status": "도착예정 (13:00)"
         },
         {
             "type": "도착",
@@ -168,7 +152,7 @@ const flightInfo = {
             "timestamp": 1779957000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:25)"
+            "status": "도착예정 (15:00)"
         },
         {
             "type": "출발",
@@ -617,6 +601,14 @@ const flightInfo = {
             "flight": "3U3939",
             "city": "청두",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/29 19:35",
+            "timestamp": 1780058100,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
         }
     ]
 };
