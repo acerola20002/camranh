@@ -1,63 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-28 12:45:40",
-    "version": 1779972340,
+    "lastUpdate": "2026-05-28 16:34:47",
+    "version": 1779986087,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/28 13:20",
-            "timestamp": 1779949200,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/28 14:10",
-            "timestamp": 1779952200,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:07)"
-        },
-        {
-            "type": "도착",
-            "time": "05/28 14:45",
-            "timestamp": 1779954300,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/28 15:10",
-            "timestamp": 1779955800,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "05/28 15:30",
-            "timestamp": 1779957000,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (14:49)"
-        },
-        {
-            "type": "출발",
-            "time": "05/28 16:00",
-            "timestamp": 1779958800,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "05/28 16:10",
-            "timestamp": 1779959400,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "05/28 17:30",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1779975600,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:02)"
         },
         {
             "type": "출발",
@@ -633,6 +577,38 @@ const flightInfo = {
             "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/30 00:55",
+            "timestamp": 1780077300,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/30 01:10",
+            "timestamp": 1780078200,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/30 03:10",
+            "timestamp": 1780085400,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/30 04:00",
+            "timestamp": 1780088400,
+            "flight": "SU830",
+            "city": "Novosibirsk",
+            "status": "예정"
         }
     ]
 };
