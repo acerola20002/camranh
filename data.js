@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-30 05:15:52",
-    "version": 1780118152,
+    "lastUpdate": "2026-05-30 06:43:08",
+    "version": 1780123388,
     "data": [
-        {
-            "type": "출발",
-            "time": "05/30 05:30",
-            "timestamp": 1780093800,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "05/30 07:30",
             "timestamp": 1780101000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:14)"
+            "status": "도착예정 (07:17)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780103400,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "도착예정 (07:39)"
+            "status": "도착예정 (07:49)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780104300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:40)"
+            "status": "도착예정 (07:38)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1780108200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1780108500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1780109100,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "출발",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1780112700,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:46)"
         },
         {
             "type": "출발",
@@ -160,7 +152,7 @@ const flightInfo = {
             "timestamp": 1780125000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "도착",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1780125300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (14:19)"
         },
         {
             "type": "출발",
@@ -200,7 +192,7 @@ const flightInfo = {
             "timestamp": 1780129800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:19)"
+            "status": "도착예정 (15:34)"
         },
         {
             "type": "출발",
@@ -672,6 +664,46 @@ const flightInfo = {
             "timestamp": 1780218600,
             "flight": "SU299",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/31 17:20",
+            "timestamp": 1780222800,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/31 17:35",
+            "timestamp": 1780223700,
+            "flight": "WZ3202",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/31 18:05",
+            "timestamp": 1780225500,
+            "flight": "TR542",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "05/31 18:35",
+            "timestamp": 1780227300,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "05/31 18:40",
+            "timestamp": 1780227600,
+            "flight": "TR543",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
