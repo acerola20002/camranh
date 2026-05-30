@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-05-31 01:50:41",
-    "version": 1780192241,
+    "lastUpdate": "2026-05-31 03:04:40",
+    "version": 1780196680,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1780191600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (09:56)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780194000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780194300,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (08:38)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780194600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -560,6 +560,38 @@ const flightInfo = {
             "timestamp": 1780295700,
             "flight": "VJ919",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/01 14:10",
+            "timestamp": 1780297800,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/01 14:10",
+            "timestamp": 1780297800,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/01 14:20",
+            "timestamp": 1780298400,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/01 14:45",
+            "timestamp": 1780299900,
+            "flight": "VJ731",
+            "city": "Haiphong",
             "status": "예정"
         }
     ]
