@@ -1,31 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-01 00:36:01",
-    "version": 1780274161,
+    "lastUpdate": "2026-06-01 01:48:20",
+    "version": 1780278500,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/01 01:10",
-            "timestamp": 1780251000,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/01 01:10",
-            "timestamp": 1780251000,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/01 01:35",
-            "timestamp": 1780252500,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/01 03:10",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780273800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:38)"
+            "status": "도착예정 (07:27)"
         },
         {
             "type": "출발",
@@ -513,6 +489,22 @@ const flightInfo = {
             "flight": "AK205",
             "city": "Kuala Lumpur",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/02 12:50",
+            "timestamp": 1780379400,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/02 13:30",
+            "timestamp": 1780381800,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
