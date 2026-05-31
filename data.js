@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-01 01:48:20",
-    "version": 1780278500,
+    "lastUpdate": "2026-06-01 02:57:16",
+    "version": 1780282636,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1780258200,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780273800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:27)"
+            "status": "도착예정 (07:08)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780281000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:10)"
         },
         {
             "type": "도착",
@@ -504,6 +504,30 @@ const flightInfo = {
             "timestamp": 1780381800,
             "flight": "VZ968",
             "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/02 14:20",
+            "timestamp": 1780384800,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/02 14:45",
+            "timestamp": 1780386300,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/02 14:55",
+            "timestamp": 1780386900,
+            "flight": "WZ3201",
+            "city": "Moscow",
             "status": "예정"
         }
     ]
