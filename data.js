@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-01 06:14:56",
-    "version": 1780294496,
+    "lastUpdate": "2026-06-01 07:16:00",
+    "version": 1780298160,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1780273800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:23)"
+            "status": "도착예정 (07:30)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780281000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780281300,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1780281900,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:35)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1780284600,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:33)"
         },
         {
             "type": "출발",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1780293000,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (12:17)"
+            "status": "도착예정 (12:11)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1780297800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:11)"
+            "status": "도착예정 (13:00)"
         },
         {
             "type": "출발",
