@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-02 03:42:12",
-    "version": 1780371732,
+    "lastUpdate": "2026-06-02 05:52:30",
+    "version": 1780379550,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780367400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780367700,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1780368300,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "출발",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1780374000,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:58)"
         },
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1780386900,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (15:14)"
         },
         {
             "type": "도착",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1780389000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "예정"
+            "status": "도착예정 (15:17)"
         },
         {
             "type": "출발",
@@ -545,6 +545,38 @@ const flightInfo = {
             "flight": "CZ6049",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/03 16:00",
+            "timestamp": 1780477200,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/03 16:00",
+            "timestamp": 1780477200,
+            "flight": "HH2240",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/03 16:10",
+            "timestamp": 1780477800,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/03 17:20",
+            "timestamp": 1780482000,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
         }
     ]
 };
