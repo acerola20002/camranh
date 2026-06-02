@@ -1,86 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-02 11:58:40",
-    "version": 1780401520,
+    "lastUpdate": "2026-06-02 16:10:20",
+    "version": 1780416620,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/02 12:00",
-            "timestamp": 1780376400,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/02 12:50",
-            "timestamp": 1780379400,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/02 13:30",
-            "timestamp": 1780381800,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/02 14:20",
-            "timestamp": 1780384800,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/02 14:45",
-            "timestamp": 1780386300,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/02 14:55",
-            "timestamp": 1780386900,
-            "flight": "WZ3201",
-            "city": "Moscow",
-            "status": "도착예정 (15:02)"
-        },
-        {
-            "type": "도착",
-            "time": "06/02 15:10",
-            "timestamp": 1780387800,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/02 15:30",
-            "timestamp": 1780389000,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:06)"
-        },
-        {
-            "type": "출발",
-            "time": "06/02 16:00",
-            "timestamp": 1780390800,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/02 16:25",
             "timestamp": 1780392300,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780407600,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:28)"
         },
         {
             "type": "도착",
@@ -632,6 +560,54 @@ const flightInfo = {
             "timestamp": 1780505700,
             "flight": "LJ116",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/04 00:05",
+            "timestamp": 1780506300,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/04 00:20",
+            "timestamp": 1780507200,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/04 00:35",
+            "timestamp": 1780508100,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/04 00:55",
+            "timestamp": 1780509300,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/04 01:10",
+            "timestamp": 1780510200,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/04 01:35",
+            "timestamp": 1780511700,
+            "flight": "7C2304",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
