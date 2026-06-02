@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-03 00:15:44",
-    "version": 1780445744,
+    "lastUpdate": "2026-06-03 03:20:59",
+    "version": 1780456859,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/03 00:20",
-            "timestamp": 1780420800,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 00:55",
-            "timestamp": 1780422900,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 01:10",
-            "timestamp": 1780423800,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 02:50",
-            "timestamp": 1780429800,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 03:10",
-            "timestamp": 1780431000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/03 07:30",
             "timestamp": 1780446600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:06)"
         },
         {
             "type": "출발",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780453500,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (08:53)"
         },
         {
             "type": "도착",
@@ -72,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780453800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -585,6 +545,54 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/04 13:30",
+            "timestamp": 1780554600,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/04 14:10",
+            "timestamp": 1780557000,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/04 14:20",
+            "timestamp": 1780557600,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/04 14:45",
+            "timestamp": 1780559100,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/04 14:55",
+            "timestamp": 1780559700,
+            "flight": "N43529",
+            "city": "Kazan",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/04 15:10",
+            "timestamp": 1780560600,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
         }
     ]
 };
