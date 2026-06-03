@@ -1,86 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-03 17:12:09",
-    "version": 1780506729,
+    "lastUpdate": "2026-06-03 22:05:47",
+    "version": 1780524347,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/03 17:20",
-            "timestamp": 1780482000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "06/03 18:20",
-            "timestamp": 1780485600,
-            "flight": "SU832",
-            "city": "Vladivostok",
-            "status": "도착예정 (17:57)"
-        },
-        {
-            "type": "도착",
-            "time": "06/03 18:35",
-            "timestamp": 1780486500,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:03)"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 19:35",
-            "timestamp": 1780490100,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 19:50",
-            "timestamp": 1780491000,
-            "flight": "SU831",
-            "city": "Novosibirsk",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/03 20:40",
-            "timestamp": 1780494000,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:15)"
-        },
-        {
-            "type": "도착",
-            "time": "06/03 21:30",
-            "timestamp": 1780497000,
-            "flight": "VJ733",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 21:35",
-            "timestamp": 1780497300,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/03 21:50",
-            "timestamp": 1780498200,
-            "flight": "BX788",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/03 22:15",
             "timestamp": 1780499700,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:47)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -88,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780500600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:12)"
         },
         {
             "type": "도착",
@@ -96,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780502100,
             "flight": "BX7517",
             "city": "부산",
-            "status": "예정"
+            "status": "지연 (23:14)"
         },
         {
             "type": "도착",
@@ -104,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780502100,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "도착",
@@ -112,7 +40,7 @@ const flightInfo = {
             "timestamp": 1780502100,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (23:57)"
         },
         {
             "type": "도착",
@@ -120,7 +48,7 @@ const flightInfo = {
             "timestamp": 1780502700,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
@@ -152,7 +80,7 @@ const flightInfo = {
             "timestamp": 1780505100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "도착",
@@ -160,7 +88,7 @@ const flightInfo = {
             "timestamp": 1780505700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:10)"
         },
         {
             "type": "출발",
@@ -200,7 +128,7 @@ const flightInfo = {
             "timestamp": 1780508100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:46)"
         },
         {
             "type": "출발",
@@ -640,6 +568,62 @@ const flightInfo = {
             "timestamp": 1780607100,
             "flight": "EO3657",
             "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/05 06:45",
+            "timestamp": 1780616700,
+            "flight": "EO3542",
+            "city": "St. Petersburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/05 07:30",
+            "timestamp": 1780619400,
+            "flight": "KC193",
+            "city": "Almaty",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/05 09:00",
+            "timestamp": 1780624800,
+            "flight": "KC194",
+            "city": "Almaty",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/05 09:30",
+            "timestamp": 1780626600,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/05 09:35",
+            "timestamp": 1780626900,
+            "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/05 09:45",
+            "timestamp": 1780627500,
+            "flight": "VN441",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/05 10:05",
+            "timestamp": 1780628700,
+            "flight": "CZ8475",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
