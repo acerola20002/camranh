@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-04 01:55:41",
-    "version": 1780538141,
+    "lastUpdate": "2026-06-04 04:45:13",
+    "version": 1780548313,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1780533600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (07:29)"
+            "status": "도착예정 (07:34)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780539600,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:12)"
+            "status": "도착예정 (08:42)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780540200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1780547400,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "도착예정 (11:37)"
+            "status": "도착예정 (11:35)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1780557000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "출발",
@@ -585,6 +585,46 @@ const flightInfo = {
             "flight": "VJ919",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/05 14:20",
+            "timestamp": 1780644000,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/05 14:45",
+            "timestamp": 1780645500,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/05 15:10",
+            "timestamp": 1780647000,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/05 15:30",
+            "timestamp": 1780648200,
+            "flight": "ZF2560",
+            "city": "Tyumen",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/05 16:00",
+            "timestamp": 1780650000,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
