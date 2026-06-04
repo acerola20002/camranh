@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-05 04:01:53",
-    "version": 1780632113,
+    "lastUpdate": "2026-06-05 05:41:40",
+    "version": 1780638100,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/05 04:05",
-            "timestamp": 1780607100,
-            "flight": "EO3657",
-            "city": "Novosibirsk",
-            "status": "예정"
-        },
         {
             "type": "출발",
             "time": "06/05 06:45",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780619400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:40)"
+            "status": "지연 (07:57)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1780626900,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1780627500,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:59)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1780634400,
             "flight": "ZF2555",
             "city": "Mineralnye Vody",
-            "status": "지연 (12:07)"
+            "status": "지연 (12:02)"
         },
         {
             "type": "출발",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1780640100,
             "flight": "N43601",
             "city": "Perm",
-            "status": "예정"
+            "status": "도착예정 (13:11)"
         },
         {
             "type": "출발",
@@ -584,6 +576,54 @@ const flightInfo = {
             "timestamp": 1780736400,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/06 16:10",
+            "timestamp": 1780737000,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/06 16:25",
+            "timestamp": 1780737900,
+            "flight": "EO3541",
+            "city": "St. Petersburg",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/06 16:35",
+            "timestamp": 1780738500,
+            "flight": "N43540",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/06 16:55",
+            "timestamp": 1780739700,
+            "flight": "IO995",
+            "city": "Hefei",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/06 17:20",
+            "timestamp": 1780741200,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/06 17:30",
+            "timestamp": 1780741800,
+            "flight": "B2796",
+            "city": "Minsk",
             "status": "출발예정"
         }
     ]
