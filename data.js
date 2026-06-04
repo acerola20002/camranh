@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-05 05:41:40",
-    "version": 1780638100,
+    "lastUpdate": "2026-06-05 06:53:30",
+    "version": 1780642410,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/05 06:45",
-            "timestamp": 1780616700,
-            "flight": "EO3542",
-            "city": "St. Petersburg",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/05 07:30",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780626600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:10)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780626900,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:40)"
+            "status": "도착예정 (09:44)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1780627500,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:59)"
+            "status": "지연 (10:01)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1780630200,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:41)"
         },
         {
             "type": "출발",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1780634400,
             "flight": "ZF2555",
             "city": "Mineralnye Vody",
-            "status": "지연 (12:02)"
+            "status": "지연 (12:00)"
         },
         {
             "type": "출발",
@@ -128,7 +120,7 @@ const flightInfo = {
             "timestamp": 1780636200,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "예정"
+            "status": "도착예정 (11:45)"
         },
         {
             "type": "출발",
@@ -144,7 +136,7 @@ const flightInfo = {
             "timestamp": 1780640100,
             "flight": "N43601",
             "city": "Perm",
-            "status": "도착예정 (13:11)"
+            "status": "도착예정 (13:00)"
         },
         {
             "type": "출발",
@@ -624,6 +616,22 @@ const flightInfo = {
             "timestamp": 1780741800,
             "flight": "B2796",
             "city": "Minsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/06 18:05",
+            "timestamp": 1780743900,
+            "flight": "IO996",
+            "city": "Hefei",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/06 18:10",
+            "timestamp": 1780744200,
+            "flight": "EO3660",
+            "city": "Irkutsk",
             "status": "출발예정"
         }
     ]
