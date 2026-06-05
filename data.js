@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-05 17:42:48",
-    "version": 1780681368,
+    "lastUpdate": "2026-06-05 20:44:39",
+    "version": 1780692279,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/05 18:35",
-            "timestamp": 1780659300,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:05)"
-        },
-        {
-            "type": "출발",
-            "time": "06/05 19:15",
-            "timestamp": 1780661700,
-            "flight": "N43688",
-            "city": "Omsk",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/05 19:35",
-            "timestamp": 1780662900,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/05 20:40",
-            "timestamp": 1780666800,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:17)"
-        },
         {
             "type": "도착",
             "time": "06/05 21:30",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780673400,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "출발",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1780675500,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:06)"
         },
         {
             "type": "출발",
@@ -104,7 +72,7 @@ const flightInfo = {
             "timestamp": 1780678500,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:08)"
         },
         {
             "type": "출발",
@@ -641,6 +609,14 @@ const flightInfo = {
             "flight": "VJ918",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/07 08:40",
+            "timestamp": 1780796400,
+            "flight": "C65537",
+            "city": "Tashkent",
+            "status": "예정"
         }
     ]
 };
