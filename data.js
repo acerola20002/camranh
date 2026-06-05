@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-06 01:16:33",
-    "version": 1780708593,
+    "lastUpdate": "2026-06-06 03:15:44",
+    "version": 1780715744,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/06 03:10",
-            "timestamp": 1780690200,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/06 04:00",
             "timestamp": 1780693200,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:30)"
+            "status": "도착예정 (03:22)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780705800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:42)"
+            "status": "도착예정 (07:19)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1780709100,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:31)"
+            "status": "도착예정 (08:14)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1780713000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:08)"
         },
         {
             "type": "도착",
@@ -648,6 +640,70 @@ const flightInfo = {
             "timestamp": 1780810800,
             "flight": "N43539",
             "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/07 13:30",
+            "timestamp": 1780813800,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/07 13:35",
+            "timestamp": 1780814100,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/07 14:10",
+            "timestamp": 1780816200,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/07 14:20",
+            "timestamp": 1780816800,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/07 14:35",
+            "timestamp": 1780817700,
+            "flight": "EO3656",
+            "city": "Krasnoyarsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/07 14:45",
+            "timestamp": 1780818300,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/07 15:00",
+            "timestamp": 1780819200,
+            "flight": "N43658",
+            "city": "Novosibirsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/07 15:10",
+            "timestamp": 1780819800,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
             "status": "예정"
         }
     ]
