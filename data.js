@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-05 06:53:30",
-    "version": 1780642410,
+    "lastUpdate": "2026-06-05 09:49:54",
+    "version": 1780652994,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/05 07:30",
-            "timestamp": 1780619400,
-            "flight": "KC193",
-            "city": "Almaty",
-            "status": "지연 (07:57)"
-        },
-        {
-            "type": "출발",
-            "time": "06/05 09:00",
-            "timestamp": 1780624800,
-            "flight": "KC194",
-            "city": "Almaty",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/05 09:30",
-            "timestamp": 1780626600,
-            "flight": "SU294",
-            "city": "Moscow",
-            "status": "도착예정 (09:14)"
-        },
-        {
-            "type": "도착",
-            "time": "06/05 09:35",
-            "timestamp": 1780626900,
-            "flight": "VJ835",
-            "city": "인천",
-            "status": "도착예정 (09:44)"
-        },
-        {
-            "type": "도착",
-            "time": "06/05 09:45",
-            "timestamp": 1780627500,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "지연 (10:01)"
-        },
         {
             "type": "도착",
             "time": "06/05 10:05",
             "timestamp": 1780628700,
             "flight": "CZ8475",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (10:05)"
         },
         {
             "type": "도착",
@@ -88,7 +48,7 @@ const flightInfo = {
             "timestamp": 1780633800,
             "flight": "TR548",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (11:13)"
         },
         {
             "type": "출발",
@@ -104,7 +64,7 @@ const flightInfo = {
             "timestamp": 1780634400,
             "flight": "ZF2555",
             "city": "Mineralnye Vody",
-            "status": "지연 (12:00)"
+            "status": "지연 (11:56)"
         },
         {
             "type": "출발",
@@ -120,7 +80,7 @@ const flightInfo = {
             "timestamp": 1780636200,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (11:45)"
+            "status": "도착예정 (11:35)"
         },
         {
             "type": "출발",
@@ -136,7 +96,7 @@ const flightInfo = {
             "timestamp": 1780640100,
             "flight": "N43601",
             "city": "Perm",
-            "status": "도착예정 (13:00)"
+            "status": "도착예정 (12:56)"
         },
         {
             "type": "출발",
@@ -160,7 +120,7 @@ const flightInfo = {
             "timestamp": 1780641300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (13:13)"
         },
         {
             "type": "출발",
@@ -633,6 +593,30 @@ const flightInfo = {
             "flight": "EO3660",
             "city": "Irkutsk",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/06 20:40",
+            "timestamp": 1780753200,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/06 21:10",
+            "timestamp": 1780755000,
+            "flight": "SU832",
+            "city": "Vladivostok",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/06 21:30",
+            "timestamp": 1780756200,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
         }
     ]
 };
