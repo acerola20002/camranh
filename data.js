@@ -1,70 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-06 23:37:37",
-    "version": 1780789057,
+    "lastUpdate": "2026-06-07 00:46:11",
+    "version": 1780793171,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/06 23:45",
-            "timestamp": 1780764300,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "도착예정 (23:38)"
-        },
-        {
-            "type": "도착",
-            "time": "06/06 23:55",
-            "timestamp": 1780764900,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (00:01)"
-        },
-        {
-            "type": "출발",
-            "time": "06/06 23:55",
-            "timestamp": 1780764900,
-            "flight": "BX7527",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/06 23:55",
-            "timestamp": 1780764900,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/07 00:05",
-            "timestamp": 1780765500,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/07 00:20",
-            "timestamp": 1780766400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/07 00:35",
-            "timestamp": 1780767300,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:31)"
-        },
         {
             "type": "출발",
             "time": "06/07 00:55",
             "timestamp": 1780768500,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780769400,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -120,7 +64,7 @@ const flightInfo = {
             "timestamp": 1780799400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -624,6 +568,22 @@ const flightInfo = {
             "timestamp": 1780893000,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/08 12:00",
+            "timestamp": 1780894800,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/08 12:10",
+            "timestamp": 1780895400,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
