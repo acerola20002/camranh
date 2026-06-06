@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-07 04:15:06",
-    "version": 1780805706,
+    "lastUpdate": "2026-06-07 05:18:38",
+    "version": 1780809518,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1780796400,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (09:01)"
+            "status": "지연 (09:03)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780798800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:48)"
+            "status": "도착예정 (08:50)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780799100,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "지연 (09:52)"
+            "status": "지연 (09:50)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780799400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (09:10)"
         },
         {
             "type": "도착",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1780810800,
             "flight": "N43539",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "지연 (13:06)"
         },
         {
             "type": "도착",
