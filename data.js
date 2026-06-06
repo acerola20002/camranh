@@ -1,31 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-07 00:46:11",
-    "version": 1780793171,
+    "lastUpdate": "2026-06-07 01:56:16",
+    "version": 1780797376,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/07 00:55",
-            "timestamp": 1780768500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/07 01:10",
-            "timestamp": 1780769400,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/07 01:35",
-            "timestamp": 1780770900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/07 03:10",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780798800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -585,6 +561,22 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/08 12:50",
+            "timestamp": 1780897800,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/08 13:35",
+            "timestamp": 1780900500,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
