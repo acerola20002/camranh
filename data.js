@@ -1,70 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-06 15:47:12",
-    "version": 1780760832,
+    "lastUpdate": "2026-06-06 17:45:54",
+    "version": 1780767954,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/06 16:00",
-            "timestamp": 1780736400,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/06 16:10",
-            "timestamp": 1780737000,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "06/06 16:25",
-            "timestamp": 1780737900,
-            "flight": "EO3541",
-            "city": "St. Petersburg",
-            "status": "도착예정 (16:36)"
-        },
-        {
-            "type": "출발",
-            "time": "06/06 16:35",
-            "timestamp": 1780738500,
-            "flight": "N43540",
-            "city": "Yekaterinburg",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/06 16:55",
-            "timestamp": 1780739700,
-            "flight": "IO995",
-            "city": "Hefei",
-            "status": "도착예정 (16:33)"
-        },
-        {
-            "type": "출발",
-            "time": "06/06 17:20",
-            "timestamp": 1780741200,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/06 17:30",
-            "timestamp": 1780741800,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/06 18:05",
             "timestamp": 1780743900,
             "flight": "IO996",
             "city": "Hefei",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780744200,
             "flight": "EO3660",
             "city": "Irkutsk",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -80,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780753200,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:28)"
         },
         {
             "type": "도착",
@@ -88,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780755000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (21:17)"
+            "status": "도착예정 (21:00)"
         },
         {
             "type": "도착",
@@ -120,7 +64,7 @@ const flightInfo = {
             "timestamp": 1780758900,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:43)"
         },
         {
             "type": "도착",
@@ -128,7 +72,7 @@ const flightInfo = {
             "timestamp": 1780759800,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
