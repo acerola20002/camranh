@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-07 01:56:16",
-    "version": 1780797376,
+    "lastUpdate": "2026-06-07 03:07:04",
+    "version": 1780801624,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1780776600,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780796400,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (09:05)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780798800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1780799400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
@@ -576,6 +576,30 @@ const flightInfo = {
             "timestamp": 1780900500,
             "flight": "VJ919",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/08 14:10",
+            "timestamp": 1780902600,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/08 14:10",
+            "timestamp": 1780902600,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/08 14:45",
+            "timestamp": 1780904700,
+            "flight": "VJ731",
+            "city": "Haiphong",
             "status": "예정"
         }
     ]
