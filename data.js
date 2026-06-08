@@ -1,71 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-08 13:58:17",
-    "version": 1780927097,
+    "lastUpdate": "2026-06-08 18:59:18",
+    "version": 1780945158,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/08 14:10",
-            "timestamp": 1780902600,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "06/08 14:10",
-            "timestamp": 1780902600,
-            "flight": "SU841",
-            "city": "Irkutsk",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "06/08 14:45",
-            "timestamp": 1780904700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:53)"
-        },
-        {
-            "type": "도착",
-            "time": "06/08 15:10",
-            "timestamp": 1780906200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/08 16:00",
-            "timestamp": 1780909200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/08 16:10",
-            "timestamp": 1780909800,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/08 17:20",
-            "timestamp": 1780914000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/08 18:35",
-            "timestamp": 1780918500,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "예정"
-        },
         {
             "type": "출발",
             "time": "06/08 19:35",
@@ -80,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780926000,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "도착",
@@ -112,7 +48,7 @@ const flightInfo = {
             "timestamp": 1780932600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:13)"
         },
         {
             "type": "도착",
@@ -120,7 +56,7 @@ const flightInfo = {
             "timestamp": 1780934700,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -480,6 +416,22 @@ const flightInfo = {
             "timestamp": 1781028600,
             "flight": "ZE562",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/10 02:50",
+            "timestamp": 1781034600,
+            "flight": "SU833",
+            "city": "Vladivostok",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/10 03:10",
+            "timestamp": 1781035800,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
