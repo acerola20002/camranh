@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-09 04:02:38",
-    "version": 1780977758,
+    "lastUpdate": "2026-06-09 05:44:23",
+    "version": 1780983863,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1780968300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:53)"
+            "status": "도착예정 (07:38)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1780971600,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:23)"
+            "status": "도착예정 (08:31)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1780972200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (09:10)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1780973100,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1780978800,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:50)"
+            "status": "도착예정 (10:52)"
         },
         {
             "type": "출발",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1780991700,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (14:55)"
         },
         {
             "type": "도착",
@@ -520,6 +520,22 @@ const flightInfo = {
             "timestamp": 1781082000,
             "flight": "HH2240",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/10 16:10",
+            "timestamp": 1781082600,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/10 17:20",
+            "timestamp": 1781086800,
+            "flight": "VJ732",
+            "city": "Haiphong",
             "status": "출발예정"
         }
     ]
