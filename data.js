@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-09 17:21:19",
-    "version": 1781025679,
+    "lastUpdate": "2026-06-09 20:22:09",
+    "version": 1781036529,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/09 17:30",
-            "timestamp": 1781001000,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "06/09 20:40",
             "timestamp": 1781012400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:09)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781015400,
             "flight": "VJ733",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (21:15)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1781018400,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1781019000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:58)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1781021100,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1781023500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1781024100,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:19)"
+            "status": "도착예정 (23:02)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1781024100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:06)"
         },
         {
             "type": "출발",
@@ -585,6 +577,22 @@ const flightInfo = {
             "flight": "7C2304",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/11 07:30",
+            "timestamp": 1781137800,
+            "flight": "N43661",
+            "city": "Khabarovsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/11 07:40",
+            "timestamp": 1781138400,
+            "flight": "C65537",
+            "city": "Tashkent",
+            "status": "예정"
         }
     ]
 };
