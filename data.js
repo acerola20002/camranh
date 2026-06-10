@@ -1,102 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-10 13:05:37",
-    "version": 1781096737,
+    "lastUpdate": "2026-06-10 17:18:56",
+    "version": 1781111936,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/10 13:25",
-            "timestamp": 1781072700,
-            "flight": "WZ3205",
-            "city": "Yekaterinburg",
-            "status": "도착예정 (13:34)"
-        },
-        {
-            "type": "도착",
-            "time": "06/10 13:35",
-            "timestamp": 1781073300,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "06/10 14:10",
-            "timestamp": 1781075400,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:43)"
-        },
-        {
-            "type": "도착",
-            "time": "06/10 14:35",
-            "timestamp": 1781076900,
-            "flight": "HH2239",
-            "city": "Tashkent",
-            "status": "도착예정 (14:02)"
-        },
-        {
-            "type": "도착",
-            "time": "06/10 14:45",
-            "timestamp": 1781077500,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/10 14:55",
-            "timestamp": 1781078100,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/10 15:10",
-            "timestamp": 1781079000,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착예정 (14:51)"
-        },
-        {
-            "type": "출발",
-            "time": "06/10 15:40",
-            "timestamp": 1781080800,
-            "flight": "N43662",
-            "city": "Khabarovsk",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/10 16:00",
-            "timestamp": 1781082000,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/10 16:00",
-            "timestamp": 1781082000,
-            "flight": "HH2240",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/10 16:10",
-            "timestamp": 1781082600,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/10 17:20",
             "timestamp": 1781086800,
             "flight": "VJ732",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -104,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781090400,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (17:57)"
+            "status": "도착예정 (17:54)"
         },
         {
             "type": "도착",
@@ -112,7 +24,7 @@ const flightInfo = {
             "timestamp": 1781091300,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:09)"
         },
         {
             "type": "출발",
@@ -136,7 +48,7 @@ const flightInfo = {
             "timestamp": 1781098800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "출발",
@@ -176,7 +88,7 @@ const flightInfo = {
             "timestamp": 1781104500,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:47)"
         },
         {
             "type": "도착",
@@ -728,6 +640,30 @@ const flightInfo = {
             "timestamp": 1781200500,
             "flight": "LJ88",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/12 01:00",
+            "timestamp": 1781200800,
+            "flight": "B2796",
+            "city": "Minsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/12 01:35",
+            "timestamp": 1781202900,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/12 03:10",
+            "timestamp": 1781208600,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
