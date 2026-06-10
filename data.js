@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-11 02:30:02",
-    "version": 1781145002,
+    "lastUpdate": "2026-06-11 04:39:34",
+    "version": 1781152774,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1781137800,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "지연 (07:49)"
+            "status": "도착예정 (07:27)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781138400,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (07:38)"
+            "status": "도착예정 (07:44)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781144400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1781145000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1781161800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:51)"
         },
         {
             "type": "출발",
@@ -616,6 +616,30 @@ const flightInfo = {
             "timestamp": 1781248800,
             "flight": "VZ969",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/12 14:45",
+            "timestamp": 1781250300,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/12 15:20",
+            "timestamp": 1781252400,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/12 15:45",
+            "timestamp": 1781253900,
+            "flight": "WZ3206",
+            "city": "Yekaterinburg",
             "status": "출발예정"
         }
     ]
