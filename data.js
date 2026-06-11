@@ -1,102 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-11 13:27:34",
-    "version": 1781184454,
+    "lastUpdate": "2026-06-11 18:09:19",
+    "version": 1781201359,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/11 13:30",
-            "timestamp": 1781159400,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "06/11 14:10",
-            "timestamp": 1781161800,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:47)"
-        },
-        {
-            "type": "출발",
-            "time": "06/11 14:20",
-            "timestamp": 1781162400,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/11 14:45",
-            "timestamp": 1781163900,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:45)"
-        },
-        {
-            "type": "도착",
-            "time": "06/11 14:50",
-            "timestamp": 1781164200,
-            "flight": "EO3657",
-            "city": "Novosibirsk",
-            "status": "도착예정 (14:13)"
-        },
-        {
-            "type": "도착",
-            "time": "06/11 15:05",
-            "timestamp": 1781165100,
-            "flight": "EO3545",
-            "city": "Moscow",
-            "status": "도착예정 (14:45)"
-        },
-        {
-            "type": "도착",
-            "time": "06/11 15:10",
-            "timestamp": 1781165400,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착예정 (14:47)"
-        },
-        {
-            "type": "출발",
-            "time": "06/11 15:20",
-            "timestamp": 1781166000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/11 16:00",
-            "timestamp": 1781168400,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/11 16:10",
-            "timestamp": 1781169000,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/11 16:55",
-            "timestamp": 1781171700,
-            "flight": "EO3548",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/11 18:10",
             "timestamp": 1781176200,
             "flight": "EO3538",
             "city": "Yekaterinburg",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -104,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781185200,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (19:58)"
         },
         {
             "type": "도착",
@@ -144,7 +56,7 @@ const flightInfo = {
             "timestamp": 1781191200,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:19)"
         },
         {
             "type": "도착",
@@ -176,7 +88,7 @@ const flightInfo = {
             "timestamp": 1781193600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (22:53)"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -608,6 +520,22 @@ const flightInfo = {
             "timestamp": 1781286900,
             "flight": "LJ88",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/13 04:00",
+            "timestamp": 1781298000,
+            "flight": "SU830",
+            "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/13 05:30",
+            "timestamp": 1781303400,
+            "flight": "SU833",
+            "city": "Vladivostok",
             "status": "출발예정"
         }
     ]
