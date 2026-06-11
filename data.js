@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-12 01:09:19",
-    "version": 1781226559,
+    "lastUpdate": "2026-06-12 03:34:00",
+    "version": 1781235240,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/12 01:35",
-            "timestamp": 1781202900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/12 03:10",
-            "timestamp": 1781208600,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/12 07:30",
             "timestamp": 1781224200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:14)"
+            "status": "도착예정 (07:06)"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781226600,
             "flight": "N43539",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:08)"
+            "status": "도착예정 (07:55)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781231400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:03)"
         },
         {
             "type": "도착",
@@ -528,6 +512,46 @@ const flightInfo = {
             "timestamp": 1781329800,
             "flight": "EO3537",
             "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/13 14:10",
+            "timestamp": 1781334600,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/13 14:15",
+            "timestamp": 1781334900,
+            "flight": "WZ3205",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/13 14:45",
+            "timestamp": 1781336700,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/13 15:10",
+            "timestamp": 1781338200,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/13 15:30",
+            "timestamp": 1781339400,
+            "flight": "B2795",
+            "city": "Minsk",
             "status": "예정"
         }
     ]
