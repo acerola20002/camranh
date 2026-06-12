@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-12 15:45:17",
-    "version": 1781279117,
+    "lastUpdate": "2026-06-12 19:02:58",
+    "version": 1781290978,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/12 15:45",
-            "timestamp": 1781253900,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "출발완료"
-        },
-        {
-            "type": "도착",
-            "time": "06/12 17:00",
-            "timestamp": 1781258400,
-            "flight": "EO3547",
-            "city": "Moscow",
-            "status": "도착예정 (16:53)"
-        },
         {
             "type": "도착",
             "time": "06/12 20:05",
             "timestamp": 1781269500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (19:48)"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781271600,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:22)"
         },
         {
             "type": "출발",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1781278200,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "출발",
@@ -96,7 +80,7 @@ const flightInfo = {
             "timestamp": 1781280300,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:53)"
         },
         {
             "type": "출발",
