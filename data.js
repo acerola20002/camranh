@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-14 00:58:24",
-    "version": 1781398704,
+    "lastUpdate": "2026-06-14 02:40:31",
+    "version": 1781404831,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/14 01:35",
-            "timestamp": 1781375700,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/14 03:10",
             "timestamp": 1781381400,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781401200,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (09:05)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1781403600,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "지연 (10:14)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781403900,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (09:37)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1781404200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (10:41)"
         },
         {
             "type": "도착",
@@ -553,6 +545,30 @@ const flightInfo = {
             "flight": "SU840",
             "city": "Irkutsk",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/15 13:35",
+            "timestamp": 1781505300,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/15 14:10",
+            "timestamp": 1781507400,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/15 14:10",
+            "timestamp": 1781507400,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
         }
     ]
 };
