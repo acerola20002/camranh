@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-14 02:40:31",
-    "version": 1781404831,
+    "lastUpdate": "2026-06-14 03:54:08",
+    "version": 1781409248,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/14 03:10",
-            "timestamp": 1781381400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "06/14 08:40",
             "timestamp": 1781401200,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (09:05)"
+            "status": "지연 (09:12)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781403600,
             "flight": "KC157",
             "city": "Astana",
-            "status": "지연 (10:14)"
+            "status": "지연 (10:09)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1781403900,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781404200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:41)"
+            "status": "지연 (10:37)"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1781409600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (11:07)"
         },
         {
             "type": "출발",
@@ -569,6 +561,22 @@ const flightInfo = {
             "flight": "SU841",
             "city": "Irkutsk",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/15 14:45",
+            "timestamp": 1781509500,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/15 15:10",
+            "timestamp": 1781511000,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
         }
     ]
 };
