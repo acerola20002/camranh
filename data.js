@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-15 01:08:27",
-    "version": 1781485707,
+    "lastUpdate": "2026-06-15 02:55:12",
+    "version": 1781492112,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/15 01:35",
-            "timestamp": 1781462100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "06/15 03:10",
             "timestamp": 1781467800,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781483400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:02)"
+            "status": "도착예정 (06:47)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781490600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
@@ -441,6 +433,38 @@ const flightInfo = {
             "flight": "HH2232",
             "city": "Tashkent",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/16 13:30",
+            "timestamp": 1781591400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/16 14:20",
+            "timestamp": 1781594400,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/16 14:45",
+            "timestamp": 1781595900,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/16 14:55",
+            "timestamp": 1781596500,
+            "flight": "WZ3201",
+            "city": "Moscow",
+            "status": "예정"
         }
     ]
 };
