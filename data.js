@@ -1,70 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-17 23:36:56",
-    "version": 1781739416,
+    "lastUpdate": "2026-06-18 02:10:19",
+    "version": 1781748619,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/17 23:45",
-            "timestamp": 1781714700,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "도착예정 (23:37)"
-        },
-        {
-            "type": "출발",
-            "time": "06/17 23:55",
-            "timestamp": 1781715300,
-            "flight": "BX7527",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/17 23:55",
-            "timestamp": 1781715300,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/18 00:20",
-            "timestamp": 1781716800,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/18 00:35",
-            "timestamp": 1781717700,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:02)"
-        },
-        {
-            "type": "출발",
-            "time": "06/18 00:55",
-            "timestamp": 1781718900,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/18 01:35",
-            "timestamp": 1781721300,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/18 07:40",
             "timestamp": 1781743200,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (07:32)"
         },
         {
             "type": "도착",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1781745900,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "예정"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "출발",
@@ -88,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781749200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -96,7 +40,7 @@ const flightInfo = {
             "timestamp": 1781749800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -569,6 +513,62 @@ const flightInfo = {
             "flight": "SU295",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/19 11:50",
+            "timestamp": 1781844600,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/19 12:10",
+            "timestamp": 1781845800,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/19 12:10",
+            "timestamp": 1781845800,
+            "flight": "TR549",
+            "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/19 13:15",
+            "timestamp": 1781849700,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/19 13:30",
+            "timestamp": 1781850600,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/19 13:35",
+            "timestamp": 1781850900,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/19 13:55",
+            "timestamp": 1781852100,
+            "flight": "EO3659",
+            "city": "Irkutsk",
+            "status": "예정"
         }
     ]
 };
