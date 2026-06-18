@@ -1,71 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-18 12:04:03",
-    "version": 1781784243,
+    "lastUpdate": "2026-06-18 16:23:29",
+    "version": 1781799809,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/18 12:10",
-            "timestamp": 1781759400,
-            "flight": "TR549",
-            "city": "Singapore",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/18 12:15",
-            "timestamp": 1781759700,
-            "flight": "N43540",
-            "city": "Yekaterinburg",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "06/18 13:30",
-            "timestamp": 1781764200,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:28)"
-        },
-        {
-            "type": "도착",
-            "time": "06/18 14:10",
-            "timestamp": 1781766600,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:36)"
-        },
-        {
-            "type": "출발",
-            "time": "06/18 14:20",
-            "timestamp": 1781767200,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/18 14:45",
-            "timestamp": 1781768700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/18 15:30",
-            "timestamp": 1781771400,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "지연 (19:13)"
-        },
-        {
-            "type": "출발",
-            "time": "06/18 16:10",
-            "timestamp": 1781773800,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/18 17:20",
@@ -96,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781790000,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:05)"
         },
         {
             "type": "도착",
@@ -560,6 +496,38 @@ const flightInfo = {
             "timestamp": 1781887500,
             "flight": "LJ87",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/20 00:05",
+            "timestamp": 1781888700,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/20 00:20",
+            "timestamp": 1781889600,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/20 00:55",
+            "timestamp": 1781891700,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/20 04:00",
+            "timestamp": 1781902800,
+            "flight": "SU830",
+            "city": "Novosibirsk",
             "status": "예정"
         }
     ]
