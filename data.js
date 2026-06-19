@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-19 23:57:40",
-    "version": 1781913460,
+    "lastUpdate": "2026-06-20 01:54:59",
+    "version": 1781920499,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/20 00:05",
-            "timestamp": 1781888700,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/20 00:20",
-            "timestamp": 1781889600,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/20 00:55",
-            "timestamp": 1781891700,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/20 04:00",
             "timestamp": 1781902800,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:30)"
+            "status": "도착예정 (03:26)"
         },
         {
             "type": "출발",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1781915400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:34)"
         },
         {
             "type": "출발",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1781918700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (08:25)"
         },
         {
             "type": "출발",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1781922600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -625,6 +601,30 @@ const flightInfo = {
             "flight": "N43658",
             "city": "Novosibirsk",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/21 12:30",
+            "timestamp": 1782019800,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/21 13:30",
+            "timestamp": 1782023400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/21 13:35",
+            "timestamp": 1782023700,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
