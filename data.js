@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-20 03:24:34",
-    "version": 1781925874,
+    "lastUpdate": "2026-06-20 04:42:19",
+    "version": 1781930539,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/20 04:00",
-            "timestamp": 1781902800,
-            "flight": "SU830",
-            "city": "Novosibirsk",
-            "status": "도착예정 (03:28)"
-        },
         {
             "type": "출발",
             "time": "06/20 05:30",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1781915400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:17)"
+            "status": "도착예정 (07:21)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1781918700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:21)"
+            "status": "도착예정 (08:12)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1781922600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:29)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1781924100,
             "flight": "N43657",
             "city": "Novosibirsk",
-            "status": "도착예정 (09:44)"
+            "status": "도착예정 (09:37)"
         },
         {
             "type": "출발",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1781927400,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:58)"
         },
         {
             "type": "도착",
@@ -176,7 +168,7 @@ const flightInfo = {
             "timestamp": 1781939400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:43)"
         },
         {
             "type": "도착",
@@ -657,6 +649,38 @@ const flightInfo = {
             "flight": "CZ6049",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/21 15:35",
+            "timestamp": 1782030900,
+            "flight": "EO3547",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/21 16:00",
+            "timestamp": 1782032400,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/21 16:05",
+            "timestamp": 1782032700,
+            "flight": "WZ3201",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/21 16:10",
+            "timestamp": 1782033000,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
