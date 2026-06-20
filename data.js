@@ -1,62 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-20 23:53:18",
-    "version": 1781999598,
+    "lastUpdate": "2026-06-21 01:06:22",
+    "version": 1782003982,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/20 23:55",
-            "timestamp": 1781974500,
-            "flight": "BX7527",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/20 23:55",
-            "timestamp": 1781974500,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/21 00:05",
-            "timestamp": 1781975100,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/21 00:20",
-            "timestamp": 1781976000,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "06/21 00:35",
-            "timestamp": 1781976900,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (23:58)"
-        },
-        {
-            "type": "출발",
-            "time": "06/21 00:55",
-            "timestamp": 1781978100,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/21 01:35",
             "timestamp": 1781980500,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782009000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -600,6 +552,30 @@ const flightInfo = {
             "timestamp": 1782102900,
             "flight": "N43657",
             "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/22 12:00",
+            "timestamp": 1782104400,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/22 12:10",
+            "timestamp": 1782105000,
+            "flight": "TR549",
+            "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/22 12:50",
+            "timestamp": 1782107400,
+            "flight": "SU840",
+            "city": "Irkutsk",
             "status": "예정"
         }
     ]
