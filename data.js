@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-21 01:06:22",
-    "version": 1782003982,
+    "lastUpdate": "2026-06-21 02:52:02",
+    "version": 1782010322,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/21 01:35",
-            "timestamp": 1781980500,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "06/21 03:10",
             "timestamp": 1781986200,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782006000,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (09:01)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782008400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782008700,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782009000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -576,6 +568,38 @@ const flightInfo = {
             "timestamp": 1782107400,
             "flight": "SU840",
             "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/22 13:35",
+            "timestamp": 1782110100,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/22 14:10",
+            "timestamp": 1782112200,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/22 14:10",
+            "timestamp": 1782112200,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/22 14:45",
+            "timestamp": 1782114300,
+            "flight": "VJ731",
+            "city": "Haiphong",
             "status": "예정"
         }
     ]
