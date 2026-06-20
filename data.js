@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-21 02:52:02",
-    "version": 1782010322,
+    "lastUpdate": "2026-06-21 04:09:42",
+    "version": 1782014982,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/21 03:10",
-            "timestamp": 1781986200,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "06/21 07:15",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782008400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:33)"
+            "status": "도착예정 (08:18)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782008700,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:29)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1782014400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (11:05)"
         },
         {
             "type": "출발",
@@ -160,7 +152,7 @@ const flightInfo = {
             "timestamp": 1782025800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:41)"
         },
         {
             "type": "출발",
@@ -601,6 +593,14 @@ const flightInfo = {
             "flight": "VJ731",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/22 14:55",
+            "timestamp": 1782114900,
+            "flight": "N43662",
+            "city": "Khabarovsk",
+            "status": "출발예정"
         }
     ]
 };
