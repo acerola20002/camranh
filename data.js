@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-22 03:04:52",
-    "version": 1782097492,
+    "lastUpdate": "2026-06-22 04:38:50",
+    "version": 1782103130,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/22 03:10",
-            "timestamp": 1782072600,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "06/22 07:30",
             "timestamp": 1782088200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:08)"
+            "status": "도착예정 (07:12)"
         },
         {
             "type": "출발",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1782112200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "출발",
@@ -489,6 +481,38 @@ const flightInfo = {
             "flight": "WZ3201",
             "city": "Moscow",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/23 15:10",
+            "timestamp": 1782202200,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/23 15:30",
+            "timestamp": 1782203400,
+            "flight": "B2795",
+            "city": "Minsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/23 16:00",
+            "timestamp": 1782205200,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/23 16:25",
+            "timestamp": 1782206700,
+            "flight": "WZ3206",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
         }
     ]
 };
