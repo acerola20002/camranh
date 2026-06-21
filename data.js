@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-21 19:30:47",
-    "version": 1782070247,
+    "lastUpdate": "2026-06-21 21:59:31",
+    "version": 1782079171,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/21 19:35",
-            "timestamp": 1782045300,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "06/21 20:40",
-            "timestamp": 1782049200,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (19:54)"
-        },
-        {
-            "type": "도착",
-            "time": "06/21 21:30",
-            "timestamp": 1782052200,
-            "flight": "VJ733",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/21 21:35",
-            "timestamp": 1782052500,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/21 21:50",
-            "timestamp": 1782053400,
-            "flight": "BX788",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/21 22:15",
             "timestamp": 1782054900,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:24)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782055200,
             "flight": "BX781",
             "city": "부산",
-            "status": "지연 (23:00)"
+            "status": "지연 (22:53)"
         },
         {
             "type": "도착",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782055800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:43)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782057900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:45)"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "출발",
@@ -120,7 +80,7 @@ const flightInfo = {
             "timestamp": 1782060300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착예정 (23:32)"
         },
         {
             "type": "출발",
@@ -136,7 +96,7 @@ const flightInfo = {
             "timestamp": 1782063300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:57)"
         },
         {
             "type": "출발",
@@ -496,6 +456,62 @@ const flightInfo = {
             "timestamp": 1782150900,
             "flight": "LJ88",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/23 07:35",
+            "timestamp": 1782174900,
+            "flight": "N43661",
+            "city": "Khabarovsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/23 08:25",
+            "timestamp": 1782177900,
+            "flight": "SU836",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/23 09:20",
+            "timestamp": 1782181200,
+            "flight": "KC157",
+            "city": "Astana",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/23 09:30",
+            "timestamp": 1782181800,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/23 09:45",
+            "timestamp": 1782182700,
+            "flight": "VN441",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/23 09:45",
+            "timestamp": 1782182700,
+            "flight": "N43540",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/23 09:55",
+            "timestamp": 1782183300,
+            "flight": "SU837",
+            "city": "Yekaterinburg",
             "status": "출발예정"
         }
     ]
