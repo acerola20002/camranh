@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-23 01:57:58",
-    "version": 1782179878,
+    "lastUpdate": "2026-06-23 04:31:24",
+    "version": 1782189084,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1782174900,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "도착예정 (07:14)"
+            "status": "도착예정 (07:10)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782177900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:40)"
+            "status": "도착예정 (07:32)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782181200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:50)"
+            "status": "도착예정 (08:48)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782181800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (08:57)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1782188400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:54)"
         },
         {
             "type": "출발",
@@ -481,6 +481,78 @@ const flightInfo = {
             "flight": "VJ919",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/24 14:10",
+            "timestamp": 1782285000,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/24 14:35",
+            "timestamp": 1782286500,
+            "flight": "HH2239",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/24 14:45",
+            "timestamp": 1782287100,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/24 14:55",
+            "timestamp": 1782287700,
+            "flight": "WZ3202",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/24 15:00",
+            "timestamp": 1782288000,
+            "flight": "EO3547",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/24 15:10",
+            "timestamp": 1782288600,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/24 16:00",
+            "timestamp": 1782291600,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/24 16:00",
+            "timestamp": 1782291600,
+            "flight": "HH2240",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/24 16:10",
+            "timestamp": 1782292200,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
