@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-23 18:27:44",
-    "version": 1782239264,
+    "lastUpdate": "2026-06-23 20:58:39",
+    "version": 1782248319,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/23 20:40",
-            "timestamp": 1782222000,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (19:48)"
-        },
         {
             "type": "도착",
             "time": "06/23 21:30",
             "timestamp": 1782225000,
             "flight": "VJ733",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (21:32)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782228000,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:49)"
+            "status": "도착예정 (21:45)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782228600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:36)"
+            "status": "도착예정 (21:32)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782230700,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:42)"
         },
         {
             "type": "출발",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1782232500,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:44)"
         },
         {
             "type": "도착",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1782233100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:25)"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1782233700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:17)"
+            "status": "도착예정 (23:14)"
         },
         {
             "type": "출발",
@@ -521,6 +513,14 @@ const flightInfo = {
             "flight": "7C2304",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/25 07:40",
+            "timestamp": 1782348000,
+            "flight": "C65537",
+            "city": "Tashkent",
+            "status": "예정"
         }
     ]
 };
