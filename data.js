@@ -1,62 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-23 11:32:48",
-    "version": 1782214368,
+    "lastUpdate": "2026-06-23 15:06:29",
+    "version": 1782227189,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/23 12:50",
-            "timestamp": 1782193800,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/23 13:30",
-            "timestamp": 1782196200,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/23 14:20",
-            "timestamp": 1782199200,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/23 14:35",
-            "timestamp": 1782200100,
-            "flight": "EO3657",
-            "city": "Novosibirsk",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/23 14:45",
-            "timestamp": 1782200700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/23 14:55",
-            "timestamp": 1782201300,
-            "flight": "WZ3201",
-            "city": "Moscow",
-            "status": "도착예정 (14:42)"
-        },
         {
             "type": "도착",
             "time": "06/23 15:10",
             "timestamp": 1782202200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -64,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782203400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:44)"
+            "status": "도착예정 (15:38)"
         },
         {
             "type": "출발",
@@ -599,6 +551,30 @@ const flightInfo = {
             "time": "06/24 23:30",
             "timestamp": 1782318600,
             "flight": "TW34",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/25 00:20",
+            "timestamp": 1782321600,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/25 00:35",
+            "timestamp": 1782322500,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/25 01:35",
+            "timestamp": 1782326100,
+            "flight": "7C2304",
             "city": "인천",
             "status": "출발예정"
         }
