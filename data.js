@@ -1,70 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-23 15:06:29",
-    "version": 1782227189,
+    "lastUpdate": "2026-06-23 18:27:44",
+    "version": 1782239264,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/23 15:10",
-            "timestamp": 1782202200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "06/23 15:30",
-            "timestamp": 1782203400,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:38)"
-        },
-        {
-            "type": "출발",
-            "time": "06/23 16:00",
-            "timestamp": 1782205200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/23 16:25",
-            "timestamp": 1782206700,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/23 17:20",
-            "timestamp": 1782210000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/23 17:30",
-            "timestamp": 1782210600,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/23 18:00",
-            "timestamp": 1782212400,
-            "flight": "EO3538",
-            "city": "Yekaterinburg",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/23 20:40",
             "timestamp": 1782222000,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (19:48)"
         },
         {
             "type": "도착",
@@ -96,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782228000,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
@@ -104,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782228600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:36)"
         },
         {
             "type": "출발",
@@ -168,7 +112,7 @@ const flightInfo = {
             "timestamp": 1782233700,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "예정"
+            "status": "도착예정 (23:17)"
         },
         {
             "type": "출발",
