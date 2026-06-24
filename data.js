@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-25 03:58:39",
-    "version": 1782359919,
+    "lastUpdate": "2026-06-25 05:20:20",
+    "version": 1782364820,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782354000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:31)"
+            "status": "도착예정 (08:36)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782354600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:10)"
+            "status": "도착예정 (09:08)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782354600,
             "flight": "EO3655",
             "city": "Krasnoyarsk",
-            "status": "도착예정 (09:03)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782355500,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1782376200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "예정"
+            "status": "도착예정 (15:21)"
         },
         {
             "type": "출발",
@@ -552,6 +552,22 @@ const flightInfo = {
             "timestamp": 1782463500,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/26 16:00",
+            "timestamp": 1782464400,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/26 17:20",
+            "timestamp": 1782469200,
+            "flight": "VJ732",
+            "city": "Haiphong",
             "status": "출발예정"
         }
     ]
