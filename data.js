@@ -1,62 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-24 22:39:05",
-    "version": 1782340745,
+    "lastUpdate": "2026-06-25 00:31:09",
+    "version": 1782347469,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/24 23:05",
-            "timestamp": 1782317100,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착예정 (22:54)"
-        },
-        {
-            "type": "출발",
-            "time": "06/24 23:15",
-            "timestamp": 1782317700,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/24 23:15",
-            "timestamp": 1782317700,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/24 23:20",
-            "timestamp": 1782318000,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/24 23:30",
-            "timestamp": 1782318600,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/25 00:20",
-            "timestamp": 1782321600,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/25 00:35",
             "timestamp": 1782322500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:18)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -96,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782354600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -512,6 +464,46 @@ const flightInfo = {
             "timestamp": 1782444900,
             "flight": "VJ730",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/26 11:30",
+            "timestamp": 1782448200,
+            "flight": "TR548",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/26 11:30",
+            "timestamp": 1782448200,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/26 11:50",
+            "timestamp": 1782449400,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/26 12:10",
+            "timestamp": 1782450600,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/26 12:10",
+            "timestamp": 1782450600,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
