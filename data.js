@@ -1,62 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-25 12:49:05",
-    "version": 1782391745,
+    "lastUpdate": "2026-06-25 15:41:03",
+    "version": 1782402063,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/25 13:30",
-            "timestamp": 1782369000,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:21)"
-        },
-        {
-            "type": "도착",
-            "time": "06/25 14:10",
-            "timestamp": 1782371400,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "지연 (17:54)"
-        },
-        {
-            "type": "출발",
-            "time": "06/25 14:20",
-            "timestamp": 1782372000,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/25 14:45",
-            "timestamp": 1782373500,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/25 15:10",
-            "timestamp": 1782375000,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/25 15:30",
-            "timestamp": 1782376200,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:23)"
-        },
         {
             "type": "출발",
             "time": "06/25 16:00",
             "timestamp": 1782378000,
             "flight": "CZ6050",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -64,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782378600,
             "flight": "SU299",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -551,6 +503,14 @@ const flightInfo = {
             "time": "06/27 00:20",
             "timestamp": 1782494400,
             "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/27 00:55",
+            "timestamp": 1782496500,
+            "flight": "LJ88",
             "city": "인천",
             "status": "출발예정"
         }
