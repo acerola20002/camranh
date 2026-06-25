@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-25 06:39:47",
-    "version": 1782369587,
+    "lastUpdate": "2026-06-25 08:35:56",
+    "version": 1782376556,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/25 07:40",
-            "timestamp": 1782348000,
-            "flight": "C65537",
-            "city": "Tashkent",
-            "status": "도착예정 (07:38)"
-        },
         {
             "type": "출발",
             "time": "06/25 09:00",
             "timestamp": 1782352800,
             "flight": "C65538",
             "city": "Tashkent",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782354000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:40)"
+            "status": "도착예정 (08:57)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782354600,
             "flight": "EO3655",
             "city": "Krasnoyarsk",
-            "status": "도착예정 (09:01)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782356400,
             "flight": "FD646",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782358200,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:39)"
+            "status": "도착예정 (10:35)"
         },
         {
             "type": "출발",
@@ -184,7 +176,7 @@ const flightInfo = {
             "timestamp": 1782376200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:17)"
+            "status": "도착예정 (15:04)"
         },
         {
             "type": "출발",
@@ -577,6 +569,14 @@ const flightInfo = {
             "flight": "3U3939",
             "city": "청두",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/26 19:35",
+            "timestamp": 1782477300,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
         }
     ]
 };
