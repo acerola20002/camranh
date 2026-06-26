@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-26 16:48:51",
-    "version": 1782492531,
+    "lastUpdate": "2026-06-26 19:03:39",
+    "version": 1782500619,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/26 17:20",
-            "timestamp": 1782469200,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/26 18:35",
-            "timestamp": 1782473700,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:01)"
-        },
         {
             "type": "출발",
             "time": "06/26 19:35",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782481200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:09)"
+            "status": "도착예정 (20:05)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782487800,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "도착",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782489300,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (23:08)"
         },
         {
             "type": "출발",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1782489900,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "출발",
