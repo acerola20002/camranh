@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-26 23:51:57",
-    "version": 1782517917,
+    "lastUpdate": "2026-06-27 01:26:21",
+    "version": 1782523581,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/26 23:55",
-            "timestamp": 1782492900,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "06/27 00:20",
-            "timestamp": 1782494400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/27 00:55",
-            "timestamp": 1782496500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/27 04:00",
             "timestamp": 1782507600,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:18)"
+            "status": "도착예정 (03:24)"
         },
         {
             "type": "출발",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782523500,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (08:25)"
         },
         {
             "type": "출발",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1782527400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -576,6 +552,14 @@ const flightInfo = {
             "timestamp": 1782621000,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/28 12:30",
+            "timestamp": 1782624600,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
