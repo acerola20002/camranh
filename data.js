@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-26 06:40:45",
-    "version": 1782456045,
+    "lastUpdate": "2026-06-26 08:53:22",
+    "version": 1782464002,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/26 07:30",
-            "timestamp": 1782433800,
-            "flight": "KC193",
-            "city": "Almaty",
-            "status": "지연 (08:42)"
-        },
         {
             "type": "출발",
             "time": "06/26 09:00",
             "timestamp": 1782439200,
             "flight": "KC194",
             "city": "Almaty",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782441000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782441300,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:46)"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782441900,
             "flight": "VN441",
             "city": "인천",
-            "status": "지연 (10:03)"
+            "status": "도착예정 (09:59)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782444600,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:33)"
+            "status": "도착예정 (10:29)"
         },
         {
             "type": "출발",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1782450600,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (11:22)"
+            "status": "도착예정 (11:13)"
         },
         {
             "type": "출발",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1782458100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:17)"
+            "status": "도착예정 (14:00)"
         },
         {
             "type": "출발",
