@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-27 18:13:16",
-    "version": 1782583996,
+    "lastUpdate": "2026-06-27 19:43:53",
+    "version": 1782589433,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1782567600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:00)"
+            "status": "도착예정 (19:58)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782569400,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:11)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782573300,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:49)"
+            "status": "도착예정 (21:43)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782573600,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:17)"
+            "status": "도착예정 (22:15)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1782575700,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:02)"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1782576300,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "출발",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1782578700,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:38)"
         },
         {
             "type": "출발",
@@ -593,6 +593,14 @@ const flightInfo = {
             "flight": "VJ918",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 07:30",
+            "timestamp": 1782693000,
+            "flight": "KC193",
+            "city": "Almaty",
+            "status": "예정"
         }
     ]
 };
