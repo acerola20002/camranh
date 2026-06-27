@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-27 23:47:41",
-    "version": 1782604061,
+    "lastUpdate": "2026-06-28 00:47:59",
+    "version": 1782607679,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/28 00:05",
-            "timestamp": 1782579900,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 00:20",
-            "timestamp": 1782580800,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 00:35",
-            "timestamp": 1782581700,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:25)"
-        },
         {
             "type": "출발",
             "time": "06/28 00:55",
             "timestamp": 1782582900,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1782613800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -560,6 +536,22 @@ const flightInfo = {
             "timestamp": 1782707400,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 12:00",
+            "timestamp": 1782709200,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 12:10",
+            "timestamp": 1782709800,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
