@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-28 18:20:12",
-    "version": 1782670812,
+    "lastUpdate": "2026-06-28 19:48:27",
+    "version": 1782676107,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/28 18:35",
-            "timestamp": 1782646500,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:18)"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 18:40",
-            "timestamp": 1782646800,
-            "flight": "TR543",
-            "city": "Singapore",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 19:35",
-            "timestamp": 1782650100,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/28 20:40",
             "timestamp": 1782654000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:54)"
+            "status": "도착예정 (19:58)"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782659700,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:38)"
+            "status": "도착예정 (21:32)"
         },
         {
             "type": "도착",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782660000,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:25)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782660600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:41)"
+            "status": "도착예정 (21:34)"
         },
         {
             "type": "도착",
@@ -104,7 +80,7 @@ const flightInfo = {
             "timestamp": 1782662700,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -144,7 +120,7 @@ const flightInfo = {
             "timestamp": 1782665100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:32)"
         },
         {
             "type": "출발",
