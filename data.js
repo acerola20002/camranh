@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-29 02:42:44",
-    "version": 1782700964,
+    "lastUpdate": "2026-06-29 03:45:29",
+    "version": 1782704729,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/29 03:10",
-            "timestamp": 1782677400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "06/29 07:30",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1782717000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "출발",
@@ -489,6 +481,38 @@ const flightInfo = {
             "flight": "VZ969",
             "city": "방콕",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/30 14:45",
+            "timestamp": 1782805500,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/30 14:55",
+            "timestamp": 1782806100,
+            "flight": "WZ3201",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/30 15:10",
+            "timestamp": 1782807000,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/30 15:30",
+            "timestamp": 1782808200,
+            "flight": "B2795",
+            "city": "Minsk",
+            "status": "예정"
         }
     ]
 };
