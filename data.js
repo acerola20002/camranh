@@ -1,79 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-28 13:00:29",
-    "version": 1782651629,
+    "lastUpdate": "2026-06-28 16:28:07",
+    "version": 1782664087,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/28 13:30",
-            "timestamp": 1782628200,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:28)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 13:35",
-            "timestamp": 1782628500,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착예정 (13:02)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 14:10",
-            "timestamp": 1782630600,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:41)"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 14:20",
-            "timestamp": 1782631200,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 14:45",
-            "timestamp": 1782632700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 15:10",
-            "timestamp": 1782634200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 16:00",
-            "timestamp": 1782637200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 16:05",
-            "timestamp": 1782637500,
-            "flight": "WZ3201",
-            "city": "Moscow",
-            "status": "도착예정 (16:06)"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 16:10",
-            "timestamp": 1782637800,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "06/28 17:20",
@@ -96,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782644700,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (17:54)"
         },
         {
             "type": "도착",
@@ -104,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782646500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:07)"
         },
         {
             "type": "출발",
@@ -128,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782654000,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:05)"
         },
         {
             "type": "도착",
@@ -571,6 +499,14 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "06/29 23:05",
+            "timestamp": 1782749100,
+            "flight": "KE467",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "06/29 23:15",
             "timestamp": 1782749700,
@@ -595,11 +531,43 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "06/29 23:45",
+            "timestamp": 1782751500,
+            "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "06/29 23:55",
             "timestamp": 1782752100,
             "flight": "LJ116",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/30 00:05",
+            "timestamp": 1782752700,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/30 00:20",
+            "timestamp": 1782753600,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/30 00:55",
+            "timestamp": 1782755700,
+            "flight": "LJ88",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
