@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-28 16:28:07",
-    "version": 1782664087,
+    "lastUpdate": "2026-06-28 18:20:12",
+    "version": 1782670812,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/28 17:20",
-            "timestamp": 1782642000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 17:35",
-            "timestamp": 1782642900,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 18:05",
-            "timestamp": 1782644700,
-            "flight": "TR542",
-            "city": "Singapore",
-            "status": "도착예정 (17:54)"
-        },
         {
             "type": "도착",
             "time": "06/28 18:35",
             "timestamp": 1782646500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:07)"
+            "status": "도착예정 (18:18)"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782646800,
             "flight": "TR543",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782654000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:05)"
+            "status": "도착예정 (19:54)"
         },
         {
             "type": "도착",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1782659700,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:38)"
         },
         {
             "type": "도착",
@@ -96,7 +72,7 @@ const flightInfo = {
             "timestamp": 1782660000,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -104,7 +80,7 @@ const flightInfo = {
             "timestamp": 1782660600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:41)"
         },
         {
             "type": "도착",
@@ -569,6 +545,14 @@ const flightInfo = {
             "flight": "LJ88",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/30 05:40",
+            "timestamp": 1782772800,
+            "flight": "ZF2559",
+            "city": "Tyumen",
+            "status": "예정"
         }
     ]
 };
