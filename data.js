@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-29 04:46:17",
-    "version": 1782708377,
+    "lastUpdate": "2026-06-29 05:45:29",
+    "version": 1782711929,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1782693000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:06)"
+            "status": "도착예정 (07:14)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782700200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:10)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782700500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (10:09)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782701100,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:57)"
         },
         {
             "type": "도착",
@@ -144,7 +144,7 @@ const flightInfo = {
             "timestamp": 1782717000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:15)"
+            "status": "도착예정 (13:13)"
         },
         {
             "type": "출발",
@@ -528,6 +528,22 @@ const flightInfo = {
             "timestamp": 1782811500,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/30 17:20",
+            "timestamp": 1782814800,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/30 17:30",
+            "timestamp": 1782815400,
+            "flight": "B2796",
+            "city": "Minsk",
             "status": "출발예정"
         }
     ]
