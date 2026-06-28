@@ -1,134 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-28 08:37:43",
-    "version": 1782635863,
+    "lastUpdate": "2026-06-28 13:00:29",
+    "version": 1782651629,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/28 08:40",
-            "timestamp": 1782610800,
-            "flight": "C65537",
-            "city": "Tashkent",
-            "status": "도착예정 (08:47)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 09:00",
-            "timestamp": 1782612000,
-            "flight": "ZF2501",
-            "city": "Moscow",
-            "status": "도착예정 (08:42)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 09:20",
-            "timestamp": 1782613200,
-            "flight": "KC157",
-            "city": "Astana",
-            "status": "도착예정 (09:02)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 09:25",
-            "timestamp": 1782613500,
-            "flight": "HY561",
-            "city": "Tashkent",
-            "status": "지연 (09:42)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 09:30",
-            "timestamp": 1782613800,
-            "flight": "SU294",
-            "city": "Moscow",
-            "status": "도착예정 (09:12)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 09:35",
-            "timestamp": 1782614100,
-            "flight": "VJ835",
-            "city": "인천",
-            "status": "도착예정 (09:33)"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 09:45",
-            "timestamp": 1782614700,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "도착예정 (09:52)"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 09:50",
-            "timestamp": 1782615000,
-            "flight": "C65538",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 10:30",
-            "timestamp": 1782617400,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 10:35",
-            "timestamp": 1782617700,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "도착예정 (10:39)"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 10:35",
-            "timestamp": 1782617700,
-            "flight": "VJ730",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 10:55",
-            "timestamp": 1782618900,
-            "flight": "HY562",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/28 11:00",
-            "timestamp": 1782619200,
-            "flight": "HH2231",
-            "city": "Tashkent",
-            "status": "도착예정 (10:58)"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 11:30",
-            "timestamp": 1782621000,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/28 12:30",
-            "timestamp": 1782624600,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/28 13:30",
             "timestamp": 1782628200,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:28)"
         },
         {
             "type": "도착",
@@ -136,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782628500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (13:02)"
         },
         {
             "type": "도착",
@@ -144,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782630600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:26)"
+            "status": "도착예정 (13:41)"
         },
         {
             "type": "출발",
@@ -184,7 +64,7 @@ const flightInfo = {
             "timestamp": 1782637500,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (16:18)"
+            "status": "도착예정 (16:06)"
         },
         {
             "type": "출발",
@@ -600,6 +480,126 @@ const flightInfo = {
             "timestamp": 1782728400,
             "flight": "VJ732",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 18:35",
+            "timestamp": 1782732900,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 19:35",
+            "timestamp": 1782736500,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 20:40",
+            "timestamp": 1782740400,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 21:30",
+            "timestamp": 1782743400,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 21:35",
+            "timestamp": 1782743700,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 21:50",
+            "timestamp": 1782744600,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 22:20",
+            "timestamp": 1782746400,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 22:30",
+            "timestamp": 1782747000,
+            "flight": "TW33",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 22:55",
+            "timestamp": 1782748500,
+            "flight": "LJ115",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "06/29 22:55",
+            "timestamp": 1782748500,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 22:55",
+            "timestamp": 1782748500,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 23:15",
+            "timestamp": 1782749700,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 23:20",
+            "timestamp": 1782750000,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 23:30",
+            "timestamp": 1782750600,
+            "flight": "TW34",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "06/29 23:55",
+            "timestamp": 1782752100,
+            "flight": "LJ116",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
