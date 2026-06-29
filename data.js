@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-30 03:03:10",
-    "version": 1782788590,
+    "lastUpdate": "2026-06-30 04:42:03",
+    "version": 1782794523,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1782772800,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "도착예정 (05:38)"
+            "status": "도착예정 (05:41)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782786000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:31)"
+            "status": "도착예정 (08:23)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1782793200,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (11:07)"
         },
         {
             "type": "출발",
@@ -503,6 +503,38 @@ const flightInfo = {
             "time": "07/01 14:55",
             "timestamp": 1782892500,
             "flight": "WZ3202",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/01 15:10",
+            "timestamp": 1782893400,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/01 16:00",
+            "timestamp": 1782896400,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/01 16:00",
+            "timestamp": 1782896400,
+            "flight": "HH2240",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/01 16:10",
+            "timestamp": 1782897000,
+            "flight": "SU299",
             "city": "Moscow",
             "status": "출발예정"
         }
