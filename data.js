@@ -1,71 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-29 13:52:10",
-    "version": 1782741130,
+    "lastUpdate": "2026-06-29 18:54:11",
+    "version": 1782759251,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/29 14:10",
-            "timestamp": 1782717000,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "06/29 14:10",
-            "timestamp": 1782717000,
-            "flight": "SU841",
-            "city": "Irkutsk",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "06/29 14:45",
-            "timestamp": 1782719100,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:42)"
-        },
-        {
-            "type": "도착",
-            "time": "06/29 15:10",
-            "timestamp": 1782720600,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착예정 (15:14)"
-        },
-        {
-            "type": "출발",
-            "time": "06/29 16:00",
-            "timestamp": 1782723600,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/29 16:10",
-            "timestamp": 1782724200,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "06/29 17:20",
-            "timestamp": 1782728400,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "06/29 18:35",
-            "timestamp": 1782732900,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "예정"
-        },
         {
             "type": "출발",
             "time": "06/29 19:35",
@@ -80,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782740400,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:00)"
         },
         {
             "type": "도착",
@@ -112,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782746400,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -120,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782747000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:36)"
         },
         {
             "type": "도착",
@@ -128,7 +64,7 @@ const flightInfo = {
             "timestamp": 1782748500,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (23:02)"
         },
         {
             "type": "도착",
@@ -136,7 +72,7 @@ const flightInfo = {
             "timestamp": 1782748500,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (23:19)"
         },
         {
             "type": "출발",
@@ -152,7 +88,7 @@ const flightInfo = {
             "timestamp": 1782749100,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:08)"
         },
         {
             "type": "출발",
@@ -544,6 +480,22 @@ const flightInfo = {
             "timestamp": 1782842100,
             "flight": "LJ88",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/01 02:50",
+            "timestamp": 1782849000,
+            "flight": "SU833",
+            "city": "Vladivostok",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/01 03:10",
+            "timestamp": 1782850200,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
