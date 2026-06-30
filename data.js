@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-01 03:54:22",
-    "version": 1782878062,
+    "lastUpdate": "2026-07-01 05:11:54",
+    "version": 1782882714,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1782865800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:04)"
+            "status": "도착예정 (07:14)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782872700,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:10)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -641,6 +641,22 @@ const flightInfo = {
             "flight": "VN1609",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/02 16:00",
+            "timestamp": 1782982800,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/02 16:10",
+            "timestamp": 1782983400,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
