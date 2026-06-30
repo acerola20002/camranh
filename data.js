@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-30 16:57:20",
-    "version": 1782838640,
+    "lastUpdate": "2026-06-30 19:08:23",
+    "version": 1782846503,
     "data": [
-        {
-            "type": "출발",
-            "time": "06/30 17:20",
-            "timestamp": 1782814800,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "06/30 17:30",
-            "timestamp": 1782815400,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "06/30 20:40",
             "timestamp": 1782826800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:17)"
+            "status": "도착예정 (20:13)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1782832800,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782833400,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:19)"
         },
         {
             "type": "도착",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782834900,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (23:21)"
         },
         {
             "type": "출발",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1782835500,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:38)"
         },
         {
             "type": "출발",
@@ -128,7 +112,7 @@ const flightInfo = {
             "timestamp": 1782838500,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:10)"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "출발",
