@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-30 23:54:36",
-    "version": 1782863676,
+    "lastUpdate": "2026-07-01 01:52:31",
+    "version": 1782870751,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/30 23:55",
-            "timestamp": 1782838500,
-            "flight": "SU830",
-            "city": "Novosibirsk",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "07/01 00:05",
-            "timestamp": 1782839100,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/01 00:20",
-            "timestamp": 1782840000,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/01 00:55",
-            "timestamp": 1782842100,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/01 02:50",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782865800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:10)"
         },
         {
             "type": "출발",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1782873000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -609,6 +577,38 @@ const flightInfo = {
             "flight": "VN1608",
             "city": "Haiphong",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/02 12:00",
+            "timestamp": 1782968400,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/02 12:10",
+            "timestamp": 1782969000,
+            "flight": "TR549",
+            "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/02 13:30",
+            "timestamp": 1782973800,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/02 13:35",
+            "timestamp": 1782974100,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
