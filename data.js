@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-06-30 06:43:56",
-    "version": 1782801836,
+    "lastUpdate": "2026-06-30 08:51:04",
+    "version": 1782809464,
     "data": [
-        {
-            "type": "도착",
-            "time": "06/30 08:25",
-            "timestamp": 1782782700,
-            "flight": "SU836",
-            "city": "Yekaterinburg",
-            "status": "도착예정 (07:55)"
-        },
         {
             "type": "도착",
             "time": "06/30 09:20",
             "timestamp": 1782786000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:36)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1782786600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:12)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1782786900,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:08)"
+            "status": "도착예정 (09:06)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1782787500,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1782790200,
             "flight": "VN435",
             "city": "부산",
-            "status": "지연 (10:54)"
+            "status": "지연 (10:48)"
         },
         {
             "type": "출발",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1782806100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "지연 (15:27)"
+            "status": "지연 (15:21)"
         },
         {
             "type": "도착",
@@ -152,7 +144,7 @@ const flightInfo = {
             "timestamp": 1782808200,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:14)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "출발",
@@ -552,6 +544,30 @@ const flightInfo = {
             "timestamp": 1782905700,
             "flight": "3U3939",
             "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/01 19:35",
+            "timestamp": 1782909300,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/01 19:50",
+            "timestamp": 1782910200,
+            "flight": "SU831",
+            "city": "Novosibirsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/01 20:20",
+            "timestamp": 1782912000,
+            "flight": "BX787",
+            "city": "인천",
             "status": "예정"
         }
     ]
