@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-03 03:45:20",
-    "version": 1783050320,
+    "lastUpdate": "2026-07-03 04:51:30",
+    "version": 1783054290,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783038600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:10)"
+            "status": "도착예정 (07:14)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783045800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:22)"
+            "status": "지연 (10:26)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783048800,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:33)"
+            "status": "도착예정 (10:35)"
         },
         {
             "type": "도착",
@@ -152,7 +152,7 @@ const flightInfo = {
             "timestamp": 1783062900,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (14:17)"
         },
         {
             "type": "출발",
@@ -624,6 +624,14 @@ const flightInfo = {
             "timestamp": 1783154700,
             "flight": "WZ3202",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/04 16:00",
+            "timestamp": 1783155600,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
             "status": "출발예정"
         }
     ]
