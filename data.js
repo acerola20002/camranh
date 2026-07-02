@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-03 02:45:48",
-    "version": 1783046748,
+    "lastUpdate": "2026-07-03 03:45:20",
+    "version": 1783050320,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/03 03:10",
-            "timestamp": 1783023000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "07/03 07:30",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783048800,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:33)"
         },
         {
             "type": "도착",
@@ -625,6 +617,14 @@ const flightInfo = {
             "flight": "VJ731",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/04 15:45",
+            "timestamp": 1783154700,
+            "flight": "WZ3202",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
