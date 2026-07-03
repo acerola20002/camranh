@@ -1,78 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-03 23:11:16",
-    "version": 1783120276,
+    "lastUpdate": "2026-07-04 00:49:58",
+    "version": 1783126198,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/03 23:15",
-            "timestamp": 1783095300,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/03 23:20",
-            "timestamp": 1783095600,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/03 23:30",
-            "timestamp": 1783096200,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "07/03 23:45",
-            "timestamp": 1783097100,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "도착예정 (23:49)"
-        },
-        {
-            "type": "도착",
-            "time": "07/03 23:55",
-            "timestamp": 1783097700,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (00:04)"
-        },
-        {
-            "type": "출발",
-            "time": "07/03 23:55",
-            "timestamp": 1783097700,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/04 00:05",
-            "timestamp": 1783098300,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/04 00:20",
-            "timestamp": 1783099200,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/04 00:55",
             "timestamp": 1783101300,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -80,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783102200,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -96,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783112400,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:24)"
+            "status": "도착예정 (03:26)"
         },
         {
             "type": "출발",
@@ -120,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783125000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:27)"
         },
         {
             "type": "출발",
@@ -136,7 +72,7 @@ const flightInfo = {
             "timestamp": 1783128300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (07:55)"
         },
         {
             "type": "출발",
@@ -152,7 +88,7 @@ const flightInfo = {
             "timestamp": 1783132200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -728,6 +664,22 @@ const flightInfo = {
             "timestamp": 1783224300,
             "flight": "CZ8476",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 11:30",
+            "timestamp": 1783225800,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 12:30",
+            "timestamp": 1783229400,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
