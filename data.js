@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-04 01:54:25",
-    "version": 1783130065,
+    "lastUpdate": "2026-07-04 03:11:20",
+    "version": 1783134680,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/04 03:10",
-            "timestamp": 1783109400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/04 04:00",
             "timestamp": 1783112400,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:26)"
+            "status": "도착예정 (03:33)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783125000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:17)"
+            "status": "도착예정 (07:10)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783128300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:42)"
+            "status": "도착예정 (07:36)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1783132200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -689,6 +681,14 @@ const flightInfo = {
             "flight": "EO3657",
             "city": "Novosibirsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 14:20",
+            "timestamp": 1783236000,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
