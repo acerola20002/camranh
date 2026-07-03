@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-03 14:40:21",
-    "version": 1783089621,
+    "lastUpdate": "2026-07-03 17:19:01",
+    "version": 1783099141,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/03 14:45",
-            "timestamp": 1783064700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:27)"
-        },
-        {
-            "type": "도착",
-            "time": "07/03 15:10",
-            "timestamp": 1783066200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/03 15:45",
-            "timestamp": 1783068300,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/03 16:00",
-            "timestamp": 1783069200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/03 17:20",
             "timestamp": 1783074000,
             "flight": "VJ732",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783078500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:03)"
         },
         {
             "type": "출발",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783084800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:13)"
         },
         {
             "type": "도착",
@@ -705,6 +673,38 @@ const flightInfo = {
             "flight": "7C2303",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 00:55",
+            "timestamp": 1783187700,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 01:10",
+            "timestamp": 1783188600,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 01:35",
+            "timestamp": 1783190100,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 03:10",
+            "timestamp": 1783195800,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
