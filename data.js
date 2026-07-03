@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-04 03:11:20",
-    "version": 1783134680,
+    "lastUpdate": "2026-07-04 04:33:20",
+    "version": 1783139600,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/04 04:00",
-            "timestamp": 1783112400,
-            "flight": "SU830",
-            "city": "Novosibirsk",
-            "status": "도착예정 (03:33)"
-        },
         {
             "type": "출발",
             "time": "07/04 05:30",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783125000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:10)"
+            "status": "도착예정 (07:14)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783128300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:36)"
+            "status": "도착예정 (07:34)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783132200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1783137000,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (11:05)"
         },
         {
             "type": "출발",
@@ -683,11 +675,27 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "07/05 14:10",
+            "timestamp": 1783235400,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "07/05 14:20",
             "timestamp": 1783236000,
             "flight": "VZ969",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/05 16:00",
+            "timestamp": 1783242000,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
             "status": "출발예정"
         }
     ]
