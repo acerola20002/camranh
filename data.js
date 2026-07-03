@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-04 00:49:58",
-    "version": 1783126198,
+    "lastUpdate": "2026-07-04 01:54:25",
+    "version": 1783130065,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/04 00:55",
-            "timestamp": 1783101300,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/04 01:10",
-            "timestamp": 1783102200,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "07/04 03:10",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783125000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:27)"
+            "status": "도착예정 (07:17)"
         },
         {
             "type": "출발",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783128300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:55)"
+            "status": "도착예정 (07:42)"
         },
         {
             "type": "출발",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1783132200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -681,6 +665,30 @@ const flightInfo = {
             "flight": "HH2232",
             "city": "Tashkent",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/05 13:30",
+            "timestamp": 1783233000,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/05 13:35",
+            "timestamp": 1783233300,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/05 13:50",
+            "timestamp": 1783234200,
+            "flight": "EO3657",
+            "city": "Novosibirsk",
+            "status": "예정"
         }
     ]
 };
