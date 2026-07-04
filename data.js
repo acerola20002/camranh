@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-04 23:36:20",
-    "version": 1783208180,
+    "lastUpdate": "2026-07-05 00:39:24",
+    "version": 1783211964,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/04 23:45",
-            "timestamp": 1783183500,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "도착예정 (23:30)"
-        },
-        {
-            "type": "도착",
-            "time": "07/04 23:55",
-            "timestamp": 1783184100,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착예정 (23:47)"
-        },
-        {
-            "type": "출발",
-            "time": "07/05 00:05",
-            "timestamp": 1783184700,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/05 00:20",
-            "timestamp": 1783185600,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/05 00:35",
-            "timestamp": 1783186500,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:29)"
-        },
         {
             "type": "출발",
             "time": "07/05 00:55",
             "timestamp": 1783187700,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -112,7 +72,7 @@ const flightInfo = {
             "timestamp": 1783218600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -624,6 +584,38 @@ const flightInfo = {
             "timestamp": 1783312200,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/06 11:50",
+            "timestamp": 1783313400,
+            "flight": "EO3547",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 11:55",
+            "timestamp": 1783313700,
+            "flight": "N43546",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 12:00",
+            "timestamp": 1783314000,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 12:10",
+            "timestamp": 1783314600,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
