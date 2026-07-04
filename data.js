@@ -1,70 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-04 14:39:33",
-    "version": 1783175973,
+    "lastUpdate": "2026-07-04 16:51:03",
+    "version": 1783183863,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/04 14:45",
-            "timestamp": 1783151100,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:49)"
-        },
-        {
-            "type": "도착",
-            "time": "07/04 15:10",
-            "timestamp": 1783152600,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/04 15:30",
-            "timestamp": 1783153800,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "지연 (15:46)"
-        },
-        {
-            "type": "도착",
-            "time": "07/04 15:45",
-            "timestamp": 1783154700,
-            "flight": "VN1609",
-            "city": "Haiphong",
-            "status": "도착예정 (15:55)"
-        },
-        {
-            "type": "출발",
-            "time": "07/04 15:45",
-            "timestamp": 1783154700,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/04 16:00",
-            "timestamp": 1783155600,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/04 16:10",
-            "timestamp": 1783156200,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/04 16:55",
             "timestamp": 1783158900,
             "flight": "IO995",
             "city": "Hefei",
-            "status": "도착예정 (16:33)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783160400,
             "flight": "VJ732",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -96,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783171200,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:22)"
         },
         {
             "type": "도착",
@@ -104,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783174200,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "예정"
+            "status": "도착예정 (20:45)"
         },
         {
             "type": "도착",
@@ -673,6 +617,54 @@ const flightInfo = {
             "flight": "ZE561",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 00:05",
+            "timestamp": 1783271100,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 00:20",
+            "timestamp": 1783272000,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/06 00:35",
+            "timestamp": 1783272900,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 01:10",
+            "timestamp": 1783275000,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 01:35",
+            "timestamp": 1783276500,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 03:10",
+            "timestamp": 1783282200,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
