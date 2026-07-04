@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-05 03:48:23",
-    "version": 1783223303,
+    "lastUpdate": "2026-07-05 04:42:25",
+    "version": 1783226545,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783213200,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "지연 (08:31)"
+            "status": "지연 (08:21)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783215600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (08:40)"
+            "status": "도착예정 (08:44)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783218300,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783218600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1783224000,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (11:22)"
         },
         {
             "type": "출발",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1783235400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:34)"
         },
         {
             "type": "출발",
