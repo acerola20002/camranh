@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-05 02:51:11",
-    "version": 1783219871,
+    "lastUpdate": "2026-07-05 03:48:23",
+    "version": 1783223303,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/05 03:10",
-            "timestamp": 1783195800,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "07/05 08:00",
             "timestamp": 1783213200,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "예정"
+            "status": "지연 (08:31)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783215600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (08:36)"
+            "status": "도착예정 (08:40)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783218000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:44)"
+            "status": "도착예정 (08:31)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783218600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -632,6 +624,14 @@ const flightInfo = {
             "timestamp": 1783322400,
             "flight": "VZ969",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 15:00",
+            "timestamp": 1783324800,
+            "flight": "EO3656",
+            "city": "Krasnoyarsk",
             "status": "출발예정"
         }
     ]
