@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-05 01:38:46",
-    "version": 1783215526,
+    "lastUpdate": "2026-07-05 02:51:11",
+    "version": 1783219871,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783195800,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783215600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (09:14)"
+            "status": "도착예정 (08:36)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783218000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:55)"
+            "status": "도착예정 (08:44)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783218300,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783218600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -617,6 +617,22 @@ const flightInfo = {
             "flight": "VJ919",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 14:10",
+            "timestamp": 1783321800,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/06 14:20",
+            "timestamp": 1783322400,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
