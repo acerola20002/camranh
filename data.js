@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-06 00:40:41",
-    "version": 1783298441,
+    "lastUpdate": "2026-07-06 01:47:49",
+    "version": 1783302469,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/06 01:10",
-            "timestamp": 1783275000,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/06 01:35",
-            "timestamp": 1783276500,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/06 03:10",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783297800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:16)"
+            "status": "도착예정 (07:17)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783305000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -584,6 +568,30 @@ const flightInfo = {
             "timestamp": 1783402500,
             "flight": "EO3537",
             "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/07 12:50",
+            "timestamp": 1783403400,
+            "flight": "HH2232",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/07 13:30",
+            "timestamp": 1783405800,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/07 13:35",
+            "timestamp": 1783406100,
+            "flight": "VJ919",
+            "city": "부산",
             "status": "예정"
         }
     ]
