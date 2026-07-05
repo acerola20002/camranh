@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-06 03:01:54",
-    "version": 1783306914,
+    "lastUpdate": "2026-07-06 04:15:22",
+    "version": 1783311322,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/06 03:10",
-            "timestamp": 1783282200,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "07/06 07:30",
             "timestamp": 1783297800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:04)"
+            "status": "도착예정 (07:00)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783299600,
             "flight": "N43537",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:08)"
+            "status": "도착예정 (07:04)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783305000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -136,7 +128,7 @@ const flightInfo = {
             "timestamp": 1783313400,
             "flight": "EO3547",
             "city": "Moscow",
-            "status": "도착예정 (11:45)"
+            "status": "도착예정 (11:41)"
         },
         {
             "type": "출발",
@@ -617,6 +609,22 @@ const flightInfo = {
             "flight": "WZ3201",
             "city": "Moscow",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/07 15:10",
+            "timestamp": 1783411800,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/07 16:00",
+            "timestamp": 1783414800,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
