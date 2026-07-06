@@ -1,31 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-06 23:36:06",
-    "version": 1783380966,
+    "lastUpdate": "2026-07-07 01:28:31",
+    "version": 1783387711,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/06 23:55",
-            "timestamp": 1783356900,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/07 00:05",
-            "timestamp": 1783357500,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/07 00:20",
-            "timestamp": 1783358400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/07 03:10",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783387500,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (08:18)"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783391400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -545,6 +521,14 @@ const flightInfo = {
             "flight": "SU295",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/08 13:25",
+            "timestamp": 1783491900,
+            "flight": "WZ3205",
+            "city": "Yekaterinburg",
+            "status": "예정"
         }
     ]
 };
