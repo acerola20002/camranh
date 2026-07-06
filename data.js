@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-07 04:53:28",
-    "version": 1783400008,
+    "lastUpdate": "2026-07-07 06:01:25",
+    "version": 1783404085,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783387500,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:59)"
+            "status": "도착예정 (08:01)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783387800,
             "flight": "EO3655",
             "city": "Krasnoyarsk",
-            "status": "도착예정 (07:38)"
+            "status": "도착예정 (07:40)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783390800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:10)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783391400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783391700,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783392300,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:59)"
         },
         {
             "type": "출발",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1783398000,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (11:01)"
+            "status": "도착예정 (11:03)"
         },
         {
             "type": "도착",
@@ -208,7 +208,7 @@ const flightInfo = {
             "timestamp": 1783410900,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (15:00)"
         },
         {
             "type": "도착",
@@ -224,7 +224,7 @@ const flightInfo = {
             "timestamp": 1783413000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "예정"
+            "status": "지연 (15:53)"
         },
         {
             "type": "도착",
@@ -592,6 +592,14 @@ const flightInfo = {
             "timestamp": 1783501800,
             "flight": "SU299",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/08 17:20",
+            "timestamp": 1783506000,
+            "flight": "VJ732",
+            "city": "Haiphong",
             "status": "출발예정"
         }
     ]
