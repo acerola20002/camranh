@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-07 03:25:17",
-    "version": 1783394717,
+    "lastUpdate": "2026-07-07 04:53:28",
+    "version": 1783400008,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783387500,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:04)"
+            "status": "도착예정 (07:59)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783387800,
             "flight": "EO3655",
             "city": "Krasnoyarsk",
-            "status": "도착예정 (07:53)"
+            "status": "도착예정 (07:38)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783390800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:10)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783391400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1783398000,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (11:01)"
         },
         {
             "type": "도착",
@@ -575,6 +575,22 @@ const flightInfo = {
             "time": "07/08 14:55",
             "timestamp": 1783497300,
             "flight": "WZ3202",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/08 16:00",
+            "timestamp": 1783501200,
+            "flight": "HH2240",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/08 16:10",
+            "timestamp": 1783501800,
+            "flight": "SU299",
             "city": "Moscow",
             "status": "출발예정"
         }
