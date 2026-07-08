@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-08 16:31:29",
-    "version": 1783528289,
+    "lastUpdate": "2026-07-08 18:26:11",
+    "version": 1783535171,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/08 17:20",
-            "timestamp": 1783506000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/08 18:20",
-            "timestamp": 1783509600,
-            "flight": "SU832",
-            "city": "Vladivostok",
-            "status": "도착예정 (17:57)"
-        },
         {
             "type": "도착",
             "time": "07/08 18:35",
             "timestamp": 1783510500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:05)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783516800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:54)"
+            "status": "도착예정 (19:50)"
         },
         {
             "type": "도착",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1783523700,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:30)"
         },
         {
             "type": "도착",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1783524000,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -96,7 +80,7 @@ const flightInfo = {
             "timestamp": 1783524600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:47)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1783526100,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
