@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-09 05:14:52",
-    "version": 1783574092,
+    "lastUpdate": "2026-07-09 06:31:19",
+    "version": 1783578679,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783557600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (07:53)"
+            "status": "지연 (07:57)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783564200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:50)"
+            "status": "지연 (09:52)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783564500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783565100,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:52)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1783567800,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:16)"
         },
         {
             "type": "출발",
@@ -216,7 +216,7 @@ const flightInfo = {
             "timestamp": 1783585800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:40)"
+            "status": "도착예정 (15:38)"
         },
         {
             "type": "도착",
@@ -600,6 +600,14 @@ const flightInfo = {
             "timestamp": 1783674000,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/10 17:20",
+            "timestamp": 1783678800,
+            "flight": "VJ732",
+            "city": "Haiphong",
             "status": "출발예정"
         }
     ]
