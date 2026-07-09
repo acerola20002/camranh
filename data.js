@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-10 03:21:07",
-    "version": 1783653667,
+    "lastUpdate": "2026-07-10 04:54:21",
+    "version": 1783659261,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783643400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:29)"
+            "status": "도착예정 (07:25)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783648800,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (11:52)"
+            "status": "지연 (11:48)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783650600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1783653600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:22)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1783656300,
             "flight": "N43529",
             "city": "Kazan",
-            "status": "도착예정 (10:56)"
+            "status": "도착예정 (10:46)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1783667700,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (14:06)"
         },
         {
             "type": "출발",
