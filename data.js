@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-10 01:29:08",
-    "version": 1783646948,
+    "lastUpdate": "2026-07-10 03:21:07",
+    "version": 1783653667,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/10 01:35",
-            "timestamp": 1783622100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/10 03:10",
-            "timestamp": 1783627800,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/10 07:30",
             "timestamp": 1783643400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:44)"
+            "status": "도착예정 (07:29)"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783648800,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (11:52)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783650600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:35)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1783656300,
             "flight": "N43529",
             "city": "Kazan",
-            "status": "예정"
+            "status": "도착예정 (10:56)"
         },
         {
             "type": "출발",
@@ -592,6 +576,38 @@ const flightInfo = {
             "timestamp": 1783749300,
             "flight": "ZF2560",
             "city": "Tyumen",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/11 13:30",
+            "timestamp": 1783751400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/11 13:35",
+            "timestamp": 1783751700,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/11 14:10",
+            "timestamp": 1783753800,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/11 14:20",
+            "timestamp": 1783754400,
+            "flight": "VZ969",
+            "city": "방콕",
             "status": "출발예정"
         }
     ]
