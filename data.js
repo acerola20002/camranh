@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-09 23:43:33",
-    "version": 1783640613,
+    "lastUpdate": "2026-07-10 01:29:08",
+    "version": 1783646948,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/09 23:55",
-            "timestamp": 1783616100,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "07/10 00:20",
-            "timestamp": 1783617600,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/10 00:35",
-            "timestamp": 1783618500,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (23:53)"
-        },
-        {
-            "type": "출발",
-            "time": "07/10 01:10",
-            "timestamp": 1783620600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/10 01:35",
             "timestamp": 1783622100,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783643400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:44)"
         },
         {
             "type": "도착",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783650600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -600,6 +568,30 @@ const flightInfo = {
             "timestamp": 1783744500,
             "flight": "VN1608",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/11 12:00",
+            "timestamp": 1783746000,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/11 12:30",
+            "timestamp": 1783747800,
+            "flight": "HH2240",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/11 12:55",
+            "timestamp": 1783749300,
+            "flight": "ZF2560",
+            "city": "Tyumen",
             "status": "출발예정"
         }
     ]
