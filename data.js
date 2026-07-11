@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-12 01:31:10",
-    "version": 1783819870,
+    "lastUpdate": "2026-07-12 02:47:28",
+    "version": 1783824448,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/12 01:35",
-            "timestamp": 1783794900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "07/12 03:10",
             "timestamp": 1783800600,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783820400,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (08:42)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783822200,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "도착예정 (08:57)"
+            "status": "도착예정 (08:44)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783822800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1783823100,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (09:50)"
         },
         {
             "type": "도착",
@@ -593,6 +585,30 @@ const flightInfo = {
             "flight": "VZ968",
             "city": "방콕",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/13 13:35",
+            "timestamp": 1783924500,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/13 14:10",
+            "timestamp": 1783926600,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/13 14:20",
+            "timestamp": 1783927200,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
