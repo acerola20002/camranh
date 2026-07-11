@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-11 18:01:12",
-    "version": 1783792872,
+    "lastUpdate": "2026-07-11 19:00:41",
+    "version": 1783796441,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/11 18:05",
-            "timestamp": 1783767900,
-            "flight": "IO996",
-            "city": "Hefei",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "07/11 20:20",
             "timestamp": 1783776000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:58)"
+            "status": "도착예정 (19:56)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783779000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783782900,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (22:36)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783783200,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "지연 (22:38)"
         },
         {
             "type": "도착",
