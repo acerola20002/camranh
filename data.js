@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-12 00:36:23",
-    "version": 1783816583,
+    "lastUpdate": "2026-07-12 01:31:10",
+    "version": 1783819870,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/12 00:55",
-            "timestamp": 1783792500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/12 01:10",
-            "timestamp": 1783793400,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/12 01:10",
-            "timestamp": 1783793400,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/12 01:35",
             "timestamp": 1783794900,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783822200,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "예정"
+            "status": "도착예정 (08:57)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783823400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:07)"
+            "status": "지연 (10:12)"
         },
         {
             "type": "도착",
@@ -601,6 +577,22 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/13 12:50",
+            "timestamp": 1783921800,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/13 13:30",
+            "timestamp": 1783924200,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
