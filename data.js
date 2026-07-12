@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-13 01:25:55",
-    "version": 1783905955,
+    "lastUpdate": "2026-07-13 02:36:58",
+    "version": 1783910218,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/13 01:35",
-            "timestamp": 1783881300,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "07/13 03:10",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783902600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:04)"
+            "status": "도착예정 (06:49)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783909800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -536,6 +528,30 @@ const flightInfo = {
             "timestamp": 1784008200,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/14 13:30",
+            "timestamp": 1784010600,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/14 13:35",
+            "timestamp": 1784010900,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/14 14:20",
+            "timestamp": 1784013600,
+            "flight": "VZ969",
+            "city": "방콕",
             "status": "출발예정"
         }
     ]
