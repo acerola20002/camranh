@@ -1,31 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-12 17:45:45",
-    "version": 1783878345,
+    "lastUpdate": "2026-07-12 18:45:10",
+    "version": 1783881910,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/12 18:05",
-            "timestamp": 1783854300,
-            "flight": "TR542",
-            "city": "Singapore",
-            "status": "도착예정 (18:09)"
-        },
-        {
-            "type": "도착",
-            "time": "07/12 18:35",
-            "timestamp": 1783856100,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:12)"
-        },
-        {
-            "type": "출발",
-            "time": "07/12 18:40",
-            "timestamp": 1783856400,
-            "flight": "TR543",
-            "city": "Singapore",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/12 19:35",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783862400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:15)"
+            "status": "도착예정 (20:13)"
         },
         {
             "type": "도착",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1783869300,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:38)"
+            "status": "도착예정 (21:30)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1783870200,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (21:53)"
         },
         {
             "type": "도착",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1783871700,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "출발",
