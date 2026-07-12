@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-13 04:13:27",
-    "version": 1783916007,
+    "lastUpdate": "2026-07-13 05:08:40",
+    "version": 1783919320,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1783902600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:49)"
+            "status": "도착예정 (06:57)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1783909800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (08:53)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1783926600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:11)"
+            "status": "도착예정 (13:04)"
         },
         {
             "type": "출발",
@@ -576,6 +576,14 @@ const flightInfo = {
             "timestamp": 1784019600,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/14 16:25",
+            "timestamp": 1784021100,
+            "flight": "WZ3206",
+            "city": "Yekaterinburg",
             "status": "출발예정"
         }
     ]
