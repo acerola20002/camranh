@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-13 03:23:59",
-    "version": 1783913039,
+    "lastUpdate": "2026-07-13 04:13:27",
+    "version": 1783916007,
     "data": [
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1783926600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:11)"
         },
         {
             "type": "출발",
@@ -569,6 +569,14 @@ const flightInfo = {
             "flight": "CZ6049",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/14 16:00",
+            "timestamp": 1784019600,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
