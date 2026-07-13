@@ -1,87 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-13 22:34:01",
-    "version": 1783982041,
+    "lastUpdate": "2026-07-14 00:33:42",
+    "version": 1783989222,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/13 22:55",
-            "timestamp": 1783958100,
-            "flight": "LJ115",
-            "city": "부산",
-            "status": "도착예정 (22:52)"
-        },
-        {
-            "type": "도착",
-            "time": "07/13 22:55",
-            "timestamp": 1783958100,
-            "flight": "RS527",
-            "city": "인천",
-            "status": "도착예정 (23:02)"
-        },
-        {
-            "type": "출발",
-            "time": "07/13 22:55",
-            "timestamp": 1783958100,
-            "flight": "VJ834",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "07/13 23:05",
-            "timestamp": 1783958700,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착예정 (23:01)"
-        },
-        {
-            "type": "출발",
-            "time": "07/13 23:15",
-            "timestamp": 1783959300,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/13 23:20",
-            "timestamp": 1783959600,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/13 23:30",
-            "timestamp": 1783960200,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/13 23:55",
-            "timestamp": 1783961700,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/14 00:05",
-            "timestamp": 1783962300,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/14 00:20",
-            "timestamp": 1783963200,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/14 03:10",
@@ -96,7 +16,7 @@ const flightInfo = {
             "timestamp": 1783992300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (07:32)"
         },
         {
             "type": "도착",
@@ -112,7 +32,7 @@ const flightInfo = {
             "timestamp": 1783996200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
@@ -561,6 +481,46 @@ const flightInfo = {
             "flight": "CZ8475",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/15 10:35",
+            "timestamp": 1784086500,
+            "flight": "VN435",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/15 10:35",
+            "timestamp": 1784086500,
+            "flight": "VJ730",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/15 10:55",
+            "timestamp": 1784087700,
+            "flight": "HY562",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/15 11:05",
+            "timestamp": 1784088300,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/15 11:30",
+            "timestamp": 1784089800,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
