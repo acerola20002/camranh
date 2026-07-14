@@ -1,70 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-14 22:59:04",
-    "version": 1784069944,
+    "lastUpdate": "2026-07-15 00:18:32",
+    "version": 1784074712,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/14 23:05",
-            "timestamp": 1784045100,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "07/14 23:15",
-            "timestamp": 1784045700,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/14 23:20",
-            "timestamp": 1784046000,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/14 23:30",
-            "timestamp": 1784046600,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/14 23:45",
-            "timestamp": 1784047500,
-            "flight": "LJ87",
-            "city": "인천",
-            "status": "지연 (00:04)"
-        },
-        {
-            "type": "도착",
-            "time": "07/14 23:55",
-            "timestamp": 1784048100,
-            "flight": "SU830",
-            "city": "Novosibirsk",
-            "status": "도착예정 (23:29)"
-        },
-        {
-            "type": "출발",
-            "time": "07/15 00:05",
-            "timestamp": 1784048700,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/15 00:20",
             "timestamp": 1784049600,
             "flight": "KE468",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -120,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784082600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -640,6 +584,62 @@ const flightInfo = {
             "timestamp": 1784172900,
             "flight": "VJ730",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/16 11:05",
+            "timestamp": 1784174700,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/16 11:30",
+            "timestamp": 1784176200,
+            "flight": "AK204",
+            "city": "Kuala Lumpur",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/16 11:30",
+            "timestamp": 1784176200,
+            "flight": "TR548",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/16 11:30",
+            "timestamp": 1784176200,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/16 11:35",
+            "timestamp": 1784176500,
+            "flight": "VN1608",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/16 12:00",
+            "timestamp": 1784178000,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/16 12:10",
+            "timestamp": 1784178600,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
