@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-15 05:52:09",
-    "version": 1784094729,
+    "lastUpdate": "2026-07-15 06:46:25",
+    "version": 1784097985,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1784075400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:19)"
+            "status": "도착예정 (07:23)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784082600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1784083500,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:54)"
+            "status": "도착예정 (09:50)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784086500,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:35)"
         },
         {
             "type": "출발",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1784096700,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (13:13)"
+            "status": "도착예정 (13:09)"
         },
         {
             "type": "도착",
@@ -128,7 +128,7 @@ const flightInfo = {
             "timestamp": 1784099400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:58)"
+            "status": "도착예정 (13:53)"
         },
         {
             "type": "출발",
@@ -656,6 +656,14 @@ const flightInfo = {
             "timestamp": 1784187900,
             "flight": "VJ731",
             "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/16 15:10",
+            "timestamp": 1784189400,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
             "status": "예정"
         },
         {
