@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-15 00:18:32",
-    "version": 1784074712,
+    "lastUpdate": "2026-07-15 01:33:01",
+    "version": 1784079181,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/15 00:20",
-            "timestamp": 1784049600,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/15 00:55",
-            "timestamp": 1784051700,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/15 02:50",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784075400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:25)"
         },
         {
             "type": "출발",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1784082600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
@@ -641,6 +625,22 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/16 12:55",
+            "timestamp": 1784181300,
+            "flight": "N43657",
+            "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/16 13:30",
+            "timestamp": 1784183400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
