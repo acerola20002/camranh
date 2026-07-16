@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-17 02:47:10",
-    "version": 1784256430,
+    "lastUpdate": "2026-07-17 03:36:28",
+    "version": 1784259388,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/17 03:10",
-            "timestamp": 1784232600,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "07/17 07:30",
             "timestamp": 1784248200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:57)"
+            "status": "도착예정 (07:06)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784251800,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "도착예정 (08:10)"
+            "status": "도착예정 (08:14)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784255400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784258400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:12)"
         },
         {
             "type": "도착",
