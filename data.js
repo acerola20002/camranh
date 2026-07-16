@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-16 19:45:28",
-    "version": 1784231128,
+    "lastUpdate": "2026-07-16 21:47:06",
+    "version": 1784238426,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/16 20:20",
-            "timestamp": 1784208000,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:13)"
-        },
-        {
-            "type": "출발",
-            "time": "07/16 20:55",
-            "timestamp": 1784210100,
-            "flight": "EO3658",
-            "city": "Novosibirsk",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/16 21:30",
-            "timestamp": 1784212200,
-            "flight": "VJ733",
-            "city": "Haiphong",
-            "status": "예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/16 21:35",
-            "timestamp": 1784212500,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/16 21:50",
             "timestamp": 1784213400,
             "flight": "BX788",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784214900,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:17)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784215800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -72,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784217000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:17)"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -96,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784217900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:25)"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "출발",
@@ -136,7 +104,7 @@ const flightInfo = {
             "timestamp": 1784220300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:46)"
+            "status": "도착예정 (23:38)"
         },
         {
             "type": "도착",
@@ -144,7 +112,7 @@ const flightInfo = {
             "timestamp": 1784220900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (00:12)"
         },
         {
             "type": "출발",
@@ -160,7 +128,7 @@ const flightInfo = {
             "timestamp": 1784221800,
             "flight": "TW41",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (23:51)"
         },
         {
             "type": "출발",
@@ -176,7 +144,7 @@ const flightInfo = {
             "timestamp": 1784223300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:46)"
         },
         {
             "type": "도착",
@@ -184,7 +152,7 @@ const flightInfo = {
             "timestamp": 1784223900,
             "flight": "TW45",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (00:12)"
         },
         {
             "type": "출발",
@@ -721,6 +689,46 @@ const flightInfo = {
             "flight": "HH2242",
             "city": "Bishkek",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/18 08:25",
+            "timestamp": 1784337900,
+            "flight": "SU836",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/18 09:00",
+            "timestamp": 1784340000,
+            "flight": "KC194",
+            "city": "Almaty",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/18 09:05",
+            "timestamp": 1784340300,
+            "flight": "N43546",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/18 09:30",
+            "timestamp": 1784341800,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/18 09:35",
+            "timestamp": 1784342100,
+            "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
