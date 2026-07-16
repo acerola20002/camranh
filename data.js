@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-17 03:36:28",
-    "version": 1784259388,
+    "lastUpdate": "2026-07-17 04:41:01",
+    "version": 1784263261,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1784248200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:06)"
+            "status": "도착예정 (06:57)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784251800,
             "flight": "N43661",
             "city": "Khabarovsk",
-            "status": "도착예정 (08:14)"
+            "status": "도착예정 (08:27)"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784258400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:12)"
+            "status": "도착예정 (10:09)"
         },
         {
             "type": "도착",
