@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-17 00:36:00",
-    "version": 1784248560,
+    "lastUpdate": "2026-07-17 01:43:37",
+    "version": 1784252617,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/17 00:45",
-            "timestamp": 1784223900,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "07/17 00:55",
-            "timestamp": 1784224500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/17 01:10",
-            "timestamp": 1784225400,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/17 01:35",
-            "timestamp": 1784226900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/17 03:10",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784248200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:25)"
+            "status": "도착예정 (07:10)"
         },
         {
             "type": "도착",
@@ -72,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784255400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -697,6 +665,14 @@ const flightInfo = {
             "flight": "HH2240",
             "city": "Tashkent",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/18 13:30",
+            "timestamp": 1784356200,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
