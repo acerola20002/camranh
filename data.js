@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-18 02:43:24",
-    "version": 1784342604,
+    "lastUpdate": "2026-07-18 03:35:49",
+    "version": 1784345749,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/18 03:10",
-            "timestamp": 1784319000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "07/18 04:00",
             "timestamp": 1784322000,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:39)"
+            "status": "도착예정 (03:41)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784331900,
             "flight": "N43537",
             "city": "Yekaterinburg",
-            "status": "도착예정 (06:04)"
+            "status": "도착예정 (06:06)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784334600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:00)"
+            "status": "도착예정 (07:04)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1784337900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:53)"
+            "status": "도착예정 (07:46)"
         },
         {
             "type": "출발",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1784341800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
