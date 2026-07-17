@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-18 01:37:46",
-    "version": 1784338666,
+    "lastUpdate": "2026-07-18 02:43:24",
+    "version": 1784342604,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/18 01:45",
-            "timestamp": 1784313900,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "07/18 03:10",
             "timestamp": 1784319000,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784322000,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:35)"
+            "status": "도착예정 (03:39)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1784334600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:08)"
+            "status": "도착예정 (07:00)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784337900,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:04)"
+            "status": "도착예정 (07:53)"
         },
         {
             "type": "출발",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1784341800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:29)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -776,6 +768,14 @@ const flightInfo = {
             "timestamp": 1784435400,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/19 12:30",
+            "timestamp": 1784439000,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
