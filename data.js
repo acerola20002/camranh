@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-19 04:07:17",
-    "version": 1784434037,
+    "lastUpdate": "2026-07-19 05:02:52",
+    "version": 1784437372,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1784425200,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (08:50)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784427600,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:27)"
+            "status": "도착예정 (08:31)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784427900,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "지연 (09:50)"
+            "status": "지연 (09:48)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784430000,
             "flight": "EO3655",
             "city": "Krasnoyarsk",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1784433600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:58)"
+            "status": "도착예정 (10:50)"
         },
         {
             "type": "도착",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1784433600,
             "flight": "EO3537",
             "city": "Yekaterinburg",
-            "status": "도착예정 (10:20)"
+            "status": "도착예정 (10:09)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1784445000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:36)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "출발",
