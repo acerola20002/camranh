@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-19 19:31:32",
-    "version": 1784489492,
+    "lastUpdate": "2026-07-19 21:07:36",
+    "version": 1784495256,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/19 19:35",
-            "timestamp": 1784464500,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "07/19 20:20",
-            "timestamp": 1784467200,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:11)"
-        },
         {
             "type": "도착",
             "time": "07/19 21:30",
             "timestamp": 1784471400,
             "flight": "VJ733",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "지연 (21:49)"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784471700,
             "flight": "VN440",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784474100,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:28)"
+            "status": "도착예정 (21:32)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784474400,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:19)"
+            "status": "도착예정 (22:15)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1784475000,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:26)"
+            "status": "도착예정 (21:34)"
         },
         {
             "type": "도착",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1784476200,
             "flight": "TW37",
             "city": "대구",
-            "status": "지연 (23:08)"
+            "status": "도착예정 (23:02)"
         },
         {
             "type": "도착",
@@ -96,7 +80,7 @@ const flightInfo = {
             "timestamp": 1784477100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:49)"
+            "status": "도착예정 (23:00)"
         },
         {
             "type": "출발",
@@ -136,7 +120,7 @@ const flightInfo = {
             "timestamp": 1784479500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:27)"
+            "status": "도착예정 (23:25)"
         },
         {
             "type": "도착",
@@ -144,7 +128,7 @@ const flightInfo = {
             "timestamp": 1784480100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:01)"
         },
         {
             "type": "출발",
@@ -168,7 +152,7 @@ const flightInfo = {
             "timestamp": 1784481000,
             "flight": "TW41",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (23:38)"
         },
         {
             "type": "출발",
@@ -184,7 +168,7 @@ const flightInfo = {
             "timestamp": 1784482500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (00:31)"
         },
         {
             "type": "도착",
@@ -192,7 +176,7 @@ const flightInfo = {
             "timestamp": 1784483100,
             "flight": "TW45",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (00:44)"
         },
         {
             "type": "출발",
@@ -689,6 +673,14 @@ const flightInfo = {
             "flight": "VJ918",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/21 08:25",
+            "timestamp": 1784597100,
+            "flight": "SU836",
+            "city": "Yekaterinburg",
+            "status": "예정"
         }
     ]
 };
