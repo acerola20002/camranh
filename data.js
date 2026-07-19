@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-20 02:34:05",
-    "version": 1784514845,
+    "lastUpdate": "2026-07-20 03:26:04",
+    "version": 1784517964,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/20 03:10",
-            "timestamp": 1784491800,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/20 07:30",
             "timestamp": 1784507400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:42)"
+            "status": "도착예정 (06:47)"
         },
         {
             "type": "출발",
