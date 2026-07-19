@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-20 01:11:07",
-    "version": 1784509867,
+    "lastUpdate": "2026-07-20 02:34:05",
+    "version": 1784514845,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/20 01:35",
-            "timestamp": 1784486100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/20 01:45",
-            "timestamp": 1784486700,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/20 03:10",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784507400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:00)"
+            "status": "도착예정 (06:42)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784514600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
@@ -624,6 +608,30 @@ const flightInfo = {
             "timestamp": 1784613000,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/21 13:30",
+            "timestamp": 1784615400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/21 13:35",
+            "timestamp": 1784615700,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/21 14:20",
+            "timestamp": 1784618400,
+            "flight": "VZ969",
+            "city": "방콕",
             "status": "출발예정"
         }
     ]
