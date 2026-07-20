@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-21 04:19:26",
-    "version": 1784607566,
+    "lastUpdate": "2026-07-21 05:16:13",
+    "version": 1784610973,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1784597100,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:25)"
+            "status": "도착예정 (07:34)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784600400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:25)"
+            "status": "도착예정 (08:27)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784601000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784601300,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784601900,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1784607600,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (11:11)"
+            "status": "도착예정 (11:05)"
         },
         {
             "type": "도착",
@@ -648,6 +648,14 @@ const flightInfo = {
             "timestamp": 1784710800,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/22 16:00",
+            "timestamp": 1784710800,
+            "flight": "HH2240",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
