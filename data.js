@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-21 05:16:13",
-    "version": 1784610973,
+    "lastUpdate": "2026-07-21 06:17:02",
+    "version": 1784614622,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1784597100,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:34)"
+            "status": "도착예정 (07:36)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784601000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784601300,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784601900,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1784604600,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:24)"
         },
         {
             "type": "출발",
@@ -192,7 +192,7 @@ const flightInfo = {
             "timestamp": 1784620500,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (15:04)"
         },
         {
             "type": "도착",
@@ -208,7 +208,7 @@ const flightInfo = {
             "timestamp": 1784622600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "예정"
+            "status": "지연 (16:12)"
         },
         {
             "type": "도착",
