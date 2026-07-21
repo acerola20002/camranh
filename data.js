@@ -1,47 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-22 00:42:05",
-    "version": 1784680925,
+    "lastUpdate": "2026-07-22 01:57:09",
+    "version": 1784685429,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/22 00:45",
-            "timestamp": 1784655900,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "07/22 00:55",
-            "timestamp": 1784656500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/22 01:10",
-            "timestamp": 1784657400,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/22 01:35",
-            "timestamp": 1784658900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/22 01:45",
-            "timestamp": 1784659500,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/22 02:50",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784680200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:44)"
         },
         {
             "type": "출발",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784686500,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -96,7 +56,7 @@ const flightInfo = {
             "timestamp": 1784687400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:03)"
+            "status": "지연 (09:57)"
         },
         {
             "type": "도착",
