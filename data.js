@@ -1,47 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-23 00:55:20",
-    "version": 1784768120,
+    "lastUpdate": "2026-07-23 02:04:33",
+    "version": 1784772273,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/23 00:55",
-            "timestamp": 1784742900,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 01:10",
-            "timestamp": 1784743800,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 01:10",
-            "timestamp": 1784743800,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 01:35",
-            "timestamp": 1784745300,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 01:45",
-            "timestamp": 1784745900,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/23 03:10",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784767200,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (08:04)"
+            "status": "도착예정 (07:44)"
         },
         {
             "type": "출발",
@@ -72,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784773200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:36)"
         },
         {
             "type": "도착",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784773800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:42)"
+            "status": "도착예정 (09:44)"
         },
         {
             "type": "도착",
@@ -681,6 +641,22 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/24 13:15",
+            "timestamp": 1784873700,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/24 13:30",
+            "timestamp": 1784874600,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
