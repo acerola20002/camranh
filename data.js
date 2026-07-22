@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-23 03:18:24",
-    "version": 1784776704,
+    "lastUpdate": "2026-07-23 04:32:01",
+    "version": 1784781121,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1784767200,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (07:44)"
+            "status": "도착예정 (07:49)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784773200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:25)"
+            "status": "도착예정 (08:21)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784773800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1784790600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "출발",
@@ -216,7 +216,7 @@ const flightInfo = {
             "timestamp": 1784795400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "예정"
+            "status": "도착예정 (15:08)"
         },
         {
             "type": "도착",
