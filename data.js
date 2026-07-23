@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-24 01:08:16",
-    "version": 1784855296,
+    "lastUpdate": "2026-07-24 02:42:20",
+    "version": 1784860940,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/24 01:10",
-            "timestamp": 1784830200,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/24 01:10",
-            "timestamp": 1784830200,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/24 01:35",
-            "timestamp": 1784831700,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/24 01:45",
-            "timestamp": 1784832300,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/24 03:10",
             "timestamp": 1784837400,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784846400,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "지연 (06:04)"
+            "status": "도착예정 (05:51)"
         },
         {
             "type": "도착",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784853000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:40)"
+            "status": "도착예정 (07:21)"
         },
         {
             "type": "출발",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1784860200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (11:28)"
         },
         {
             "type": "도착",
@@ -697,6 +665,30 @@ const flightInfo = {
             "flight": "AK204",
             "city": "Kuala Lumpur",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 11:30",
+            "timestamp": 1784953800,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 11:35",
+            "timestamp": 1784954100,
+            "flight": "VN1608",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 12:00",
+            "timestamp": 1784955600,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
         }
     ]
 };
