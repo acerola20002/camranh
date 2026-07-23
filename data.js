@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-23 16:31:33",
-    "version": 1784824293,
+    "lastUpdate": "2026-07-23 18:28:36",
+    "version": 1784831316,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/23 17:20",
-            "timestamp": 1784802000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 17:30",
-            "timestamp": 1784802600,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/23 20:20",
             "timestamp": 1784812800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:50)"
+            "status": "도착예정 (19:45)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784819700,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:28)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1784820000,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1784820600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784821800,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -635,12 +619,92 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "07/24 23:55",
+            "timestamp": 1784912100,
+            "flight": "ZE561",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "07/24 23:55",
             "timestamp": 1784912100,
             "flight": "LJ116",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 00:05",
+            "timestamp": 1784912700,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 00:05",
+            "timestamp": 1784912700,
+            "flight": "TW38",
+            "city": "대구",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/25 00:10",
+            "timestamp": 1784913000,
+            "flight": "TW41",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 00:20",
+            "timestamp": 1784913600,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/25 00:35",
+            "timestamp": 1784914500,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/25 00:45",
+            "timestamp": 1784915100,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 00:55",
+            "timestamp": 1784915700,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/25 04:00",
+            "timestamp": 1784926800,
+            "flight": "SU830",
+            "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/25 06:10",
+            "timestamp": 1784934600,
+            "flight": "HH2241",
+            "city": "Bishkek",
+            "status": "예정"
         }
     ]
 };
