@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-24 04:45:32",
-    "version": 1784868332,
+    "lastUpdate": "2026-07-24 05:39:27",
+    "version": 1784871567,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1784846400,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "지연 (06:00)"
+            "status": "지연 (06:02)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784853000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:21)"
+            "status": "도착예정 (07:25)"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784860200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (11:16)"
+            "status": "지연 (11:20)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1784860500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:35)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1784861100,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:57)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1784863200,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:22)"
+            "status": "도착예정 (10:24)"
         },
         {
             "type": "도착",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1784869800,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "예정"
+            "status": "도착예정 (11:26)"
         },
         {
             "type": "출발",
