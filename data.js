@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-24 02:42:20",
-    "version": 1784860940,
+    "lastUpdate": "2026-07-24 03:43:48",
+    "version": 1784864628,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/24 03:10",
-            "timestamp": 1784837400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "07/24 05:40",
             "timestamp": 1784846400,
             "flight": "ZF2559",
             "city": "Tyumen",
-            "status": "도착예정 (05:51)"
+            "status": "지연 (06:00)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784853000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:21)"
+            "status": "도착예정 (07:17)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784860200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (11:28)"
+            "status": "지연 (11:30)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1784863200,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:22)"
         },
         {
             "type": "도착",
