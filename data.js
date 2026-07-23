@@ -1,118 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-23 08:07:29",
-    "version": 1784794049,
+    "lastUpdate": "2026-07-23 11:28:15",
+    "version": 1784806095,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/23 09:00",
-            "timestamp": 1784772000,
-            "flight": "C65538",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/23 09:20",
-            "timestamp": 1784773200,
-            "flight": "KC157",
-            "city": "Astana",
-            "status": "도착예정 (08:38)"
-        },
-        {
-            "type": "도착",
-            "time": "07/23 09:30",
-            "timestamp": 1784773800,
-            "flight": "SU294",
-            "city": "Moscow",
-            "status": "도착예정 (09:35)"
-        },
-        {
-            "type": "도착",
-            "time": "07/23 09:35",
-            "timestamp": 1784774100,
-            "flight": "VJ835",
-            "city": "인천",
-            "status": "도착예정 (09:14)"
-        },
-        {
-            "type": "도착",
-            "time": "07/23 09:45",
-            "timestamp": 1784774700,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "도착예정 (09:25)"
-        },
-        {
-            "type": "도착",
-            "time": "07/23 10:00",
-            "timestamp": 1784775600,
-            "flight": "FD646",
-            "city": "방콕",
-            "status": "예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/23 10:05",
-            "timestamp": 1784775900,
-            "flight": "CZ8475",
-            "city": "Guangzhou",
-            "status": "도착예정 (09:46)"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 10:10",
-            "timestamp": 1784776200,
-            "flight": "ZF2560",
-            "city": "Tyumen",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "07/23 10:30",
-            "timestamp": 1784777400,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "도착예정 (10:39)"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 10:30",
-            "timestamp": 1784777400,
-            "flight": "FD647",
-            "city": "방콕",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 10:30",
-            "timestamp": 1784777400,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 10:35",
-            "timestamp": 1784777700,
-            "flight": "VJ730",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/23 11:05",
-            "timestamp": 1784779500,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/23 11:30",
             "timestamp": 1784781000,
             "flight": "AK204",
             "city": "Kuala Lumpur",
-            "status": "예정"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -120,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784781000,
             "flight": "TR548",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (11:28)"
         },
         {
             "type": "출발",
@@ -128,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784781000,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -136,7 +32,7 @@ const flightInfo = {
             "timestamp": 1784781300,
             "flight": "VN1608",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -168,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784788500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (13:38)"
         },
         {
             "type": "도착",
@@ -176,7 +72,7 @@ const flightInfo = {
             "timestamp": 1784790600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:47)"
+            "status": "도착예정 (13:49)"
         },
         {
             "type": "출발",
@@ -208,7 +104,7 @@ const flightInfo = {
             "timestamp": 1784795400,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:49)"
+            "status": "도착예정 (15:00)"
         },
         {
             "type": "도착",
@@ -675,6 +571,14 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "07/24 15:10",
+            "timestamp": 1784880600,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "07/24 15:45",
             "timestamp": 1784882700,
@@ -688,6 +592,30 @@ const flightInfo = {
             "timestamp": 1784883600,
             "flight": "CZ6050",
             "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/24 17:20",
+            "timestamp": 1784888400,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/24 18:35",
+            "timestamp": 1784892900,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/24 19:35",
+            "timestamp": 1784896500,
+            "flight": "3U3940",
+            "city": "청두",
             "status": "출발예정"
         }
     ]
