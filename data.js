@@ -1,63 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-25 00:23:35",
-    "version": 1784939015,
+    "lastUpdate": "2026-07-25 01:54:53",
+    "version": 1784944493,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/25 00:35",
-            "timestamp": 1784914500,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:32)"
-        },
-        {
-            "type": "도착",
-            "time": "07/25 00:45",
-            "timestamp": 1784915100,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:26)"
-        },
-        {
-            "type": "출발",
-            "time": "07/25 00:55",
-            "timestamp": 1784915700,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/25 01:10",
-            "timestamp": 1784916600,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/25 01:10",
-            "timestamp": 1784916600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/25 01:35",
-            "timestamp": 1784918100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/25 01:45",
-            "timestamp": 1784918700,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/25 03:10",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1784926800,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:11)"
+            "status": "도착예정 (03:13)"
         },
         {
             "type": "출발",
@@ -96,7 +40,7 @@ const flightInfo = {
             "timestamp": 1784939400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:14)"
+            "status": "도착예정 (07:08)"
         },
         {
             "type": "출발",
@@ -136,7 +80,7 @@ const flightInfo = {
             "timestamp": 1784946600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (09:57)"
         },
         {
             "type": "도착",
@@ -768,6 +712,38 @@ const flightInfo = {
             "timestamp": 1785036900,
             "flight": "VJ730",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/26 10:55",
+            "timestamp": 1785038100,
+            "flight": "HY562",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/26 11:00",
+            "timestamp": 1785038400,
+            "flight": "HH2231",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/26 11:05",
+            "timestamp": 1785038700,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/26 11:30",
+            "timestamp": 1785040200,
+            "flight": "SU295",
+            "city": "Moscow",
             "status": "출발예정"
         }
     ]
