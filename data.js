@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-24 16:28:34",
-    "version": 1784910514,
+    "lastUpdate": "2026-07-24 18:17:22",
+    "version": 1784917042,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/24 17:20",
-            "timestamp": 1784888400,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/24 18:35",
             "timestamp": 1784892900,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (17:57)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1784899200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:48)"
+            "status": "도착예정 (19:41)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1784906400,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1784907000,
             "flight": "RF557",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1784907000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1784908200,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:34)"
         },
         {
             "type": "도착",
@@ -683,11 +675,67 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "07/25 22:50",
+            "timestamp": 1784994600,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/25 22:55",
+            "timestamp": 1784994900,
+            "flight": "LJ115",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/25 22:55",
+            "timestamp": 1784994900,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "07/25 22:55",
             "timestamp": 1784994900,
             "flight": "VJ834",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 23:15",
+            "timestamp": 1784996100,
+            "flight": "SU831",
+            "city": "Novosibirsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 23:15",
+            "timestamp": 1784996100,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 23:15",
+            "timestamp": 1784996100,
+            "flight": "WE206",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/25 23:20",
+            "timestamp": 1784996400,
+            "flight": "BX782",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
