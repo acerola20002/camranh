@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-27 02:36:30",
-    "version": 1785119790,
+    "lastUpdate": "2026-07-27 03:33:00",
+    "version": 1785123180,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/27 03:10",
-            "timestamp": 1785096600,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/27 07:30",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785119400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -648,6 +640,14 @@ const flightInfo = {
             "timestamp": 1785217800,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/28 14:20",
+            "timestamp": 1785223200,
+            "flight": "VZ969",
+            "city": "방콕",
             "status": "출발예정"
         }
     ]
