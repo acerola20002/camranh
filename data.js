@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-27 05:36:13",
-    "version": 1785130573,
+    "lastUpdate": "2026-07-27 06:35:30",
+    "version": 1785134130,
     "data": [
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785119400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785119700,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (10:05)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785120300,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1785123000,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:41)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1785136200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:06)"
         },
         {
             "type": "출발",
