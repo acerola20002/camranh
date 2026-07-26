@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-26 18:05:28",
-    "version": 1785089128,
+    "lastUpdate": "2026-07-26 19:11:54",
+    "version": 1785093114,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/26 18:05",
-            "timestamp": 1785063900,
-            "flight": "TR542",
-            "city": "Singapore",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "07/26 18:35",
-            "timestamp": 1785065700,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (18:11)"
-        },
-        {
-            "type": "출발",
-            "time": "07/26 18:40",
-            "timestamp": 1785066000,
-            "flight": "TR543",
-            "city": "Singapore",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/26 19:35",
             "timestamp": 1785069300,
             "flight": "3U3940",
             "city": "청두",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785072000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:17)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785078900,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (21:30)"
+            "status": "도착예정 (21:26)"
         },
         {
             "type": "도착",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1785079200,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -96,7 +72,7 @@ const flightInfo = {
             "timestamp": 1785079800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:00)"
         },
         {
             "type": "도착",
@@ -104,7 +80,7 @@ const flightInfo = {
             "timestamp": 1785081000,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "지연 (23:14)"
         },
         {
             "type": "도착",
@@ -128,7 +104,7 @@ const flightInfo = {
             "timestamp": 1785081900,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:08)"
         },
         {
             "type": "출발",
@@ -683,12 +659,60 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "출발",
+            "time": "07/28 00:20",
+            "timestamp": 1785172800,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "07/28 00:35",
             "timestamp": 1785173700,
             "flight": "7C2303",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/28 00:45",
+            "timestamp": 1785174300,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/28 00:55",
+            "timestamp": 1785174900,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/28 01:10",
+            "timestamp": 1785175800,
+            "flight": "TW42",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/28 01:10",
+            "timestamp": 1785175800,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/28 01:35",
+            "timestamp": 1785177300,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
