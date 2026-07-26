@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-27 01:14:46",
-    "version": 1785114886,
+    "lastUpdate": "2026-07-27 02:36:30",
+    "version": 1785119790,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/27 01:35",
-            "timestamp": 1785090900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/27 01:45",
-            "timestamp": 1785091500,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/27 03:10",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785112200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:53)"
+            "status": "도착예정 (06:49)"
         },
         {
             "type": "출발",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785119400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -656,6 +640,14 @@ const flightInfo = {
             "timestamp": 1785214800,
             "flight": "AK205",
             "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/28 12:50",
+            "timestamp": 1785217800,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
