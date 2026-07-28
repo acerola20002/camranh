@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-29 03:04:19",
-    "version": 1785294259,
+    "lastUpdate": "2026-07-29 04:17:40",
+    "version": 1785298660,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/29 03:10",
-            "timestamp": 1785269400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "07/29 07:30",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785291900,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:12)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
