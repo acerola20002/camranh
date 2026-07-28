@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-29 01:38:15",
-    "version": 1785289095,
+    "lastUpdate": "2026-07-29 03:04:19",
+    "version": 1785294259,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/29 01:45",
-            "timestamp": 1785264300,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "07/29 02:50",
-            "timestamp": 1785268200,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/29 03:10",
             "timestamp": 1785269400,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785285000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:14)"
+            "status": "도착예정 (07:06)"
         },
         {
             "type": "출발",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785291900,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785292200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:50)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
