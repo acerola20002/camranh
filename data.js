@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-30 03:28:08",
-    "version": 1785382088,
+    "lastUpdate": "2026-07-30 04:26:39",
+    "version": 1785385599,
     "data": [
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785378000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:33)"
+            "status": "도착예정 (08:29)"
         },
         {
             "type": "도착",
