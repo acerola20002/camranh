@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-30 00:58:58",
-    "version": 1785373138,
+    "lastUpdate": "2026-07-30 02:22:15",
+    "version": 1785378135,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/30 01:10",
-            "timestamp": 1785348600,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/30 01:10",
-            "timestamp": 1785348600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/30 01:35",
-            "timestamp": 1785350100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/30 01:45",
-            "timestamp": 1785350700,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/30 03:10",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785372000,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (07:23)"
+            "status": "도착예정 (07:42)"
         },
         {
             "type": "출발",
@@ -72,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785378000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:38)"
         },
         {
             "type": "도착",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785378600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:08)"
         },
         {
             "type": "도착",
@@ -664,6 +632,38 @@ const flightInfo = {
             "timestamp": 1785474600,
             "flight": "TR549",
             "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/31 13:15",
+            "timestamp": 1785478500,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/31 13:30",
+            "timestamp": 1785479400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "07/31 13:35",
+            "timestamp": 1785479700,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "07/31 14:20",
+            "timestamp": 1785482400,
+            "flight": "VZ969",
+            "city": "방콕",
             "status": "출발예정"
         }
     ]
