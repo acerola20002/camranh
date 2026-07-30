@@ -1,94 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-30 23:53:20",
-    "version": 1785455600,
+    "lastUpdate": "2026-07-31 01:11:31",
+    "version": 1785460291,
     "data": [
-        {
-            "type": "도착",
-            "time": "07/30 23:55",
-            "timestamp": 1785430500,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "지연 (00:16)"
-        },
-        {
-            "type": "출발",
-            "time": "07/31 00:05",
-            "timestamp": 1785431100,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "07/31 00:05",
-            "timestamp": 1785431100,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "07/31 00:10",
-            "timestamp": 1785431400,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착예정 (00:03)"
-        },
-        {
-            "type": "출발",
-            "time": "07/31 00:20",
-            "timestamp": 1785432000,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "07/31 00:35",
-            "timestamp": 1785432900,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:50)"
-        },
-        {
-            "type": "도착",
-            "time": "07/31 00:45",
-            "timestamp": 1785433500,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:25)"
-        },
-        {
-            "type": "출발",
-            "time": "07/31 00:55",
-            "timestamp": 1785434100,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/31 01:10",
-            "timestamp": 1785435000,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/31 01:10",
-            "timestamp": 1785435000,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "07/31 01:35",
             "timestamp": 1785436500,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -112,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785457800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:13)"
         },
         {
             "type": "출발",
@@ -136,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785465000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:40)"
+            "status": "지연 (09:48)"
         },
         {
             "type": "도착",
@@ -745,6 +665,38 @@ const flightInfo = {
             "flight": "AK204",
             "city": "Kuala Lumpur",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/01 11:30",
+            "timestamp": 1785558600,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/01 11:35",
+            "timestamp": 1785558900,
+            "flight": "VN1608",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/01 12:00",
+            "timestamp": 1785560400,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/01 12:30",
+            "timestamp": 1785562200,
+            "flight": "HH2240",
+            "city": "Tashkent",
+            "status": "출발예정"
         }
     ]
 };
