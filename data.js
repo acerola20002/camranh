@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-07-30 16:16:22",
-    "version": 1785428182,
+    "lastUpdate": "2026-07-30 18:22:17",
+    "version": 1785435737,
     "data": [
-        {
-            "type": "출발",
-            "time": "07/30 17:20",
-            "timestamp": 1785406800,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "07/30 17:30",
-            "timestamp": 1785407400,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "07/30 20:20",
             "timestamp": 1785417600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:20)"
+            "status": "도착예정 (20:17)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785424500,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785424800,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1785425400,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
@@ -112,7 +96,7 @@ const flightInfo = {
             "timestamp": 1785427500,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:38)"
         },
         {
             "type": "출발",
@@ -707,11 +691,51 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "출발",
+            "time": "08/01 01:10",
+            "timestamp": 1785521400,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/01 01:35",
+            "timestamp": 1785522900,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/01 01:45",
+            "timestamp": 1785523500,
+            "flight": "TW46",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/01 03:10",
+            "timestamp": 1785528600,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "08/01 04:00",
             "timestamp": 1785531600,
             "flight": "SU830",
             "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/01 06:10",
+            "timestamp": 1785539400,
+            "flight": "HH2241",
+            "city": "Bishkek",
             "status": "예정"
         }
     ]
