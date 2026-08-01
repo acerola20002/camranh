@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-02 04:48:12",
-    "version": 1785646092,
+    "lastUpdate": "2026-08-02 05:40:00",
+    "version": 1785649200,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1785634800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (08:57)"
+            "status": "지연 (08:59)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785636300,
             "flight": "VJ837",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:16)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785637800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:18)"
+            "status": "지연 (10:03)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785638100,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785638700,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:52)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1785643200,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (10:56)"
+            "status": "도착예정 (11:01)"
         },
         {
             "type": "출발",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1785654600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (14:08)"
+            "status": "도착예정 (14:04)"
         },
         {
             "type": "출발",
