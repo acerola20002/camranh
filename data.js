@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-02 01:42:27",
-    "version": 1785634947,
+    "lastUpdate": "2026-08-02 02:57:38",
+    "version": 1785639458,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/02 01:45",
-            "timestamp": 1785609900,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "08/02 03:10",
             "timestamp": 1785615000,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785634800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (08:59)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785637200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:50)"
+            "status": "도착예정 (08:31)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785637500,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785637800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:07)"
+            "status": "지연 (09:57)"
         },
         {
             "type": "도착",
