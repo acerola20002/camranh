@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-02 02:57:38",
-    "version": 1785639458,
+    "lastUpdate": "2026-08-02 03:53:08",
+    "version": 1785642788,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/02 03:10",
-            "timestamp": 1785615000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/02 08:40",
             "timestamp": 1785634800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (08:59)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1785637200,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:31)"
+            "status": "도착예정 (08:27)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785637500,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785637800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:57)"
+            "status": "지연 (09:59)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1785643200,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "도착예정 (10:58)"
         },
         {
             "type": "출발",
@@ -656,6 +648,14 @@ const flightInfo = {
             "timestamp": 1785733800,
             "flight": "TR549",
             "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/03 14:10",
+            "timestamp": 1785741000,
+            "flight": "SU841",
+            "city": "Irkutsk",
             "status": "출발예정"
         }
     ]
