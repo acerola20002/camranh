@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-01 06:44:56",
-    "version": 1785566696,
+    "lastUpdate": "2026-08-01 08:17:06",
+    "version": 1785572226,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/01 07:30",
-            "timestamp": 1785544200,
-            "flight": "KC193",
-            "city": "Almaty",
-            "status": "도착예정 (07:17)"
-        },
-        {
-            "type": "출발",
-            "time": "08/01 07:40",
-            "timestamp": 1785544800,
-            "flight": "HH2242",
-            "city": "Bishkek",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/01 08:25",
             "timestamp": 1785547500,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "지연 (08:53)"
+            "status": "지연 (08:57)"
         },
         {
             "type": "출발",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1785549900,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (09:03)"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785551400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:46)"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785551700,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (11:18)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785552300,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:54)"
+            "status": "도착예정 (09:57)"
         },
         {
             "type": "출발",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1785553200,
             "flight": "FD646",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1785555300,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:41)"
+            "status": "도착예정 (10:46)"
         },
         {
             "type": "출발",
@@ -120,7 +104,7 @@ const flightInfo = {
             "timestamp": 1785556200,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (10:52)"
+            "status": "도착예정 (10:56)"
         },
         {
             "type": "출발",
@@ -192,7 +176,7 @@ const flightInfo = {
             "timestamp": 1785568200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (14:06)"
+            "status": "도착예정 (13:58)"
         },
         {
             "type": "도착",
@@ -200,7 +184,7 @@ const flightInfo = {
             "timestamp": 1785568500,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (14:21)"
+            "status": "도착예정 (14:10)"
         },
         {
             "type": "출발",
@@ -232,7 +216,7 @@ const flightInfo = {
             "timestamp": 1785573000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:38)"
+            "status": "도착예정 (15:06)"
         },
         {
             "type": "도착",
@@ -720,6 +704,22 @@ const flightInfo = {
             "timestamp": 1785648600,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/02 13:30",
+            "timestamp": 1785652200,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/02 14:20",
+            "timestamp": 1785655200,
+            "flight": "VZ969",
+            "city": "방콕",
             "status": "출발예정"
         }
     ]
