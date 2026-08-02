@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-03 03:15:18",
-    "version": 1785726918,
+    "lastUpdate": "2026-08-03 04:11:27",
+    "version": 1785730287,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1785717000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:57)"
+            "status": "도착예정 (07:02)"
         },
         {
             "type": "출발",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1785741000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "출발",
