@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-03 05:11:50",
-    "version": 1785733910,
+    "lastUpdate": "2026-08-03 06:14:05",
+    "version": 1785737645,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1785717000,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:04)"
+            "status": "도착예정 (07:12)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785722700,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (08:59)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785724200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:52)"
+            "status": "지연 (10:46)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785724500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785725100,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:46)"
         },
         {
             "type": "도착",
@@ -160,7 +160,7 @@ const flightInfo = {
             "timestamp": 1785736200,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "예정"
+            "status": "도착예정 (11:56)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1785741000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "출발",
