@@ -1,55 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-02 14:19:42",
-    "version": 1785680382,
+    "lastUpdate": "2026-08-02 16:25:44",
+    "version": 1785687944,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/02 14:20",
-            "timestamp": 1785655200,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/02 14:45",
-            "timestamp": 1785656700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "지연 (15:10)"
-        },
-        {
-            "type": "도착",
-            "time": "08/02 15:10",
-            "timestamp": 1785658200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착예정 (14:47)"
-        },
-        {
-            "type": "출발",
-            "time": "08/02 16:00",
-            "timestamp": 1785661200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/02 16:05",
-            "timestamp": 1785661500,
-            "flight": "WZ3201",
-            "city": "Moscow",
-            "status": "지연 (16:31)"
-        },
-        {
-            "type": "출발",
-            "time": "08/02 16:10",
-            "timestamp": 1785661800,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/02 17:20",
@@ -80,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785670500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:07)"
         },
         {
             "type": "출발",
@@ -104,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785676800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:24)"
         },
         {
             "type": "도착",
@@ -601,6 +553,78 @@ const flightInfo = {
             "flight": "BX787",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/03 21:30",
+            "timestamp": 1785767400,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/03 21:35",
+            "timestamp": 1785767700,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/03 21:50",
+            "timestamp": 1785768600,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/03 21:50",
+            "timestamp": 1785768600,
+            "flight": "VJ836",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/03 22:20",
+            "timestamp": 1785770400,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/03 22:30",
+            "timestamp": 1785771000,
+            "flight": "TW33",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/03 22:50",
+            "timestamp": 1785772200,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/03 22:55",
+            "timestamp": 1785772500,
+            "flight": "LJ115",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/03 22:55",
+            "timestamp": 1785772500,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
