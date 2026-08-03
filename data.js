@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-03 17:41:58",
-    "version": 1785778918,
+    "lastUpdate": "2026-08-03 20:30:12",
+    "version": 1785789012,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/03 18:35",
-            "timestamp": 1785756900,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착예정 (17:52)"
-        },
-        {
-            "type": "출발",
-            "time": "08/03 19:35",
-            "timestamp": 1785760500,
-            "flight": "3U3940",
-            "city": "청두",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/03 20:20",
-            "timestamp": 1785763200,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:13)"
-        },
         {
             "type": "도착",
             "time": "08/03 21:30",
             "timestamp": 1785767400,
             "flight": "VJ733",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (21:26)"
         },
         {
             "type": "출발",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785770400,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785772200,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1785772500,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "도착",
@@ -96,7 +72,7 @@ const flightInfo = {
             "timestamp": 1785772500,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (23:17)"
         },
         {
             "type": "출발",
@@ -112,7 +88,7 @@ const flightInfo = {
             "timestamp": 1785773100,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "출발",
@@ -144,7 +120,7 @@ const flightInfo = {
             "timestamp": 1785775500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:38)"
         },
         {
             "type": "도착",
@@ -152,7 +128,7 @@ const flightInfo = {
             "timestamp": 1785776100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (00:16)"
         },
         {
             "type": "출발",
@@ -184,7 +160,7 @@ const flightInfo = {
             "timestamp": 1785777000,
             "flight": "TW41",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (23:55)"
         },
         {
             "type": "출발",
@@ -200,7 +176,7 @@ const flightInfo = {
             "timestamp": 1785778500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:59)"
         },
         {
             "type": "도착",
@@ -208,7 +184,7 @@ const flightInfo = {
             "timestamp": 1785779100,
             "flight": "TW45",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (00:42)"
         },
         {
             "type": "출발",
@@ -715,6 +691,14 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/05 00:10",
+            "timestamp": 1785863400,
+            "flight": "TW41",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/05 00:20",
             "timestamp": 1785864000,
@@ -723,12 +707,84 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/05 00:35",
+            "timestamp": 1785864900,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/05 00:45",
+            "timestamp": 1785865500,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/05 00:55",
             "timestamp": 1785866100,
             "flight": "LJ88",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 01:10",
+            "timestamp": 1785867000,
+            "flight": "TW42",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 01:10",
+            "timestamp": 1785867000,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 01:35",
+            "timestamp": 1785868500,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 01:45",
+            "timestamp": 1785869100,
+            "flight": "TW46",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 02:50",
+            "timestamp": 1785873000,
+            "flight": "SU833",
+            "city": "Vladivostok",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 03:10",
+            "timestamp": 1785874200,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/05 07:30",
+            "timestamp": 1785889800,
+            "flight": "KC193",
+            "city": "Almaty",
+            "status": "예정"
         }
     ]
 };
