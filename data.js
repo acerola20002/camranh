@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-04 01:01:01",
-    "version": 1785805261,
+    "lastUpdate": "2026-08-04 02:51:34",
+    "version": 1785811894,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/04 01:10",
-            "timestamp": 1785780600,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/04 01:10",
-            "timestamp": 1785780600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/04 01:35",
-            "timestamp": 1785782100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/04 01:45",
-            "timestamp": 1785782700,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/04 03:10",
             "timestamp": 1785787800,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785806700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:25)"
+            "status": "도착예정 (07:14)"
         },
         {
             "type": "도착",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785810000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:10)"
         },
         {
             "type": "도착",
@@ -72,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785810600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:52)"
+            "status": "도착예정 (09:44)"
         },
         {
             "type": "도착",
@@ -697,6 +665,22 @@ const flightInfo = {
             "flight": "SU295",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 13:05",
+            "timestamp": 1785909900,
+            "flight": "ZF2502",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/05 13:25",
+            "timestamp": 1785911100,
+            "flight": "WZ3205",
+            "city": "Yekaterinburg",
+            "status": "예정"
         }
     ]
 };
