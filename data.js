@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-04 02:51:34",
-    "version": 1785811894,
+    "lastUpdate": "2026-08-04 03:57:07",
+    "version": 1785815827,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/04 03:10",
-            "timestamp": 1785787800,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/04 08:25",
             "timestamp": 1785806700,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:14)"
+            "status": "도착예정 (07:23)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1785810000,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:10)"
+            "status": "도착예정 (08:08)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1785810600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:44)"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "도착",
@@ -160,7 +152,7 @@ const flightInfo = {
             "timestamp": 1785819300,
             "flight": "ZF2555",
             "city": "Mineralnye Vody",
-            "status": "예정"
+            "status": "지연 (12:13)"
         },
         {
             "type": "출발",
