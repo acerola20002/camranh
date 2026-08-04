@@ -1,71 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-05 00:17:46",
-    "version": 1785889066,
+    "lastUpdate": "2026-08-05 01:57:16",
+    "version": 1785895036,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/05 00:20",
-            "timestamp": 1785864000,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/05 00:35",
-            "timestamp": 1785864900,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:46)"
-        },
-        {
-            "type": "도착",
-            "time": "08/05 00:45",
-            "timestamp": 1785865500,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:29)"
-        },
-        {
-            "type": "출발",
-            "time": "08/05 00:55",
-            "timestamp": 1785866100,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/05 01:10",
-            "timestamp": 1785867000,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/05 01:10",
-            "timestamp": 1785867000,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/05 01:35",
-            "timestamp": 1785868500,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/05 01:45",
-            "timestamp": 1785869100,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/05 02:50",
@@ -88,7 +24,7 @@ const flightInfo = {
             "timestamp": 1785889800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:08)"
         },
         {
             "type": "출발",
@@ -120,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785897000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:52)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
@@ -707,12 +643,60 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "출발",
+            "time": "08/06 10:35",
+            "timestamp": 1785987300,
+            "flight": "VJ730",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/06 11:05",
+            "timestamp": 1785989100,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "08/06 11:30",
             "timestamp": 1785990600,
             "flight": "AK204",
             "city": "Kuala Lumpur",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/06 11:30",
+            "timestamp": 1785990600,
+            "flight": "TR548",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/06 11:30",
+            "timestamp": 1785990600,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/06 11:35",
+            "timestamp": 1785990900,
+            "flight": "VN1608",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/06 12:00",
+            "timestamp": 1785992400,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
         }
     ]
 };
