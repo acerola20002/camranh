@@ -1,78 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-04 10:41:43",
-    "version": 1785840103,
+    "lastUpdate": "2026-08-04 13:15:32",
+    "version": 1785849332,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/04 11:05",
-            "timestamp": 1785816300,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/04 11:20",
-            "timestamp": 1785817200,
-            "flight": "HH2231",
-            "city": "Tashkent",
-            "status": "지연 (11:39)"
-        },
-        {
-            "type": "도착",
-            "time": "08/04 11:30",
-            "timestamp": 1785817800,
-            "flight": "AK204",
-            "city": "Kuala Lumpur",
-            "status": "도착예정 (11:22)"
-        },
-        {
-            "type": "출발",
-            "time": "08/04 11:30",
-            "timestamp": 1785817800,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/04 11:35",
-            "timestamp": 1785818100,
-            "flight": "VN1608",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/04 11:55",
-            "timestamp": 1785819300,
-            "flight": "ZF2555",
-            "city": "Mineralnye Vody",
-            "status": "도착예정 (12:05)"
-        },
-        {
-            "type": "출발",
-            "time": "08/04 12:00",
-            "timestamp": 1785819600,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/04 12:50",
-            "timestamp": 1785822600,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/04 13:30",
             "timestamp": 1785825000,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:16)"
         },
         {
             "type": "도착",
@@ -80,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785825300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:49)"
+            "status": "지연 (13:51)"
         },
         {
             "type": "출발",
@@ -104,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785830100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:30)"
+            "status": "도착예정 (14:42)"
         },
         {
             "type": "도착",
@@ -112,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785831000,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (15:08)"
         },
         {
             "type": "도착",
@@ -664,6 +600,38 @@ const flightInfo = {
             "timestamp": 1785925200,
             "flight": "VJ732",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/05 18:20",
+            "timestamp": 1785928800,
+            "flight": "SU832",
+            "city": "Vladivostok",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/05 18:35",
+            "timestamp": 1785929700,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 19:35",
+            "timestamp": 1785933300,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/05 19:50",
+            "timestamp": 1785934200,
+            "flight": "SU831",
+            "city": "Novosibirsk",
             "status": "출발예정"
         }
     ]
