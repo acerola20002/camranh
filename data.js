@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-05 01:57:16",
-    "version": 1785895036,
+    "lastUpdate": "2026-08-05 03:23:04",
+    "version": 1785900184,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/05 02:50",
-            "timestamp": 1785873000,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/05 03:10",
-            "timestamp": 1785874200,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/05 07:30",
             "timestamp": 1785889800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:08)"
+            "status": "도착예정 (07:04)"
         },
         {
             "type": "출발",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1785897000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -696,6 +680,14 @@ const flightInfo = {
             "timestamp": 1785992400,
             "flight": "AK205",
             "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/06 12:10",
+            "timestamp": 1785993000,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
