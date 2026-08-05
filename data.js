@@ -1,86 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-06 00:06:23",
-    "version": 1785974783,
+    "lastUpdate": "2026-08-06 01:44:43",
+    "version": 1785980683,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/06 00:10",
-            "timestamp": 1785949800,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/06 00:20",
-            "timestamp": 1785950400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/06 00:20",
-            "timestamp": 1785950400,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/06 00:35",
-            "timestamp": 1785951300,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:46)"
-        },
-        {
-            "type": "도착",
-            "time": "08/06 00:45",
-            "timestamp": 1785951900,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:23)"
-        },
-        {
-            "type": "출발",
-            "time": "08/06 00:55",
-            "timestamp": 1785952500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/06 01:10",
-            "timestamp": 1785953400,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/06 01:10",
-            "timestamp": 1785953400,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/06 01:35",
-            "timestamp": 1785954900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/06 01:45",
             "timestamp": 1785955500,
             "flight": "TW46",
             "city": "청주",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -96,7 +24,7 @@ const flightInfo = {
             "timestamp": 1785976800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "예정"
+            "status": "지연 (08:16)"
         },
         {
             "type": "출발",
@@ -120,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785982800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:53)"
         },
         {
             "type": "도착",
@@ -128,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785983400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -697,6 +625,38 @@ const flightInfo = {
             "flight": "HH2232",
             "city": "Tashkent",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/07 12:10",
+            "timestamp": 1786079400,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/07 12:10",
+            "timestamp": 1786079400,
+            "flight": "TR549",
+            "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/07 13:15",
+            "timestamp": 1786083300,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/07 13:30",
+            "timestamp": 1786084200,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
