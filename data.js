@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-06 05:38:13",
-    "version": 1785994693,
+    "lastUpdate": "2026-08-06 06:35:24",
+    "version": 1785998124,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1785976800,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (08:21)"
+            "status": "지연 (08:27)"
         },
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785983700,
             "flight": "VJ835",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (10:01)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1785984300,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:50)"
+            "status": "도착예정 (09:46)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1786000200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:47)"
+            "status": "도착예정 (13:38)"
         },
         {
             "type": "출발",
@@ -216,7 +216,7 @@ const flightInfo = {
             "timestamp": 1786005000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:17)"
+            "status": "도착예정 (15:04)"
         },
         {
             "type": "도착",
