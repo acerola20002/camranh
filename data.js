@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-06 06:35:24",
-    "version": 1785998124,
+    "lastUpdate": "2026-08-06 07:59:30",
+    "version": 1786003170,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/06 07:40",
-            "timestamp": 1785976800,
-            "flight": "C65537",
-            "city": "Tashkent",
-            "status": "지연 (08:27)"
-        },
         {
             "type": "출발",
             "time": "08/06 09:00",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1785981900,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (09:01)"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1785982800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:44)"
+            "status": "도착예정 (08:55)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1785984300,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:46)"
+            "status": "도착예정 (09:44)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1785987000,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "지연 (10:48)"
         },
         {
             "type": "출발",
@@ -216,7 +208,7 @@ const flightInfo = {
             "timestamp": 1786005000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:04)"
+            "status": "도착예정 (14:57)"
         },
         {
             "type": "도착",
@@ -643,11 +635,27 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "08/07 13:35",
+            "timestamp": 1786084500,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/07 14:20",
             "timestamp": 1786087200,
             "flight": "VZ969",
             "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/07 15:45",
+            "timestamp": 1786092300,
+            "flight": "WZ3206",
+            "city": "Yekaterinburg",
             "status": "출발예정"
         }
     ]
