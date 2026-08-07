@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-07 14:04:17",
-    "version": 1786111457,
+    "lastUpdate": "2026-08-07 15:19:21",
+    "version": 1786115961,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/07 14:15",
-            "timestamp": 1786086900,
-            "flight": "WZ3201",
-            "city": "Moscow",
-            "status": "도착예정 (14:15)"
-        },
-        {
-            "type": "출발",
-            "time": "08/07 14:20",
-            "timestamp": 1786087200,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/07 14:45",
-            "timestamp": 1786088700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:49)"
-        },
-        {
-            "type": "도착",
-            "time": "08/07 15:10",
-            "timestamp": 1786090200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착예정 (15:06)"
-        },
         {
             "type": "출발",
             "time": "08/07 15:45",
             "timestamp": 1786092300,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786102500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:05)"
         },
         {
             "type": "출발",
@@ -656,6 +624,30 @@ const flightInfo = {
             "timestamp": 1786195200,
             "flight": "BX787",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 21:10",
+            "timestamp": 1786198200,
+            "flight": "SU832",
+            "city": "Vladivostok",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 21:30",
+            "timestamp": 1786199400,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 22:20",
+            "timestamp": 1786202400,
+            "flight": "BX781",
+            "city": "부산",
             "status": "예정"
         }
     ]
