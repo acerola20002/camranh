@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-07 17:24:37",
-    "version": 1786123477,
+    "lastUpdate": "2026-08-07 18:14:00",
+    "version": 1786126440,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786102500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (17:54)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786116600,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:23)"
         },
         {
             "type": "도착",
@@ -683,11 +683,51 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "08/08 22:55",
+            "timestamp": 1786204500,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/08 22:55",
             "timestamp": 1786204500,
             "flight": "VJ834",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 23:00",
+            "timestamp": 1786204800,
+            "flight": "WE205",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 23:05",
+            "timestamp": 1786205100,
+            "flight": "KE467",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 23:15",
+            "timestamp": 1786205700,
+            "flight": "SU831",
+            "city": "Novosibirsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 23:15",
+            "timestamp": 1786205700,
+            "flight": "VN434",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
