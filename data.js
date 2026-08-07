@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-07 16:26:58",
-    "version": 1786120018,
+    "lastUpdate": "2026-08-07 17:24:37",
+    "version": 1786123477,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/07 17:20",
-            "timestamp": 1786098000,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/07 18:35",
             "timestamp": 1786102500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (17:59)"
+            "status": "도착예정 (17:54)"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786108800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:32)"
+            "status": "지연 (20:47)"
         },
         {
             "type": "도착",
@@ -673,6 +665,30 @@ const flightInfo = {
             "flight": "TW33",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 22:50",
+            "timestamp": 1786204200,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 22:55",
+            "timestamp": 1786204500,
+            "flight": "LJ115",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 22:55",
+            "timestamp": 1786204500,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
