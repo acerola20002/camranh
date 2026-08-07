@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-07 12:51:40",
-    "version": 1786107100,
+    "lastUpdate": "2026-08-07 14:04:17",
+    "version": 1786111457,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/07 13:15",
-            "timestamp": 1786083300,
-            "flight": "SU841",
-            "city": "Irkutsk",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/07 13:30",
-            "timestamp": 1786084200,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:19)"
-        },
-        {
-            "type": "도착",
-            "time": "08/07 13:35",
-            "timestamp": 1786084500,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "지연 (13:53)"
-        },
         {
             "type": "도착",
             "time": "08/07 14:15",
             "timestamp": 1786086900,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:02)"
+            "status": "도착예정 (14:15)"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786087200,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786088700,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (14:49)"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786090200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (15:06)"
         },
         {
             "type": "출발",
@@ -665,6 +641,22 @@ const flightInfo = {
             "flight": "B2796",
             "city": "Minsk",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 18:05",
+            "timestamp": 1786187100,
+            "flight": "IO996",
+            "city": "Hefei",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 20:20",
+            "timestamp": 1786195200,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
