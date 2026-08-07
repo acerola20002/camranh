@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-07 15:19:21",
-    "version": 1786115961,
+    "lastUpdate": "2026-08-07 16:26:58",
+    "version": 1786120018,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/07 15:45",
-            "timestamp": 1786092300,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/07 16:00",
-            "timestamp": 1786093200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/07 17:20",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786102500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:05)"
+            "status": "도착예정 (17:59)"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786108800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:32)"
         },
         {
             "type": "도착",
@@ -643,11 +627,51 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "출발",
+            "time": "08/08 21:35",
+            "timestamp": 1786199700,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 21:50",
+            "timestamp": 1786200600,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 21:50",
+            "timestamp": 1786200600,
+            "flight": "VJ836",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "08/08 22:20",
             "timestamp": 1786202400,
             "flight": "BX781",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 22:30",
+            "timestamp": 1786203000,
+            "flight": "RF557",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 22:30",
+            "timestamp": 1786203000,
+            "flight": "TW33",
+            "city": "인천",
             "status": "예정"
         }
     ]
