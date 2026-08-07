@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-07 18:14:00",
-    "version": 1786126440,
+    "lastUpdate": "2026-08-07 18:58:53",
+    "version": 1786129133,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/07 18:35",
-            "timestamp": 1786102500,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "08/07 19:35",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786108800,
             "flight": "BX787",
             "city": "인천",
-            "status": "지연 (20:47)"
+            "status": "지연 (20:43)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786116000,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "지연 (22:49)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786116600,
             "flight": "RF557",
             "city": "청주",
-            "status": "예정"
+            "status": "지연 (23:06)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786116600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:23)"
+            "status": "도착예정 (22:34)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786117800,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (23:00)"
         },
         {
             "type": "도착",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786118100,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (23:08)"
         },
         {
             "type": "도착",
@@ -729,6 +721,54 @@ const flightInfo = {
             "flight": "VN434",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 23:20",
+            "timestamp": 1786206000,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 23:30",
+            "timestamp": 1786206600,
+            "flight": "RF558",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/08 23:30",
+            "timestamp": 1786206600,
+            "flight": "TW34",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 23:45",
+            "timestamp": 1786207500,
+            "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/08 23:55",
+            "timestamp": 1786208100,
+            "flight": "ZE561",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/09 00:10",
+            "timestamp": 1786209000,
+            "flight": "TW41",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
