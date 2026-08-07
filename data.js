@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-08 01:54:19",
-    "version": 1786154059,
+    "lastUpdate": "2026-08-08 02:47:36",
+    "version": 1786157256,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786133400,
             "flight": "VJ918",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786152300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:04)"
+            "status": "도착예정 (07:57)"
         },
         {
             "type": "출발",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786156200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:22)"
         },
         {
             "type": "도착",
