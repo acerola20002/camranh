@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-08 16:30:40",
-    "version": 1786206640,
+    "lastUpdate": "2026-08-08 17:05:17",
+    "version": 1786208717,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/08 16:55",
-            "timestamp": 1786182900,
-            "flight": "IO995",
-            "city": "Hefei",
-            "status": "도착예정 (16:33)"
-        },
         {
             "type": "출발",
             "time": "08/08 17:20",
             "timestamp": 1786184400,
             "flight": "VJ732",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786185000,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786198200,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "도착",
@@ -657,6 +649,14 @@ const flightInfo = {
             "flight": "VJ834",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/09 23:00",
+            "timestamp": 1786291200,
+            "flight": "WE205",
+            "city": "인천",
+            "status": "예정"
         },
         {
             "type": "출발",
