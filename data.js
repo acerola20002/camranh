@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-08 11:50:13",
-    "version": 1786189813,
+    "lastUpdate": "2026-08-08 12:31:40",
+    "version": 1786192300,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/08 12:00",
-            "timestamp": 1786165200,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/08 12:30",
-            "timestamp": 1786167000,
-            "flight": "HH2240",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/08 13:30",
             "timestamp": 1786170600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786170900,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:34)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786173000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:49)"
+            "status": "도착예정 (13:56)"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786173300,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (14:25)"
+            "status": "도착예정 (14:23)"
         },
         {
             "type": "출발",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786177800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:12)"
+            "status": "도착예정 (15:14)"
         },
         {
             "type": "도착",
@@ -656,6 +640,22 @@ const flightInfo = {
             "timestamp": 1786271700,
             "flight": "WZ3202",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/09 18:05",
+            "timestamp": 1786273500,
+            "flight": "TR542",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/09 18:40",
+            "timestamp": 1786275600,
+            "flight": "TR543",
+            "city": "Singapore",
             "status": "출발예정"
         }
     ]
