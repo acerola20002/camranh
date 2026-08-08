@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 00:41:15",
-    "version": 1786236075,
+    "lastUpdate": "2026-08-09 01:12:47",
+    "version": 1786237967,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/09 00:45",
-            "timestamp": 1786211100,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (01:00)"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 00:55",
-            "timestamp": 1786211700,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 01:10",
-            "timestamp": 1786212600,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 01:10",
-            "timestamp": 1786212600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/09 01:35",
             "timestamp": 1786214100,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -96,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786242600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:44)"
+            "status": "지연 (09:46)"
         },
         {
             "type": "도착",
@@ -689,6 +657,14 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/10 12:50",
+            "timestamp": 1786341000,
+            "flight": "SU840",
+            "city": "Irkutsk",
+            "status": "예정"
         }
     ]
 };
