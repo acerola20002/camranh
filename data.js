@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-08 14:27:27",
-    "version": 1786199247,
+    "lastUpdate": "2026-08-08 15:05:56",
+    "version": 1786201556,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/08 14:45",
-            "timestamp": 1786175100,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (15:00)"
-        },
         {
             "type": "도착",
             "time": "08/08 15:10",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786177800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:14)"
+            "status": "도착예정 (15:12)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786178700,
             "flight": "VN1609",
             "city": "Haiphong",
-            "status": "도착예정 (15:36)"
+            "status": "도착예정 (15:38)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786182900,
             "flight": "IO995",
             "city": "Hefei",
-            "status": "예정"
+            "status": "도착예정 (16:33)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786198200,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:05)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "도착",
@@ -641,6 +633,22 @@ const flightInfo = {
             "flight": "BX787",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/09 21:30",
+            "timestamp": 1786285800,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/09 21:35",
+            "timestamp": 1786286100,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
