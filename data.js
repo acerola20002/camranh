@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-08 15:54:29",
-    "version": 1786204469,
+    "lastUpdate": "2026-08-08 16:30:40",
+    "version": 1786206640,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/08 16:00",
-            "timestamp": 1786179600,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/08 16:10",
-            "timestamp": 1786180200,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/08 16:55",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786195200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:17)"
+            "status": "도착예정 (20:13)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786198200,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:15)"
+            "status": "도착예정 (20:13)"
         },
         {
             "type": "도착",
@@ -665,6 +649,30 @@ const flightInfo = {
             "flight": "RS527",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/09 22:55",
+            "timestamp": 1786290900,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/09 23:15",
+            "timestamp": 1786292100,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/09 23:20",
+            "timestamp": 1786292400,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
