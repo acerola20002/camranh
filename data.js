@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-08 17:46:21",
-    "version": 1786211181,
+    "lastUpdate": "2026-08-08 18:12:08",
+    "version": 1786212728,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/08 18:05",
-            "timestamp": 1786187100,
-            "flight": "IO996",
-            "city": "Hefei",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/08 20:20",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786203000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786204200,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -675,6 +667,22 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/09 23:45",
+            "timestamp": 1786293900,
+            "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/09 23:55",
+            "timestamp": 1786294500,
+            "flight": "ZE561",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/10 00:05",
             "timestamp": 1786295100,
@@ -688,6 +696,30 @@ const flightInfo = {
             "timestamp": 1786295100,
             "flight": "TW38",
             "city": "대구",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 00:20",
+            "timestamp": 1786296000,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 00:20",
+            "timestamp": 1786296000,
+            "flight": "WE206",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 00:55",
+            "timestamp": 1786298100,
+            "flight": "LJ88",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
