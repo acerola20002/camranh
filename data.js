@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-08 18:45:21",
-    "version": 1786214721,
+    "lastUpdate": "2026-08-08 19:03:51",
+    "version": 1786215831,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786198200,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786203000,
             "flight": "RF557",
             "city": "청주",
-            "status": "도착예정 (22:45)"
+            "status": "도착예정 (22:40)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786203000,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:13)"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786204500,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:45)"
+            "status": "도착예정 (22:42)"
         },
         {
             "type": "출발",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1786205100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:06)"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "출발",
