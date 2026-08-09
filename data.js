@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-10 01:41:24",
-    "version": 1786326084,
+    "lastUpdate": "2026-08-10 02:20:51",
+    "version": 1786328451,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/10 01:45",
-            "timestamp": 1786301100,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "08/10 03:10",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786321800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:57)"
+            "status": "도착예정 (06:53)"
         },
         {
             "type": "출발",
@@ -673,6 +665,14 @@ const flightInfo = {
             "flight": "VJ919",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/11 14:20",
+            "timestamp": 1786432800,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
