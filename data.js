@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 16:23:28",
-    "version": 1786292608,
+    "lastUpdate": "2026-08-09 17:03:23",
+    "version": 1786295003,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786270800,
             "flight": "VJ732",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786273500,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (17:59)"
+            "status": "도착예정 (18:01)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786275300,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:05)"
+            "status": "도착예정 (18:03)"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786281600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:05)"
         },
         {
             "type": "도착",
@@ -688,6 +688,14 @@ const flightInfo = {
             "timestamp": 1786381500,
             "flight": "TW38",
             "city": "대구",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/11 00:20",
+            "timestamp": 1786382400,
+            "flight": "KE468",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
