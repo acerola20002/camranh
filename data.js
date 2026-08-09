@@ -1,78 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 09:37:32",
-    "version": 1786268252,
+    "lastUpdate": "2026-08-09 11:03:04",
+    "version": 1786273384,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/09 09:45",
-            "timestamp": 1786243500,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "도착예정 (09:40)"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 09:50",
-            "timestamp": 1786243800,
-            "flight": "C65538",
-            "city": "Tashkent",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/09 10:05",
-            "timestamp": 1786244700,
-            "flight": "CZ8475",
-            "city": "Guangzhou",
-            "status": "지연 (10:56)"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 10:30",
-            "timestamp": 1786246200,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/09 10:35",
-            "timestamp": 1786246500,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "도착예정 (10:33)"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 10:35",
-            "timestamp": 1786246500,
-            "flight": "VJ730",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 10:55",
-            "timestamp": 1786247700,
-            "flight": "HY562",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/09 11:00",
-            "timestamp": 1786248000,
-            "flight": "HH2231",
-            "city": "Tashkent",
-            "status": "지연 (11:18)"
-        },
         {
             "type": "출발",
             "time": "08/09 11:05",
             "timestamp": 1786248300,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -80,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786249800,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786257300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:28)"
         },
         {
             "type": "도착",
@@ -112,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786259400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:41)"
+            "status": "도착예정 (13:38)"
         },
         {
             "type": "출발",
@@ -152,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786266300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:53)"
+            "status": "도착예정 (15:49)"
         },
         {
             "type": "출발",
@@ -649,6 +585,30 @@ const flightInfo = {
             "flight": "CZ6049",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 16:00",
+            "timestamp": 1786352400,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 16:10",
+            "timestamp": 1786353000,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 17:20",
+            "timestamp": 1786357200,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
         }
     ]
 };
