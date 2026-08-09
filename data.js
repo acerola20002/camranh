@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 12:14:38",
-    "version": 1786277678,
+    "lastUpdate": "2026-08-09 12:59:40",
+    "version": 1786280380,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/09 12:30",
-            "timestamp": 1786253400,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/09 13:30",
             "timestamp": 1786257000,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:19)"
+            "status": "도착예정 (13:21)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786257300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:30)"
+            "status": "지연 (13:53)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786259400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:36)"
+            "status": "도착예정 (13:41)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786266300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:49)"
+            "status": "도착예정 (15:57)"
         },
         {
             "type": "출발",
