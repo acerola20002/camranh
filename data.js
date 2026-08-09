@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 14:04:36",
-    "version": 1786284276,
+    "lastUpdate": "2026-08-09 14:57:13",
+    "version": 1786287433,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/09 14:10",
-            "timestamp": 1786259400,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 14:20",
-            "timestamp": 1786260000,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/09 14:45",
-            "timestamp": 1786261500,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:36)"
-        },
         {
             "type": "도착",
             "time": "08/09 15:10",
             "timestamp": 1786263000,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "지연 (16:10)"
         },
         {
             "type": "출발",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786266300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:53)"
+            "status": "도착예정 (15:51)"
         },
         {
             "type": "출발",
@@ -609,6 +585,38 @@ const flightInfo = {
             "flight": "VN440",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 21:50",
+            "timestamp": 1786373400,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 21:50",
+            "timestamp": 1786373400,
+            "flight": "VJ836",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/10 22:20",
+            "timestamp": 1786375200,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/10 22:30",
+            "timestamp": 1786375800,
+            "flight": "TW33",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
