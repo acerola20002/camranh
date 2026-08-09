@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 11:03:04",
-    "version": 1786273384,
+    "lastUpdate": "2026-08-09 12:14:38",
+    "version": 1786277678,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/09 11:05",
-            "timestamp": 1786248300,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/09 11:30",
-            "timestamp": 1786249800,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/09 12:30",
             "timestamp": 1786253400,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786257000,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786257300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:28)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786259400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:38)"
+            "status": "도착예정 (13:36)"
         },
         {
             "type": "출발",
@@ -608,6 +592,22 @@ const flightInfo = {
             "timestamp": 1786357200,
             "flight": "VJ732",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/10 18:35",
+            "timestamp": 1786361700,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 19:35",
+            "timestamp": 1786365300,
+            "flight": "3U3940",
+            "city": "청두",
             "status": "출발예정"
         }
     ]
