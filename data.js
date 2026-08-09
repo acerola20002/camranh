@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 23:56:02",
-    "version": 1786319762,
+    "lastUpdate": "2026-08-10 00:26:53",
+    "version": 1786321613,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/10 00:05",
-            "timestamp": 1786295100,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 00:05",
-            "timestamp": 1786295100,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/10 00:10",
-            "timestamp": 1786295400,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착예정 (00:25)"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 00:20",
-            "timestamp": 1786296000,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 00:20",
-            "timestamp": 1786296000,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/10 00:35",
             "timestamp": 1786296900,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:46)"
+            "status": "지연 (00:57)"
         },
         {
             "type": "도착",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786297500,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:44)"
+            "status": "도착예정 (00:45)"
         },
         {
             "type": "출발",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786298100,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -112,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786321800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "도착예정 (07:12)"
         },
         {
             "type": "출발",
@@ -136,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786329000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:44)"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "도착",
@@ -728,6 +688,14 @@ const flightInfo = {
             "timestamp": 1786422900,
             "flight": "VN1608",
             "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/11 12:00",
+            "timestamp": 1786424400,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
             "status": "출발예정"
         }
     ]
