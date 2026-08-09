@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 12:59:40",
-    "version": 1786280380,
+    "lastUpdate": "2026-08-09 14:04:36",
+    "version": 1786284276,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/09 13:30",
-            "timestamp": 1786257000,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:21)"
-        },
-        {
-            "type": "도착",
-            "time": "08/09 13:35",
-            "timestamp": 1786257300,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "지연 (13:53)"
-        },
         {
             "type": "도착",
             "time": "08/09 14:10",
             "timestamp": 1786259400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:41)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786260000,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786261500,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (14:36)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786266300,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:57)"
+            "status": "도착예정 (15:53)"
         },
         {
             "type": "출발",
@@ -600,6 +584,30 @@ const flightInfo = {
             "timestamp": 1786365300,
             "flight": "3U3940",
             "city": "청두",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/10 20:20",
+            "timestamp": 1786368000,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/10 21:30",
+            "timestamp": 1786372200,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/10 21:35",
+            "timestamp": 1786372500,
+            "flight": "VN440",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
