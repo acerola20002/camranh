@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 17:47:48",
-    "version": 1786297668,
+    "lastUpdate": "2026-08-09 18:14:02",
+    "version": 1786299242,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/09 18:05",
-            "timestamp": 1786273500,
-            "flight": "TR542",
-            "city": "Singapore",
-            "status": "도착예정 (18:05)"
-        },
         {
             "type": "도착",
             "time": "08/09 18:35",
             "timestamp": 1786275300,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:05)"
+            "status": "도착예정 (18:09)"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786275600,
             "flight": "TR543",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786281600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:05)"
+            "status": "도착예정 (20:00)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786289400,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:38)"
+            "status": "도착예정 (22:08)"
         },
         {
             "type": "도착",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786290600,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1786291200,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:06)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -689,6 +681,22 @@ const flightInfo = {
             "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/11 00:35",
+            "timestamp": 1786383300,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/11 00:45",
+            "timestamp": 1786383900,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
         },
         {
             "type": "출발",
