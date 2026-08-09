@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-10 00:26:53",
-    "version": 1786321613,
+    "lastUpdate": "2026-08-10 00:57:50",
+    "version": 1786323470,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/10 00:35",
-            "timestamp": 1786296900,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "지연 (00:57)"
-        },
-        {
-            "type": "도착",
-            "time": "08/10 00:45",
-            "timestamp": 1786297500,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:45)"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 00:55",
-            "timestamp": 1786298100,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/10 01:10",
             "timestamp": 1786299000,
             "flight": "TW42",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786299000,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786321800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:12)"
+            "status": "도착예정 (07:06)"
         },
         {
             "type": "출발",
@@ -696,6 +672,14 @@ const flightInfo = {
             "timestamp": 1786424400,
             "flight": "AK205",
             "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/11 12:50",
+            "timestamp": 1786427400,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
