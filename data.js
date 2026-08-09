@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-09 18:46:48",
-    "version": 1786301208,
+    "lastUpdate": "2026-08-09 19:17:10",
+    "version": 1786303030,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786278900,
             "flight": "3U3940",
             "city": "청두",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786281600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:02)"
+            "status": "도착예정 (20:05)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786288800,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (21:58)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786289400,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:10)"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786290600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:25)"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786291200,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:23)"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1786291500,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:51)"
+            "status": "도착예정 (22:53)"
         },
         {
             "type": "출발",
