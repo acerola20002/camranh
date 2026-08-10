@@ -1,63 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-10 23:47:04",
-    "version": 1786405624,
+    "lastUpdate": "2026-08-11 00:39:00",
+    "version": 1786408740,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/10 23:55",
-            "timestamp": 1786380900,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "지연 (00:25)"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 23:55",
-            "timestamp": 1786380900,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/11 00:05",
-            "timestamp": 1786381500,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/11 00:05",
-            "timestamp": 1786381500,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/11 00:10",
-            "timestamp": 1786381800,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착예정 (23:56)"
-        },
-        {
-            "type": "출발",
-            "time": "08/11 00:20",
-            "timestamp": 1786382400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/11 00:35",
-            "timestamp": 1786383300,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:18)"
-        },
         {
             "type": "도착",
             "time": "08/11 00:45",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786384500,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -144,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786415400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (10:58)"
+            "status": "도착예정 (09:40)"
         },
         {
             "type": "도착",
