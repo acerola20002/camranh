@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-11 01:31:02",
-    "version": 1786411862,
+    "lastUpdate": "2026-08-11 02:36:37",
+    "version": 1786415797,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/11 01:35",
-            "timestamp": 1786386900,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/11 01:45",
-            "timestamp": 1786387500,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/11 03:10",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786414800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:40)"
+            "status": "도착예정 (08:27)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786415400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:50)"
+            "status": "지연 (09:57)"
         },
         {
             "type": "도착",
@@ -673,6 +657,14 @@ const flightInfo = {
             "flight": "VZ968",
             "city": "방콕",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 14:20",
+            "timestamp": 1786519200,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
