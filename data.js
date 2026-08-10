@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-10 20:54:38",
-    "version": 1786395278,
+    "lastUpdate": "2026-08-10 21:52:17",
+    "version": 1786398737,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/10 21:30",
-            "timestamp": 1786372200,
-            "flight": "VJ733",
-            "city": "Haiphong",
-            "status": "도착예정 (21:14)"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 21:35",
-            "timestamp": 1786372500,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 21:50",
-            "timestamp": 1786373400,
-            "flight": "BX788",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/10 21:50",
-            "timestamp": 1786373400,
-            "flight": "VJ836",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/10 22:20",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786375800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:19)"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "도착",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786377000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -72,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786377300,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:10)"
+            "status": "지연 (23:14)"
         },
         {
             "type": "출발",
@@ -128,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786380900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "지연 (00:23)"
+            "status": "지연 (00:18)"
         },
         {
             "type": "출발",
@@ -160,7 +128,7 @@ const flightInfo = {
             "timestamp": 1786381800,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (23:55)"
+            "status": "도착예정 (23:53)"
         },
         {
             "type": "출발",
@@ -184,7 +152,7 @@ const flightInfo = {
             "timestamp": 1786383900,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:46)"
+            "status": "도착예정 (00:48)"
         },
         {
             "type": "출발",
@@ -768,6 +736,54 @@ const flightInfo = {
             "timestamp": 1786494600,
             "flight": "KC193",
             "city": "Almaty",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 09:00",
+            "timestamp": 1786500000,
+            "flight": "KC194",
+            "city": "Almaty",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 09:05",
+            "timestamp": 1786500300,
+            "flight": "VJ837",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 09:25",
+            "timestamp": 1786501500,
+            "flight": "HY561",
+            "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 09:30",
+            "timestamp": 1786501800,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 09:35",
+            "timestamp": 1786502100,
+            "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 09:45",
+            "timestamp": 1786502700,
+            "flight": "VN441",
+            "city": "인천",
             "status": "예정"
         }
     ]
