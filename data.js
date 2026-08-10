@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-10 17:48:21",
-    "version": 1786384101,
+    "lastUpdate": "2026-08-10 18:35:22",
+    "version": 1786386922,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786361700,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:03)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786375200,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:23)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786375800,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786377000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (22:04)"
         },
         {
             "type": "도착",
