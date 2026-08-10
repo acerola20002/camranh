@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-10 16:44:49",
-    "version": 1786380289,
+    "lastUpdate": "2026-08-10 17:48:21",
+    "version": 1786384101,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/10 17:20",
-            "timestamp": 1786357200,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/10 18:35",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786377000,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -723,6 +715,22 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/12 00:35",
+            "timestamp": 1786469700,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 00:45",
+            "timestamp": 1786470300,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/12 00:55",
             "timestamp": 1786470900,
@@ -760,6 +768,22 @@ const flightInfo = {
             "timestamp": 1786473900,
             "flight": "TW46",
             "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 02:50",
+            "timestamp": 1786477800,
+            "flight": "SU833",
+            "city": "Vladivostok",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 03:10",
+            "timestamp": 1786479000,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
