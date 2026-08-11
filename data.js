@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-12 02:33:09",
-    "version": 1786501989,
+    "lastUpdate": "2026-08-12 03:20:17",
+    "version": 1786504817,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/12 02:50",
-            "timestamp": 1786477800,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/12 03:10",
-            "timestamp": 1786479000,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/12 07:30",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786501500,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
