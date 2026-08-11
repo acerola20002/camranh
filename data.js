@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-11 12:18:08",
-    "version": 1786450688,
+    "lastUpdate": "2026-08-11 13:08:09",
+    "version": 1786453689,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/11 12:50",
-            "timestamp": 1786427400,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/11 13:30",
             "timestamp": 1786429800,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:38)"
+            "status": "도착예정 (13:36)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786434900,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:40)"
+            "status": "도착예정 (14:53)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786435800,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (14:38)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786437000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:21)"
+            "status": "도착예정 (15:32)"
         },
         {
             "type": "도착",
@@ -608,6 +600,14 @@ const flightInfo = {
             "timestamp": 1786538100,
             "flight": "3U3940",
             "city": "청두",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 19:50",
+            "timestamp": 1786539000,
+            "flight": "SU831",
+            "city": "Novosibirsk",
             "status": "출발예정"
         }
     ]
