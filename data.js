@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-12 05:57:35",
-    "version": 1786514255,
+    "lastUpdate": "2026-08-12 06:39:54",
+    "version": 1786516794,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786494600,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:00)"
+            "status": "도착예정 (07:04)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786500300,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (08:59)"
+            "status": "도착예정 (08:57)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786501500,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1786515900,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (13:09)"
+            "status": "도착예정 (13:13)"
         },
         {
             "type": "도착",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1786518600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "지연 (14:28)"
+            "status": "도착예정 (14:23)"
         },
         {
             "type": "출발",
@@ -673,6 +673,14 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/13 13:30",
+            "timestamp": 1786602600,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
         }
     ]
 };
