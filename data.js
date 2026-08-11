@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-11 13:08:09",
-    "version": 1786453689,
+    "lastUpdate": "2026-08-11 14:32:21",
+    "version": 1786458741,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/11 13:30",
-            "timestamp": 1786429800,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:36)"
-        },
-        {
-            "type": "도착",
-            "time": "08/11 13:35",
-            "timestamp": 1786430100,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착예정 (13:36)"
-        },
-        {
-            "type": "출발",
-            "time": "08/11 14:20",
-            "timestamp": 1786432800,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/11 14:45",
             "timestamp": 1786434300,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (14:53)"
         },
         {
             "type": "도착",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786434900,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:53)"
+            "status": "도착예정 (15:01)"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786435800,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "도착예정 (14:38)"
+            "status": "도착예정 (14:39)"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786437000,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:32)"
+            "status": "도착예정 (15:23)"
         },
         {
             "type": "도착",
@@ -608,6 +584,30 @@ const flightInfo = {
             "timestamp": 1786539000,
             "flight": "SU831",
             "city": "Novosibirsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 20:20",
+            "timestamp": 1786540800,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 21:30",
+            "timestamp": 1786545000,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 21:35",
+            "timestamp": 1786545300,
+            "flight": "VN440",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
