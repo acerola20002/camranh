@@ -1,31 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-11 15:33:00",
-    "version": 1786462380,
+    "lastUpdate": "2026-08-11 16:35:55",
+    "version": 1786466155,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/11 15:45",
-            "timestamp": 1786437900,
-            "flight": "VN1609",
-            "city": "Haiphong",
-            "status": "지연 (16:08)"
-        },
-        {
-            "type": "출발",
-            "time": "08/11 16:00",
-            "timestamp": 1786438800,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/11 16:25",
-            "timestamp": 1786440300,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/11 17:20",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786446300,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (18:01)"
         },
         {
             "type": "출발",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786454400,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "도착",
@@ -633,6 +609,46 @@ const flightInfo = {
             "flight": "LJ115",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 22:55",
+            "timestamp": 1786550100,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 22:55",
+            "timestamp": 1786550100,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/12 23:00",
+            "timestamp": 1786550400,
+            "flight": "WE205",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 23:15",
+            "timestamp": 1786551300,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/12 23:20",
+            "timestamp": 1786551600,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
