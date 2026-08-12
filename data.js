@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-12 14:57:57",
-    "version": 1786546677,
+    "lastUpdate": "2026-08-12 16:12:15",
+    "version": 1786551135,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/12 15:10",
-            "timestamp": 1786522200,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/12 16:00",
-            "timestamp": 1786525200,
-            "flight": "HH2240",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/12 16:00",
-            "timestamp": 1786525200,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/12 16:10",
-            "timestamp": 1786525800,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/12 17:20",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786533600,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (17:50)"
+            "status": "도착예정 (17:54)"
         },
         {
             "type": "도착",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786534500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:09)"
         },
         {
             "type": "출발",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786540800,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:24)"
         },
         {
             "type": "출발",
@@ -659,10 +627,98 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "08/13 22:50",
+            "timestamp": 1786636200,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/13 22:55",
+            "timestamp": 1786636500,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/13 22:55",
             "timestamp": 1786636500,
             "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/13 23:00",
+            "timestamp": 1786636800,
+            "flight": "WE205",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/13 23:05",
+            "timestamp": 1786637100,
+            "flight": "KE467",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/13 23:15",
+            "timestamp": 1786637700,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/13 23:20",
+            "timestamp": 1786638000,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/13 23:30",
+            "timestamp": 1786638600,
+            "flight": "TW34",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/13 23:45",
+            "timestamp": 1786639500,
+            "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 00:05",
+            "timestamp": 1786640700,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 00:05",
+            "timestamp": 1786640700,
+            "flight": "TW38",
+            "city": "대구",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 00:20",
+            "timestamp": 1786641600,
+            "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
         }
