@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-12 12:05:06",
-    "version": 1786536306,
+    "lastUpdate": "2026-08-12 13:23:40",
+    "version": 1786541020,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786515900,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (13:09)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786516200,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:13)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786516500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:47)"
+            "status": "도착예정 (13:45)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786518600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (14:21)"
+            "status": "도착예정 (14:17)"
         },
         {
             "type": "출발",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786522200,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (14:47)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1786533600,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (17:42)"
+            "status": "도착예정 (17:52)"
         },
         {
             "type": "도착",
