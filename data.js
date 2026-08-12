@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-13 05:54:56",
-    "version": 1786600496,
+    "lastUpdate": "2026-08-13 06:34:00",
+    "version": 1786602840,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786581600,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "지연 (07:57)"
+            "status": "도착예정 (07:53)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786586700,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (08:55)"
+            "status": "도착예정 (08:57)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786587600,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:27)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786588500,
             "flight": "VJ835",
             "city": "인천",
-            "status": "지연 (10:05)"
+            "status": "지연 (10:03)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786589100,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1786605000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (14:10)"
+            "status": "도착예정 (13:49)"
         },
         {
             "type": "출발",
@@ -216,7 +216,7 @@ const flightInfo = {
             "timestamp": 1786609800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:19)"
+            "status": "도착예정 (15:27)"
         },
         {
             "type": "도착",
