@@ -1,94 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-13 10:15:36",
-    "version": 1786616136,
+    "lastUpdate": "2026-08-13 12:09:20",
+    "version": 1786622960,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/13 10:30",
-            "timestamp": 1786591800,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "지연 (10:52)"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 10:30",
-            "timestamp": 1786591800,
-            "flight": "FD647",
-            "city": "방콕",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 10:30",
-            "timestamp": 1786591800,
-            "flight": "KC158",
-            "city": "Astana",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 10:35",
-            "timestamp": 1786592100,
-            "flight": "VJ730",
-            "city": "Haiphong",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 11:05",
-            "timestamp": 1786593900,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/13 11:30",
-            "timestamp": 1786595400,
-            "flight": "AK204",
-            "city": "Kuala Lumpur",
-            "status": "도착예정 (11:16)"
-        },
-        {
-            "type": "도착",
-            "time": "08/13 11:30",
-            "timestamp": 1786595400,
-            "flight": "TR548",
-            "city": "Singapore",
-            "status": "도착예정 (11:16)"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 11:30",
-            "timestamp": 1786595400,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 11:35",
-            "timestamp": 1786595700,
-            "flight": "VN1608",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 12:00",
-            "timestamp": 1786597200,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/13 12:10",
             "timestamp": 1786597800,
             "flight": "TR549",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -96,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786602600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:26)"
         },
         {
             "type": "도착",
@@ -112,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786605000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:41)"
         },
         {
             "type": "출발",
@@ -625,6 +545,38 @@ const flightInfo = {
             "flight": "CZ6050",
             "city": "Guangzhou",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 17:20",
+            "timestamp": 1786702800,
+            "flight": "VJ732",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/14 18:35",
+            "timestamp": 1786707300,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 19:35",
+            "timestamp": 1786710900,
+            "flight": "3U3940",
+            "city": "청두",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/14 20:20",
+            "timestamp": 1786713600,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
