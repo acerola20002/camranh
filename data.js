@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-13 17:34:09",
-    "version": 1786642449,
+    "lastUpdate": "2026-08-13 18:24:18",
+    "version": 1786645458,
     "data": [
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786634400,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:04)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786635000,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:43)"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786636200,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:23)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786636800,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:36)"
         },
         {
             "type": "도착",
@@ -691,11 +691,51 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "출발",
+            "time": "08/15 01:10",
+            "timestamp": 1786731000,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 01:35",
+            "timestamp": 1786732500,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 01:45",
+            "timestamp": 1786733100,
+            "flight": "TW46",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 03:10",
+            "timestamp": 1786738200,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "08/15 04:00",
             "timestamp": 1786741200,
             "flight": "SU830",
             "city": "Novosibirsk",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 06:10",
+            "timestamp": 1786749000,
+            "flight": "HH2241",
+            "city": "Bishkek",
             "status": "예정"
         }
     ]
