@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-13 16:21:11",
-    "version": 1786638071,
+    "lastUpdate": "2026-08-13 17:34:09",
+    "version": 1786642449,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/13 17:20",
-            "timestamp": 1786616400,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/13 17:30",
-            "timestamp": 1786617000,
-            "flight": "B2796",
-            "city": "Minsk",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/13 20:20",
             "timestamp": 1786627200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:56)"
+            "status": "도착예정 (19:52)"
         },
         {
             "type": "도착",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786635000,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (21:43)"
         },
         {
             "type": "도착",
@@ -664,6 +648,54 @@ const flightInfo = {
             "timestamp": 1786727400,
             "flight": "TW41",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 00:20",
+            "timestamp": 1786728000,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 00:35",
+            "timestamp": 1786728900,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 00:45",
+            "timestamp": 1786729500,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 00:55",
+            "timestamp": 1786730100,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 01:10",
+            "timestamp": 1786731000,
+            "flight": "TW42",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 04:00",
+            "timestamp": 1786741200,
+            "flight": "SU830",
+            "city": "Novosibirsk",
             "status": "예정"
         }
     ]
