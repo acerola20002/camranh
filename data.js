@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-13 12:09:20",
-    "version": 1786622960,
+    "lastUpdate": "2026-08-13 13:42:23",
+    "version": 1786628543,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/13 12:10",
-            "timestamp": 1786597800,
-            "flight": "TR549",
-            "city": "Singapore",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/13 13:30",
-            "timestamp": 1786602600,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:26)"
-        },
-        {
-            "type": "도착",
-            "time": "08/13 13:35",
-            "timestamp": 1786602900,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "지연 (14:06)"
-        },
         {
             "type": "도착",
             "time": "08/13 14:10",
             "timestamp": 1786605000,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:41)"
+            "status": "도착예정 (13:38)"
         },
         {
             "type": "출발",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786607100,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (14:40)"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786608600,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (14:49)"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786609800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:06)"
+            "status": "도착예정 (15:10)"
         },
         {
             "type": "도착",
@@ -577,6 +553,38 @@ const flightInfo = {
             "flight": "BX787",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/14 21:30",
+            "timestamp": 1786717800,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 21:35",
+            "timestamp": 1786718100,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 21:50",
+            "timestamp": 1786719000,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/14 21:50",
+            "timestamp": 1786719000,
+            "flight": "VJ836",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
