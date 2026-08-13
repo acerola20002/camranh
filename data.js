@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-13 18:24:18",
-    "version": 1786645458,
+    "lastUpdate": "2026-08-13 19:06:26",
+    "version": 1786647986,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786627200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:52)"
+            "status": "도착예정 (19:50)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786634400,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:04)"
+            "status": "도착예정 (22:02)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786636200,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:23)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786636500,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786636800,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:36)"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786637100,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (23:04)"
         },
         {
             "type": "출발",
@@ -729,6 +729,14 @@ const flightInfo = {
             "flight": "SU830",
             "city": "Novosibirsk",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 05:30",
+            "timestamp": 1786746600,
+            "flight": "SU833",
+            "city": "Vladivostok",
+            "status": "출발예정"
         },
         {
             "type": "도착",
