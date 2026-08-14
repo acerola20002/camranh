@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 01:13:57",
-    "version": 1786756437,
+    "lastUpdate": "2026-08-15 02:15:47",
+    "version": 1786760147,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 01:35",
-            "timestamp": 1786732500,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/15 01:45",
-            "timestamp": 1786733100,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/15 03:10",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786753800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "예정"
+            "status": "지연 (07:57)"
         },
         {
             "type": "출발",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786757100,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "지연 (08:42)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "출발",
@@ -96,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786760100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "예정"
+            "status": "지연 (11:28)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786761000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:35)"
+            "status": "지연 (09:54)"
         },
         {
             "type": "도착",
