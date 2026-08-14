@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-14 16:40:46",
-    "version": 1786725646,
+    "lastUpdate": "2026-08-14 17:40:58",
+    "version": 1786729258,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/14 17:20",
-            "timestamp": 1786702800,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
         {
             "type": "도착",
             "time": "08/14 18:35",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786713600,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:22)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "출발",
@@ -723,6 +715,22 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/15 23:00",
+            "timestamp": 1786809600,
+            "flight": "WE205",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 23:05",
+            "timestamp": 1786809900,
+            "flight": "KE467",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/15 23:15",
             "timestamp": 1786810500,
@@ -760,6 +768,14 @@ const flightInfo = {
             "timestamp": 1786811400,
             "flight": "TW34",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/15 23:55",
+            "timestamp": 1786812900,
+            "flight": "LJ116",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
