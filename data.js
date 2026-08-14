@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 04:49:45",
-    "version": 1786769385,
+    "lastUpdate": "2026-08-15 05:04:14",
+    "version": 1786770254,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786746600,
             "flight": "SU833",
             "city": "Vladivostok",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786753800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:38)"
+            "status": "도착예정 (07:40)"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786759500,
             "flight": "VJ837",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786760100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (11:20)"
+            "status": "지연 (11:18)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786761000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
@@ -224,7 +224,7 @@ const flightInfo = {
             "timestamp": 1786777800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:56)"
+            "status": "도착예정 (13:53)"
         },
         {
             "type": "도착",
