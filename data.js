@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-14 12:54:18",
-    "version": 1786712058,
+    "lastUpdate": "2026-08-14 14:14:54",
+    "version": 1786716894,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/14 13:15",
-            "timestamp": 1786688100,
-            "flight": "SU841",
-            "city": "Irkutsk",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/14 13:30",
-            "timestamp": 1786689000,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:26)"
-        },
-        {
-            "type": "도착",
-            "time": "08/14 13:35",
-            "timestamp": 1786689300,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착예정 (13:34)"
-        },
         {
             "type": "도착",
             "time": "08/14 14:15",
             "timestamp": 1786691700,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (13:53)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786692000,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -689,6 +665,30 @@ const flightInfo = {
             "flight": "IO996",
             "city": "Hefei",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 20:20",
+            "timestamp": 1786800000,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 21:10",
+            "timestamp": 1786803000,
+            "flight": "SU832",
+            "city": "Vladivostok",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/15 21:30",
+            "timestamp": 1786804200,
+            "flight": "VJ733",
+            "city": "Haiphong",
+            "status": "예정"
         }
     ]
 };
