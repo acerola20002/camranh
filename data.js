@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 05:55:02",
-    "version": 1786773302,
+    "lastUpdate": "2026-08-15 06:15:16",
+    "version": 1786774516,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 06:10",
-            "timestamp": 1786749000,
-            "flight": "HH2241",
-            "city": "Bishkek",
-            "status": "예정"
-        },
         {
             "type": "도착",
             "time": "08/15 07:30",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786757100,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:16)"
+            "status": "도착예정 (08:21)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786760100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (11:20)"
+            "status": "지연 (11:18)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786761900,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:50)"
+            "status": "도착예정 (09:48)"
         },
         {
             "type": "출발",
@@ -256,7 +248,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:06)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "도착",
