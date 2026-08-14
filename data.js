@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 05:04:14",
-    "version": 1786770254,
+    "lastUpdate": "2026-08-15 05:34:58",
+    "version": 1786772098,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 05:30",
-            "timestamp": 1786746600,
-            "flight": "SU833",
-            "city": "Vladivostok",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/15 06:10",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786753800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:40)"
+            "status": "지연 (07:46)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786759500,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (09:20)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786760100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (11:18)"
+            "status": "지연 (11:24)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786761900,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:50)"
         },
         {
             "type": "출발",
@@ -264,7 +256,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:12)"
+            "status": "도착예정 (15:17)"
         },
         {
             "type": "도착",
@@ -760,6 +752,14 @@ const flightInfo = {
             "timestamp": 1786857000,
             "flight": "ZF2560",
             "city": "Tyumen",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 12:30",
+            "timestamp": 1786858200,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
