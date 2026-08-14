@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 02:57:32",
-    "version": 1786762652,
+    "lastUpdate": "2026-08-15 03:30:51",
+    "version": 1786764651,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 03:10",
-            "timestamp": 1786738200,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/15 04:00",
             "timestamp": 1786741200,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (03:26)"
+            "status": "도착예정 (03:31)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786753800,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "지연 (07:51)"
+            "status": "지연 (07:46)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786757100,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (08:29)"
+            "status": "도착예정 (08:25)"
         },
         {
             "type": "출발",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786760100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (11:35)"
+            "status": "지연 (11:33)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786761000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:29)"
+            "status": "도착예정 (08:40)"
         },
         {
             "type": "도착",
@@ -768,6 +760,14 @@ const flightInfo = {
             "timestamp": 1786854600,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 12:10",
+            "timestamp": 1786857000,
+            "flight": "ZF2560",
+            "city": "Tyumen",
             "status": "출발예정"
         }
     ]
