@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 18:30:00",
-    "version": 1786818600,
+    "lastUpdate": "2026-08-15 18:47:36",
+    "version": 1786819656,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786800000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:13)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:26)"
+            "status": "도착예정 (20:30)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786807800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786809000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:42)"
+            "status": "도착예정 (22:38)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786809300,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:57)"
         },
         {
             "type": "도착",
@@ -96,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786809300,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -112,7 +112,7 @@ const flightInfo = {
             "timestamp": 1786809600,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (23:23)"
         },
         {
             "type": "도착",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1786809900,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:51)"
         },
         {
             "type": "출발",
@@ -752,6 +752,30 @@ const flightInfo = {
             "timestamp": 1786900800,
             "flight": "WE206",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 00:35",
+            "timestamp": 1786901700,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 00:55",
+            "timestamp": 1786902900,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 01:10",
+            "timestamp": 1786903800,
+            "flight": "TW42",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
