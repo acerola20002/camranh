@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 14:40:53",
-    "version": 1786804853,
+    "lastUpdate": "2026-08-15 15:01:30",
+    "version": 1786806090,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 14:45",
-            "timestamp": 1786779900,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:44)"
-        },
         {
             "type": "도착",
             "time": "08/15 15:10",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:01)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786783500,
             "flight": "VN1609",
             "city": "Haiphong",
-            "status": "도착예정 (15:36)"
+            "status": "도착예정 (15:34)"
         },
         {
             "type": "출발",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786787700,
             "flight": "IO995",
             "city": "Hefei",
-            "status": "지연 (17:16)"
+            "status": "지연 (17:12)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "예정"
+            "status": "도착예정 (20:56)"
         },
         {
             "type": "도착",
@@ -681,6 +673,14 @@ const flightInfo = {
             "flight": "VJ733",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 21:35",
+            "timestamp": 1786890900,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
