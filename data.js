@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 20:19:13",
-    "version": 1786825153,
+    "lastUpdate": "2026-08-15 20:46:07",
+    "version": 1786826767,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 20:20",
-            "timestamp": 1786800000,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:18)"
-        },
         {
             "type": "도착",
             "time": "08/15 21:10",
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:23)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786807800,
             "flight": "RF557",
             "city": "청주",
-            "status": "지연 (23:12)"
+            "status": "지연 (23:10)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786807800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:49)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1786809900,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (23:04)"
+            "status": "도착예정 (23:00)"
         },
         {
             "type": "출발",
@@ -208,7 +200,7 @@ const flightInfo = {
             "timestamp": 1786813800,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (23:57)"
         },
         {
             "type": "출발",
@@ -240,7 +232,7 @@ const flightInfo = {
             "timestamp": 1786815900,
             "flight": "TW45",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (00:44)"
         },
         {
             "type": "출발",
@@ -811,11 +803,27 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "출발",
+            "time": "08/17 03:10",
+            "timestamp": 1786911000,
+            "flight": "VJ918",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "08/17 07:30",
             "timestamp": 1786926600,
             "flight": "KC193",
             "city": "Almaty",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 07:40",
+            "timestamp": 1786927200,
+            "flight": "ZF2559",
+            "city": "Tyumen",
             "status": "예정"
         }
     ]
