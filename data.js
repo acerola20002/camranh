@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 16:03:40",
-    "version": 1786809820,
+    "lastUpdate": "2026-08-15 16:35:38",
+    "version": 1786811738,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 16:10",
-            "timestamp": 1786785000,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "08/15 16:55",
             "timestamp": 1786787700,
             "flight": "IO995",
             "city": "Hefei",
-            "status": "지연 (17:14)"
+            "status": "지연 (17:16)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786800000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:20)"
+            "status": "도착예정 (20:17)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:47)"
+            "status": "도착예정 (20:41)"
         },
         {
             "type": "도착",
@@ -691,12 +683,36 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "출발",
+            "time": "08/16 22:55",
+            "timestamp": 1786895700,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "08/16 23:00",
             "timestamp": 1786896000,
             "flight": "WE205",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 23:15",
+            "timestamp": 1786896900,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 23:20",
+            "timestamp": 1786897200,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
