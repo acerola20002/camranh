@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 04:30:40",
-    "version": 1786854640,
+    "lastUpdate": "2026-08-16 04:51:48",
+    "version": 1786855908,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786844400,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (08:50)"
+            "status": "도착예정 (08:48)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786846800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:29)"
+            "status": "도착예정 (08:27)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786850700,
             "flight": "ZF2555",
             "city": "Mineralnye Vody",
-            "status": "지연 (12:49)"
+            "status": "지연 (12:45)"
         },
         {
             "type": "출발",
