@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 00:52:55",
-    "version": 1786841575,
+    "lastUpdate": "2026-08-16 01:18:34",
+    "version": 1786843114,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 00:55",
-            "timestamp": 1786816500,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/16 01:10",
-            "timestamp": 1786817400,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/16 01:10",
-            "timestamp": 1786817400,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/16 01:35",
             "timestamp": 1786818900,
             "flight": "7C2304",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786819500,
             "flight": "TW46",
             "city": "청주",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -712,6 +688,22 @@ const flightInfo = {
             "timestamp": 1786941000,
             "flight": "SU295",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 12:00",
+            "timestamp": 1786942800,
+            "flight": "AK205",
+            "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 12:10",
+            "timestamp": 1786943400,
+            "flight": "TR549",
+            "city": "Singapore",
             "status": "출발예정"
         },
         {
