@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 13:30:50",
-    "version": 1786800650,
+    "lastUpdate": "2026-08-15 14:08:37",
+    "version": 1786802917,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 13:30",
-            "timestamp": 1786775400,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "08/15 13:35",
-            "timestamp": 1786775700,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착예정 (13:29)"
-        },
         {
             "type": "도착",
             "time": "08/15 14:10",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786778400,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786779900,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "도착예정 (14:49)"
+            "status": "도착예정 (14:47)"
         },
         {
             "type": "도착",
@@ -56,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786781400,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "지연 (15:49)"
         },
         {
             "type": "도착",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:53)"
+            "status": "도착예정 (14:57)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786787700,
             "flight": "IO995",
             "city": "Hefei",
-            "status": "예정"
+            "status": "지연 (17:12)"
         },
         {
             "type": "출발",
@@ -705,6 +689,14 @@ const flightInfo = {
             "flight": "3U3940",
             "city": "청두",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 20:20",
+            "timestamp": 1786886400,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
