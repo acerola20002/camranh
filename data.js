@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 03:40:43",
-    "version": 1786851643,
+    "lastUpdate": "2026-08-16 04:00:28",
+    "version": 1786852828,
     "data": [
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786846800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:31)"
+            "status": "도착예정 (08:29)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786847100,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786847400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:14)"
         },
         {
             "type": "도착",
@@ -192,7 +192,7 @@ const flightInfo = {
             "timestamp": 1786864200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (13:43)"
         },
         {
             "type": "출발",
