@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 12:56:00",
-    "version": 1786798560,
+    "lastUpdate": "2026-08-15 13:30:50",
+    "version": 1786800650,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786775400,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:22)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786775700,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:30)"
+            "status": "도착예정 (13:29)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786777800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:42)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786778100,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (14:15)"
+            "status": "도착예정 (14:13)"
         },
         {
             "type": "출발",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786779900,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (14:49)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:51)"
+            "status": "도착예정 (14:53)"
         },
         {
             "type": "도착",
@@ -680,6 +680,14 @@ const flightInfo = {
             "timestamp": 1786878300,
             "flight": "TR542",
             "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 18:35",
+            "timestamp": 1786880100,
+            "flight": "3U3939",
+            "city": "청두",
             "status": "예정"
         },
         {
