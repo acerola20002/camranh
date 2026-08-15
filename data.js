@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 00:01:47",
-    "version": 1786838507,
+    "lastUpdate": "2026-08-16 00:30:47",
+    "version": 1786840247,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 00:05",
-            "timestamp": 1786813500,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/16 00:05",
-            "timestamp": 1786813500,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 00:10",
-            "timestamp": 1786813800,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착예정 (00:05)"
-        },
-        {
-            "type": "출발",
-            "time": "08/16 00:20",
-            "timestamp": 1786814400,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/16 00:20",
-            "timestamp": 1786814400,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/16 00:35",
             "timestamp": 1786815300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:29)"
+            "status": "도착예정 (00:30)"
         },
         {
             "type": "도착",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786815900,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:42)"
+            "status": "도착예정 (00:55)"
         },
         {
             "type": "출발",
@@ -64,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786816500,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -144,7 +104,7 @@ const flightInfo = {
             "timestamp": 1786847400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:40)"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
@@ -739,6 +699,14 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "출발",
+            "time": "08/17 11:05",
+            "timestamp": 1786939500,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
             "type": "도착",
             "time": "08/17 11:30",
             "timestamp": 1786941000,
@@ -753,6 +721,14 @@ const flightInfo = {
             "flight": "TR548",
             "city": "Singapore",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 11:30",
+            "timestamp": 1786941000,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
