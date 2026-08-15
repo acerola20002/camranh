@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 23:16:26",
-    "version": 1786835786,
+    "lastUpdate": "2026-08-15 23:43:22",
+    "version": 1786837402,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 23:20",
-            "timestamp": 1786810800,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/15 23:30",
-            "timestamp": 1786811400,
-            "flight": "RF558",
-            "city": "청주",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/15 23:30",
-            "timestamp": 1786811400,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/15 23:45",
             "timestamp": 1786812300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:46)"
+            "status": "도착예정 (23:47)"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786812900,
             "flight": "LJ116",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786813500,
             "flight": "RS528",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786813500,
             "flight": "TW38",
             "city": "대구",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786813800,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (00:06)"
         },
         {
             "type": "출발",
@@ -769,6 +745,22 @@ const flightInfo = {
             "flight": "VN435",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 10:30",
+            "timestamp": 1786937400,
+            "flight": "FD647",
+            "city": "방콕",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 10:35",
+            "timestamp": 1786937700,
+            "flight": "VJ730",
+            "city": "Haiphong",
+            "status": "출발예정"
         }
     ]
 };
