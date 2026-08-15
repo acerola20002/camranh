@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 18:00:29",
-    "version": 1786816829,
+    "lastUpdate": "2026-08-15 18:30:00",
+    "version": 1786818600,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 18:05",
-            "timestamp": 1786791900,
-            "flight": "IO996",
-            "city": "Hefei",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "08/15 20:20",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:28)"
+            "status": "도착예정 (20:26)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786807200,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786807800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786809000,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:42)"
         },
         {
             "type": "도착",
@@ -739,10 +731,26 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/17 00:10",
+            "timestamp": 1786900200,
+            "flight": "TW41",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/17 00:20",
             "timestamp": 1786900800,
             "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 00:20",
+            "timestamp": 1786900800,
+            "flight": "WE206",
             "city": "인천",
             "status": "출발예정"
         }
