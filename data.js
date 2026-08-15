@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 15:01:30",
-    "version": 1786806090,
+    "lastUpdate": "2026-08-15 15:40:41",
+    "version": 1786808441,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 15:10",
-            "timestamp": 1786781400,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "지연 (15:46)"
-        },
-        {
-            "type": "도착",
-            "time": "08/15 15:30",
-            "timestamp": 1786782600,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:02)"
-        },
         {
             "type": "도착",
             "time": "08/15 15:45",
             "timestamp": 1786783500,
             "flight": "VN1609",
             "city": "Haiphong",
-            "status": "도착예정 (15:34)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786783500,
             "flight": "WZ3202",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786784400,
             "flight": "CZ6050",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786785000,
             "flight": "SU299",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -96,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:56)"
+            "status": "도착예정 (20:52)"
         },
         {
             "type": "도착",
@@ -681,6 +665,38 @@ const flightInfo = {
             "flight": "VN440",
             "city": "인천",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 22:20",
+            "timestamp": 1786893600,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 22:30",
+            "timestamp": 1786894200,
+            "flight": "TW33",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 22:50",
+            "timestamp": 1786895400,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 22:55",
+            "timestamp": 1786895700,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
