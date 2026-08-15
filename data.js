@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 02:16:27",
-    "version": 1786846587,
+    "lastUpdate": "2026-08-16 02:37:46",
+    "version": 1786847866,
     "data": [
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786846800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:44)"
+            "status": "도착예정 (08:40)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786847400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
