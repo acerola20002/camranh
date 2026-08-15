@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 07:01:21",
-    "version": 1786777281,
+    "lastUpdate": "2026-08-15 08:45:58",
+    "version": 1786783558,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 07:30",
-            "timestamp": 1786753800,
-            "flight": "KC193",
-            "city": "Almaty",
-            "status": "지연 (07:46)"
-        },
-        {
-            "type": "출발",
-            "time": "08/15 07:40",
-            "timestamp": 1786754400,
-            "flight": "HH2242",
-            "city": "Bishkek",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/15 08:25",
-            "timestamp": 1786757100,
-            "flight": "SU836",
-            "city": "Yekaterinburg",
-            "status": "도착예정 (08:21)"
-        },
         {
             "type": "출발",
             "time": "08/15 09:00",
             "timestamp": 1786759200,
             "flight": "KC194",
             "city": "Almaty",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786760100,
             "flight": "ZF2501",
             "city": "Moscow",
-            "status": "지연 (11:11)"
+            "status": "지연 (11:09)"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786761000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786761300,
             "flight": "VJ835",
             "city": "인천",
-            "status": "지연 (10:37)"
+            "status": "지연 (10:35)"
         },
         {
             "type": "도착",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786762800,
             "flight": "FD646",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (09:37)"
         },
         {
             "type": "도착",
@@ -96,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786763100,
             "flight": "CZ8475",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "도착예정 (09:52)"
         },
         {
             "type": "출발",
@@ -112,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786764900,
             "flight": "VN435",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (10:50)"
         },
         {
             "type": "출발",
@@ -128,7 +104,7 @@ const flightInfo = {
             "timestamp": 1786765800,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "지연 (11:11)"
+            "status": "지연 (11:28)"
         },
         {
             "type": "출발",
@@ -208,7 +184,7 @@ const flightInfo = {
             "timestamp": 1786777800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:41)"
         },
         {
             "type": "도착",
@@ -216,7 +192,7 @@ const flightInfo = {
             "timestamp": 1786778100,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (14:19)"
+            "status": "도착예정 (14:08)"
         },
         {
             "type": "출발",
@@ -248,7 +224,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:53)"
+            "status": "도착예정 (14:45)"
         },
         {
             "type": "도착",
@@ -752,6 +728,30 @@ const flightInfo = {
             "timestamp": 1786858200,
             "flight": "HH2232",
             "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 13:25",
+            "timestamp": 1786861500,
+            "flight": "9G2205",
+            "city": "Dong Hoi",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 13:30",
+            "timestamp": 1786861800,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 14:05",
+            "timestamp": 1786863900,
+            "flight": "9G2204",
+            "city": "Dong Hoi",
             "status": "출발예정"
         }
     ]
