@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 11:41:43",
-    "version": 1786794103,
+    "lastUpdate": "2026-08-15 12:03:57",
+    "version": 1786795437,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 12:00",
-            "timestamp": 1786770000,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/15 12:30",
             "timestamp": 1786771800,
             "flight": "HH2240",
             "city": "Tashkent",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786775400,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786775700,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:30)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786778100,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (14:06)"
+            "status": "도착예정 (14:13)"
         },
         {
             "type": "출발",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:06)"
+            "status": "도착예정 (15:02)"
         },
         {
             "type": "도착",
@@ -689,6 +681,14 @@ const flightInfo = {
             "flight": "WZ3202",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 18:05",
+            "timestamp": 1786878300,
+            "flight": "TR542",
+            "city": "Singapore",
+            "status": "예정"
         }
     ]
 };
