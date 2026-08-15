@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 16:54:08",
-    "version": 1786812848,
+    "lastUpdate": "2026-08-15 17:15:52",
+    "version": 1786814152,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 16:55",
-            "timestamp": 1786787700,
-            "flight": "IO995",
-            "city": "Hefei",
-            "status": "지연 (17:16)"
-        },
         {
             "type": "출발",
             "time": "08/15 17:20",
             "timestamp": 1786789200,
             "flight": "VJ732",
             "city": "Haiphong",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786789800,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:34)"
+            "status": "도착예정 (20:32)"
         },
         {
             "type": "도착",
@@ -695,6 +687,14 @@ const flightInfo = {
             "time": "08/16 23:00",
             "timestamp": 1786896000,
             "flight": "WE205",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 23:05",
+            "timestamp": 1786896300,
+            "flight": "KE467",
             "city": "인천",
             "status": "예정"
         },
