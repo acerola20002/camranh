@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 14:08:37",
-    "version": 1786802917,
+    "lastUpdate": "2026-08-15 14:40:53",
+    "version": 1786804853,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/15 14:10",
-            "timestamp": 1786777800,
-            "flight": "SU298",
-            "city": "Moscow",
-            "status": "도착예정 (13:42)"
-        },
-        {
-            "type": "도착",
-            "time": "08/15 14:15",
-            "timestamp": 1786778100,
-            "flight": "WZ3205",
-            "city": "Yekaterinburg",
-            "status": "도착예정 (14:13)"
-        },
-        {
-            "type": "출발",
-            "time": "08/15 14:20",
-            "timestamp": 1786778400,
-            "flight": "VZ969",
-            "city": "방콕",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/15 14:45",
             "timestamp": 1786779900,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "도착예정 (14:47)"
+            "status": "도착예정 (14:44)"
         },
         {
             "type": "도착",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786781400,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "지연 (15:49)"
+            "status": "지연 (15:46)"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:57)"
+            "status": "도착예정 (15:01)"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786783500,
             "flight": "VN1609",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (15:36)"
         },
         {
             "type": "출발",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786787700,
             "flight": "IO995",
             "city": "Hefei",
-            "status": "지연 (17:12)"
+            "status": "지연 (17:16)"
         },
         {
             "type": "출발",
@@ -696,6 +672,14 @@ const flightInfo = {
             "timestamp": 1786886400,
             "flight": "BX787",
             "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/16 21:30",
+            "timestamp": 1786890600,
+            "flight": "VJ733",
+            "city": "Haiphong",
             "status": "예정"
         }
     ]
