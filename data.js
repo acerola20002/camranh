@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 12:35:20",
-    "version": 1786797320,
+    "lastUpdate": "2026-08-15 12:56:00",
+    "version": 1786798560,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786775400,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:22)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786775700,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786777800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:41)"
+            "status": "도착예정 (13:43)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786778100,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (14:10)"
+            "status": "도착예정 (14:15)"
         },
         {
             "type": "출발",
@@ -688,6 +688,14 @@ const flightInfo = {
             "timestamp": 1786880400,
             "flight": "TR543",
             "city": "Singapore",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 19:35",
+            "timestamp": 1786883700,
+            "flight": "3U3940",
+            "city": "청두",
             "status": "출발예정"
         }
     ]
