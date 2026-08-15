@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 20:46:07",
-    "version": 1786826767,
+    "lastUpdate": "2026-08-15 21:01:05",
+    "version": 1786827665,
     "data": [
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786807200,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:25)"
+            "status": "도착예정 (22:23)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786807800,
             "flight": "RF557",
             "city": "청주",
-            "status": "지연 (23:10)"
+            "status": "지연 (23:12)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786807800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:49)"
+            "status": "도착예정 (21:56)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786809000,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:38)"
+            "status": "도착예정 (22:36)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786809300,
             "flight": "LJ115",
             "city": "부산",
-            "status": "도착예정 (22:51)"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786809300,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:51)"
+            "status": "도착예정 (22:55)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1786812900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (01:22)"
         },
         {
             "type": "출발",
