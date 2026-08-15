@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 12:03:57",
-    "version": 1786795437,
+    "lastUpdate": "2026-08-15 12:35:20",
+    "version": 1786797320,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/15 12:30",
-            "timestamp": 1786771800,
-            "flight": "HH2240",
-            "city": "Tashkent",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/15 13:30",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786778100,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "도착예정 (14:13)"
+            "status": "도착예정 (14:10)"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786782600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:02)"
+            "status": "도착예정 (14:51)"
         },
         {
             "type": "도착",
@@ -689,6 +681,14 @@ const flightInfo = {
             "flight": "TR542",
             "city": "Singapore",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/16 18:40",
+            "timestamp": 1786880400,
+            "flight": "TR543",
+            "city": "Singapore",
+            "status": "출발예정"
         }
     ]
 };
