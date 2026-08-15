@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-15 17:41:41",
-    "version": 1786815701,
+    "lastUpdate": "2026-08-15 18:00:29",
+    "version": 1786816829,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786791900,
             "flight": "IO996",
             "city": "Hefei",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786803000,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (20:30)"
+            "status": "도착예정 (20:28)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786807800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:56)"
+            "status": "도착예정 (21:51)"
         },
         {
             "type": "도착",
@@ -715,10 +715,34 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "08/16 23:55",
+            "timestamp": 1786899300,
+            "flight": "ZE561",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/17 00:05",
             "timestamp": 1786899900,
             "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 00:05",
+            "timestamp": 1786899900,
+            "flight": "TW38",
+            "city": "대구",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 00:20",
+            "timestamp": 1786900800,
+            "flight": "KE468",
             "city": "인천",
             "status": "출발예정"
         }
