@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 05:13:36",
-    "version": 1786857216,
+    "lastUpdate": "2026-08-16 05:39:42",
+    "version": 1786858782,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786844400,
             "flight": "C65537",
             "city": "Tashkent",
-            "status": "도착예정 (08:55)"
+            "status": "지연 (08:57)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786845900,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786846800,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:33)"
+            "status": "도착예정 (08:31)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786847700,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:18)"
+            "status": "도착예정 (09:33)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786848300,
             "flight": "VN441",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:50)"
         },
         {
             "type": "출발",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1786852800,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (11:05)"
+            "status": "도착예정 (11:07)"
         },
         {
             "type": "출발",
@@ -192,7 +192,7 @@ const flightInfo = {
             "timestamp": 1786864200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:26)"
         },
         {
             "type": "출발",
