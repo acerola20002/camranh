@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 04:42:46",
-    "version": 1786941766,
+    "lastUpdate": "2026-08-17 04:57:29",
+    "version": 1786942649,
     "data": [
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786932300,
             "flight": "VJ837",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:05)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786933800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:27)"
+            "status": "도착예정 (09:29)"
         },
         {
             "type": "도착",
