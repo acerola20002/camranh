@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 20:41:34",
-    "version": 1786912894,
+    "lastUpdate": "2026-08-16 21:01:17",
+    "version": 1786914077,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786890600,
             "flight": "VJ733",
             "city": "Haiphong",
-            "status": "도착예정 (21:15)"
+            "status": "도착예정 (21:16)"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786895400,
             "flight": "TW37",
             "city": "대구",
-            "status": "지연 (23:12)"
+            "status": "지연 (23:10)"
         },
         {
             "type": "도착",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786896300,
             "flight": "KE467",
             "city": "인천",
-            "status": "지연 (23:27)"
+            "status": "지연 (23:23)"
         },
         {
             "type": "출발",
@@ -152,7 +152,7 @@ const flightInfo = {
             "timestamp": 1786900200,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (00:25)"
+            "status": "도착예정 (00:18)"
         },
         {
             "type": "출발",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1786901700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:23)"
+            "status": "도착예정 (00:21)"
         },
         {
             "type": "도착",
