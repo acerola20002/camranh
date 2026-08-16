@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 18:14:14",
-    "version": 1786904054,
+    "lastUpdate": "2026-08-16 18:36:16",
+    "version": 1786905376,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/16 18:35",
-            "timestamp": 1786880100,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "지연 (18:56)"
-        },
         {
             "type": "출발",
             "time": "08/16 18:40",
             "timestamp": 1786880400,
             "flight": "TR543",
             "city": "Singapore",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786893600,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:25)"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786895700,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:47)"
         },
         {
             "type": "출발",
@@ -736,6 +728,14 @@ const flightInfo = {
             "timestamp": 1786992300,
             "flight": "TW46",
             "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 03:10",
+            "timestamp": 1786997400,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
