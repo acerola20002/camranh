@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 00:47:27",
-    "version": 1786927647,
+    "lastUpdate": "2026-08-17 00:59:30",
+    "version": 1786928370,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/17 00:55",
-            "timestamp": 1786902900,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "08/17 01:10",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786933800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:44)"
+            "status": "지연 (09:48)"
         },
         {
             "type": "도착",
@@ -680,6 +672,14 @@ const flightInfo = {
             "timestamp": 1787029200,
             "flight": "AK205",
             "city": "Kuala Lumpur",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 12:50",
+            "timestamp": 1787032200,
+            "flight": "HH2232",
+            "city": "Tashkent",
             "status": "출발예정"
         }
     ]
