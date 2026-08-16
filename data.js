@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 16:20:20",
-    "version": 1786897220,
+    "lastUpdate": "2026-08-16 16:49:04",
+    "version": 1786898944,
     "data": [
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786878300,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:07)"
+            "status": "도착예정 (18:09)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786880100,
             "flight": "3U3939",
             "city": "청두",
-            "status": "지연 (19:01)"
+            "status": "지연 (18:58)"
         },
         {
             "type": "출발",
@@ -697,6 +697,14 @@ const flightInfo = {
             "flight": "TW41",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 00:20",
+            "timestamp": 1786987200,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
         },
         {
             "type": "도착",
