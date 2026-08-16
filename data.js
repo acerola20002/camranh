@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 12:12:27",
-    "version": 1786882347,
+    "lastUpdate": "2026-08-16 12:45:17",
+    "version": 1786884317,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 12:30",
-            "timestamp": 1786858200,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/16 13:25",
             "timestamp": 1786861500,
             "flight": "9G2205",
             "city": "Dong Hoi",
-            "status": "예정"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786861800,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:34)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786871100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (16:04)"
+            "status": "도착예정 (15:59)"
         },
         {
             "type": "출발",
