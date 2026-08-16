@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 16:49:04",
-    "version": 1786898944,
+    "lastUpdate": "2026-08-16 17:04:17",
+    "version": 1786899857,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786875600,
             "flight": "VJ732",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786878300,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:09)"
+            "status": "도착예정 (18:07)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786880100,
             "flight": "3U3939",
             "city": "청두",
-            "status": "지연 (18:58)"
+            "status": "지연 (18:56)"
         },
         {
             "type": "출발",
@@ -721,6 +721,14 @@ const flightInfo = {
             "flight": "TW45",
             "city": "청주",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 00:55",
+            "timestamp": 1786989300,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
