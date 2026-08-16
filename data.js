@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 12:45:17",
-    "version": 1786884317,
+    "lastUpdate": "2026-08-16 13:02:57",
+    "version": 1786885377,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786861500,
             "flight": "9G2205",
             "city": "Dong Hoi",
-            "status": "도착예정 (13:17)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786864200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:17)"
+            "status": "지연 (14:30)"
         },
         {
             "type": "출발",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786871100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:59)"
+            "status": "도착예정 (15:53)"
         },
         {
             "type": "출발",
