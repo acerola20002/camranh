@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 22:38:20",
-    "version": 1786919900,
+    "lastUpdate": "2026-08-16 22:54:49",
+    "version": 1786920889,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/16 22:50",
-            "timestamp": 1786895400,
-            "flight": "TW37",
-            "city": "대구",
-            "status": "지연 (23:14)"
-        },
         {
             "type": "도착",
             "time": "08/16 22:55",
             "timestamp": 1786895700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:04)"
+            "status": "지연 (23:15)"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786895700,
             "flight": "VJ834",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786896000,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:37)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786896900,
             "flight": "VN434",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786897200,
             "flight": "BX782",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786900200,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (00:18)"
+            "status": "도착예정 (00:23)"
         },
         {
             "type": "출발",
@@ -128,7 +120,7 @@ const flightInfo = {
             "timestamp": 1786901700,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:18)"
+            "status": "도착예정 (00:16)"
         },
         {
             "type": "도착",
