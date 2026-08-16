@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 17:34:04",
-    "version": 1786901644,
+    "lastUpdate": "2026-08-16 17:54:00",
+    "version": 1786902840,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 17:35",
-            "timestamp": 1786876500,
-            "flight": "WZ3202",
-            "city": "Moscow",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "08/16 18:05",
             "timestamp": 1786878300,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:07)"
+            "status": "도착예정 (18:08)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786886400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:17)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "도착",
@@ -728,6 +720,22 @@ const flightInfo = {
             "timestamp": 1786990200,
             "flight": "TW42",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 01:10",
+            "timestamp": 1786990200,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 01:35",
+            "timestamp": 1786991700,
+            "flight": "7C2304",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
