@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 14:24:59",
-    "version": 1786890299,
+    "lastUpdate": "2026-08-16 14:52:38",
+    "version": 1786891958,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/16 14:45",
-            "timestamp": 1786866300,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:34)"
-        },
         {
             "type": "도착",
             "time": "08/16 15:10",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786871100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (16:04)"
+            "status": "도착예정 (16:08)"
         },
         {
             "type": "출발",
@@ -641,6 +633,30 @@ const flightInfo = {
             "flight": "LJ115",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 22:55",
+            "timestamp": 1786982100,
+            "flight": "RS527",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 22:55",
+            "timestamp": 1786982100,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 23:15",
+            "timestamp": 1786983300,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
