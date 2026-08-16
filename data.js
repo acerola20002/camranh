@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 00:29:33",
-    "version": 1786926573,
+    "lastUpdate": "2026-08-17 00:47:27",
+    "version": 1786927647,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/17 00:35",
-            "timestamp": 1786901700,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:36)"
-        },
-        {
-            "type": "도착",
-            "time": "08/17 00:45",
-            "timestamp": 1786902300,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "지연 (04:15)"
-        },
         {
             "type": "출발",
             "time": "08/17 00:55",
             "timestamp": 1786902900,
             "flight": "LJ88",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786903800,
             "flight": "TW42",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786903800,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786933800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:31)"
+            "status": "도착예정 (09:44)"
         },
         {
             "type": "도착",
