@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 17:54:00",
-    "version": 1786902840,
+    "lastUpdate": "2026-08-16 18:14:14",
+    "version": 1786904054,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/16 18:05",
-            "timestamp": 1786878300,
-            "flight": "TR542",
-            "city": "Singapore",
-            "status": "도착예정 (18:08)"
-        },
         {
             "type": "도착",
             "time": "08/16 18:35",
             "timestamp": 1786880100,
             "flight": "3U3939",
             "city": "청두",
-            "status": "지연 (18:58)"
+            "status": "지연 (18:56)"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786880400,
             "flight": "TR543",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1786893600,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786894200,
             "flight": "TW33",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:32)"
         },
         {
             "type": "도착",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1786896000,
             "flight": "WE205",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:36)"
         },
         {
             "type": "도착",
@@ -736,6 +728,14 @@ const flightInfo = {
             "timestamp": 1786991700,
             "flight": "7C2304",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 01:45",
+            "timestamp": 1786992300,
+            "flight": "TW46",
+            "city": "청주",
             "status": "출발예정"
         }
     ]
