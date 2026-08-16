@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 11:01:32",
-    "version": 1786878092,
+    "lastUpdate": "2026-08-16 11:45:46",
+    "version": 1786880746,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 11:05",
-            "timestamp": 1786853100,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/16 11:30",
-            "timestamp": 1786854600,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/16 12:10",
             "timestamp": 1786857000,
             "flight": "ZF2560",
             "city": "Tyumen",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786864200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "출발",
