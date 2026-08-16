@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 03:45:11",
-    "version": 1786938311,
+    "lastUpdate": "2026-08-17 03:59:57",
+    "version": 1786939197,
     "data": [
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786933800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:25)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1786950600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:19)"
         },
         {
             "type": "출발",
