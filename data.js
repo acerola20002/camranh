@@ -1,70 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 09:18:48",
-    "version": 1786871928,
+    "lastUpdate": "2026-08-16 10:15:17",
+    "version": 1786875317,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/16 09:20",
-            "timestamp": 1786846800,
-            "flight": "KC157",
-            "city": "Astana",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 09:25",
-            "timestamp": 1786847100,
-            "flight": "HY561",
-            "city": "Tashkent",
-            "status": "도착예정 (09:21)"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 09:30",
-            "timestamp": 1786847400,
-            "flight": "SU294",
-            "city": "Moscow",
-            "status": "도착예정 (09:23)"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 09:35",
-            "timestamp": 1786847700,
-            "flight": "VJ835",
-            "city": "인천",
-            "status": "도착예정 (09:40)"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 09:45",
-            "timestamp": 1786848300,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "도착예정 (09:52)"
-        },
-        {
-            "type": "출발",
-            "time": "08/16 09:50",
-            "timestamp": 1786848600,
-            "flight": "C65538",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 10:05",
-            "timestamp": 1786849500,
-            "flight": "CZ8475",
-            "city": "Guangzhou",
-            "status": "도착예정 (09:50)"
-        },
         {
             "type": "도착",
             "time": "08/16 10:25",
             "timestamp": 1786850700,
             "flight": "ZF2555",
             "city": "Mineralnye Vody",
-            "status": "지연 (12:52)"
+            "status": "지연 (12:58)"
         },
         {
             "type": "출발",
@@ -72,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786851000,
             "flight": "KC158",
             "city": "Astana",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -80,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786851300,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:37)"
+            "status": "도착예정 (10:35)"
         },
         {
             "type": "출발",
@@ -88,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786851300,
             "flight": "VJ730",
             "city": "Haiphong",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -104,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786852800,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "도착예정 (11:09)"
+            "status": "지연 (11:16)"
         },
         {
             "type": "출발",
@@ -160,7 +104,7 @@ const flightInfo = {
             "timestamp": 1786862100,
             "flight": "VJ919",
             "city": "부산",
-            "status": "예정"
+            "status": "지연 (14:10)"
         },
         {
             "type": "출발",
@@ -176,7 +120,7 @@ const flightInfo = {
             "timestamp": 1786864200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:30)"
         },
         {
             "type": "출발",
@@ -721,6 +665,22 @@ const flightInfo = {
             "flight": "VJ731",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 15:10",
+            "timestamp": 1786954200,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 16:00",
+            "timestamp": 1786957200,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
         }
     ]
 };
