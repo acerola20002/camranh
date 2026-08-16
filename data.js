@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 11:45:46",
-    "version": 1786880746,
+    "lastUpdate": "2026-08-16 12:12:27",
+    "version": 1786882347,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 12:10",
-            "timestamp": 1786857000,
-            "flight": "ZF2560",
-            "city": "Tyumen",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/16 12:30",
             "timestamp": 1786858200,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786861800,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:34)"
         },
         {
             "type": "도착",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786864200,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:19)"
+            "status": "도착예정 (13:17)"
         },
         {
             "type": "출발",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1786871100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:51)"
+            "status": "도착예정 (16:04)"
         },
         {
             "type": "출발",
@@ -624,6 +616,22 @@ const flightInfo = {
             "timestamp": 1786957800,
             "flight": "SU299",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 18:35",
+            "timestamp": 1786966500,
+            "flight": "3U3939",
+            "city": "청두",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 19:35",
+            "timestamp": 1786970100,
+            "flight": "3U3940",
+            "city": "청두",
             "status": "출발예정"
         }
     ]
