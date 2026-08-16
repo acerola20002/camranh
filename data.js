@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 13:02:57",
-    "version": 1786885377,
+    "lastUpdate": "2026-08-16 13:54:46",
+    "version": 1786888486,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/16 13:25",
-            "timestamp": 1786861500,
-            "flight": "9G2205",
-            "city": "Dong Hoi",
-            "status": "도착예정 (13:19)"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 13:30",
-            "timestamp": 1786861800,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:30)"
-        },
-        {
-            "type": "도착",
-            "time": "08/16 13:35",
-            "timestamp": 1786862100,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "지연 (14:08)"
-        },
         {
             "type": "출발",
             "time": "08/16 14:05",
             "timestamp": 1786863900,
             "flight": "9G2204",
             "city": "Dong Hoi",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786864800,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786866300,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (14:38)"
         },
         {
             "type": "도착",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786867800,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "예정"
+            "status": "지연 (15:36)"
         },
         {
             "type": "출발",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786871100,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (15:53)"
+            "status": "도착예정 (16:01)"
         },
         {
             "type": "출발",
@@ -625,6 +601,38 @@ const flightInfo = {
             "flight": "3U3940",
             "city": "청두",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 20:20",
+            "timestamp": 1786972800,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 21:35",
+            "timestamp": 1786977300,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/17 21:50",
+            "timestamp": 1786978200,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 22:20",
+            "timestamp": 1786980000,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
