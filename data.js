@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 02:42:01",
-    "version": 1786934521,
+    "lastUpdate": "2026-08-17 02:57:21",
+    "version": 1786935441,
     "data": [
         {
             "type": "출발",
@@ -689,6 +689,22 @@ const flightInfo = {
             "flight": "VZ969",
             "city": "방콕",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/18 14:45",
+            "timestamp": 1787039100,
+            "flight": "VJ731",
+            "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/18 14:55",
+            "timestamp": 1787039700,
+            "flight": "WZ3201",
+            "city": "Moscow",
+            "status": "예정"
         }
     ]
 };
