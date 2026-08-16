@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 17:04:17",
-    "version": 1786899857,
+    "lastUpdate": "2026-08-16 17:34:04",
+    "version": 1786901644,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 17:20",
-            "timestamp": 1786875600,
-            "flight": "VJ732",
-            "city": "Haiphong",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/16 17:35",
             "timestamp": 1786876500,
             "flight": "WZ3202",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786880100,
             "flight": "3U3939",
             "city": "청두",
-            "status": "지연 (18:56)"
+            "status": "지연 (18:58)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786886400,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:20)"
+            "status": "도착예정 (20:17)"
         },
         {
             "type": "도착",
@@ -728,6 +720,14 @@ const flightInfo = {
             "timestamp": 1786989300,
             "flight": "LJ88",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 01:10",
+            "timestamp": 1786990200,
+            "flight": "TW42",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
