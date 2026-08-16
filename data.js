@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 18:36:16",
-    "version": 1786905376,
+    "lastUpdate": "2026-08-16 18:52:48",
+    "version": 1786906368,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/16 18:40",
-            "timestamp": 1786880400,
-            "flight": "TR543",
-            "city": "Singapore",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "08/16 19:35",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786893600,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:28)"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786894200,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:32)"
+            "status": "도착예정 (22:28)"
         },
         {
             "type": "도착",
@@ -88,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786895700,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (22:47)"
+            "status": "도착예정 (22:49)"
         },
         {
             "type": "출발",
