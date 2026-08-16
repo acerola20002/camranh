@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-16 14:52:38",
-    "version": 1786891958,
+    "lastUpdate": "2026-08-16 15:20:37",
+    "version": 1786893637,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/16 15:10",
-            "timestamp": 1786867800,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "지연 (15:34)"
-        },
         {
             "type": "출발",
             "time": "08/16 16:00",
@@ -651,12 +643,36 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/17 23:05",
+            "timestamp": 1786982700,
+            "flight": "KE467",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/17 23:15",
             "timestamp": 1786983300,
             "flight": "VN434",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 23:45",
+            "timestamp": 1786985100,
+            "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/17 23:55",
+            "timestamp": 1786985700,
+            "flight": "ZE561",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
