@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 01:35:33",
-    "version": 1786930533,
+    "lastUpdate": "2026-08-17 01:59:06",
+    "version": 1786931946,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/17 01:35",
-            "timestamp": 1786905300,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/17 01:45",
-            "timestamp": 1786905900,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "08/17 03:10",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786933800,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:25)"
+            "status": "지연 (09:48)"
         },
         {
             "type": "도착",
