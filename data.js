@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 14:29:57",
-    "version": 1786976997,
+    "lastUpdate": "2026-08-17 15:08:05",
+    "version": 1786979285,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/17 14:45",
-            "timestamp": 1786952700,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:20)"
-        },
         {
             "type": "도착",
             "time": "08/17 15:10",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786966500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "예정"
+            "status": "도착예정 (18:07)"
         },
         {
             "type": "출발",
@@ -759,6 +751,30 @@ const flightInfo = {
             "time": "08/19 00:55",
             "timestamp": 1787075700,
             "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 01:10",
+            "timestamp": 1787076600,
+            "flight": "TW42",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 01:10",
+            "timestamp": 1787076600,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 01:35",
+            "timestamp": 1787078100,
+            "flight": "7C2304",
             "city": "인천",
             "status": "출발예정"
         }
