@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 02:55:05",
-    "version": 1787021705,
+    "lastUpdate": "2026-08-18 03:18:37",
+    "version": 1787023117,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/18 03:10",
-            "timestamp": 1786997400,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/18 08:25",
             "timestamp": 1787016300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:23)"
+            "status": "도착예정 (07:29)"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787019600,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:46)"
+            "status": "도착예정 (08:42)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787020200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:20)"
         },
         {
             "type": "도착",
@@ -705,6 +697,14 @@ const flightInfo = {
             "flight": "WZ3202",
             "city": "Moscow",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/19 15:10",
+            "timestamp": 1787127000,
+            "flight": "CZ6049",
+            "city": "Guangzhou",
+            "status": "예정"
         }
     ]
 };
