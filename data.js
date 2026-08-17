@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 16:39:49",
-    "version": 1786984789,
+    "lastUpdate": "2026-08-17 17:14:10",
+    "version": 1786986850,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786966500,
             "flight": "3U3939",
             "city": "청두",
-            "status": "도착예정 (18:05)"
+            "status": "도착예정 (18:03)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786972800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:50)"
+            "status": "도착예정 (19:52)"
         },
         {
             "type": "출발",
