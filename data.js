@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 20:01:54",
-    "version": 1786996914,
+    "lastUpdate": "2026-08-17 20:49:13",
+    "version": 1786999753,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/17 20:20",
-            "timestamp": 1786972800,
-            "flight": "BX787",
-            "city": "인천",
-            "status": "도착예정 (20:16)"
-        },
         {
             "type": "출발",
             "time": "08/17 21:35",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786980000,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:17)"
+            "status": "도착예정 (22:19)"
         },
         {
             "type": "도착",
@@ -64,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786982100,
             "flight": "LJ115",
             "city": "부산",
-            "status": "지연 (23:32)"
+            "status": "지연 (23:25)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786982100,
             "flight": "RS527",
             "city": "인천",
-            "status": "지연 (23:21)"
+            "status": "지연 (23:17)"
         },
         {
             "type": "출발",
@@ -120,7 +112,7 @@ const flightInfo = {
             "timestamp": 1786985100,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착예정 (23:34)"
         },
         {
             "type": "도착",
@@ -160,7 +152,7 @@ const flightInfo = {
             "timestamp": 1786986600,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (23:53)"
+            "status": "도착예정 (23:46)"
         },
         {
             "type": "출발",
@@ -176,7 +168,7 @@ const flightInfo = {
             "timestamp": 1786988100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:10)"
+            "status": "도착예정 (00:23)"
         },
         {
             "type": "도착",
@@ -184,7 +176,7 @@ const flightInfo = {
             "timestamp": 1786988700,
             "flight": "TW45",
             "city": "청주",
-            "status": "예정"
+            "status": "도착예정 (00:42)"
         },
         {
             "type": "출발",
