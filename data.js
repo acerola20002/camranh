@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 23:49:58",
-    "version": 1787010598,
+    "lastUpdate": "2026-08-18 00:13:18",
+    "version": 1787011998,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/17 23:55",
-            "timestamp": 1786985700,
-            "flight": "ZE561",
-            "city": "인천",
-            "status": "지연 (00:19)"
-        },
-        {
-            "type": "출발",
-            "time": "08/17 23:55",
-            "timestamp": 1786985700,
-            "flight": "LJ116",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 00:05",
-            "timestamp": 1786986300,
-            "flight": "RS528",
-            "city": "인천",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 00:05",
-            "timestamp": 1786986300,
-            "flight": "TW38",
-            "city": "대구",
-            "status": "곧 출발"
-        },
-        {
-            "type": "도착",
-            "time": "08/18 00:10",
-            "timestamp": 1786986600,
-            "flight": "TW41",
-            "city": "부산",
-            "status": "도착예정 (23:50)"
-        },
         {
             "type": "출발",
             "time": "08/18 00:20",
             "timestamp": 1786987200,
             "flight": "KE468",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786988100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:18)"
+            "status": "도착예정 (00:19)"
         },
         {
             "type": "도착",
@@ -120,7 +80,7 @@ const flightInfo = {
             "timestamp": 1787016300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "예정"
+            "status": "도착예정 (07:44)"
         },
         {
             "type": "도착",
@@ -144,7 +104,7 @@ const flightInfo = {
             "timestamp": 1787020200,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
