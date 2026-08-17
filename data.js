@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 18:43:06",
-    "version": 1786992186,
+    "lastUpdate": "2026-08-17 19:00:56",
+    "version": 1786993256,
     "data": [
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786980600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:36)"
+            "status": "도착예정 (22:34)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1786982100,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (23:21)"
         },
         {
             "type": "출발",
