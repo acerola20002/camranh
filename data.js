@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 00:13:18",
-    "version": 1787011998,
+    "lastUpdate": "2026-08-18 00:46:25",
+    "version": 1787013985,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/18 00:20",
-            "timestamp": 1786987200,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/18 00:35",
-            "timestamp": 1786988100,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:19)"
-        },
-        {
-            "type": "도착",
-            "time": "08/18 00:45",
-            "timestamp": 1786988700,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착예정 (00:38)"
-        },
         {
             "type": "출발",
             "time": "08/18 00:55",
             "timestamp": 1786989300,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786990200,
             "flight": "TW42",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786990200,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787016300,
             "flight": "SU836",
             "city": "Yekaterinburg",
-            "status": "도착예정 (07:44)"
+            "status": "도착예정 (07:42)"
         },
         {
             "type": "도착",
