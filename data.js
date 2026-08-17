@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 12:45:25",
-    "version": 1786970725,
+    "lastUpdate": "2026-08-17 13:21:16",
+    "version": 1786972876,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/17 12:50",
-            "timestamp": 1786945800,
-            "flight": "SU840",
-            "city": "Irkutsk",
-            "status": "도착완료"
-        },
         {
             "type": "도착",
             "time": "08/17 13:30",
             "timestamp": 1786948200,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:15)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786950600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:26)"
+            "status": "도착예정 (13:24)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786952700,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "도착예정 (14:25)"
         },
         {
             "type": "도착",
@@ -659,6 +651,22 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "08/18 22:30",
+            "timestamp": 1787067000,
+            "flight": "TW33",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/18 22:50",
+            "timestamp": 1787068200,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/18 22:55",
             "timestamp": 1787068500,
@@ -680,6 +688,22 @@ const flightInfo = {
             "timestamp": 1787070000,
             "flight": "BX782",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 23:30",
+            "timestamp": 1787070600,
+            "flight": "RF558",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 23:30",
+            "timestamp": 1787070600,
+            "flight": "TW34",
+            "city": "인천",
             "status": "출발예정"
         }
     ]
