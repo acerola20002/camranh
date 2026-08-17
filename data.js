@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 20:49:13",
-    "version": 1786999753,
+    "lastUpdate": "2026-08-17 21:13:04",
+    "version": 1787001184,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1786977300,
             "flight": "VN440",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1786980600,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:28)"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786981800,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:08)"
+            "status": "도착예정 (22:13)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1786982100,
             "flight": "LJ115",
             "city": "부산",
-            "status": "지연 (23:25)"
+            "status": "지연 (23:23)"
         },
         {
             "type": "도착",
@@ -120,7 +120,7 @@ const flightInfo = {
             "timestamp": 1786985700,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (00:06)"
+            "status": "도착예정 (00:04)"
         },
         {
             "type": "출발",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1786988100,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:23)"
+            "status": "도착예정 (00:21)"
         },
         {
             "type": "도착",
@@ -760,6 +760,22 @@ const flightInfo = {
             "timestamp": 1787099400,
             "flight": "KC193",
             "city": "Almaty",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 09:00",
+            "timestamp": 1787104800,
+            "flight": "KC194",
+            "city": "Almaty",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/19 09:05",
+            "timestamp": 1787105100,
+            "flight": "VJ837",
+            "city": "인천",
             "status": "예정"
         }
     ]
