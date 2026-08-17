@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 18:10:42",
-    "version": 1786990242,
+    "lastUpdate": "2026-08-17 18:43:06",
+    "version": 1786992186,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/17 18:35",
-            "timestamp": 1786966500,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "08/17 19:35",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1786972800,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (19:56)"
+            "status": "도착예정 (20:05)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1786980000,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:25)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1786981800,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:15)"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1786982700,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:53)"
         },
         {
             "type": "출발",
