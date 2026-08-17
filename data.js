@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-17 12:02:11",
-    "version": 1786968131,
+    "lastUpdate": "2026-08-17 12:45:25",
+    "version": 1786970725,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/17 12:10",
-            "timestamp": 1786943400,
-            "flight": "TR549",
-            "city": "Singapore",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "08/17 12:50",
             "timestamp": 1786945800,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (12:12)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1786948500,
             "flight": "VJ919",
             "city": "부산",
-            "status": "지연 (14:10)"
+            "status": "지연 (14:13)"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1786950600,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:21)"
+            "status": "도착예정 (13:26)"
         },
         {
             "type": "출발",
@@ -659,11 +651,35 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "08/18 22:30",
+            "timestamp": 1787067000,
+            "flight": "RF557",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/18 22:55",
             "timestamp": 1787068500,
             "flight": "VJ834",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 23:15",
+            "timestamp": 1787069700,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/18 23:20",
+            "timestamp": 1787070000,
+            "flight": "BX782",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
