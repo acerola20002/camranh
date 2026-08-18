@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 14:32:08",
-    "version": 1787063528,
+    "lastUpdate": "2026-08-18 15:05:11",
+    "version": 1787065511,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/18 14:45",
-            "timestamp": 1787039100,
-            "flight": "VJ731",
-            "city": "Haiphong",
-            "status": "도착예정 (14:51)"
-        },
-        {
-            "type": "도착",
-            "time": "08/18 14:55",
-            "timestamp": 1787039700,
-            "flight": "WZ3201",
-            "city": "Moscow",
-            "status": "도착예정 (14:47)"
-        },
         {
             "type": "도착",
             "time": "08/18 15:10",
             "timestamp": 1787040600,
             "flight": "CZ6049",
             "city": "Guangzhou",
-            "status": "지연 (16:01)"
+            "status": "지연 (15:59)"
         },
         {
             "type": "도착",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787041800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:04)"
+            "status": "도착예정 (15:05)"
         },
         {
             "type": "도착",
@@ -744,6 +728,38 @@ const flightInfo = {
             "timestamp": 1787159400,
             "flight": "TW41",
             "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 00:20",
+            "timestamp": 1787160000,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 00:20",
+            "timestamp": 1787160000,
+            "flight": "WE206",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 00:35",
+            "timestamp": 1787160900,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 00:45",
+            "timestamp": 1787161500,
+            "flight": "TW45",
+            "city": "청주",
             "status": "예정"
         }
     ]
