@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 22:41:12",
-    "version": 1787092872,
+    "lastUpdate": "2026-08-18 23:03:43",
+    "version": 1787094223,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/18 22:50",
-            "timestamp": 1787068200,
-            "flight": "TW37",
-            "city": "대구",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "08/18 22:55",
-            "timestamp": 1787068500,
-            "flight": "RS527",
-            "city": "인천",
-            "status": "도착예정 (23:10)"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 22:55",
-            "timestamp": 1787068500,
-            "flight": "VJ834",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/18 23:05",
             "timestamp": 1787069100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:52)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787069700,
             "flight": "VN434",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787070000,
             "flight": "BX782",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787070600,
             "flight": "RF558",
             "city": "청주",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -64,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787070600,
             "flight": "TW34",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787071500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:40)"
+            "status": "도착예정 (23:38)"
         },
         {
             "type": "도착",
@@ -80,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787072100,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:06)"
+            "status": "도착예정 (23:10)"
         },
         {
             "type": "도착",
@@ -128,7 +104,7 @@ const flightInfo = {
             "timestamp": 1787074500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (23:57)"
+            "status": "도착예정 (23:59)"
         },
         {
             "type": "도착",
@@ -136,7 +112,7 @@ const flightInfo = {
             "timestamp": 1787075100,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:46)"
+            "status": "도착예정 (00:44)"
         },
         {
             "type": "출발",
