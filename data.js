@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 00:45:30",
-    "version": 1787100330,
+    "lastUpdate": "2026-08-19 01:03:52",
+    "version": 1787101432,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/19 00:45",
-            "timestamp": 1787075100,
-            "flight": "TW45",
-            "city": "청주",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/19 00:55",
-            "timestamp": 1787075700,
-            "flight": "LJ88",
-            "city": "인천",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "08/19 01:10",
             "timestamp": 1787076600,
             "flight": "TW42",
             "city": "부산",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787076600,
             "flight": "ZE562",
             "city": "인천",
-            "status": "곧 출발"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787099400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:02)"
+            "status": "도착예정 (06:57)"
         },
         {
             "type": "출발",
