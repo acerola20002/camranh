@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 17:54:12",
-    "version": 1787075652,
+    "lastUpdate": "2026-08-18 18:18:52",
+    "version": 1787077132,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/18 18:05",
-            "timestamp": 1787051100,
-            "flight": "TR542",
-            "city": "Singapore",
-            "status": "도착예정 (18:09)"
-        },
         {
             "type": "출발",
             "time": "08/18 18:40",
             "timestamp": 1787053200,
             "flight": "TR543",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787059200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:15)"
+            "status": "도착예정 (20:11)"
         },
         {
             "type": "출발",
@@ -56,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787066400,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
@@ -72,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787067000,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:02)"
+            "status": "도착예정 (22:00)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1787068200,
             "flight": "TW37",
             "city": "대구",
-            "status": "예정"
+            "status": "도착예정 (22:17)"
         },
         {
             "type": "도착",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1787069100,
             "flight": "KE467",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (22:23)"
         },
         {
             "type": "출발",
