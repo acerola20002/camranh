@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 15:49:51",
-    "version": 1787068191,
+    "lastUpdate": "2026-08-18 16:17:12",
+    "version": 1787069832,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/18 16:00",
-            "timestamp": 1787043600,
-            "flight": "CZ6050",
-            "city": "Guangzhou",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/18 16:25",
             "timestamp": 1787045100,
             "flight": "WZ3206",
             "city": "Yekaterinburg",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787051100,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (18:05)"
         },
         {
             "type": "출발",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787059200,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:17)"
         },
         {
             "type": "출발",
@@ -752,6 +744,30 @@ const flightInfo = {
             "timestamp": 1787163000,
             "flight": "TW42",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 01:10",
+            "timestamp": 1787163000,
+            "flight": "ZE562",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 01:35",
+            "timestamp": 1787164500,
+            "flight": "7C2304",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 01:45",
+            "timestamp": 1787165100,
+            "flight": "TW46",
+            "city": "청주",
             "status": "출발예정"
         }
     ]
