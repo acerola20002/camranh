@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 18:44:50",
-    "version": 1787078690,
+    "lastUpdate": "2026-08-18 19:02:47",
+    "version": 1787079767,
     "data": [
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787066400,
             "flight": "BX781",
             "city": "부산",
-            "status": "도착예정 (22:28)"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787067000,
             "flight": "RF557",
             "city": "청주",
-            "status": "지연 (23:00)"
+            "status": "지연 (22:55)"
         },
         {
             "type": "도착",
@@ -72,7 +72,7 @@ const flightInfo = {
             "timestamp": 1787068500,
             "flight": "RS527",
             "city": "인천",
-            "status": "예정"
+            "status": "지연 (23:12)"
         },
         {
             "type": "출발",
@@ -88,7 +88,7 @@ const flightInfo = {
             "timestamp": 1787069100,
             "flight": "KE467",
             "city": "인천",
-            "status": "도착예정 (22:38)"
+            "status": "도착예정 (22:36)"
         },
         {
             "type": "출발",
