@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 03:55:00",
-    "version": 1787111700,
+    "lastUpdate": "2026-08-19 04:17:02",
+    "version": 1787113022,
     "data": [
         {
             "type": "도착",
@@ -713,6 +713,14 @@ const flightInfo = {
             "flight": "VN1609",
             "city": "Haiphong",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 16:10",
+            "timestamp": 1787217000,
+            "flight": "SU299",
+            "city": "Moscow",
+            "status": "출발예정"
         }
     ]
 };
