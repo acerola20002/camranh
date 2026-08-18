@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 11:30:21",
-    "version": 1787052621,
+    "lastUpdate": "2026-08-18 12:04:58",
+    "version": 1787054698,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/18 11:30",
-            "timestamp": 1787027400,
-            "flight": "AK204",
-            "city": "Kuala Lumpur",
-            "status": "도착예정 (11:28)"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 11:30",
-            "timestamp": 1787027400,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 11:35",
-            "timestamp": 1787027700,
-            "flight": "VN1608",
-            "city": "Haiphong",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 12:00",
-            "timestamp": 1787029200,
-            "flight": "AK205",
-            "city": "Kuala Lumpur",
-            "status": "곧 출발"
-        },
         {
             "type": "출발",
             "time": "08/18 12:50",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787034600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:13)"
         },
         {
             "type": "도착",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787034900,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:45)"
+            "status": "도착예정 (13:43)"
         },
         {
             "type": "출발",
@@ -112,7 +80,7 @@ const flightInfo = {
             "timestamp": 1787041800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:00)"
+            "status": "도착예정 (14:55)"
         },
         {
             "type": "도착",
@@ -681,6 +649,38 @@ const flightInfo = {
             "flight": "BX781",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/19 22:30",
+            "timestamp": 1787153400,
+            "flight": "RF557",
+            "city": "청주",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/19 22:30",
+            "timestamp": 1787153400,
+            "flight": "TW33",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/19 22:50",
+            "timestamp": 1787154600,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 22:55",
+            "timestamp": 1787154900,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
