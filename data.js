@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 03:00:28",
-    "version": 1787108428,
+    "lastUpdate": "2026-08-19 03:35:06",
+    "version": 1787110506,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/19 03:10",
-            "timestamp": 1787083800,
-            "flight": "VJ918",
-            "city": "부산",
-            "status": "탑승중"
-        },
         {
             "type": "도착",
             "time": "08/19 07:30",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787106300,
             "flight": "HY561",
             "city": "Tashkent",
-            "status": "도착예정 (09:14)"
+            "status": "도착예정 (09:12)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787106600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:05)"
+            "status": "도착예정 (09:10)"
         },
         {
             "type": "도착",
@@ -704,6 +696,14 @@ const flightInfo = {
             "timestamp": 1787211900,
             "flight": "VJ731",
             "city": "Haiphong",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 15:30",
+            "timestamp": 1787214600,
+            "flight": "B2795",
+            "city": "Minsk",
             "status": "예정"
         }
     ]
