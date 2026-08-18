@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 12:39:16",
-    "version": 1787056756,
+    "lastUpdate": "2026-08-18 12:59:50",
+    "version": 1787057990,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/18 12:50",
-            "timestamp": 1787032200,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/18 13:25",
             "timestamp": 1787034300,
             "flight": "9G2205",
             "city": "Dong Hoi",
-            "status": "예정"
+            "status": "지연 (13:51)"
         },
         {
             "type": "도착",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787034600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:11)"
+            "status": "도착예정 (13:08)"
         },
         {
             "type": "도착",
@@ -80,7 +72,7 @@ const flightInfo = {
             "timestamp": 1787041800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:57)"
+            "status": "도착예정 (14:55)"
         },
         {
             "type": "도착",
@@ -675,6 +667,14 @@ const flightInfo = {
             "status": "예정"
         },
         {
+            "type": "도착",
+            "time": "08/19 22:55",
+            "timestamp": 1787154900,
+            "flight": "LJ115",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/19 22:55",
             "timestamp": 1787154900,
@@ -696,6 +696,14 @@ const flightInfo = {
             "timestamp": 1787156400,
             "flight": "BX782",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 23:30",
+            "timestamp": 1787157000,
+            "flight": "RF558",
+            "city": "청주",
             "status": "출발예정"
         }
     ]
