@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 12:04:58",
-    "version": 1787054698,
+    "lastUpdate": "2026-08-18 12:39:16",
+    "version": 1787056756,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1787032200,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787034600,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:13)"
+            "status": "도착예정 (13:11)"
         },
         {
             "type": "도착",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787034900,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:49)"
         },
         {
             "type": "출발",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787039700,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:42)"
+            "status": "도착예정 (14:45)"
         },
         {
             "type": "도착",
@@ -80,7 +80,7 @@ const flightInfo = {
             "timestamp": 1787041800,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:55)"
+            "status": "도착예정 (14:57)"
         },
         {
             "type": "도착",
@@ -680,6 +680,22 @@ const flightInfo = {
             "timestamp": 1787154900,
             "flight": "VJ834",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 23:15",
+            "timestamp": 1787156100,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/19 23:20",
+            "timestamp": 1787156400,
+            "flight": "BX782",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
