@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 15:05:11",
-    "version": 1787065511,
+    "lastUpdate": "2026-08-18 15:49:51",
+    "version": 1787068191,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/18 15:10",
-            "timestamp": 1787040600,
-            "flight": "CZ6049",
-            "city": "Guangzhou",
-            "status": "지연 (15:59)"
-        },
-        {
-            "type": "도착",
-            "time": "08/18 15:30",
-            "timestamp": 1787041800,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:05)"
-        },
-        {
-            "type": "도착",
-            "time": "08/18 15:45",
-            "timestamp": 1787042700,
-            "flight": "VN1609",
-            "city": "Haiphong",
-            "status": "도착예정 (15:40)"
-        },
         {
             "type": "출발",
             "time": "08/18 16:00",
             "timestamp": 1787043600,
             "flight": "CZ6050",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -761,6 +737,22 @@ const flightInfo = {
             "flight": "TW45",
             "city": "청주",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 00:55",
+            "timestamp": 1787162100,
+            "flight": "LJ88",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 01:10",
+            "timestamp": 1787163000,
+            "flight": "TW42",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
