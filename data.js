@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 20:51:48",
-    "version": 1787086308,
+    "lastUpdate": "2026-08-18 21:26:02",
+    "version": 1787088362,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1787063700,
             "flight": "VN440",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787064600,
             "flight": "BX788",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787064600,
             "flight": "VJ836",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787068200,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:10)"
+            "status": "도착예정 (22:21)"
         },
         {
             "type": "도착",
@@ -64,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787068500,
             "flight": "RS527",
             "city": "인천",
-            "status": "도착예정 (23:08)"
+            "status": "도착예정 (23:10)"
         },
         {
             "type": "출발",
@@ -136,7 +136,7 @@ const flightInfo = {
             "timestamp": 1787072100,
             "flight": "ZE561",
             "city": "인천",
-            "status": "지연 (00:14)"
+            "status": "지연 (00:12)"
         },
         {
             "type": "출발",
@@ -176,7 +176,7 @@ const flightInfo = {
             "timestamp": 1787074500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (23:57)"
         },
         {
             "type": "도착",
@@ -744,6 +744,30 @@ const flightInfo = {
             "timestamp": 1787186400,
             "flight": "C65537",
             "city": "Tashkent",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 09:00",
+            "timestamp": 1787191200,
+            "flight": "C65538",
+            "city": "Tashkent",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 09:05",
+            "timestamp": 1787191500,
+            "flight": "VJ837",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 09:20",
+            "timestamp": 1787192400,
+            "flight": "KC157",
+            "city": "Astana",
             "status": "예정"
         }
     ]
