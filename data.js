@@ -1,15 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 16:17:12",
-    "version": 1787069832,
+    "lastUpdate": "2026-08-18 16:51:11",
+    "version": 1787071871,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/18 16:25",
-            "timestamp": 1787045100,
-            "flight": "WZ3206",
-            "city": "Yekaterinburg",
-            "status": "탑승중"
-        },
         {
             "type": "출발",
             "time": "08/18 17:30",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787051100,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:05)"
+            "status": "도착예정 (18:12)"
         },
         {
             "type": "출발",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787059200,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:17)"
+            "status": "도착예정 (20:15)"
         },
         {
             "type": "출발",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1787072100,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "예정"
+            "status": "도착예정 (23:08)"
         },
         {
             "type": "도착",
@@ -768,6 +760,14 @@ const flightInfo = {
             "timestamp": 1787165100,
             "flight": "TW46",
             "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 03:10",
+            "timestamp": 1787170200,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
