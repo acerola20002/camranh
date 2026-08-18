@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 05:29:38",
-    "version": 1787117378,
+    "lastUpdate": "2026-08-19 05:52:34",
+    "version": 1787118754,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1787099400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:53)"
+            "status": "도착예정 (06:57)"
         },
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787105100,
             "flight": "VJ837",
             "city": "인천",
-            "status": "도착예정 (08:57)"
+            "status": "도착예정 (08:59)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787106900,
             "flight": "VJ835",
             "city": "인천",
-            "status": "도착예정 (09:33)"
+            "status": "도착예정 (09:31)"
         },
         {
             "type": "도착",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787107500,
             "flight": "VN441",
             "city": "인천",
-            "status": "도착예정 (09:37)"
+            "status": "도착예정 (09:52)"
         },
         {
             "type": "도착",
@@ -720,6 +720,14 @@ const flightInfo = {
             "timestamp": 1787217000,
             "flight": "SU299",
             "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 17:30",
+            "timestamp": 1787221800,
+            "flight": "B2796",
+            "city": "Minsk",
             "status": "출발예정"
         }
     ]
