@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 16:51:11",
-    "version": 1787071871,
+    "lastUpdate": "2026-08-18 17:20:48",
+    "version": 1787073648,
     "data": [
         {
             "type": "출발",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1787049000,
             "flight": "B2796",
             "city": "Minsk",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787051100,
             "flight": "TR542",
             "city": "Singapore",
-            "status": "도착예정 (18:12)"
+            "status": "도착예정 (18:07)"
         },
         {
             "type": "출발",
