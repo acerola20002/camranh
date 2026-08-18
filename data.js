@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 01:03:52",
-    "version": 1787101432,
+    "lastUpdate": "2026-08-19 01:52:20",
+    "version": 1787104340,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/19 01:10",
-            "timestamp": 1787076600,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/19 01:10",
-            "timestamp": 1787076600,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/19 01:35",
-            "timestamp": 1787078100,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/19 01:45",
-            "timestamp": 1787078700,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/19 02:50",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787099400,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (06:57)"
+            "status": "도착예정 (06:51)"
         },
         {
             "type": "출발",
@@ -88,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787106600,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:16)"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -705,6 +673,22 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 13:30",
+            "timestamp": 1787207400,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 13:35",
+            "timestamp": 1787207700,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
