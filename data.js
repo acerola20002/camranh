@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-18 23:03:43",
-    "version": 1787094223,
+    "lastUpdate": "2026-08-18 23:44:16",
+    "version": 1787096656,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/18 23:05",
-            "timestamp": 1787069100,
-            "flight": "KE467",
-            "city": "인천",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 23:15",
-            "timestamp": 1787069700,
-            "flight": "VN434",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 23:20",
-            "timestamp": 1787070000,
-            "flight": "BX782",
-            "city": "부산",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 23:30",
-            "timestamp": 1787070600,
-            "flight": "RF558",
-            "city": "청주",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/18 23:30",
-            "timestamp": 1787070600,
-            "flight": "TW34",
-            "city": "인천",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/18 23:45",
             "timestamp": 1787071500,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:38)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787072100,
             "flight": "SU830",
             "city": "Novosibirsk",
-            "status": "도착예정 (23:10)"
+            "status": "도착완료"
         },
         {
             "type": "도착",
@@ -72,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787072700,
             "flight": "RS528",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787072700,
             "flight": "TW38",
             "city": "대구",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -88,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787073000,
             "flight": "TW41",
             "city": "부산",
-            "status": "도착예정 (23:57)"
+            "status": "도착예정 (23:55)"
         },
         {
             "type": "출발",
@@ -104,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787074500,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (00:06)"
         },
         {
             "type": "도착",
@@ -767,6 +727,46 @@ const flightInfo = {
             "time": "08/20 10:35",
             "timestamp": 1787196900,
             "flight": "VJ730",
+            "city": "Haiphong",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 11:05",
+            "timestamp": 1787198700,
+            "flight": "CZ8476",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 11:30",
+            "timestamp": 1787200200,
+            "flight": "TR548",
+            "city": "Singapore",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 11:30",
+            "timestamp": 1787200200,
+            "flight": "AK204",
+            "city": "Kuala Lumpur",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 11:30",
+            "timestamp": 1787200200,
+            "flight": "SU295",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 11:35",
+            "timestamp": 1787200500,
+            "flight": "VN1608",
             "city": "Haiphong",
             "status": "출발예정"
         }
