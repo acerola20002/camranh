@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 00:11:41",
-    "version": 1787184701,
+    "lastUpdate": "2026-08-20 00:42:49",
+    "version": 1787186569,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/20 00:20",
-            "timestamp": 1787160000,
-            "flight": "KE468",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/20 00:20",
-            "timestamp": 1787160000,
-            "flight": "WE206",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/20 00:35",
-            "timestamp": 1787160900,
-            "flight": "7C2303",
-            "city": "인천",
-            "status": "도착예정 (00:33)"
-        },
         {
             "type": "도착",
             "time": "08/20 00:45",
             "timestamp": 1787161500,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:42)"
+            "status": "도착예정 (00:46)"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787162100,
             "flight": "LJ88",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787163000,
             "flight": "TW42",
             "city": "부산",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787163000,
             "flight": "ZE562",
             "city": "인천",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -112,7 +88,7 @@ const flightInfo = {
             "timestamp": 1787193000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:35)"
+            "status": "도착예정 (09:27)"
         },
         {
             "type": "도착",
