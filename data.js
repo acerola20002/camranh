@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 01:49:22",
-    "version": 1787190562,
+    "lastUpdate": "2026-08-20 02:12:58",
+    "version": 1787191978,
     "data": [
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787192400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:36)"
+            "status": "도착예정 (08:33)"
         },
         {
             "type": "도착",
@@ -40,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787193000,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "도착예정 (09:22)"
+            "status": "도착예정 (09:18)"
         },
         {
             "type": "도착",
@@ -617,6 +617,14 @@ const flightInfo = {
             "flight": "VJ919",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/21 14:05",
+            "timestamp": 1787295900,
+            "flight": "9G2204",
+            "city": "Dong Hoi",
+            "status": "출발예정"
         }
     ]
 };
