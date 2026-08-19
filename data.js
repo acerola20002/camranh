@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 11:47:24",
-    "version": 1787140044,
+    "lastUpdate": "2026-08-19 12:14:46",
+    "version": 1787141686,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1787120700,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (14:00)"
+            "status": "지연 (13:58)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787121000,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "예정"
+            "status": "도착예정 (13:28)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787124900,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (14:30)"
+            "status": "도착예정 (14:49)"
         },
         {
             "type": "도착",
@@ -104,7 +104,7 @@ const flightInfo = {
             "timestamp": 1787138400,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "도착예정 (17:27)"
+            "status": "도착예정 (17:33)"
         },
         {
             "type": "도착",
@@ -651,11 +651,35 @@ const flightInfo = {
             "status": "출발예정"
         },
         {
+            "type": "도착",
+            "time": "08/20 22:20",
+            "timestamp": 1787239200,
+            "flight": "BX781",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/20 22:30",
+            "timestamp": 1787239800,
+            "flight": "TW33",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
             "type": "출발",
             "time": "08/20 22:55",
             "timestamp": 1787241300,
             "flight": "VJ834",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 23:15",
+            "timestamp": 1787242500,
+            "flight": "VN434",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
