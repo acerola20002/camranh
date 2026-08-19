@@ -1,39 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 01:00:56",
-    "version": 1787187656,
+    "lastUpdate": "2026-08-20 01:49:22",
+    "version": 1787190562,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/20 01:10",
-            "timestamp": 1787163000,
-            "flight": "TW42",
-            "city": "부산",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/20 01:10",
-            "timestamp": 1787163000,
-            "flight": "ZE562",
-            "city": "인천",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/20 01:35",
-            "timestamp": 1787164500,
-            "flight": "7C2304",
-            "city": "인천",
-            "status": "출발예정"
-        },
-        {
-            "type": "출발",
-            "time": "08/20 01:45",
-            "timestamp": 1787165100,
-            "flight": "TW46",
-            "city": "청주",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/20 03:10",
@@ -64,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787192400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "예정"
+            "status": "도착예정 (08:36)"
         },
         {
             "type": "도착",
@@ -617,6 +585,38 @@ const flightInfo = {
             "flight": "TR549",
             "city": "Singapore",
             "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/21 13:15",
+            "timestamp": 1787292900,
+            "flight": "SU841",
+            "city": "Irkutsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/21 13:25",
+            "timestamp": 1787293500,
+            "flight": "9G2205",
+            "city": "Dong Hoi",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/21 13:30",
+            "timestamp": 1787293800,
+            "flight": "VZ968",
+            "city": "방콕",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/21 13:35",
+            "timestamp": 1787294100,
+            "flight": "VJ919",
+            "city": "부산",
+            "status": "예정"
         }
     ]
 };
