@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 18:09:34",
-    "version": 1787162974,
+    "lastUpdate": "2026-08-19 18:36:24",
+    "version": 1787164584,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/19 18:20",
-            "timestamp": 1787138400,
-            "flight": "SU832",
-            "city": "Vladivostok",
-            "status": "도착완료"
-        },
-        {
-            "type": "도착",
-            "time": "08/19 18:35",
-            "timestamp": 1787139300,
-            "flight": "3U3939",
-            "city": "청두",
-            "status": "도착완료"
-        },
         {
             "type": "출발",
             "time": "08/19 19:35",
@@ -72,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787152800,
             "flight": "BX781",
             "city": "부산",
-            "status": "예정"
+            "status": "지연 (22:53)"
         },
         {
             "type": "도착",
@@ -80,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787153400,
             "flight": "RF557",
             "city": "청주",
-            "status": "예정"
+            "status": "지연 (22:57)"
         },
         {
             "type": "도착",
@@ -88,7 +72,7 @@ const flightInfo = {
             "timestamp": 1787153400,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (22:32)"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
@@ -96,7 +80,7 @@ const flightInfo = {
             "timestamp": 1787154600,
             "flight": "TW37",
             "city": "대구",
-            "status": "도착예정 (22:28)"
+            "status": "도착예정 (22:25)"
         },
         {
             "type": "도착",
@@ -104,7 +88,7 @@ const flightInfo = {
             "timestamp": 1787154900,
             "flight": "LJ115",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (22:38)"
         },
         {
             "type": "도착",
@@ -128,7 +112,7 @@ const flightInfo = {
             "timestamp": 1787155200,
             "flight": "WE205",
             "city": "인천",
-            "status": "도착예정 (22:32)"
+            "status": "도착예정 (22:30)"
         },
         {
             "type": "도착",
