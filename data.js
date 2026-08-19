@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 04:30:38",
-    "version": 1787200238,
+    "lastUpdate": "2026-08-20 04:55:53",
+    "version": 1787201753,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787191500,
             "flight": "VJ837",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (09:01)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787192400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:10)"
+            "status": "도착예정 (08:18)"
         },
         {
             "type": "도착",
@@ -184,7 +184,7 @@ const flightInfo = {
             "timestamp": 1787209800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "지연 (14:30)"
+            "status": "도착예정 (14:15)"
         },
         {
             "type": "출발",
@@ -208,7 +208,7 @@ const flightInfo = {
             "timestamp": 1787214600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (14:57)"
+            "status": "도착예정 (15:14)"
         },
         {
             "type": "도착",
