@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 03:39:24",
-    "version": 1787197164,
+    "lastUpdate": "2026-08-20 03:59:44",
+    "version": 1787198384,
     "data": [
         {
             "type": "출발",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787192400,
             "flight": "KC157",
             "city": "Astana",
-            "status": "도착예정 (08:14)"
+            "status": "도착예정 (08:12)"
         },
         {
             "type": "도착",
@@ -649,6 +649,14 @@ const flightInfo = {
             "flight": "CZ6049",
             "city": "Guangzhou",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/21 15:45",
+            "timestamp": 1787301900,
+            "flight": "WZ3206",
+            "city": "Yekaterinburg",
+            "status": "출발예정"
         }
     ]
 };
