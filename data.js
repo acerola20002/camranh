@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 10:23:27",
-    "version": 1787135007,
+    "lastUpdate": "2026-08-19 11:05:36",
+    "version": 1787137536,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/19 10:35",
-            "timestamp": 1787110500,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "도착예정 (10:34)"
-        },
-        {
-            "type": "출발",
-            "time": "08/19 10:35",
-            "timestamp": 1787110500,
-            "flight": "VJ730",
-            "city": "Haiphong",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/19 10:55",
-            "timestamp": 1787111700,
-            "flight": "HY562",
-            "city": "Tashkent",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/19 11:05",
             "timestamp": 1787112300,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "출발완료"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787113800,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787120700,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (13:58)"
+            "status": "지연 (13:56)"
         },
         {
             "type": "도착",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787124900,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (14:28)"
+            "status": "도착예정 (14:32)"
         },
         {
             "type": "도착",
@@ -673,6 +649,22 @@ const flightInfo = {
             "flight": "BX787",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 21:35",
+            "timestamp": 1787236500,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 21:50",
+            "timestamp": 1787237400,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
