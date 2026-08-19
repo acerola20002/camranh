@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-19 11:05:36",
-    "version": 1787137536,
+    "lastUpdate": "2026-08-19 11:47:24",
+    "version": 1787140044,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/19 11:05",
-            "timestamp": 1787112300,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "출발완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/19 11:30",
-            "timestamp": 1787113800,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/19 13:25",
             "timestamp": 1787120700,
             "flight": "WZ3205",
             "city": "Yekaterinburg",
-            "status": "지연 (13:56)"
+            "status": "지연 (14:00)"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787121300,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:09)"
+            "status": "도착예정 (13:11)"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787123400,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:53)"
+            "status": "도착예정 (13:51)"
         },
         {
             "type": "출발",
@@ -64,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787124900,
             "flight": "HH2239",
             "city": "Tashkent",
-            "status": "도착예정 (14:32)"
+            "status": "도착예정 (14:30)"
         },
         {
             "type": "도착",
@@ -120,7 +104,7 @@ const flightInfo = {
             "timestamp": 1787138400,
             "flight": "SU832",
             "city": "Vladivostok",
-            "status": "예정"
+            "status": "도착예정 (17:27)"
         },
         {
             "type": "도착",
@@ -663,6 +647,14 @@ const flightInfo = {
             "time": "08/20 21:50",
             "timestamp": 1787237400,
             "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/20 22:55",
+            "timestamp": 1787241300,
+            "flight": "VJ834",
             "city": "인천",
             "status": "출발예정"
         }
