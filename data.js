@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 14:57:59",
-    "version": 1787237879,
+    "lastUpdate": "2026-08-20 15:39:25",
+    "version": 1787240365,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/20 15:30",
-            "timestamp": 1787214600,
-            "flight": "B2795",
-            "city": "Minsk",
-            "status": "도착예정 (15:36)"
-        },
         {
             "type": "도착",
             "time": "08/20 15:45",
             "timestamp": 1787215500,
             "flight": "VN1609",
             "city": "Haiphong",
-            "status": "지연 (16:04)"
+            "status": "지연 (16:18)"
         },
         {
             "type": "출발",
@@ -688,6 +680,22 @@ const flightInfo = {
             "timestamp": 1787337300,
             "flight": "7C2304",
             "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 01:45",
+            "timestamp": 1787337900,
+            "flight": "TW46",
+            "city": "청주",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 03:10",
+            "timestamp": 1787343000,
+            "flight": "VJ918",
+            "city": "부산",
             "status": "출발예정"
         }
     ]
