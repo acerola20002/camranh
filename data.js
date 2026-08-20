@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-21 01:54:38",
-    "version": 1787277278,
+    "lastUpdate": "2026-08-21 02:25:07",
+    "version": 1787279107,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787272200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:21)"
+            "status": "도착예정 (07:08)"
         },
         {
             "type": "출발",
@@ -32,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787279400,
             "flight": "SU294",
             "city": "Moscow",
-            "status": "지연 (09:46)"
+            "status": "도착예정 (09:42)"
         },
         {
             "type": "도착",
@@ -657,6 +657,30 @@ const flightInfo = {
             "flight": "VJ919",
             "city": "부산",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 14:10",
+            "timestamp": 1787382600,
+            "flight": "SU298",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 14:15",
+            "timestamp": 1787382900,
+            "flight": "WZ3205",
+            "city": "Yekaterinburg",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 14:20",
+            "timestamp": 1787383200,
+            "flight": "VZ969",
+            "city": "방콕",
+            "status": "출발예정"
         }
     ]
 };
