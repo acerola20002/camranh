@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 21:00:47",
-    "version": 1787259647,
+    "lastUpdate": "2026-08-20 21:48:52",
+    "version": 1787262532,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/20 21:35",
-            "timestamp": 1787236500,
-            "flight": "VN440",
-            "city": "인천",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/20 21:50",
             "timestamp": 1787237400,
             "flight": "BX788",
             "city": "인천",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787239800,
             "flight": "TW33",
             "city": "인천",
-            "status": "도착예정 (21:51)"
+            "status": "도착예정 (22:10)"
         },
         {
             "type": "도착",
@@ -48,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787241300,
             "flight": "RS527",
             "city": "인천",
-            "status": "지연 (23:23)"
+            "status": "지연 (23:27)"
         },
         {
             "type": "출발",
@@ -104,7 +96,7 @@ const flightInfo = {
             "timestamp": 1787244300,
             "flight": "LJ87",
             "city": "인천",
-            "status": "도착예정 (23:44)"
+            "status": "도착예정 (23:49)"
         },
         {
             "type": "도착",
@@ -112,7 +104,7 @@ const flightInfo = {
             "timestamp": 1787244900,
             "flight": "ZE561",
             "city": "인천",
-            "status": "도착예정 (23:59)"
+            "status": "도착예정 (00:01)"
         },
         {
             "type": "출발",
@@ -160,7 +152,7 @@ const flightInfo = {
             "timestamp": 1787247300,
             "flight": "7C2303",
             "city": "인천",
-            "status": "도착예정 (00:04)"
+            "status": "도착예정 (00:06)"
         },
         {
             "type": "도착",
@@ -168,7 +160,7 @@ const flightInfo = {
             "timestamp": 1787247900,
             "flight": "TW45",
             "city": "청주",
-            "status": "도착예정 (00:16)"
+            "status": "도착예정 (00:18)"
         },
         {
             "type": "출발",
@@ -721,6 +713,30 @@ const flightInfo = {
             "flight": "KC194",
             "city": "Almaty",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 09:30",
+            "timestamp": 1787365800,
+            "flight": "SU294",
+            "city": "Moscow",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 09:35",
+            "timestamp": 1787366100,
+            "flight": "VJ835",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 09:45",
+            "timestamp": 1787366700,
+            "flight": "VN441",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
