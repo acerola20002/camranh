@@ -1,30 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 13:18:45",
-    "version": 1787231925,
+    "lastUpdate": "2026-08-20 14:10:19",
+    "version": 1787235019,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/20 13:30",
-            "timestamp": 1787207400,
-            "flight": "VZ968",
-            "city": "방콕",
-            "status": "도착예정 (13:24)"
-        },
-        {
-            "type": "도착",
-            "time": "08/20 13:35",
-            "timestamp": 1787207700,
-            "flight": "VJ919",
-            "city": "부산",
-            "status": "도착예정 (13:29)"
-        },
         {
             "type": "도착",
             "time": "08/20 14:10",
             "timestamp": 1787209800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:49)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787210400,
             "flight": "VZ969",
             "city": "방콕",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "도착",
@@ -40,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787211900,
             "flight": "VJ731",
             "city": "Haiphong",
-            "status": "예정"
+            "status": "지연 (15:17)"
         },
         {
             "type": "도착",
@@ -48,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787214600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:29)"
+            "status": "도착예정 (15:27)"
         },
         {
             "type": "도착",
@@ -665,6 +649,38 @@ const flightInfo = {
             "flight": "TW38",
             "city": "대구",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 00:10",
+            "timestamp": 1787332200,
+            "flight": "TW41",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 00:20",
+            "timestamp": 1787332800,
+            "flight": "KE468",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 00:35",
+            "timestamp": 1787333700,
+            "flight": "7C2303",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 00:45",
+            "timestamp": 1787334300,
+            "flight": "TW45",
+            "city": "청주",
+            "status": "예정"
         }
     ]
 };
