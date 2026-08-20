@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 12:16:43",
-    "version": 1787228203,
+    "lastUpdate": "2026-08-20 12:48:58",
+    "version": 1787230138,
     "data": [
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787207700,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:38)"
+            "status": "도착예정 (13:32)"
         },
         {
             "type": "도착",
@@ -48,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787214600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:27)"
+            "status": "도착예정 (15:29)"
         },
         {
             "type": "도착",
@@ -640,6 +640,22 @@ const flightInfo = {
             "timestamp": 1787331300,
             "flight": "LJ116",
             "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 00:05",
+            "timestamp": 1787331900,
+            "flight": "RS528",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 00:05",
+            "timestamp": 1787331900,
+            "flight": "TW38",
+            "city": "대구",
             "status": "출발예정"
         }
     ]
