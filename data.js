@@ -1,54 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 11:00:41",
-    "version": 1787223641,
+    "lastUpdate": "2026-08-20 11:48:03",
+    "version": 1787226483,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/20 11:05",
-            "timestamp": 1787198700,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/20 11:30",
-            "timestamp": 1787200200,
-            "flight": "TR548",
-            "city": "Singapore",
-            "status": "도착예정 (11:41)"
-        },
-        {
-            "type": "도착",
-            "time": "08/20 11:30",
-            "timestamp": 1787200200,
-            "flight": "AK204",
-            "city": "Kuala Lumpur",
-            "status": "도착예정 (11:06)"
-        },
-        {
-            "type": "출발",
-            "time": "08/20 11:30",
-            "timestamp": 1787200200,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "곧 출발"
-        },
-        {
-            "type": "출발",
-            "time": "08/20 11:35",
-            "timestamp": 1787200500,
-            "flight": "VN1608",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/20 12:00",
             "timestamp": 1787202000,
             "flight": "AK205",
             "city": "Kuala Lumpur",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "출발",
@@ -56,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787202600,
             "flight": "TR549",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -80,7 +40,7 @@ const flightInfo = {
             "timestamp": 1787209800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:43)"
+            "status": "도착예정 (13:47)"
         },
         {
             "type": "출발",
@@ -104,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787214600,
             "flight": "B2795",
             "city": "Minsk",
-            "status": "도착예정 (15:21)"
+            "status": "도착예정 (15:25)"
         },
         {
             "type": "도착",
@@ -617,6 +577,46 @@ const flightInfo = {
             "flight": "TW33",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/21 22:50",
+            "timestamp": 1787327400,
+            "flight": "TW37",
+            "city": "대구",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/21 22:55",
+            "timestamp": 1787327700,
+            "flight": "LJ115",
+            "city": "부산",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/21 22:55",
+            "timestamp": 1787327700,
+            "flight": "VJ834",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/21 23:15",
+            "timestamp": 1787328900,
+            "flight": "VN434",
+            "city": "부산",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/21 23:20",
+            "timestamp": 1787329200,
+            "flight": "BX782",
+            "city": "부산",
+            "status": "출발예정"
         }
     ]
 };
