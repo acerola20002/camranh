@@ -1,23 +1,7 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 15:39:25",
-    "version": 1787240365,
+    "lastUpdate": "2026-08-20 16:15:44",
+    "version": 1787242544,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/20 15:45",
-            "timestamp": 1787215500,
-            "flight": "VN1609",
-            "city": "Haiphong",
-            "status": "지연 (16:18)"
-        },
-        {
-            "type": "출발",
-            "time": "08/20 16:10",
-            "timestamp": 1787217000,
-            "flight": "SU299",
-            "city": "Moscow",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/20 17:30",
@@ -32,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787232000,
             "flight": "BX787",
             "city": "인천",
-            "status": "예정"
+            "status": "도착예정 (20:22)"
         },
         {
             "type": "출발",
@@ -697,6 +681,14 @@ const flightInfo = {
             "flight": "VJ918",
             "city": "부산",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 04:00",
+            "timestamp": 1787346000,
+            "flight": "SU830",
+            "city": "Novosibirsk",
+            "status": "예정"
         }
     ]
 };
