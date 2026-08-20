@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-21 03:54:31",
-    "version": 1787284471,
+    "lastUpdate": "2026-08-21 04:20:57",
+    "version": 1787286057,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1787272200,
             "flight": "KC193",
             "city": "Almaty",
-            "status": "도착예정 (07:06)"
+            "status": "도착예정 (07:08)"
         },
         {
             "type": "출발",
@@ -56,7 +56,7 @@ const flightInfo = {
             "timestamp": 1787282400,
             "flight": "HH2231",
             "city": "Tashkent",
-            "status": "지연 (10:46)"
+            "status": "지연 (10:54)"
         },
         {
             "type": "도착",
@@ -703,6 +703,22 @@ const flightInfo = {
             "time": "08/22 15:45",
             "timestamp": 1787388300,
             "flight": "WZ3202",
+            "city": "Moscow",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 16:00",
+            "timestamp": 1787389200,
+            "flight": "CZ6050",
+            "city": "Guangzhou",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 16:10",
+            "timestamp": 1787389800,
+            "flight": "SU299",
             "city": "Moscow",
             "status": "출발예정"
         }
