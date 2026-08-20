@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 12:48:58",
-    "version": 1787230138,
+    "lastUpdate": "2026-08-20 13:18:45",
+    "version": 1787231925,
     "data": [
         {
             "type": "도착",
@@ -8,7 +8,7 @@ const flightInfo = {
             "timestamp": 1787207400,
             "flight": "VZ968",
             "city": "방콕",
-            "status": "도착예정 (13:26)"
+            "status": "도착예정 (13:24)"
         },
         {
             "type": "도착",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787207700,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:32)"
+            "status": "도착예정 (13:29)"
         },
         {
             "type": "도착",
@@ -24,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787209800,
             "flight": "SU298",
             "city": "Moscow",
-            "status": "도착예정 (13:51)"
+            "status": "도착예정 (13:49)"
         },
         {
             "type": "출발",
@@ -631,6 +631,14 @@ const flightInfo = {
             "time": "08/21 23:45",
             "timestamp": 1787330700,
             "flight": "LJ87",
+            "city": "인천",
+            "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/21 23:55",
+            "timestamp": 1787331300,
+            "flight": "ZE561",
             "city": "인천",
             "status": "예정"
         },
