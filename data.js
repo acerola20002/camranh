@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-21 04:20:57",
-    "version": 1787286057,
+    "lastUpdate": "2026-08-21 04:51:51",
+    "version": 1787287911,
     "data": [
         {
             "type": "도착",
@@ -168,7 +168,7 @@ const flightInfo = {
             "timestamp": 1787296500,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "예정"
+            "status": "도착예정 (14:19)"
         },
         {
             "type": "출발",
