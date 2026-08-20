@@ -1,6 +1,6 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-20 16:15:44",
-    "version": 1787242544,
+    "lastUpdate": "2026-08-20 16:51:18",
+    "version": 1787244678,
     "data": [
         {
             "type": "출발",
@@ -16,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787232000,
             "flight": "BX787",
             "city": "인천",
-            "status": "도착예정 (20:22)"
+            "status": "도착예정 (20:20)"
         },
         {
             "type": "출발",
