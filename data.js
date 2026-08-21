@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-21 09:56:35",
-    "version": 1787306195,
+    "lastUpdate": "2026-08-21 10:47:50",
+    "version": 1787309270,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/21 10:05",
-            "timestamp": 1787281500,
-            "flight": "CZ8475",
-            "city": "Guangzhou",
-            "status": "도착예정 (09:58)"
-        },
-        {
-            "type": "도착",
-            "time": "08/21 10:20",
-            "timestamp": 1787282400,
-            "flight": "HH2231",
-            "city": "Tashkent",
-            "status": "지연 (10:50)"
-        },
-        {
-            "type": "도착",
-            "time": "08/21 10:30",
-            "timestamp": 1787283000,
-            "flight": "VN435",
-            "city": "부산",
-            "status": "도착예정 (10:31)"
-        },
-        {
-            "type": "출발",
-            "time": "08/21 10:35",
-            "timestamp": 1787283300,
-            "flight": "VJ730",
-            "city": "Haiphong",
-            "status": "출발예정"
-        },
         {
             "type": "출발",
             "time": "08/21 11:05",
             "timestamp": 1787285100,
             "flight": "CZ8476",
             "city": "Guangzhou",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -48,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787286600,
             "flight": "TR548",
             "city": "Singapore",
-            "status": "도착예정 (11:11)"
+            "status": "도착예정 (11:08)"
         },
         {
             "type": "출발",
@@ -112,7 +80,7 @@ const flightInfo = {
             "timestamp": 1787294100,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:38)"
+            "status": "도착예정 (13:36)"
         },
         {
             "type": "출발",
@@ -713,6 +681,14 @@ const flightInfo = {
             "flight": "IO996",
             "city": "Hefei",
             "status": "출발예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 20:20",
+            "timestamp": 1787404800,
+            "flight": "BX787",
+            "city": "인천",
+            "status": "예정"
         }
     ]
 };
