@@ -1,22 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-21 10:47:50",
-    "version": 1787309270,
+    "lastUpdate": "2026-08-21 11:24:03",
+    "version": 1787311443,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/21 11:05",
-            "timestamp": 1787285100,
-            "flight": "CZ8476",
-            "city": "Guangzhou",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/21 11:30",
             "timestamp": 1787286600,
             "flight": "TR548",
             "city": "Singapore",
-            "status": "도착예정 (11:08)"
+            "status": "도착완료"
         },
         {
             "type": "출발",
@@ -24,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787286600,
             "flight": "SU295",
             "city": "Moscow",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -32,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787287800,
             "flight": "HH2232",
             "city": "Tashkent",
-            "status": "출발예정"
+            "status": "곧 출발"
         },
         {
             "type": "도착",
@@ -40,7 +32,7 @@ const flightInfo = {
             "timestamp": 1787289000,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (12:20)"
+            "status": "도착예정 (12:24)"
         },
         {
             "type": "출발",
@@ -96,7 +88,7 @@ const flightInfo = {
             "timestamp": 1787296500,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:02)"
+            "status": "도착예정 (14:06)"
         },
         {
             "type": "출발",
