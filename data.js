@@ -1,38 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-21 11:24:03",
-    "version": 1787311443,
+    "lastUpdate": "2026-08-21 12:02:40",
+    "version": 1787313760,
     "data": [
-        {
-            "type": "도착",
-            "time": "08/21 11:30",
-            "timestamp": 1787286600,
-            "flight": "TR548",
-            "city": "Singapore",
-            "status": "도착완료"
-        },
-        {
-            "type": "출발",
-            "time": "08/21 11:30",
-            "timestamp": 1787286600,
-            "flight": "SU295",
-            "city": "Moscow",
-            "status": "탑승중"
-        },
-        {
-            "type": "출발",
-            "time": "08/21 11:50",
-            "timestamp": 1787287800,
-            "flight": "HH2232",
-            "city": "Tashkent",
-            "status": "곧 출발"
-        },
         {
             "type": "도착",
             "time": "08/21 12:10",
             "timestamp": 1787289000,
             "flight": "SU840",
             "city": "Irkutsk",
-            "status": "도착예정 (12:24)"
+            "status": "지연 (12:26)"
         },
         {
             "type": "출발",
@@ -40,7 +16,7 @@ const flightInfo = {
             "timestamp": 1787289000,
             "flight": "TR549",
             "city": "Singapore",
-            "status": "출발예정"
+            "status": "탑승중"
         },
         {
             "type": "출발",
@@ -72,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787294100,
             "flight": "VJ919",
             "city": "부산",
-            "status": "도착예정 (13:36)"
+            "status": "도착예정 (13:34)"
         },
         {
             "type": "출발",
@@ -88,7 +64,7 @@ const flightInfo = {
             "timestamp": 1787296500,
             "flight": "WZ3201",
             "city": "Moscow",
-            "status": "도착예정 (14:06)"
+            "status": "도착예정 (14:13)"
         },
         {
             "type": "출발",
@@ -681,6 +657,30 @@ const flightInfo = {
             "flight": "BX787",
             "city": "인천",
             "status": "예정"
+        },
+        {
+            "type": "도착",
+            "time": "08/22 21:10",
+            "timestamp": 1787407800,
+            "flight": "SU832",
+            "city": "Vladivostok",
+            "status": "예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 21:35",
+            "timestamp": 1787409300,
+            "flight": "VN440",
+            "city": "인천",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 21:50",
+            "timestamp": 1787410200,
+            "flight": "BX788",
+            "city": "인천",
+            "status": "출발예정"
         }
     ]
 };
