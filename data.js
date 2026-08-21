@@ -1,46 +1,14 @@
 const flightInfo = {
-    "lastUpdate": "2026-08-21 08:53:14",
-    "version": 1787302394,
+    "lastUpdate": "2026-08-21 09:56:35",
+    "version": 1787306195,
     "data": [
-        {
-            "type": "출발",
-            "time": "08/21 09:00",
-            "timestamp": 1787277600,
-            "flight": "KC194",
-            "city": "Almaty",
-            "status": "탑승중"
-        },
-        {
-            "type": "도착",
-            "time": "08/21 09:30",
-            "timestamp": 1787279400,
-            "flight": "SU294",
-            "city": "Moscow",
-            "status": "도착예정 (09:40)"
-        },
-        {
-            "type": "도착",
-            "time": "08/21 09:35",
-            "timestamp": 1787279700,
-            "flight": "VJ835",
-            "city": "인천",
-            "status": "도착예정 (09:37)"
-        },
-        {
-            "type": "도착",
-            "time": "08/21 09:45",
-            "timestamp": 1787280300,
-            "flight": "VN441",
-            "city": "인천",
-            "status": "도착예정 (09:29)"
-        },
         {
             "type": "도착",
             "time": "08/21 10:05",
             "timestamp": 1787281500,
             "flight": "CZ8475",
             "city": "Guangzhou",
-            "status": "도착예정 (09:59)"
+            "status": "도착예정 (09:58)"
         },
         {
             "type": "도착",
@@ -56,7 +24,7 @@ const flightInfo = {
             "timestamp": 1787283000,
             "flight": "VN435",
             "city": "부산",
-            "status": "도착예정 (10:33)"
+            "status": "도착예정 (10:31)"
         },
         {
             "type": "출발",
@@ -80,7 +48,7 @@ const flightInfo = {
             "timestamp": 1787286600,
             "flight": "TR548",
             "city": "Singapore",
-            "status": "예정"
+            "status": "도착예정 (11:11)"
         },
         {
             "type": "출발",
@@ -144,7 +112,7 @@ const flightInfo = {
             "timestamp": 1787294100,
             "flight": "VJ919",
             "city": "부산",
-            "status": "예정"
+            "status": "도착예정 (13:38)"
         },
         {
             "type": "출발",
@@ -736,6 +704,14 @@ const flightInfo = {
             "timestamp": 1787394600,
             "flight": "B2796",
             "city": "Minsk",
+            "status": "출발예정"
+        },
+        {
+            "type": "출발",
+            "time": "08/22 18:05",
+            "timestamp": 1787396700,
+            "flight": "IO996",
+            "city": "Hefei",
             "status": "출발예정"
         }
     ]
